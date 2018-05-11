@@ -1,0 +1,116 @@
+
+.btn-rev {
+  color: $rev;
+  transition: all 0.3s ease 0s;
+
+&:hover {
+    background: rgba($brand, .9);
+    box-shadow: $shadow-4;
+  }
+}
+
+.btn-blk {
+  color: $blk;
+  transition: all 0.3s ease 0s;
+
+&:hover {
+    color: $rev;
+    background: rgba($brand, .9);
+    box-shadow: $shadow-2;
+}
+}
+
+.btn-nav {
+  width:100%;
+  transition: all 0.3s ease 0s;
+  font-size: 100%;
+  padding: 1em 1em;
+  text-transform: uppercase;
+  border-radius: .5em;
+  text-decoration: none;
+  background: transparent;
+  text-align: center;
+  margin: 5vh 0 0 0;
+}
+
+.prev {
+&:hover {
+  color: $rev;
+  background: rgba($brand, .9);
+  box-shadow: $shadow-2;
+}
+
+&:before {
+  content: '\2190\00a0';
+}
+}
+
+.next {
+&:hover {
+  color: $rev;
+  background: rgba($brand, .9);
+  box-shadow: $shadow-2;
+}
+
+&:after {
+  content: '\2192\00a0';
+}
+}
+
+.call-to-action {
+  font-size: 100%;
+  border: 2px solid;
+  padding: 1em 2em;
+  text-transform: uppercase;
+  border-radius: .5em;
+  text-decoration: none;
+  background: transparent;
+  text-align: center;
+  margin: 5vh 0 0 0;
+}
+
+.call-to-action:hover {
+  // background: rgba($blk, .2);
+
+}
+
+.download-btn {
+  -webkit-transform: translateZ(0);
+  // border: 2px solid;
+  padding: .5em 1em;
+  text-transform: uppercase;
+  border-radius: .5em;
+  text-decoration: none;
+  background: transparent;
+  text-align: center;
+  line-height: 2;
+  margin: 1em;
+
+  &:before {
+    content: ""
+  }
+
+  &:hover {
+    color: #af1a00;
+    background: $brand;
+    box-shadow: $shadow-2;
+    // border: $brand;
+}
+}
+
+
+input:focus,
+textarea:focus {
+  -webkit-transform: translateZ(0);
+  outline: 1px solid $brand;
+}
+
+input,
+textarea,
+button {
+  width: 100%;
+  border: 1px solid $grey-hover;
+  min-height: 2em;
+  padding: .5em;
+  border-radius: .2em;
+}

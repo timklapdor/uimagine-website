@@ -1,0 +1,20 @@
+---
+
+layout: default
+
+---
+
+
+<!--  Hero -->
+
+{% include hero.html %}
+
+<!--  Grid Area -->
+
+{% include grid-area.html %}
+
+<!--  Feature -->
+
+{% for item in page.feature %}
+  {% include feature.html %}
+{% endfor %}

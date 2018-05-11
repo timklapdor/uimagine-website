@@ -1,0 +1,20 @@
+<section class="">
+  {% for person in page.speakers %}
+  <article class="speaker">
+    <div class="profile">
+      <h4>{{ person.name }}</h4>
+      {% for item in person.photo %}<div class="thumb" style="background-image: url({{ site.baseurl }}/resources/images/{{ person.photo}})"></div>{% endfor %}
+      {% for item in person.position %}<h5>{{ item }}</h5>{% endfor %}
+      <div class="social">
+      {% for item in person.twitter %}<a href="https://www.twitter.com/{{ item }}"><img src="{{ site.baseurl }}/assets/images/twitter-blk.svg" /></a>{% endfor %}
+      {% for item in person.linkedin %}<a href="https://www.linkedin.com/in/{{ item }}"><img src="{{ site.baseurl }}/assets/images/linkedin-in-blk.svg" /></a>{% endfor %}
+    </div>
+    </div>
+    <div class="bio">
+      {% for item in person.bio %}<p>{{ item | markdownify }}</p>{% endfor %}
+      {% for item in person.presentation %}<a href="{{ site.baseurl }}/resources/docs/{{ item }}" class="btn-nav btn-blk-ui-fuchia " target="_blank">Presentation</a>{% endfor %}
+      {% for item in person.case-study %}<a href="{{ site.baseurl }}/resources/docs/{{ item }}" class="btn-nav btn-blk-ui-fuchia " target="_blank">Case Study</a>{% endfor %}
+    </div>
+  </article>
+  {% endfor %}
+</section>

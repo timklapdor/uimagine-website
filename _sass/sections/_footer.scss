@@ -1,0 +1,44 @@
+footer {
+  background: $brand-1;
+  color: $rev;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+
+  > * {
+    padding: 1em 0;
+  }
+  .social img {
+    height:1em;
+    width: auto;
+    padding: .25em;
+    margin: 0 1em;
+    fill: currentcolor;
+  }
+
+  .legal {
+    font-size: 60%;
+    font-family: $font-text;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: .2em;
+  }
+  a {
+    text-decoration: none;
+  }
+
+  .brand a {
+    text-decoration: none;
+    color: $rev;
+    p {
+      font-family: $font-text;
+    }
+  }
+
+}
+
+@media only screen and (min-width:1000px){
+    footer {
+      flex-direction: row;
+    }
+}

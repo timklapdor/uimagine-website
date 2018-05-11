@@ -1,0 +1,58 @@
+---
+
+layout: default
+
+---
+
+<section class="event-hero" style="transform-style: preserve-3d; background-image:linear-gradient(to bottom, {{ page.header-color-1 }}, {{ page.header-color-2 }}){% for item in page.header-image %}, url({{ site.baseurl }}{{ page.image-path }}{{ item }}){% endfor %}">
+<h3 class="icon" style="background-image: {% for item in page.icon-image %}url({{ page.image-path }}{{ item }}){% endfor %}"></h3>
+  <h2 class="promo">{{ page.title }}</h2>
+</section>
+
+<section class="event">
+
+  <aside>
+
+      <h6>{{ page.event-type | upcase }}</h6>
+
+
+      {% if page.status == 'past' %}
+      <h6>Held on the {{ page.date-start | date_to_long_string }}</h6>
+        {% else %}
+      <p><strong>Start</strong><br> {{ page.date-start | date: "%m/%d/%Y, %H:%M" }}</p>
+      <p><strong>Finish</strong><br> {{ page.date-finish | date: "%m/%d/%Y, %H:%M" }}</p>
+      {% endif %}
+
+      <p><strong>Location</strong><br> {{ page.location-info }}</p>
+
+      {% include maps.html %}
+
+  </aside>
+
+<article class="">
+
+{% if page.status == 'past' %}
+  <p class="description">{{ page.post-mortem-text }}</p>
+  {% else %}
+  <p class="description">{{ page.promotional-text }}</p>
+{% endif %}
+
+
+{{ page.content | markdownify }}
+
+{% for item in page.flickr-album %}
+  <h2>Photo Gallery</h2>
+  <div id="flickrembed"></div><div style=" display:block; text-align:center; z-index:-1;"><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input={{ page.flickr-album }}&sort=2&by=album&theme=compact&scale=fill&limit=10&skin=default&autoplay=true'></script><small style="display: block; text-align: center; margin: 0 auto;">Powered by <a href="https://flickrembed.com">flickr embed</a>.</small></div>
+{% endfor %}
+
+<h2>Speakers</h2>
+
+</article>
+
+{% if page.speakers %}
+
+{% include speakers.html %}
+
+{% endif %}
+
+</section>

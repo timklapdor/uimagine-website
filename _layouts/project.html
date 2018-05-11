@@ -1,0 +1,42 @@
+---
+
+layout: default
+
+---
+
+<section class="project-hero" style="transform-style: preserve-3d; background-image:linear-gradient(to bottom, rgb({{ page.gradient-color1 }}), rgb({{ page.gradient-color2 }}){% for item in page.header-image %}, url({{ site.baseurl }}{{ page.image-path }}{{ item }}){% endfor %}">
+<h3 class="icon" style="background-image: {% for item in page.icon %}url({{ site.baseurl }}/resources/images/{{ item }}){% endfor %}"></h3>
+  <h2 class="promo">{{ page.title }}</h2>
+</section>
+
+<section class="project">
+
+<article class="">
+  {{ page.content | markdownify }}
+</article>
+
+  <aside class="project">
+
+    <h4>Summary</h4><em>{{ page.summary | markdownify }}</em>
+    <h4>Project Focus</h4><label>{% for item in page.project-focus %}{{ item | capitalize }}{% if forloop.last == false %}, {% endif %}{% endfor %}</label>
+    <h4>Progress</h4>
+
+    <div class="progress">
+      <span style="width: {{ page.progress }}" class="ui-fuchia-bg">{{ page.progress }}</span>
+    </div>
+    <h4>Status</h4><label>{{ page.status | capitalize }}</label>
+    <h4>Team</h4><label><ul>{% for item in page.team %}<li>{{ item }}</li>{% endfor %}</ul></label>
+    <h4>Duration</h4><label>{{ page.date-start | date: "%b %y" }} – {{ page.date-finish | date: "%b %y" }}</label>
+
+    {% if page.outputs %}
+
+    <h4>Output</h4><ul>{% for item in page.outputs %}<li><a href="{{ site.baseurl}}/resources/docs/{{ item.link }}" target="_blank">{{ item.description | capitalize }}</a></li>{% endfor %}</ul>
+
+    {% endif %}
+
+    {% include projectnext.html %}
+
+  </aside>
+
+
+</section>

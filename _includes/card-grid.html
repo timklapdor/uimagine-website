@@ -1,0 +1,13 @@
+<section class="card-grid" style="transform-style: preserve-3d; background-image: linear-gradient(to {{item.gradient-corner}} {{item.gradient-side}}, rgba({{ item.gradient-color1 }}), rgba({{ item.gradient-color2 }})), url({{ site.baseurl }}{{ item.image }})">
+  <h2 class="{{item.section-head-colour }}">{{ item.section-head }}</h2>
+  {% for section in item.griditems %}
+  <article>
+    <div class="thumb" style="background-image: url({{ site.baseurl }}/assets/images/{{ section.image}})"></div>
+    <h3>{{ section.heading }}</h3>
+    <p>{{ section.text}}</p>
+    <a href="" class="{{ section.button-class }} call-to-action">
+      {{ section.button-text }}
+    </a>
+  </article>
+  {% endfor %}
+</section>

@@ -1,0 +1,23 @@
+---
+layout:
+---
+
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:http://www.uimagine.edu.au/
+METHOD:PUBLISH
+
+{% for item in site.events limit:10 %}BEGIN:VEVENT
+UID:{{ item.date | date: "%Y%m%d" }}@uimagine.edu.au
+ORGANIZER;CN="u!magine":MAILTO:uimagine@csu.edu.au
+LOCATION:{{ item.location-info }}
+SUMMARY:{{ item.promotional-text }}
+CLASS:PUBLIC
+DTSTART:{{ item.date-start | date: "%Y%m%d" }}T{{ post.date | date: "%H%M%S" }}I
+DTEND:{{ item.date-finish | date: "%Y%m%d" }}T{{ post.date | date: "%H%M%S" }}I
+DTSTAMP:{{ item.date-finish | date: "%Y%m%d" }}T{{ post.date | date: "%H%M%S" }}I
+END:VEVENT
+{% endfor %}
+
+
+END:VCALENDAR

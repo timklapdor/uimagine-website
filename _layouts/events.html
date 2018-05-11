@@ -1,0 +1,26 @@
+---
+
+layout: default
+
+---
+
+
+<!--  Hero -->
+{% for item in page.hero %}
+  {% include hero.html %}
+{% endfor %}
+
+<section class="article">
+
+<article class="">
+  {{ content }}
+</article>
+
+
+</section>
+<!--  Archive Area -->
+{% for item in page.archive%}
+  {% include events.html %}
+{% endfor %}
+
+<!--  Feature -->

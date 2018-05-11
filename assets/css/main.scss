@@ -1,0 +1,33 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// Base files
+@import "base/normalize";
+@import "base/variables";
+@import "base/color-palettes";
+@import "base/type-setting";
+@import "base/grid-up";
+
+// Sections
+
+@import "sections/shared";
+@import "sections/header";
+@import "sections/nav";
+@import "sections/hero";
+@import "sections/introduction";
+@import "sections/card-grid";
+@import "sections/feature";
+@import "sections/article";
+@import "sections/event";
+@import "sections/project";
+@import "sections/post";
+@import "sections/footer";
+@import "sections/team";
+@import "sections/speakers";
+@import "sections/contact";
+@import "sections/palette";
+
+// Modules
+@import "modules/buttons";
+@import "modules/progress";

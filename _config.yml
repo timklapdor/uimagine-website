@@ -1,0 +1,86 @@
+# Site settings
+title: u!magine
+tagline: Innovate Incubate Educate
+email: uimagine@csu.edu.ai
+description: "uImagine is the Learning Innovations Lab at Charles Sturt University"
+baseurl: /stuff/
+logo: assets/images/uimagine-rev.svg
+
+
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+encoding: utf-8
+
+#social
+social-twitter: uimagine_csu
+social-facebook: uimagine.csu
+social-linkedin:
+social-youtube: UCq0r8DVFLLK3YtFylr0KxtQ/videos
+social-flickr: uimagine
+social-instagram: uimagine_csu
+
+#contacts
+contact-email: uimagine@csu.edu.au
+contact-address: "Boorooma Street, Wagga Wagga, Australia"
+contact-phone:
+contact-name: uImagine Team
+
+# Setup for pages
+include: ["_pages"]
+permalink: /:year/:title.html
+
+# Setup for Categories
+
+
+# Setup for Collections
+collections:
+  events:
+    output: true
+    permalink: /:collection/:name
+  projects:
+    output: true
+    permalink: /:collection/:name
+
+
+#Timezone
+timezone: Australia/Sydney
+
+# sass:
+#   style: compressed
+
+# Build settings
+markdown: kramdown
+
+#Colors
+
+col-primary: "255,88,0"
+col-secondary: "215,31,133"
+
+#Fonts
+font-link: https://fonts.googleapis.com/css?family=Open+Sans:300,400,700
+
+# Maps
+
+google_maps_javascript_api_key: "AIzaSyCokyUeWni-eQFPDP7IkCWNdi568wlQSTM"
+
+# Contact Form API from 99inbound
+
+99inbound: RMmElicI
+
+# Team
+team:
+  - name: Tim Klapdor
+    greeting: Tim
+    position: Co-Founder
+    bio: "Tim has a background in Graphic Design and Multimedia and has been working in the Education sector for the last decade. During this time Tim has worked on large and small scale innovations and implementations of new and emerging technologies. He has a knack for acting as a translator between users and technical staff, helping both to understand each other and deliver solutions that work."
+    photo:
+    email: thekelpieapp@gmail.com
+    twitter: timklapdor
+    linkedin: timklapdor
+  - name: Ben Atkinson
+    greeting: Ben
+    position: Co-Founder
+    bio: "Ben has a background in multimedia development and is currently studying his Masters in App Development. Working across a number of industries Ben is able to adapt and work across multiple disciplines and environments. From video to print to digital, Ben has done it all. He brings enthusiasm and keen problem solving skills to the team."
+    photo:
+    email: thekelpieapp@gmail.com
+    twitter: rockickarse
+    linkedin: ben-atkinson-72478553

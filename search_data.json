@@ -1,0 +1,54 @@
+---
+layout: null
+---
+{
+  {% for post in site.posts %}
+    "{{ post.url | slugify }}": {
+      "title": "{{ post.title | xml_escape }}",
+      "description": "{{ post.description | xml_escape }}",
+      "url": " {{ post.url | xml_escape }}",
+      "tags": "{{ post.tags | xml_escape }}",
+      "category": "{{ post.category | xml_escape }}",
+      "content": "{{ post.content | strip_html | newline_to_br | strip_newlines | replace:'<br />',' ' | jsonify }}",
+    }{% unless forloop.last %},{% endunless %}{% endfor %}
+}
+
+{
+  {% for page in site.pages %}
+    "{{ strategies.url | slugify }}": {
+      "title": "{{ page.title | xml_escape }}",
+      "description": "{{ page.description | xml_escape }}",
+      "url": " {{ page.url | xml_escape }}",
+      "tags": "{{ page.tags | xml_escape }}",
+      "category": "{{ page.category | xml_escape }}",
+      "content": "{{ content | strip_html | newline_to_br | strip_newlines | replace:'<br />',' ' | jsonify }}",
+    }{% unless forloop.last %},{% endunless %}{% endfor %}
+}
+
+{
+  {% for event in site.events %}
+    "{{ strategies.url | slugify }}": {
+      "title": "{{ strategies.title | xml_escape }}",
+      "description": "{{ strategies.description | xml_escape }}",
+      "url": " {{ strategies.url | xml_escape }}",
+      "tags": "{{ strategies.tags | xml_escape }}",
+      "category": "{{ strategies.category | xml_escape }}",
+      "content": "{{ strategies.content | strip_html | newline_to_br | strip_newlines | replace:'<br />',' ' | jsonify }}",
+      "subject": "{{ strategies.subjects | xml_escape }}",
+      "subjectnames": "{{ strategies.subjectnames | xml_escape }}",
+    }{% unless forloop.last %},{% endunless %}{% endfor %}
+}
+
+{
+  {% for project in site.projects %}
+    "{{ strategies.url | slugify }}": {
+      "title": "{{ strategies.title | xml_escape }}",
+      "description": "{{ strategies.description | xml_escape }}",
+      "url": " {{ strategies.url | xml_escape }}",
+      "tags": "{{ strategies.tags | xml_escape }}",
+      "category": "{{ strategies.category | xml_escape }}",
+      "content": "{{ strategies.content | strip_html | newline_to_br | strip_newlines | replace:'<br />',' ' | jsonify }}",
+      "subject": "{{ strategies.subjects | xml_escape }}",
+      "subjectnames": "{{ strategies.subjectnames | xml_escape }}",
+    }{% unless forloop.last %},{% endunless %}{% endfor %}
+}

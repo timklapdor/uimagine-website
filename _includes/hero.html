@@ -1,0 +1,5 @@
+<section class="no-flick hero {% if item.full-screen == true %}full-screen{% endif %}" style="transform-style: preserve-3d; background-image: linear-gradient(to {{item.gradient-corner}} {{item.gradient-side}}, rgba({{ item.gradient-color1 }}), rgba({{item.gradient-color2 }})) {% for image in item.image %}, url({{ site.basurl }}{{ image }}){% endfor %}">
+  {% if item.promo-head %}{% for text in item.promo-head %}<h2 class="promo">{{ text }}</h2>{% endfor %}{% else %}<h2 class="promo">{{ page.title }}</h2>{% endif %}
+  {% for text in item.promo-text %}<h3 class="promo">{{ text }}</h3>{% endfor %}
+  {% for text in item.button-text %}<a href="{{ item.button-link }}" class="no-flick {{item.button-class}} call-to-action">{{ text }}</a> {% endfor %}
+</section>

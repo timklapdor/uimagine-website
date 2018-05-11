@@ -1,0 +1,154 @@
+section.project {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #FAF9F8;
+  padding: 5vw;
+  -webkit-transform: translateZ(0);
+
+  aside {
+    width: 100%;
+    border-top: 5px solid $brand;
+
+  h4 {
+    margin: .5em 0;
+  }
+
+  ul {
+    list-style: none;
+    padding-left: .4em;
+    box-shadow: inset 2px 0 0 rgba(100, 100, 100, 0.1);
+
+  }
+  nav {
+    padding-top: 2em;
+    display: flex;
+  }
+  }
+  article {
+    width: 100%;
+
+  p, li {
+    max-width: 40em;
+  }
+
+  p img {
+    max-width: 100%;
+  }
+  }
+}
+
+
+@media screen and (min-width: 700px) {
+section.project {
+  display: grid;
+  grid-template-columns: minmax(30em, 40em) .5fr;
+  grid-row: auto;
+  grid-gap: 1em;
+  margin-left: auto;
+  margin-right: auto;
+
+  article {
+    grid-column: 1 / span 1;
+    grid-row: 1;
+
+  p img {
+    max-width: 100%;
+
+  ul li:before {
+    color: $brand;
+    font-weight: 700;
+  }
+  }
+}
+  aside {
+    grid-column: 2 /span 1;
+    grid-row: 1;
+    background: #FAF9F8;
+    border-top: none;
+    padding-left: 1em;
+    box-shadow: inset 2px 0 0 rgba(100, 100, 100, 0.1);
+
+  }
+}
+}
+
+
+.project-hero {
+  min-height: 35vh;
+  color: $rev;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  text-align: center;
+  background-size: cover;
+  background-color: $brand;
+  background-position: center center;
+  padding: 10vh 1em 0 1em;
+  align-items: center;
+  justify-content: center;
+  -webkit-transform: translateZ(0);
+  background-repeat: no-repeat;
+
+  h2 {
+    font-size: 300%;
+    font-weight: 700;
+    text-shadow: $shadow-3;
+    margin: 0 0 1vh 0;
+  }
+
+
+  .icon {
+    background-size: contain;
+    background-position: center center;
+    min-height: 20vh;
+    width:80%;
+    content: "";
+    background-repeat: no-repeat;
+    margin: 0;
+    opacity: .8;
+  }
+}
+
+aside.project {
+  h4 {
+    text-transform: uppercase;
+    font-size: 100%;
+    color: $grey-item;
+    font-weight: 300;
+    margin:1.5em 0 .4em 0 !important;
+  }
+
+  ul, p {
+    margin: 0;
+  }
+}
+
+
+section article.project {
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  &:hover {
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  a {
+    color: $rev;
+    text-decoration: none;
+  }
+
+  a h3 {
+    text-decoration: none;
+    border: none;
+    color: $rev;
+    text-decoration: none;
+    font-size: 130%;
+    text-align: left;
+    margin: 0;
+    padding: 10em 0 0;
+    font-weight: 700;
+  }
+
+}

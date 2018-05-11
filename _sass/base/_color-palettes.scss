@@ -1,0 +1,98 @@
+// User Interface Palette
+
+//Brand Colours
+
+$brand: #FF5800;
+$brand-1: #333333;
+$brand-2: #00AFD8;
+$brand-3: #CB0044;
+$brand-4: #D71F85;
+
+// Greys
+$neutral: grey;
+
+$brand-colors: (
+ui-orange: $brand,
+ui-grey: $brand-1,
+ui-blue: $brand-2,
+ui-fuchia: $brand-3,
+ui-pink: $brand-4,
+);
+
+$brand-rgb: rgba($brand, .4);
+$brand-1-rgb: rgba($brand-1, .4);
+
+.primary { color: $brand-rgb; }
+.secondary { color: $brand-1-rgb; }
+
+$warning: #FFDC0B;
+$success: #318700;
+$grey-nav: #414141;
+$grey-item: #757575;
+$grey-hover: #E0E0E0;
+$grey-page: #F8F8F8;
+$highlight-subtle: #FCF8E3;
+
+$rev: #ffffff;
+$blk: #000000;
+
+@each $color, $value in $brand-colors{
+  .#{$color}-2 {color: mix(white, $value, 20%) !important;}
+  .#{$color}-4 {color: mix(white, $value, 40%) !important;}
+  .#{$color}-6 {color: mix(white, $value, 60%) !important;}
+  .#{$color}-8 {color: mix(white, $value, 80%) !important;}
+  .#{$color} {color: $value !important;}
+  .#{$color}-1 {color: mix(black, $value, 10%) !important;}
+  .#{$color}-3 {color: mix(black, $value, 30%) !important;}
+  .#{$color}-5 {color: mix(black, $value, 50%) !important;}
+  .#{$color}-7 {color: mix(black, $value, 70%) !important;}
+  .#{$color}-tint {color: mix(white, $value, 95%) !important;}
+  .#{$color}-light {color: mix((lighten($neutral, 30%)), $value, 80%) !important;}
+  .#{$color}-dark {color: mix($neutral, $value, 80%) !important;}
+  .#{$color}-bg-trans {background-color: transparentize($value, .5); color: #fff;}
+  .#{$color}-bg-2 {background-color: mix(white, $value, 20%);}
+  .#{$color}-bg-4 {background-color: mix(white, $value, 40%);}
+  .#{$color}-bg-6 {background-color: mix(white, $value, 60%);}
+  .#{$color}-bg-8 {background-color: mix(white, $value, 80%);}
+  .#{$color}-bg {background-color: $value; color: #fff;}
+  .#{$color}-bg-1 {background-color: mix(black, $value, 10%); color: #fff;}
+  .#{$color}-bg-3 {background-color: mix(black, $value, 30%); color: #fff;}
+  .#{$color}-bg-5 {background-color: mix(black, $value, 50%); color: #fff;}
+  .#{$color}-bg-7 {background-color: mix(black, $value, 70%); color: #fff;}
+  .#{$color}-bg-tint {background-color: mix(white, $value, 95%);}
+  .#{$color}-bg-light {background-color: mix((lighten($neutral, 30%)), $value, 80%); color: #fff;}
+  .#{$color}-bg-dark {background-color: mix($neutral, $value, 80%); color: #fff;}
+  .#{$color}-bg-trans {background-color: transparentize($value, .5); color: #fff;}
+}
+
+// Overlays
+
+$overlay-1: linear-gradient(to left, rgba($blk, .1), rgba($blk, .1));
+$overlay-3: linear-gradient(to left, rgba($blk, .2), rgba($blk, .2));
+$overlay-2: linear-gradient(to left, rgba($rev, .1), rgba($rev, .1));
+$overlay-4: linear-gradient(to left, rgba($rev, .2), rgba($rev, .2));
+
+
+// Buttons
+
+@each $color, $value in $brand-colors{
+.btn-#{$color} {
+  color: $rev;
+  transition: all 0.3s ease 0s;
+
+&:hover {
+  background: rgba($value, .9);
+  box-shadow: $shadow-4;
+  }
+}
+.btn-blk-#{$color} {
+  color: $blk;
+  transition: all 0.3s ease 0s;
+
+&:hover {
+  color: $rev;
+  background: rgba($value, .9);
+  box-shadow: $shadow-4;
+  }
+}
+}
