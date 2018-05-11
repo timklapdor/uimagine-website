@@ -1,6 +1,6 @@
 ---
 
-title: Welcome to Kelpie
+title: Welcome to uImagine
 layout: home
 hero:
 - id:
