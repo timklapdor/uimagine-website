@@ -24,25 +24,25 @@ grid-1:
   gradient-color1: "60,60,60,1"
   gradient-color2: "60,60,60,1"
   image:
-  section-head: Something
+  section-head: Current Programs
   section-head-colour:
   griditems:
-  - name: Something
-    image: mindroc-ilie-marian-89043.jpg
-    heading: Testing
-    text: some test stuff here
+  - name: Incubation
+    image: incubate.svg
+    background: red
+    text:
     button-text: Click this thing
     button-class: btn-blk-ui-pink
-  - name: Something
-    image: mindroc-ilie-marian-89043.jpg
-    heading: Testing
-    text: some test stuff here
+  - name: Innovation
+    image: innovate.svg
+    background: green
+    text:
     button-text: Click this thing
     button-class: btn-blk-ui-pink
-  - name: Something
-    image: mindroc-ilie-marian-89043.jpg
-    heading: Testing
-    text: some test stuff here
+  - name: Open Education
+    image: open.svg
+    background: blue
+    text:
     button-text: Click this thing
     button-class: btn-blk-ui-pink
 feature-1:
@@ -79,19 +79,16 @@ grid-2:
   griditems:
   - name: Nothing
     image: mindroc-ilie-marian-89043.jpg
-    heading: Nothing
     text: some test stuff here
     button-text: Click this thing
     button-class: btn-blk
   - name: Nothing
     image: mindroc-ilie-marian-89043.jpg
-    heading: Nothing
     text: some test stuff here
     button-text: Click this thing
     button-class: btn-blk
   - name: Nothing
     image: mindroc-ilie-marian-89043.jpg
-    heading: Nothing
     text: some test stuff here
     button-text: Click this thing
     button-class: btn-blk

@@ -45,14 +45,18 @@ layout: default
   <div id="flickrembed"></div><div style=" display:block; text-align:center; z-index:-1;"><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input={{ page.flickr-album }}&sort=2&by=album&theme=compact&scale=fill&limit=10&skin=default&autoplay=true'></script><small style="display: block; text-align: center; margin: 0 auto;">Powered by <a href="https://flickrembed.com">flickr embed</a>.</small></div>
 {% endfor %}
 
-<h2>Speakers</h2>
-
 </article>
+
+<article class="bustout">
+
+<h2>Speakers</h2>
 
 {% if page.speakers %}
 
 {% include speakers.html %}
 
 {% endif %}
+
+</article>
 
 </section>

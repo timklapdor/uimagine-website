@@ -25,12 +25,15 @@ section.card-grid {
     background-size: cover;
 
     .thumb {
-      padding-bottom: 60%;
+      padding-bottom: 80%;
       background-size: cover;
       background-position: center center;
+      background-repeat: no-repeat;
     }
+    
     h3, p, a {
       margin: 24px;
+      text-align: center;
     }
   h3 {
   }

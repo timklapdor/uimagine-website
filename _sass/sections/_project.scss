@@ -120,31 +120,25 @@ section.project {
   }
 }
 
-  section article.project {
+  section article.project, .gridsizer {
   width: 25vw;
   width: 25vw;
-
+  margin: 1vw;
 }
 }
 
 @media screen and (min-width: 800px) {
-  section article.project {
+  section article.project, .gridsizer {
   width: 20vw;
   height: 27vw;
 }
 }
 
-@media screen and (min-width: 1200px) {
-  section article.project {
-    width: 15vw;
-    height: 20vw;
-  }
-}
 
-@media screen and (min-width: 1800px) {
-  section article.project {
-    width: 12vw;
-    height: 15vw;
+@media screen and (min-width: 1500px) {
+  section article.project, .gridsizer {
+    width: 16vw;
+    height: 20vw;
 
   }
 }

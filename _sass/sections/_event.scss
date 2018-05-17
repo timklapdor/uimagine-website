@@ -35,8 +35,7 @@ section.event {
 
 
   article {
-    grid-column: 1 / span 1;
-    grid-row: 1;
+    grid-column: span 1;
 
   h2 {
     border-bottom: 2px solid;
@@ -51,11 +50,9 @@ section.event {
     grid-column: 2 /span 1;
     grid-row: 1;
     background: #FAF9F8;
-
-  .bustout {
-    grid-column: 1 / span 3;
-    grid-row: 1;
   }
+  .bustout {
+    grid-column: span 3;
   }
 }
 }

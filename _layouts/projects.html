@@ -36,7 +36,11 @@ layout: default
 // init Isotope
 var iso = new Isotope( '.card-grid', {
   itemSelector: '.project',
-  layoutMode: 'fitRows'
+  percentPosition: true,
+  layoutMode: 'fitRows',
+  fitRows: {
+    gutter: 20
+  }
 });
 
 // filter functions
