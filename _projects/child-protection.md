@@ -6,6 +6,8 @@ team:
   - Dr Angela Fenton
   - Kathryn Dalton
 status:  complete
+category: innovation
+focus: resource
 progress: 100%
 outputs:
   - description: Final Report
@@ -16,7 +18,6 @@ outputs:
     link: child-protection-poster.pdf
 date-start: 01-04-2015
 date-finish: 31-12-2016
-project-focus: resource
 icon: project-child-protection.svg
 gradient-corner: top
 gradient-side: left

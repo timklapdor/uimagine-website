@@ -1,6 +1,6 @@
 ---
 
-layout: about
+layout: page
 title: Resources
 permalink: resources.html
 hero:

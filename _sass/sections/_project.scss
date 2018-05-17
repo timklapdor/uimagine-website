@@ -1,6 +1,7 @@
 section.project {
   display: flex;
   flex-direction: column;
+  align-items: stretch;
   justify-content: center;
   background: #FAF9F8;
   padding: 5vw;
@@ -38,6 +39,53 @@ section.project {
   }
 }
 
+div.button-group {
+  // background: red;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  button {
+    width: auto;
+    text-transform: uppercase;
+    border: 0;
+    border-radius: 0;
+    padding: .8em 1.4em;
+    color: $rev;
+    background-color: $brand-2;
+  }
+
+  button:hover, button:active, button:focus {
+    background: $brand;
+    border: 0;
+    color: $rev;
+
+  }
+
+  button:nth-child(even) {
+    border-left: 1px solid $rev;
+    border-right: 1px solid $rev;
+  }
+  button:first-child {
+    border-radius: .4em 0 0 .4em;
+  }
+
+  button:last-child {
+    border-radius: 0 .4em .4em 0;
+    border-right:none;
+  }
+}
+
+section article.project {
+  width: 40vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  img {
+    width: 100%;
+  }
+}
 
 @media screen and (min-width: 700px) {
 section.project {
@@ -71,6 +119,34 @@ section.project {
 
   }
 }
+
+  section article.project {
+  width: 25vw;
+  width: 25vw;
+
+}
+}
+
+@media screen and (min-width: 800px) {
+  section article.project {
+  width: 20vw;
+  height: 27vw;
+}
+}
+
+@media screen and (min-width: 1200px) {
+  section article.project {
+    width: 15vw;
+    height: 20vw;
+  }
+}
+
+@media screen and (min-width: 1800px) {
+  section article.project {
+    width: 12vw;
+    height: 15vw;
+
+  }
 }
 
 
@@ -127,12 +203,13 @@ aside.project {
 
 
 section article.project {
-  background-size: contain;
+  background-color: $brand-1;
+  background-size: 80%;
   background-repeat: no-repeat;
 
   &:hover {
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-color: $brand-3;
+
   }
   a {
     color: $rev;
@@ -144,11 +221,11 @@ section article.project {
     border: none;
     color: $rev;
     text-decoration: none;
-    font-size: 130%;
+    font-size: 100%;
     text-align: left;
     margin: 0;
-    padding: 10em 0 0;
     font-weight: 700;
+    text-align: center;
   }
 
 }

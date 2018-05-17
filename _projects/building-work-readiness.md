@@ -14,6 +14,10 @@ team:
   - Deb Murdoch
   - Rick Parmenter
 status: complete
+focus:
+  - pedagogy
+  - practice
+  - resources
 progress: 100%
 outputs:
   - description: report
@@ -22,7 +26,6 @@ outputs:
     link: something.pdf
 date-start: 01-04-2015
 date-finish: 31-12-2016
-project-focus: [pedagogy, practice, resources]
 icon: project-work-ready.svg
 gradient-corner: top
 gradient-side: left

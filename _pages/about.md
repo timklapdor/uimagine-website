@@ -15,18 +15,18 @@ hero:
 feature:
 - id:
   full-screen: false
-  gradient-corner: bottom
+  gradient-corner:
   gradient-side:
-  gradient-color1: "255,83,53,1"
-  gradient-color2: "255,83,53,1"
+  gradient-color1:
+  gradient-color2:
   image:
   text-area:
   - size: centered
-    heading: Want to now what Kelpie does?
-    text: ""
-    button: Explore Features
+    heading: Want to know what u!magine does?
+    text: "We do lots of things "
+    button: Explore Our Work
     button-class: btn-rev
-    button-link: features.html
+    button-link: programs.html
 ---
 
 ### What is uImagine?

@@ -51,9 +51,11 @@ timezone: Australia/Sydney
 markdown: kramdown
 
 #Colors
-
-col-primary: "255,88,0"
-col-secondary: "215,31,133"
+brand: FF5800
+brand-1: 333333
+brand-2: 00AFD8
+brand-3: CB0044
+brand-4: D71F85
 
 #Fonts
 font-link: https://fonts.googleapis.com/css?family=Open+Sans:300,400,700

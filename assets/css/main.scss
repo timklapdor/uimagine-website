@@ -2,6 +2,12 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+$brand: #{{ site.brand }};
+$brand-1: #{{ site.brand-1 }};
+$brand-2: #{{ site.brand-2 }};
+$brand-3: #{{ site.brand-3 }};
+$brand-4: #{{ site.brand-4 }};
+
 // Base files
 @import "base/normalize";
 @import "base/variables";

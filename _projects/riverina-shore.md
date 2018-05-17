@@ -11,6 +11,9 @@ team:
   - Louise Breheny
 status: complete
 progress: 100%
+focus:
+  - resource
+  - practice
 outputs:
   - description: Final Report
     link: riverina-shore-final-report.pdf
@@ -18,7 +21,6 @@ outputs:
     link: riverina-shore-solg.pdf
 date-start: 01-04-2015
 date-finish: 31-12-2016
-project-focus: "resource, practice"
 icon: project-riverina-shore.svg
 gradient-corner: top
 gradient-side: left

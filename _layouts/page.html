@@ -4,16 +4,18 @@ layout: default
 
 ---
 
+{% for item in page.hero %}
+  {% include hero.html %}
+{% endfor %}
 
-<!--  Hero -->
+<section class="article">
 
-{% include hero.html %}
+<article class="">
+  {{ page.content | markdownify }}
+</article>
 
-<!--  Grid Area -->
 
-{% include card-grid.html %}
-
-<!--  Feature -->
+</section>
 
 {% for item in page.feature %}
   {% include feature.html %}

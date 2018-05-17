@@ -14,13 +14,15 @@ team:
   - Dr Cesidio Parissi
   - Kerri Hicks
 status: complete
+focus:
+  - pedagogy
+  - practice
 progress: 100%
 outputs:
   - description: Final Report
     link: pbl-report.pdf
 date-start: 01-02-2015
 date-finish: 30-06-2016
-project-focus: [pedagogy, practice]
 icon: project-pbl.svg
 gradient-corner: top
 gradient-side: left

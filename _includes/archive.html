@@ -1,8 +1,11 @@
-<section class="card-grid">
+<section class="card-grid" >
+
+
   {% for project in site.projects %}
-  <article class="project {{ project.status }}" style="background-image: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)), url({{ site.baseurl }}/resources/images/{{ project.icon}}),  linear-gradient(to top right, rgba({{ page.item-color }}), rgba({{ page.item-color }}))">
+  <article class="project {% for item in project.status %}{{ item }}{% endfor %} {% for item in project.category %}{{ item }} {% endfor %}{% for item in project.focus %}{{ item }} {% endfor %}">
     <a href="{{ site.baseurl }}/{{ project.url }}.html">
-    <h3>{{ project.title }}</h3>
+    <img src="{{ site.baseurl }}/resources/images/{{ project.icon}}">
+    <h3 class="shadow-1">{{ project.title }}</h3>
     </a>
   </article>
   {% endfor %}
