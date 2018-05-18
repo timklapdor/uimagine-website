@@ -8,8 +8,8 @@ hero:
   full-screen: false
   gradient-corner: top
   gradient-side:
-  gradient-color1: "203,0,68"
-  gradient-color2: "255,88,0"
+  gradient-color1: "203,0,68,1"
+  gradient-color2: "255,88,0,1"
   icon: assets/images/open-alpha.svg
   image:
   promo-head: Open Education
@@ -18,8 +18,8 @@ feature:
   full-screen: false
   gradient-corner: bottom
   gradient-side:
-  gradient-color1: "255,88,0"
-  gradient-color2: "255,88,0"
+  gradient-color1: "255,88,0,1"
+  gradient-color2: "255,88,0,1"
   image:
   text-area:
   - size: centered

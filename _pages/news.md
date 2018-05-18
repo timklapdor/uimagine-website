@@ -8,25 +8,10 @@ hero:
   full-screen: false
   gradient-corner: top
   gradient-side: left
-  gradient-color1: "0,175,216"
+  gradient-color1: "0,175,216,1"
   gradient-color2: "8,25,55,.6"
   image:
   promo-head: News
-feature:
-- id:
-  full-screen: false
-  gradient-corner: bottom
-  gradient-side:
-  gradient-color1: "255,83,53,1"
-  gradient-color2: "255,83,53,1"
-  image:
-  text-area:
-  - size: centered
-    heading: Want to now what Kelpie does?
-    text: ""
-    button: Explore Features
-    button-class: btn-rev
-    button-link: features.html
 
 ---
 

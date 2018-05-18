@@ -7,8 +7,8 @@ hero:
   full-screen: false
   gradient-corner: top
   gradient-side: left
-  gradient-color1: "203,0,68"
-  gradient-color2: "0,175,216"
+  gradient-color1: "203,0,68,1"
+  gradient-color2: "0,175,216,1"
   image:
   promo-head: Events
   promo-text:
