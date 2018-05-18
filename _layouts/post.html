@@ -31,10 +31,10 @@ layout: default
 
 <nav>
     {% if page.previous.url %}
-      <a href="../{{ page.previous.url }}" class="btn-nav prev">PREV</a>
+      <a href="{{ site.baseurl }}{{ page.previous.url  | abolute_url }}" class="btn-nav prev">PREV</a>
     {% endif %}
     {% if page.next.url %}
-      <a href="../{{page.next.url}}" class="btn-nav next">NEXT</a>
+      <a href="{{ site.baseurl }}{{ page.next.url | abolute_url }}" class="btn-nav next">NEXT</a>
     {% endif %}
 </nav>
 
