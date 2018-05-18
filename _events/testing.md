@@ -1,7 +1,7 @@
 ---
 
 layout: event
-title: Alternative Staffing Approaches
+title: Testing
 promotional-text: "Coming soon a think tank exploring Alternative Staffing Approaches for Scaleable Distance Education."
 post-mortem-text: "uImagine hosted a think tank exploring Alternative Staffing Approaches for Scaleable Distance Education."
 location-lat: -35.064248
@@ -9,7 +9,7 @@ location-long: 147.349522
 location-zoom: 15
 location-info: CSU Wagga Campus
 location-details: Room 217, Building 29
-status: past
+status: up-coming
 date-start: 2015-09-15T09:00:00 #2016-03-23T10:20:00Z
 date-finish: 2015-09-15T17:00:00  #2016-03-23T10:20:00Z
 icon: alt-staff.svg

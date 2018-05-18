@@ -10,6 +10,8 @@ layout: default
   {% include hero.html %}
 {% endfor %}
 
+<!--  Page Content -->
+
 <section class="article">
 
 <article class="">
@@ -18,17 +20,25 @@ layout: default
 
 
 </section>
+
+
 <!--  Archive Area -->
+
 {% for item in page.archive%}
 <div class="button-group filters-button-group">
 <button data-filter="*">show all</button>
+<button data-filter=".on-going">on going</button>
+<button data-filter=".complete">complete</button>
 <button data-filter=".innovation">innovation</button>
 <button data-filter=".practice">practice</button>
 <button data-filter=".resource">resource</button>
 
 </div>
-  {% include archive.html %}
+  {% include project-archive.html %}
 {% endfor %}
+
+<!--  Isotope Filter Script  -->
+
 <script>
 
 // external js: isotope.pkgd.js
@@ -39,8 +49,17 @@ var iso = new Isotope( '.card-grid', {
   percentPosition: true,
   layoutMode: 'fitRows',
   fitRows: {
-    gutter: 20
-  }
+    gutter: 25
+  },
+  getSortData: {
+  name: '.name',
+  status: '[data-category]',
+},
+  sortBy: [ 'status', 'name' ],
+  sortAscending: {
+  status: false,
+  name: true
+}
 });
 
 // filter functions

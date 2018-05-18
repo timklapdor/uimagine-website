@@ -1,7 +1,7 @@
 ---
 
 layout: event
-title: Alternative Staffing Approaches
+title: Badass
 promotional-text: "Coming soon a think tank exploring Alternative Staffing Approaches for Scaleable Distance Education."
 post-mortem-text: "uImagine hosted a think tank exploring Alternative Staffing Approaches for Scaleable Distance Education."
 location-lat: -35.064248

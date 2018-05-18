@@ -10,6 +10,7 @@ hero:
   gradient-side:
   gradient-color1: "203,0,68"
   gradient-color2: "255,88,0"
+  icon: assets/images/innovate-alpha.svg
   image:
   promo-head: Innovation
 feature:

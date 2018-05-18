@@ -5,7 +5,7 @@ layout: default
 ---
 
 <section class="event-hero" style="transform-style: preserve-3d; background-image:linear-gradient(to bottom, {{ page.header-color-1 }}, {{ page.header-color-2 }}){% for item in page.header-image %}, url({{ site.baseurl }}/{{ page.image-path }}{{ item }}){% endfor %}">
-<h3 class="icon" style="background-image: {% for item in page.icon-image %}url({{ page.image-path }}{{ item }}){% endfor %}"></h3>
+<h3 class="icon" style="background-image: {% for item in page.icon %}url({{ site.baseurl }}/resources/images/{{ item }}){% endfor %}"></h3>
   <h2 class="promo">{{ page.title }}</h2>
 </section>
 

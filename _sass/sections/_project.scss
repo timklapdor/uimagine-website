@@ -76,16 +76,7 @@ div.button-group {
   }
 }
 
-section article.project {
-  width: 40vw;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
 
-  img {
-    width: 100%;
-  }
-}
 
 @media screen and (min-width: 700px) {
 section.project {
@@ -119,30 +110,7 @@ section.project {
 
   }
 }
-
-  section article.project, .gridsizer {
-  width: 25vw;
-  width: 25vw;
-  margin: 1vw;
 }
-}
-
-@media screen and (min-width: 800px) {
-  section article.project, .gridsizer {
-  width: 20vw;
-  height: 27vw;
-}
-}
-
-
-@media screen and (min-width: 1500px) {
-  section article.project, .gridsizer {
-    width: 16vw;
-    height: 20vw;
-
-  }
-}
-
 
 .project-hero {
   min-height: 35vh;
@@ -193,33 +161,4 @@ aside.project {
   ul, p {
     margin: 0;
   }
-}
-
-
-section article.project {
-  background-color: $brand-1;
-  background-size: 80%;
-  background-repeat: no-repeat;
-
-  &:hover {
-    background-color: $brand-3;
-
-  }
-  a {
-    color: $rev;
-    text-decoration: none;
-  }
-
-  a h3 {
-    text-decoration: none;
-    border: none;
-    color: $rev;
-    text-decoration: none;
-    font-size: 100%;
-    text-align: left;
-    margin: 0;
-    font-weight: 700;
-    text-align: center;
-  }
-
 }

@@ -17,6 +17,17 @@ section.event {
       border-radius: .5em;
   }
 
+  .icon {
+    background-size: contain;
+    background-position: center center;
+    min-height: 20vh;
+    width:80%;
+    content: "";
+    background-repeat: no-repeat;
+    margin: 0;
+    opacity: .8;
+  }
+
   aside {
       width: 100%;
   p img {

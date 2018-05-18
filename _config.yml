@@ -49,6 +49,8 @@ timezone: Australia/Sydney
 
 # Build settings
 markdown: kramdown
+kramdown:
+  auto_ids: true
 
 #Colors
 brand: FF5800
@@ -66,7 +68,7 @@ google_maps_javascript_api_key: "AIzaSyCokyUeWni-eQFPDP7IkCWNdi568wlQSTM"
 
 # Contact Form API from 99inbound
 
-99inbound: RMmElicI
+99inbound: U0zlygKF
 
 # Team
 team:

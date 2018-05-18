@@ -1,0 +1,12 @@
+<section class="card-grid" >
+
+
+  {% for event in site.events %}
+  <article class="event card {{ event.status }}" data-category="{{ event.status }}">
+    <a href="{{ site.baseurl }}/{{ event.url }}.html">
+    <img src="{{ site.baseurl }}/resources/images/{{ event.icon}}">
+    <h3 class="shadow-1 name">{{ event.title }}</h3>
+    </a>
+  </article>
+  {% endfor %}
+</section>
