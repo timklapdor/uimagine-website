@@ -21,11 +21,11 @@ feature:
   image:
   text-area:
   - size: centered
-    heading: Want to know what u!magine does?
+    heading: Find out more about our innovation agenda
     text: ""
-    button: Explore Projects
+    button: explore our innovations
     button_class: btn-rev
-    button_link: features.html
+    button_link: innovation.html
 
 ---
 

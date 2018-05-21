@@ -16,9 +16,9 @@ focus:
   - practice
 outputs:
   - description: Final Report
-    link: riverina-shore-final-report.pdf
+    link: uploads/riverina-shore-final-report.pdf
   - description: Presentation
-    link: riverina-shore-solg.pdf
+    link: uploads/riverina-shore-solg.pdf
 date-start: 01-04-2015
 date-finish: 31-12-2016
 icon: uploads/project-riverina-shore.svg

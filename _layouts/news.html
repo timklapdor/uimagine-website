@@ -10,25 +10,16 @@ layout: default
   {% include hero.html %}
 {% endfor %}
 
-  {% include blogposts.html %}
 
 <section class="article">
 
 <article class="">
 
-
-
   {{ content }}
 
-  <ul>
-    {% for post in site.posts %}
-      <li>
-        <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
 </article>
 
+{% include blogposts.html %}
 
 
 </section>

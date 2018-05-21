@@ -21,9 +21,9 @@ focus:
 progress: 100%
 outputs:
   - description: report
-    link: report.pdf
+    link: uploads/report.pdf
   - description: something
-    link: something.pdf
+    link: uploads/something.pdf
 date-start: 01-04-2015
 date-finish: 31-12-2016
 icon: uploads/project-work-ready.svg

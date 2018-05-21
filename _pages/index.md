@@ -2,12 +2,13 @@
 
 title: Welcome to uImagine
 layout: home
+permalink: index.html
 hero:
 - full_screen: true
   gradient_corner: top
   gradient_side:
-  gradient_color_1: "215,31,133,.5"
-  gradient_color_2: "255,88,0,.5"
+  gradient_color_1: "215,31,133,.7"
+  gradient_color_2: "255,88,0,.7"
   image: uploads/uimagine-sparks.jpg
   promo-head: blank
   promo-text: Spark something new!
@@ -26,7 +27,7 @@ grid-1:
   section-head-colour:
   griditems:
   - name: Incubation
-    image: incubate.svg
+    image: uploads/incubate.svg
     background:
     text:
     item_class: ui-fuchia-bg
@@ -34,7 +35,7 @@ grid-1:
     button_class: btn-blk-ui-fuchia
     button_link: incubation.html
   - name: Innovation
-    image: innovate.svg
+    image: uploads/innovate.svg
     background:
     text:
     item_class: ui-blue-bg
@@ -42,7 +43,7 @@ grid-1:
     button_class: btn-blk-ui-blue
     button_link: innovation.html
   - name: Open Education
-    image: open.svg
+    image: uploads/open.svg
     background:
     text:
     item_class: ui-orange-bg
@@ -66,7 +67,7 @@ feature-1:
   - heading: Some text here
     text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   - size: wide
-    background: assets/images/leon-ephraim-30995.jpg
+    background: uploads/leon-ephraim-30995.jpg
     heading: Bring it on!
     text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 grid-2:
@@ -80,17 +81,17 @@ grid-2:
   section-head-colour: ui-pink
   griditems:
   - name: Nothing
-    image: mindroc-ilie-marian-89043.jpg
+    image: uploads/mindroc-ilie-marian-89043.jpg
     text: some test stuff here
     button-text: Click this thing
     button_class: btn-blk
   - name: Nothing
-    image: mindroc-ilie-marian-89043.jpg
+    image: uploads/mindroc-ilie-marian-89043.jpg
     text: some test stuff here
     button-text: Click this thing
     button_class: btn-blk
   - name: Nothing
-    image: mindroc-ilie-marian-89043.jpg
+    image: uploads/mindroc-ilie-marian-89043.jpg
     text: some test stuff here
     button-text: Click this thing
     button_class: btn-blk

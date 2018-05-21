@@ -11,11 +11,11 @@ focus: resource
 progress: 100%
 outputs:
   - description: Final Report
-    link: child-protection-report.pdf
+    link: uploads/child-protection-report.pdf
   - description: Seminar Presentation
-    link: child-protection-presentation.pdf
+    link: uploads/child-protection-presentation.pdf
   - description: Conference Poster
-    link: child-protection-poster.pdf
+    link: uploads/child-protection-poster.pdf
 date-start: 01-04-2015
 date-finish: 31-12-2016
 icon: uploads/project-child-protection.svg

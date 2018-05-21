@@ -21,11 +21,11 @@ feature:
   image:
   text-area:
   - size: centered
-    heading: Want to know what u!magine does?
+    heading: Find out more about our open educaiton opportunities
     text: ""
-    button: Explore Projects
+    button: Explore Open Education
     button_class: btn-rev
-    button_link: features.html
+    button_link: open-education.html
 
 ---
 

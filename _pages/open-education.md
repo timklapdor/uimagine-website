@@ -8,7 +8,7 @@ hero:
   gradient_side:
   gradient_color_1: '255,88,0,.9'
   gradient_color_2: '255,88,0,.4'
-  icon: assets/images/open-alpha.svg
+  icon: uploads/open-alpha.svg
   image:
   promo-head: Open Education
 feature:
@@ -20,11 +20,11 @@ feature:
   image:
   text-area:
   - size: centered
-    heading: Want to know what u!magine does?
+    heading: Want to know our incubation projects
     text: ''
-    button: Explore Projects
+    button: Explore Incubation
     button_class: btn-rev
-    button_link: features.html
+    button_link: incubation.html
 ---
 
 ### Open Education
