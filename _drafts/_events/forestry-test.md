@@ -27,11 +27,11 @@ location:
 hero:
 - full_screen: ''
   gradient_corner: ''
-  gradient_side: left
-  gradient_color_2: '255,88,0,.8'
-  image: ''
-  icon: "/uploads/alt-staff.svg"
-  gradient_color_1: '255,88,0,1'
+  gradient_side: ''
+  gradient_color_1: ''
+  gradient_color_2: ''
+  image: "/uploads/leon-ephraim-30995.jpg"
+  icon: ''
 ---
 ## About
 
