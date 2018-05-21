@@ -1,0 +1,26 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: select
+  name: layout
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - event
+  label: Layout
+  hidden: true
+  default: event
+- type: text
+  label: Event Title
+  name: event_title
+  default: Name of Event
+  config:
+    required: true
+- type: datetime
+  name: author_date
+  label: Author Date
+  config:
+    required: true
