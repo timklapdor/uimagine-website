@@ -18,7 +18,12 @@ speakers:
   case-study: ''
   name: Tim Klapdor
 flickr-album: ''
-location: []
+location:
+- info: My House
+  details: Down the street
+  lat: -35.1029485
+  lng: 147.3663067
+  zoom: 17
 hero:
 - full_screen: ''
   gradient_corner: ''
