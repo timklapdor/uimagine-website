@@ -28,3 +28,6 @@ hero:
   icon: "/uploads/alt-staff.svg"
   gradient_color_1: '255,88,0,1'
 ---
+## About
+
+Hey we have a sweet event coming up. You should totally get on board with it!
