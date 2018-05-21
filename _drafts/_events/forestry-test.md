@@ -25,6 +25,6 @@ hero:
   gradient_side: ''
   gradient_color_2: '255,88,0,.8'
   image: ''
-  icon: ''
+  icon: "/uploads/alt-staff.svg"
   gradient_color_1: '255,88,0,1'
 ---
