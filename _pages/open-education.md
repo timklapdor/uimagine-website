@@ -1,34 +1,32 @@
 ---
-
 layout: page
 title: Open Education
 permalink: open-education.html
 hero:
-- id:
+- id: 
   full-screen: false
   gradient-corner: top
-  gradient-side:
-  gradient-color1: "203,0,68,1"
-  gradient-color2: "255,88,0,1"
+  gradient-side: 
+  gradient-color1: '203,0,68,1'
+  gradient-color2: '255,88,0,1'
   icon: assets/images/open-alpha.svg
-  image:
+  image: 
   promo-head: Open Education
 feature:
-- id:
+- id: 
   full-screen: false
   gradient-corner: bottom
-  gradient-side:
-  gradient-color1: "255,88,0,1"
-  gradient-color2: "255,88,0,1"
-  image:
+  gradient-side: 
+  gradient-color1: '255,88,0,1'
+  gradient-color2: '255,88,0,1'
+  image: 
   text-area:
   - size: centered
-    heading: Want to now what u!magine does?
-    text: ""
+    heading: Want to know what u!magine does?
+    text: ''
     button: Explore Projects
     button-class: btn-rev
     button-link: features.html
-
 ---
 
 ### Open Education
