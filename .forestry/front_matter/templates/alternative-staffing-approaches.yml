@@ -5,18 +5,17 @@ fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
-  default: ''
+  hidden: true
+  default: event
+  config:
+    required: true
 - name: title
   label: Title
   type: text
   hidden: false
   default: ''
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: ''
+  config:
+    required: true
 - name: promotional-text
   label: Promotional text
   type: text
@@ -27,6 +26,32 @@ fields:
   type: textarea
   hidden: false
   default: ''
+- type: select
+  name: status
+  config:
+    source:
+      type: simple
+    options:
+    - past
+    - up-coming
+    required: true
+  label: Status
+  description: Past or Upcoming?
+  default: past
+- name: date-start
+  label: Date start
+  type: datetime
+  hidden: false
+  default: ''
+  config:
+    required: true
+- name: date-finish
+  label: Date finish
+  type: datetime
+  hidden: false
+  default: ''
+  config:
+    required: true
 - name: location
   label: Location
   type: field_group_list
@@ -36,41 +61,35 @@ fields:
     type: text
     hidden: false
     default: ''
+    description: Name of Location ie - Campus, City
+    config:
+      required: true
   - name: details
     label: Details
     type: text
     hidden: false
-    default: ''
+    description: Building and Room Information
+    config:
+      required: true
   - name: lat
     label: Lat
     type: text
     hidden: false
-    default: ''
+    description: Latitude
   - name: lng
     label: Lng
     type: text
     hidden: false
     default: ''
+    description: Longitude
+    config:
+      required: false
   - name: zoom
     label: Zoom
     type: text
     hidden: false
-    default: ''
-  hidden: false
-  default: ''
-- name: status
-  label: Status
-  type: text
-  hidden: false
-  default: ''
-- name: date-start
-  label: Date start
-  type: datetime
-  hidden: false
-  default: ''
-- name: date-finish
-  label: Date finish
-  type: datetime
+    default: '15'
+    description: Zoom level for map
   hidden: false
   default: ''
 - name: icon
