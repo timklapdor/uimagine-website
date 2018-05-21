@@ -13,7 +13,7 @@ hero:
   promo-text: Spark something new!
   button_class: btn-ui-fuchia
   button-text: Find out more about us
-  button_link: events/test-event.html
+  button_link: about.html
 area-heading: Something Goes Here
 grid-1:
 - full_screen: false
@@ -30,7 +30,7 @@ grid-1:
     background:
     text:
     item_class: ui-fuchia-bg
-    button-text: Click this thing
+    button-text: Find out more
     button_class: btn-blk-ui-fuchia
     button_link: incubation.html
   - name: Innovation
@@ -38,15 +38,15 @@ grid-1:
     background:
     text:
     item_class: ui-blue-bg
-    button-text: Click this thing
+    button-text: Find out more
     button_class: btn-blk-ui-blue
-    button_link: innovate.html
+    button_link: innovation.html
   - name: Open Education
     image: open.svg
     background:
     text:
     item_class: ui-orange-bg
-    button-text: Click this thing
+    button-text: Find out more
     button_class: btn-blk-ui-orange
     button_link: open-education.html
 feature-1:

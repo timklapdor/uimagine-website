@@ -13,7 +13,7 @@ location:
   details: Room 217, Building 29
   lat: "-35.064364"
   lng: "147.351636"
-  zoom: "15"
+  zoom: "4"
 hero:
 - icon: alt-staff.svg
   image: warren-wong-320130.jpg
