@@ -144,14 +144,18 @@ fields:
     type: text
     hidden: false
     default: ''
-  - name: photo
-    label: Photo
-    type: file
-    hidden: false
-    default: ''
   - name: bio
     label: Bio
     type: textarea
+    hidden: false
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  - name: photo
+    label: Photo
+    type: file
     hidden: false
     default: ''
   - name: presentation
