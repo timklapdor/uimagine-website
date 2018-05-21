@@ -5,43 +5,66 @@ fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
-  default: ''
+  hidden: true
+  default: post
+  config:
+    required: true
 - name: title
   label: Title
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
+  description: Keep it short and inviting to engage with
 - name: date
   label: Date
   type: datetime
   hidden: false
   default: ''
-- name: author
-  label: Author
-  type: text
-  hidden: false
-  default: ''
-- name: categories
-  label: Categories
-  type: tag_list
-  hidden: false
-  default: ''
-- name: tags
-  label: Tags
-  type: tag_list
-  hidden: false
-  default: ''
+  config:
+    required: true
+  description: Date for publishing
 - name: excerpt
   label: Excerpt
   type: text
   hidden: false
   default: ''
-- name: featured
-  label: Featured
-  type: text
+  description: One line description or lead in question of the post
+  config:
+    required: true
+- type: select
+  name: author
+  config:
+    source:
+      type: simple
+    options:
+    - Lyn Hay
+    - Tim Klapdor
+    - Julie Lindsay
+    - Val Peachey
+    - Leanne White
+    - Wendy Rowlands
+  label: Author
+- type: select
+  name: categories
+  config:
+    source:
+      type: simple
+    options:
+    - Incubation
+    - Innovation
+    - Open Education
+    required: true
+  label: Categories
+  description: Which program does this go under?
+  default: Incubation
+- name: tags
+  label: Tags
+  type: tag_list
   hidden: false
   default: ''
+  description: Relate to specific topics covered - 5 max
 - name: hero
   label: Hero
   type: field_group_list
@@ -74,36 +97,6 @@ fields:
   - name: image
     label: Image
     type: file
-    hidden: false
-    default: ''
-  - name: icon
-    label: Icon
-    type: file
-    hidden: false
-    default: ''
-  - name: promo-head
-    label: Promo head
-    type: text
-    hidden: false
-    default: ''
-  - name: promo-text
-    label: Promo text
-    type: text
-    hidden: false
-    default: ''
-  - name: button_class
-    label: Button class
-    type: text
-    hidden: false
-    default: ''
-  - name: button-text
-    label: Button text
-    type: text
-    hidden: false
-    default: ''
-  - name: button_link
-    label: Button link
-    type: text
     hidden: false
     default: ''
   hidden: false
