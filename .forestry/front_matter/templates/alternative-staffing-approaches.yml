@@ -5,134 +5,58 @@ fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
-  default: ''
+  hidden: true
+  default: event
+  config:
+    required: true
 - name: title
   label: Title
   type: text
   hidden: false
   default: ''
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: ''
-- name: hero
-  label: Hero
-  type: field_group_list
-  fields:
-  - name: full_screen
-    label: Full screen
-    type: boolean
-    hidden: false
-    default: ''
-  - name: gradient_corner
-    label: Gradient corner
-    type: text
-    hidden: false
-    default: ''
-  - name: gradient_side
-    label: Gradient side
-    type: text
-    hidden: false
-    default: ''
-  - name: gradient_color_1
-    label: Gradient color 1
-    type: text
-    hidden: false
-    default: ''
-  - name: gradient_color_2
-    label: Gradient color 2
-    type: text
-    hidden: false
-    default: ''
-  - name: image
-    label: Image
-    type: file
-    hidden: false
-    default: ''
-  - name: icon
-    label: Icon
-    type: file
-    hidden: false
-    default: ''
-  - name: promo-head
-    label: Promo head
-    type: text
-    hidden: false
-    default: ''
-  - name: promo-text
-    label: Promo text
-    type: text
-    hidden: false
-    default: ''
-  - name: button_class
-    label: Button class
-    type: text
-    hidden: false
-    default: ''
-  - name: button-text
-    label: Button text
-    type: text
-    hidden: false
-    default: ''
-  - name: button_link
-    label: Button link
-    type: text
-    hidden: false
-    default: ''
-  - name: id
-    label: Id
-    type: text
-    hidden: false
-    default: ''
-  - name: full-screen
-    label: Full screen
-    type: boolean
-    hidden: false
-    default: ''
-  - name: gradient-corner
-    label: Gradient corner
-    type: text
-    hidden: false
-    default: ''
-  - name: gradient-side
-    label: Gradient side
-    type: text
-    hidden: false
-    default: ''
-  - name: gradient-color1
-    label: Gradient color1
-    type: text
-    hidden: false
-    default: ''
-  - name: gradient-color2
-    label: Gradient color2
-    type: text
-    hidden: false
-    default: ''
-  hidden: false
-  default: ''
-- name: event-type
-  label: Event type
-  type: text
-  hidden: false
-  default: ''
+- type: select
+  name: event-type
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - conference
+    - unconference
+    - demonstration
+    - think tank
+    - symposium
+    - workshop
+    - forum
+  label: Event Type
+  default: conference
 - name: promotional-text
   label: Promotional text
   type: text
   hidden: false
   default: ''
+  description: Something in here that promotes the event.
+  config:
+    required: true
 - name: post-mortem-text
   label: Post mortem text
   type: textarea
   hidden: false
   default: ''
-- name: status
+  description: Describes how awesome the event was.
+  config:
+    required: true
+- type: select
+  name: status
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - upcoming
+    - past
   label: Status
-  type: text
-  hidden: false
-  default: ''
+  default: upcoming
 - name: date-start
   label: Date start
   type: datetime
@@ -141,6 +65,11 @@ fields:
 - name: date-finish
   label: Date finish
   type: datetime
+  hidden: false
+  default: ''
+- name: flickr-album
+  label: Flickr album
+  type: text
   hidden: false
   default: ''
 - name: location
@@ -152,31 +81,43 @@ fields:
     type: text
     hidden: false
     default: ''
+    description: Location of Event - Campus, Town etc
+    config:
+      required: true
   - name: details
     label: Details
     type: text
     hidden: false
     default: ''
+    description: Building & Room Number
+    config:
+      required: true
   - name: lat
     label: Lat
     type: text
     hidden: false
     default: ''
+    description: Australia starts with -35
+    config:
+      required: true
   - name: lng
     label: Lng
     type: text
     hidden: false
     default: ''
-  - name: zoom
+    description: On the 147
+    config:
+      required: true
+  - type: number
+    name: zoom
     label: Zoom
-    type: text
-    hidden: false
-    default: ''
-  hidden: false
-  default: ''
-- name: flickr-album
-  label: Flickr album
-  type: text
+    description: Level of zoom for the map @ 15
+    default: '15'
+    config:
+      required: true
+      max: '20'
+      step: '1'
+      min: '4'
   hidden: false
   default: ''
 - name: speakers
@@ -223,5 +164,53 @@ fields:
     type: file
     hidden: false
     default: ''
+  - type: field_group_list
+    name: speaker
+    label: Speaker
   hidden: false
   default: ''
+  config:
+    labelField: name
+  description: Add for each speaker
+- name: hero
+  label: Page Hero
+  type: field_group_list
+  fields:
+  - name: full_screen
+    label: Full screen
+    type: boolean
+    hidden: false
+    default: ''
+  - name: gradient_corner
+    label: Gradient corner
+    type: text
+    hidden: false
+    default: ''
+  - name: gradient_side
+    label: Gradient side
+    type: text
+    hidden: false
+    default: ''
+  - name: gradient_color_1
+    label: Gradient color 1
+    type: text
+    hidden: false
+    default: ''
+  - name: gradient_color_2
+    label: Gradient color 2
+    type: text
+    hidden: false
+    default: ''
+  - name: image
+    label: Image
+    type: file
+    hidden: false
+    default: ''
+  - name: icon
+    label: Icon
+    type: file
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+  description: Set the details for the banner
