@@ -221,5 +221,10 @@ fields:
 - type: field_group
   name: page_hero
   label: Page Hero
+  description: Normal Field Group
+- type: field_group
+  name: location
+  label: Location
+  description: Normal Field Group
 pages:
 - _events/forestry-test.md
