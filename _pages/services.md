@@ -4,19 +4,17 @@ layout: about
 title: Services
 permalink: services.html
 hero:
-- id:
-  full-screen: false
-  gradient-corner: top
-  gradient-side: left
+- full_screen: false
+  gradient_corner: top
+  gradient_side: left
   gradient_color_1: "0,0,0,0,1"
   gradient_color_2: "8,25,55,.6"
   image: assets/images/benjamin-davies-265095.jpg
   promo-head: Services
 feature:
-- id:
-  full-screen: false
-  gradient-corner: bottom
-  gradient-side:
+- full_screen: false
+  gradient_corner: bottom
+  gradient_side:
   gradient_color_1: "255,83,53,1"
   gradient_color_2: "255,83,53,1"
   image:
@@ -25,8 +23,8 @@ feature:
     heading: Want to now what Kelpie does?
     text: ""
     button: Explore Features
-    button-class: btn-rev
-    button-link: features.html
+    button_class: btn-rev
+    button_link: features.html
 ---
 
 ### Creative Solutions

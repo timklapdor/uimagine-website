@@ -10,10 +10,9 @@ tags:
 - else
 excerpt: Something about this
 hero:
-- id:
-  full-screen: false
-  gradient-corner:
-  gradient-side: bottom
+- full_screen: false
+  gradient_corner:
+  gradient_side: bottom
   gradient_color_1: "0,0,0,.6"
   gradient_color_2: "215,31,133,1"
   image:

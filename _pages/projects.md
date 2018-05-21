@@ -3,18 +3,17 @@ layout: projects
 title: uImagine Projects
 permalink: projects/index.html
 hero:
-- id:
-  full-screen: false
-  gradient-corner: top
-  gradient-side: left
+- full_screen: false
+  gradient_corner: top
+  gradient_side: left
   gradient_color_1: "203,0,68,1"
   gradient_color_2: "0,175,216,1"
   image:
   promo-head: Projects
   promo-text:
-  button-class:
+  button_class:
   button-text:
-  button-link:
+  button_link:
 item-color: "203,0,68"  
 kind: projects
 archive:

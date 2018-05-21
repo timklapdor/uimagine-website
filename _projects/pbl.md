@@ -24,8 +24,8 @@ outputs:
 date-start: 01-02-2015
 date-finish: 30-06-2016
 icon: project-pbl.svg
-gradient-corner: top
-gradient-side: left
+gradient_corner: top
+gradient_side: left
 gradient_color_1: "203,0,68"
 gradient_color_2: "0,175,216"
 

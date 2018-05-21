@@ -16,8 +16,8 @@ date-finish: 2015-09-15T17:00:00  #2016-03-23T10:20:00Zlocation:
 hero:
 - icon: alt-staff.svg
   image: warren-wong-320130.jpg
-  gradient-corner:
-  gradient-side:
+  gradient_corner:
+  gradient_side:
   gradient_color_1: "255,88,0,.8"
   gradient_color_2: "0,255,0,.8"
 flickr-album: https://www.flickr.com/photos/uimagine/albums/72157658313869110

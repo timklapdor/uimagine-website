@@ -4,20 +4,18 @@ layout: page
 title: Innovation
 permalink: innovation.html
 hero:
-- id:
-  full-screen: false
-  gradient-corner: top
-  gradient-side:
+- full_screen: false
+  gradient_corner: top
+  gradient_side:
   gradient_color_1: "203,0,68,1"
   gradient_color_2: "255,88,0,1"
   icon: assets/images/innovate-alpha.svg
   image:
   promo-head: Innovation
 feature:
-- id:
-  full-screen: false
-  gradient-corner: bottom
-  gradient-side:
+- full_screen: false
+  gradient_corner: bottom
+  gradient_side:
   gradient_color_1: "255,88,0,1"
   gradient_color_2: "255,88,0,1"
   image:
@@ -26,8 +24,8 @@ feature:
     heading: Want to now what u!magine does?
     text: ""
     button: Explore Projects
-    button-class: btn-rev
-    button-link: features.html
+    button_class: btn-rev
+    button_link: features.html
 
 ---
 

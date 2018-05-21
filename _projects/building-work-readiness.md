@@ -27,8 +27,8 @@ outputs:
 date-start: 01-04-2015
 date-finish: 31-12-2016
 icon: project-work-ready.svg
-gradient-corner: top
-gradient-side: left
+gradient_corner: top
+gradient_side: left
 gradient_color_1: "203,0,68"
 gradient_color_2: "0,175,216"
 

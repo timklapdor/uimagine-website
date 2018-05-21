@@ -3,24 +3,22 @@
 title: Welcome to uImagine
 layout: home
 hero:
-- id:
-  full-screen: true
-  gradient-corner: top
-  gradient-side:
+- full_screen: true
+  gradient_corner: top
+  gradient_side:
   gradient_color_1: "215,31,133,.5"
   gradient_color_2: "255,88,0,.5"
   image: uploads/uimagine-sparks.jpg
   promo-head: blank
   promo-text: Spark something new!
-  button-class: btn-ui-fuchia
+  button_class: btn-ui-fuchia
   button-text: Find out more about us
-  button-link: events/test-event.html
+  button_link: events/test-event.html
 area-heading: Something Goes Here
 grid-1:
-- id:   
-  full-screen: false
-  gradient-corner: top
-  gradient-side:
+- full_screen: false
+  gradient_corner: top
+  gradient_side:
   gradient_color_1: "60,60,60,1"
   gradient_color_2: "60,60,60,1"
   image:
@@ -32,24 +30,23 @@ grid-1:
     background: red
     text:
     button-text: Click this thing
-    button-class: btn-blk-ui-pink
+    button_class: btn-blk-ui-pink
   - name: Innovation
     image: innovate.svg
     background: green
     text:
     button-text: Click this thing
-    button-class: btn-blk-ui-pink
+    button_class: btn-blk-ui-pink
   - name: Open Education
     image: open.svg
     background: blue
     text:
     button-text: Click this thing
-    button-class: btn-blk-ui-pink
+    button_class: btn-blk-ui-pink
 feature-1:
-- id:   
-  full-screen: false
-  gradient-corner: top
-  gradient-side:
+- full_screen: false
+  gradient_corner: top
+  gradient_side:
   gradient_color_1: "255,88,0,1"
   gradient_color_2: "215,31,133,1"
   image:
@@ -67,10 +64,9 @@ feature-1:
     heading: Bring it on!
     text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 grid-2:
-- id:   
-  full-screen: false
-  gradient-corner: top
-  gradient-side:
+- full_screen: false
+  gradient_corner: top
+  gradient_side:
   gradient_color_1:
   gradient_color_2:
   image:
@@ -81,22 +77,21 @@ grid-2:
     image: mindroc-ilie-marian-89043.jpg
     text: some test stuff here
     button-text: Click this thing
-    button-class: btn-blk
+    button_class: btn-blk
   - name: Nothing
     image: mindroc-ilie-marian-89043.jpg
     text: some test stuff here
     button-text: Click this thing
-    button-class: btn-blk
+    button_class: btn-blk
   - name: Nothing
     image: mindroc-ilie-marian-89043.jpg
     text: some test stuff here
     button-text: Click this thing
-    button-class: btn-blk
+    button_class: btn-blk
 feature-2:
-- id:
-  full-screen: false
-  gradient-corner: bottom
-  gradient-side:
+- full_screen: false
+  gradient_corner: bottom
+  gradient_side:
   gradient_color_1: "255,88,0,1"
   gradient_color_2: "215,31,133,1"
   image:
@@ -105,6 +100,6 @@ feature-2:
     heading: u!magine is Amazing!
     text: "We're currently in development but **always** keen to have a chat and discuss the future. Feel free to get in touch with us, we'd love to pitch our idea and discuss AgTech in general. We love to consult on projects too - so if you're looking for some technical expertise let us know!"
     button: Find Our More About Us
-    button-class: btn-ui-blue
-    button-link: about.html
+    button_class: btn-ui-blue
+    button_link: about.html
 ---

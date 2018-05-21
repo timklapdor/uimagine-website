@@ -4,10 +4,9 @@ layout: news
 title: News
 permalink: news.html
 hero:
-- id:
-  full-screen: false
-  gradient-corner: top
-  gradient-side: left
+- full_screen: false
+  gradient_corner: top
+  gradient_side: left
   gradient_color_1: "0,175,216,1"
   gradient_color_2: "8,25,55,.6"
   image:

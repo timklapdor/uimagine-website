@@ -4,18 +4,17 @@ layout: about
 title: About uImagine
 permalink: about.html
 hero:
-- full-screen: false
-  gradient-corner: top
-  gradient-side:
+- full_screen: false
+  gradient_corner: top
+  gradient_side:
   gradient_color_1: "203,0,68,1"
   gradient_color_2: "215,31,133,1"
   image:
   promo-head: About Us
 feature:
-- id:
-  full-screen: false
-  gradient-corner:
-  gradient-side:
+- full_screen: false
+  gradient_corner:
+  gradient_side:
   gradient_color_1:
   gradient_color_2:
   image:
@@ -24,8 +23,8 @@ feature:
     heading: Want to know what u!magine does?
     text: "We do lots of things "
     button: Explore Our Work
-    button-class: btn-rev
-    button-link: programs.html
+    button_class: btn-rev
+    button_link: programs.html
 ---
 
 ## What is u!magine?

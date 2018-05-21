@@ -1,13 +1,13 @@
 
 
-<section class="feature {% if item.full-screen == true %}full-screen{% endif %}" style="transform-style: preserve-3d; {% if item.gradient-corner %} background-image: linear-gradient(to {{item.gradient-corner}} {{item.gradient-side}}, rgba({{ item.gradient_color_1 }}), rgba({{ item.gradient_color_2 }})), url({{ site.baseurl }}/{{ item.image }}){% else %} background-color: #{{ site.brand-2 }}; {% endif %}">
+<section class="feature {% if item.full_screen == true %}full_screen{% endif %}" style="transform-style: preserve-3d; {% if item.gradient_corner %} background-image: linear-gradient(to {{item.gradient_corner}} {{item.gradient_side}}, rgba({{ item.gradient_color_1 }}), rgba({{ item.gradient_color_2 }})), url({{ site.baseurl }}/{{ item.image }}){% else %} background-color: #{{ site.brand-2 }}; {% endif %}">
   {% for section in item.text-area %}
     <div class="feature {{ section.size }}" {% for item in section.background %} style="transform-style: preserve-3d; background-image: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url({{ site.baseurl }}/{{ section.background }});" {% endfor %}>
       {% for item in section.image %}<img src="{{ section.image }}"> {% endfor %}
       {% for item in section.heading %}<h2>{{ section.heading }}</h2>{% endfor %}
       {% for item in section.lead %}<div class="lead">{{ section.lead | markdownify }}</div>{% endfor %}
       {% for item in section.text %}{{ section.text | markdownify }}{% endfor %}
-      {% for item in section.button %}<a href="{{ section.button-link }}" class="{{ section.button-class }} call-to-action">{{ item }}</a> {% endfor %}
+      {% for item in section.button %}<a href="{{ section.button_link }}" class="{{ section.button_class }} call-to-action">{{ item }}</a> {% endfor %}
     </div>
   {% endfor %}
 </section>
