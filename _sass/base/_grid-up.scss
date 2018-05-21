@@ -69,12 +69,13 @@ header {
 	grid-column-end: span 3;
 	grid-row: 1;
 	z-index: 20;
-	flex-grow: 1}
+	flex-grow: 1;}
 main {
 	grid-column-start: 1;
 	grid-column-end: span 3;
 	grid-row-start: 1;
 	grid-row-end: span 2;
 	flex-grow: 3;
-	background: #FAF9F8;}
-footer {grid-column: span 3; grid-row: 3 / span 1; flex-grow: 1}
+	background: #FAF9F8;
+}
+footer {grid-column: span 3; grid-row: 3 / span 1; flex-grow: 1;}

@@ -5,9 +5,9 @@ permalink: events/index.html
 hero:
 - full_screen: false
   gradient_corner: top
-  gradient_side: left
-  gradient_color_1: "203,0,68,1"
-  gradient_color_2: "0,175,216,1"
+  gradient_side: 
+  gradient_color_1: "215,31,133,.9"
+  gradient_color_2: "215,31,133,.4"
   image:
   promo-head: Events
   promo-text:

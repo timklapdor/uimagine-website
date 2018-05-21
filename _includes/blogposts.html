@@ -2,16 +2,11 @@
 
 <section class="card-grid blog" style="transform-style: preserve-3d; background-image: linear-gradient(to {{item.gradient_corner}} {{item.gradient_side}}, rgba({{ item.gradient_color_1 }}), rgba({{ item.gradient_color_2 }})), url({{ site.baseurl }}/{{ item.image }})">
   {% for post in site.posts %}
-      <article {% for item in post.featured %}class="{{ item }}" {% for item in post.hero %}style="background-image: linear-gradient(to {{item.gradient_corner}} {{item.gradient_side}}, rgba({{ item.gradient_color_1 }}), rgba({{ item.gradient_color_2 }})), url({{ site.baseurl }}/{{ item.image }}); background-position: center center; padding: 5em;"{% endfor %}{% endfor %}>
+      <article {% if forloop.first == true %}class="featured" {% for item in post.hero %}style="background-image: linear-gradient(to {{item.gradient_corner}} {{item.gradient_side}}, rgba({{ item.gradient_color_1 }}), rgba({{ item.gradient_color_2 }})), url({{ site.baseurl }}/{{ item.image }}); background-position: center center; padding: 5em;"{% endfor %}{% endif %}>
         <a href="{{ site.baseurl }}/{{ post.url }} ">
-        {% if post.featured %}<h3>{{ post.title }}</h3>{% else %}<h4>{{ post.title }}</h4>{% endif %}
+        {% if forloop.first == true %}<h3>{{ post.title }}</h3>{% else %}<h4>{{ post.title }}</h4>{% endif %}
         <p>{{ post.excerpt }}</p>
       </a>
     </article>
   {% endfor %}
 </section>
-
-
-{% for item in post.hero %}
-<div class="thumb" style="background-image: url({{ item.image | absolute_url }})"></div>
-{% endfor %}

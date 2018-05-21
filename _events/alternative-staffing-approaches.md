@@ -7,12 +7,13 @@ promotional-text: "Coming soon a think tank exploring Alternative Staffing Appro
 post-mortem-text: "uImagine hosted a think tank exploring Alternative Staffing Approaches for Scaleable Distance Education."
 status: past
 date-start: 2015-09-15T09:00:00 #2016-03-23T10:20:00Z
-date-finish: 2015-09-15T17:00:00  #2016-03-23T10:20:00Zlocation:
+date-finish: 2015-09-15T17:00:00 #2016-03-23T10:20:00Zlocation:
+location:
 - info: CSU Wagga Campus
   details: Room 217, Building 29
-  lat: -35.064364
-  lng: 147.351636
-  zoom: 15
+  lat: "-35.064364"
+  lng: "147.351636"
+  zoom: "15"
 hero:
 - icon: alt-staff.svg
   image: warren-wong-320130.jpg
@@ -67,6 +68,7 @@ speakers:
   photo: profile-michael-crock.jpg
   bio: "Michael has over 30 years higher education, management and consulting experience, including extensive involvement in the strategic development and operationalization of teaching and learning initiatives across multiple organisations, significant involvement with the commercialisation of higher education products and services, as well as additional relevant professional work experience in industry and working with local, state and federal government organisations. Michael has held senior academic and management positions at The University of Queensland, Central Queensland University, Griffith University, Open Universities Australia, and most recently at the University of New England as the Pro Vice Chancellor Educational Innovation and International. He has also served as the CEO of STARLIT, one of six original Australian national co-operative multimedia companies initially established under federal government funding."
   case-study: alt-staff-michael-crock-case.pdf  
+
 ---
 
 ## About

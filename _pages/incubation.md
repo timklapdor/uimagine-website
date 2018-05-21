@@ -7,21 +7,21 @@ hero:
 - full_screen: false
   gradient_corner: top
   gradient_side:
-  gradient_color_1: "203,0,68,1"
-  gradient_color_2: "255,88,0,1"
-  icon: assets/images/incubate-alpha.svg
+  gradient_color_1: "203,0,68,.9"
+  gradient_color_2: "203,0,68,.4"
+  icon: uploads/incubate-alpha.svg
   image:
   promo-head: Incubation
 feature:
 - full_screen: false
   gradient_corner: bottom
   gradient_side:
-  gradient_color_1: "255,88,0,1"
-  gradient_color_2: "255,88,0,1"
+  gradient_color_1: "203,0,68,1"
+  gradient_color_2: "203,0,68,.8"
   image:
   text-area:
   - size: centered
-    heading: Want to now what u!magine does?
+    heading: Want to know what u!magine does?
     text: ""
     button: Explore Projects
     button_class: btn-rev

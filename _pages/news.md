@@ -6,9 +6,9 @@ permalink: news.html
 hero:
 - full_screen: false
   gradient_corner: top
-  gradient_side: left
-  gradient_color_1: "0,175,216,1"
-  gradient_color_2: "8,25,55,.6"
+  gradient_side: 
+  gradient_color_1: "0,175,216,.9"
+  gradient_color_2: "0,175,216,.4"
   image:
   promo-head: News
 

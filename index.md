@@ -27,22 +27,28 @@ grid-1:
   griditems:
   - name: Incubation
     image: incubate.svg
-    background: red
+    background:
     text:
+    item_class: ui-fuchia-bg
     button-text: Click this thing
-    button_class: btn-blk-ui-pink
+    button_class: btn-blk-ui-fuchia
+    button_link: incubation.html
   - name: Innovation
     image: innovate.svg
-    background: green
+    background:
     text:
+    item_class: ui-blue-bg
     button-text: Click this thing
-    button_class: btn-blk-ui-pink
+    button_class: btn-blk-ui-blue
+    button_link: innovate.html
   - name: Open Education
     image: open.svg
-    background: blue
+    background:
     text:
+    item_class: ui-orange-bg
     button-text: Click this thing
-    button_class: btn-blk-ui-pink
+    button_class: btn-blk-ui-orange
+    button_link: open-education.html
 feature-1:
 - full_screen: false
   gradient_corner: top
