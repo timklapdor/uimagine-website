@@ -214,3 +214,5 @@ fields:
   hidden: false
   default: ''
   description: Set the details for the banner
+pages:
+- _events/forestry-test.md
