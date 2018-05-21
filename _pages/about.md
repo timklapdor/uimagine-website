@@ -9,7 +9,7 @@ hero:
   gradient_side:
   gradient_color_1: "215,31,133,.9"
   gradient_color_2: "215,31,133,.4"
-  image:
+  image: uploads/uimagine-sparks.jpg
   promo-head: About Us
 feature:
 - full_screen: false
@@ -25,7 +25,7 @@ feature:
     button: Explore Our Work
     button_class: btn-rev
     button_link: programs.html
-    
+
 ---
 
 ## What is u!magine?
