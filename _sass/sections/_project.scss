@@ -44,35 +44,57 @@ div.button-group {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  flex-wrap: wrap;
 
   button {
-    width: auto;
+    width: 30%;
     text-transform: uppercase;
     border: 0;
     border-radius: 0;
-    padding: .8em 1.4em;
+    padding: .8em 1em;
     color: $rev;
-    background-color: $brand-2;
+    background-color: $brand-3;
+    border-bottom: 1px solid $rev;
+    border-right: 1px solid $rev;
   }
 
   button:hover, button:active, button:focus {
-    background: $brand;
+    background: darken($brand-3, 20%);
     border: 0;
     color: $rev;
-
   }
+}
 
-  button:nth-child(even) {
-    border-left: 1px solid $rev;
-    border-right: 1px solid $rev;
-  }
-  button:first-child {
-    border-radius: .4em 0 0 .4em;
-  }
+@media screen and (min-width: 870px) {
 
-  button:last-child {
-    border-radius: 0 .4em .4em 0;
-    border-right:none;
+  div.button-group {
+    // background: red;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    button {
+      width: auto;
+      text-transform: uppercase;
+      border: 0;
+      border-radius: 0;
+      padding: .8em 1.4em;
+      color: $rev;
+      background-color: $brand-2;
+    }
+
+    button:nth-child(even) {
+      border-left: 1px solid $rev;
+      border-right: 1px solid $rev;
+    }
+    button:first-child {
+      border-radius: .4em 0 0 .4em;
+    }
+
+    button:last-child {
+      border-radius: 0 .4em .4em 0;
+      border-right:none;
+    }
   }
 }
 

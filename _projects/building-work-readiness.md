@@ -3,6 +3,11 @@
 layout: project
 title: Building Work Readiness
 summary: "Develop workplace readiness through online role play, games and simulations."
+status: complete
+date-start: 01-04-2015
+date-finish: 31-12-2016
+progress: 100%
+category: innovation
 team:
   - Carole Hunter
   - Chrys Gunasakera
@@ -13,19 +18,15 @@ team:
   - Kath Herbert
   - Deb Murdoch
   - Rick Parmenter
-status: complete
 focus:
   - pedagogy
   - practice
   - resources
-progress: 100%
 outputs:
   - description: report
     link: uploads/report.pdf
   - description: something
     link: uploads/something.pdf
-date-start: 01-04-2015
-date-finish: 31-12-2016
 icon: uploads/project-work-ready.svg
 gradient_corner: top
 gradient_side: left

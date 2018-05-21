@@ -9,12 +9,9 @@ layout: default
 {% endfor %}
 
 <section class="article">
-
-<article class="">
-  {{ page.content | markdownify }}
-</article>
-
-
+  <article class="">
+    {{ page.content | markdownify }}
+  </article>
 </section>
 
 {% for item in page.feature %}

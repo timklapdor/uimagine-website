@@ -80,7 +80,7 @@ section.card-grid {
 }
 
   section article.card {
-    width: 40vw;
+    width: 38%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -92,7 +92,7 @@ section.card-grid {
 
   @media screen and (min-width: 800px) {
     section article.card, .gridsizer {
-    width: 20vw;
+    width: 19%;
     height: 27vw;
   }
   }
