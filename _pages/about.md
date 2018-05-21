@@ -4,12 +4,11 @@ layout: about
 title: About uImagine
 permalink: about.html
 hero:
-- id:
-  full-screen: false
+- full-screen: false
   gradient-corner: top
   gradient-side:
-  gradient-color1: "203,0,68,1"
-  gradient-color2: "215,31,133,1"
+  gradient_color_1: "203,0,68,1"
+  gradient_color_2: "215,31,133,1"
   image:
   promo-head: About Us
 feature:
@@ -17,8 +16,8 @@ feature:
   full-screen: false
   gradient-corner:
   gradient-side:
-  gradient-color1:
-  gradient-color2:
+  gradient_color_1:
+  gradient_color_2:
   image:
   text-area:
   - size: centered

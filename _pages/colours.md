@@ -15,8 +15,8 @@ hero:
   full-screen: false
   gradient-corner: top
   gradient-side:
-  gradient-color1: "203,0,68,1"
-  gradient-color2: "215,31,133,1"
+  gradient_color_1: "203,0,68,1"
+  gradient_color_2: "215,31,133,1"
   image:
   promo-head: Colours
 

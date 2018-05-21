@@ -29,8 +29,8 @@ date-finish: 31-12-2016
 icon: project-work-ready.svg
 gradient-corner: top
 gradient-side: left
-gradient-color1: "203,0,68"
-gradient-color2: "0,175,216"
+gradient_color_1: "203,0,68"
+gradient_color_2: "0,175,216"
 
 ---
 

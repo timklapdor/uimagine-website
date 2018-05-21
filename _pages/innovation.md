@@ -8,8 +8,8 @@ hero:
   full-screen: false
   gradient-corner: top
   gradient-side:
-  gradient-color1: "203,0,68,1"
-  gradient-color2: "255,88,0,1"
+  gradient_color_1: "203,0,68,1"
+  gradient_color_2: "255,88,0,1"
   icon: assets/images/innovate-alpha.svg
   image:
   promo-head: Innovation
@@ -18,8 +18,8 @@ feature:
   full-screen: false
   gradient-corner: bottom
   gradient-side:
-  gradient-color1: "255,88,0,1"
-  gradient-color2: "255,88,0,1"
+  gradient_color_1: "255,88,0,1"
+  gradient_color_2: "255,88,0,1"
   image:
   text-area:
   - size: centered

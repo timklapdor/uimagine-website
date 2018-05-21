@@ -1,14 +1,14 @@
 <div id="map" style="width:100%;height:30em;"></div>
 <script>
-  window.mapData = {"latitude": {{ item.lat }},"longitude": {{ item.lng }}, "zoom": {{ item.zoom }}};
+    window.mapData = {"latitude": {{ item.lat }},"longitude": {{ item.lng }}, "zoom": {{ item.zoom }}};
 
   function initMap() {
     var myOptions = {
       scrollwheel: false,
       draggable: true,
       panControl: true,
+       zoomControl: true,
       disableDefaultUI: true,
-      zoomControl: true,
       zoom: window.mapData.zoom,
       maxZoom: 20,
       minZoom: 7,
@@ -22,13 +22,17 @@
       content: '<h4>{{ item.info }}</h4><p>{{ item.details }}</p>'
     });
 
+
     var marker = new google.maps.Marker({
       map: map,
-      position: new google.maps.LatLng(window.mapData.latitude, window.mapData.longitude),
-      title: '{{ item.info }}'
+      position: new google.maps.LatLng(window.mapData.latitude, window.mapData.longitude)
     });
 
-     infowindow.open(map, marker);
+    infowindow.open(map, marker);
+
+    marker.addListener('click', function() {
+      infowindow.open(map, marker);
+    });
 
     google.maps.event.addDomListener(window, 'resize', function() {
       map.setCenter(myOptions.center);

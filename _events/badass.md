@@ -12,10 +12,13 @@ location-details: Room 217, Building 29
 status: past
 date-start: 2015-09-15T09:00:00 #2016-03-23T10:20:00Z
 date-finish: 2015-09-15T17:00:00  #2016-03-23T10:20:00Z
-icon: alt-staff.svg
-header-image: warren-wong-320130.jpg
-header-color-1: rgba(203,0,68,1)
-header-color-2: rgba(203,0,68,.5)
+hero:
+- icon: alt-staff.svg
+  image: warren-wong-320130.jpg
+  gradient-corner:
+  gradient-side:
+  gradient_color_1: "255,88,0,.8"
+  gradient_color_2: "0,255,0,.8"
 event-type: think tank
 flickr-album: https://www.flickr.com/photos/uimagine/albums/72157658313869110
 image-path: /assets/images/

@@ -8,8 +8,8 @@ hero:
   full-screen: false
   gradient-corner: top
   gradient-side: left
-  gradient-color1: "0,0,0,0,1"
-  gradient-color2: "8,25,55,.6"
+  gradient_color_1: "0,0,0,0,1"
+  gradient_color_2: "8,25,55,.6"
   image: assets/images/benjamin-davies-265095.jpg
   promo-head: Services
 feature:
@@ -17,8 +17,8 @@ feature:
   full-screen: false
   gradient-corner: bottom
   gradient-side:
-  gradient-color1: "255,83,53,1"
-  gradient-color2: "255,83,53,1"
+  gradient_color_1: "255,83,53,1"
+  gradient_color_2: "255,83,53,1"
   image:
   text-area:
   - size: centered

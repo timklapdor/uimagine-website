@@ -7,8 +7,8 @@ hero:
   full-screen: true
   gradient-corner: top
   gradient-side:
-  gradient-color1: "215,31,133,.5"
-  gradient-color2: "255,88,0,.5"
+  gradient_color_1: "215,31,133,.5"
+  gradient_color_2: "255,88,0,.5"
   image: uploads/uimagine-sparks.jpg
   promo-head: blank
   promo-text: Spark something new!
@@ -21,8 +21,8 @@ grid-1:
   full-screen: false
   gradient-corner: top
   gradient-side:
-  gradient-color1: "60,60,60,1"
-  gradient-color2: "60,60,60,1"
+  gradient_color_1: "60,60,60,1"
+  gradient_color_2: "60,60,60,1"
   image:
   section-head: Current Programs
   section-head-colour:
@@ -50,8 +50,8 @@ feature-1:
   full-screen: false
   gradient-corner: top
   gradient-side:
-  gradient-color1: "255,88,0,1"
-  gradient-color2: "215,31,133,1"
+  gradient_color_1: "255,88,0,1"
+  gradient_color_2: "215,31,133,1"
   image:
   text-area:
   - size: wide
@@ -71,8 +71,8 @@ grid-2:
   full-screen: false
   gradient-corner: top
   gradient-side:
-  gradient-color1:
-  gradient-color2:
+  gradient_color_1:
+  gradient_color_2:
   image:
   section-head: Something
   section-head-colour: ui-pink
@@ -97,8 +97,8 @@ feature-2:
   full-screen: false
   gradient-corner: bottom
   gradient-side:
-  gradient-color1: "255,88,0,1"
-  gradient-color2: "215,31,133,1"
+  gradient_color_1: "255,88,0,1"
+  gradient_color_2: "215,31,133,1"
   image:
   text-area:
   - size: centered
