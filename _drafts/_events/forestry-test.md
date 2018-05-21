@@ -19,5 +19,12 @@ speakers:
   name: Tim Klapdor
 flickr-album: ''
 location: []
-hero: []
+hero:
+- full_screen: ''
+  gradient_corner: ''
+  gradient_side: ''
+  gradient_color_2: '255,88,0,.8'
+  image: ''
+  icon: ''
+  gradient_color_1: '255,88,0,1'
 ---
