@@ -28,16 +28,16 @@ hero:
 - full_screen: ''
   gradient_corner: ''
   gradient_side: ''
-  gradient_color_1: ''
-  gradient_color_2: ''
+  gradient_color_1: '255,88,0,.8'
+  gradient_color_2: '255,88,0,.4'
   image: "/uploads/leon-ephraim-30995.jpg"
-  icon: ''
+  icon: '/uploads/alt-staff.svg'
 ---
 ## About
 
 Hey we have a sweet event coming up. You should totally get on board with it!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. At, illa, ut vobis placet, partem quandam tuetur, reliquam deserit. Eadem nunc mea adversum te oratio est. An eum discere ea mavis, quae cum plane perdidiceriti nihil sciat? Universa enim illorum ratione cum tota vestra confligendum puto. **Hoc non est positum in nostra actione.** 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. At, illa, ut vobis placet, partem quandam tuetur, reliquam deserit. Eadem nunc mea adversum te oratio est. An eum discere ea mavis, quae cum plane perdidiceriti nihil sciat? Universa enim illorum ratione cum tota vestra confligendum puto. **Hoc non est positum in nostra actione.**
 
 1. Quae quidem sapientes sequuntur duce natura tamquam videntes;
 2. Summus dolor plures dies manere non potest?
@@ -46,6 +46,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. At, illa, ut vobis plac
 5. Cur tantas regiones barbarorum pedibus obiit, tot maria transmisit?
 6. Graece donan, Latine voluptatem vocant.
 
-Claudii libidini, qui tum erat summo ne imperio, dederetur. Quare obscurentur etiam haec, quae secundum naturam esse dicimus, in vita beata; Nos quidem Virtutes sic natae sumus, ut tibi serviremus, aliud negotii nihil habemus. Inscite autem medicinae et gubernationis ultimum cum ultimo sapientiae comparatur. 
+Claudii libidini, qui tum erat summo ne imperio, dederetur. Quare obscurentur etiam haec, quae secundum naturam esse dicimus, in vita beata; Nos quidem Virtutes sic natae sumus, ut tibi serviremus, aliud negotii nihil habemus. Inscite autem medicinae et gubernationis ultimum cum ultimo sapientiae comparatur.
 
-Haeret in salebra. Estne, quaeso, inquam, sitienti in bibendo voluptas? Stoici scilicet. Duo Reges: constructio interrete. Videamus animi partes, quarum est conspectus illustrior; Apud ceteros autem philosophos, qui quaesivit aliquid, tacet; Satisne vobis videor pro meo iure in vestris auribus commentatus? Gloriosa ostentatio in constituendo summo bono. 
+Haeret in salebra. Estne, quaeso, inquam, sitienti in bibendo voluptas? Stoici scilicet. Duo Reges: constructio interrete. Videamus animi partes, quarum est conspectus illustrior; Apud ceteros autem philosophos, qui quaesivit aliquid, tacet; Satisne vobis videor pro meo iure in vestris auribus commentatus? Gloriosa ostentatio in constituendo summo bono.
