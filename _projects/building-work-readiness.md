@@ -26,7 +26,7 @@ outputs:
     link: something.pdf
 date-start: 01-04-2015
 date-finish: 31-12-2016
-icon: project-work-ready.svg
+icon: uploads/project-work-ready.svg
 gradient_corner: top
 gradient_side: left
 gradient_color_1: "203,0,68"

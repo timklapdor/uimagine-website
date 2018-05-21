@@ -21,7 +21,7 @@ outputs:
     link: riverina-shore-solg.pdf
 date-start: 01-04-2015
 date-finish: 31-12-2016
-icon: project-riverina-shore.svg
+icon: uploads/project-riverina-shore.svg
 gradient_corner: top
 gradient_side: left
 gradient_color_1: "203,0,68"

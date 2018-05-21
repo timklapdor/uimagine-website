@@ -18,7 +18,7 @@ outputs:
     link: child-protection-poster.pdf
 date-start: 01-04-2015
 date-finish: 31-12-2016
-icon: project-child-protection.svg
+icon: uploads/project-child-protection.svg
 gradient_corner: top
 gradient_side: left
 gradient_color_1: "203,0,68"

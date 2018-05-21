@@ -18,7 +18,7 @@ outputs:
 date-start: 01-04-2015
 date-finish: 31-12-2016
 project-focus: resource
-icon: project-skills-box.svg
+icon: uploads/project-skills-box.svg
 gradient_corner: top
 gradient_side: left
 gradient_color_1: "203,0,68"
