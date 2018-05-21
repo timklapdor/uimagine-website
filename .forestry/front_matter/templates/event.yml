@@ -218,5 +218,8 @@ fields:
   hidden: false
   default: ''
   description: Set the details for the banner
+- type: field_group
+  name: page_hero
+  label: Page Hero
 pages:
 - _events/forestry-test.md
