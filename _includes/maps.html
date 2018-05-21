@@ -1,26 +1,34 @@
-<div id="map" style="width:100%;height:600px;"></div>
+<div id="map" style="width:100%;height:30em;"></div>
 <script>
-  window.mapData = {"latitude": {{ page.location-lat }},"longitude": {{ page.location-long }}, "zoom": {{ page.location-zoom }}};
+  window.mapData = {"latitude": {{ item.lat }},"longitude": {{ item.lng }}, "zoom": {{ item.zoom }}};
 
   function initMap() {
     var myOptions = {
       scrollwheel: false,
-      draggable: false,
-      panControl: false,
+      draggable: true,
+      panControl: true,
       disableDefaultUI: true,
+      zoomControl: true,
       zoom: window.mapData.zoom,
-      maxZoom: window.mapData.zoom,
-      minZoom: window.mapData.zoom,
+      maxZoom: 20,
+      minZoom: 7,
       center: new google.maps.LatLng(window.mapData.latitude, window.mapData.longitude),
       mapTypeId: google.maps.MapTypeId.ROADMAP
     };
 
     var map = new google.maps.Map(document.getElementById('map'), myOptions);
 
+    var infowindow = new google.maps.InfoWindow({
+      content: '<h4>{{ item.info }}</h4><p>{{ item.details }}</p>'
+    });
+
     var marker = new google.maps.Marker({
       map: map,
-      position: new google.maps.LatLng(window.mapData.latitude, window.mapData.longitude)
+      position: new google.maps.LatLng(window.mapData.latitude, window.mapData.longitude),
+      title: '{{ item.info }}'
     });
+
+     infowindow.open(map, marker);
 
     google.maps.event.addDomListener(window, 'resize', function() {
       map.setCenter(myOptions.center);

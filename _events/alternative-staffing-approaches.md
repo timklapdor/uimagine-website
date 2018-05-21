@@ -4,11 +4,12 @@ layout: event
 title: Alternative Staffing Approaches
 promotional-text: "Coming soon a think tank exploring Alternative Staffing Approaches for Scaleable Distance Education."
 post-mortem-text: "uImagine hosted a think tank exploring Alternative Staffing Approaches for Scaleable Distance Education."
-location-lat: -35.064248
-location-long: 147.349522
-location-zoom: 15
-location-info: CSU Wagga Campus
-location-details: Room 217, Building 29
+location:
+- info: CSU Wagga Campus
+  details: Room 217, Building 29
+  lat: -35.064364
+  lng: 147.351636
+  zoom: 15
 status: past
 date-start: 2015-09-15T09:00:00 #2016-03-23T10:20:00Z
 date-finish: 2015-09-15T17:00:00  #2016-03-23T10:20:00Z
@@ -18,7 +19,7 @@ header-color-1: rgba(203,0,68,1)
 header-color-2: rgba(203,0,68,.5)
 event-type: think tank
 flickr-album: https://www.flickr.com/photos/uimagine/albums/72157658313869110
-image-path: /assets/images/
+image-path: /uploads/
 speakers:
 - name: Dr. Valerie Peachey
   position:

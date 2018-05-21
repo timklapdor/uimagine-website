@@ -7,13 +7,13 @@ hero:
   full-screen: true
   gradient-corner: top
   gradient-side:
-  gradient-color1: "215,31,133,.6"
-  gradient-color2: "255,88,0,.6"
-  image: assets/images/benjamin-davies-265095.jpg
-  promo-head: Upcoming Event
-  promo-text: 29th May 2018 Wagga Wagga
+  gradient-color1: "215,31,133,.5"
+  gradient-color2: "255,88,0,.5"
+  image: uploads/uimagine-sparks.jpg
+  promo-head: blank
+  promo-text: Spark something new!
   button-class: btn-ui-fuchia
-  button-text: Find OUt More
+  button-text: Find out more about us
   button-link: events/test-event.html
 area-heading: Something Goes Here
 grid-1:

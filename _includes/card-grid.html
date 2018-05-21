@@ -2,7 +2,7 @@
   <h2 class="{{item.section-head-colour }}">{{ item.section-head }}</h2>
   {% for section in item.griditems %}
   <article>
-    <div class="thumb" style="background-image: url({{ site.baseurl }}/assets/images/{{ section.image}}){% for item in section.background %}, linear-gradient({{ item }}, {{item}}){% endfor %}"></div>
+    <div class="thumb" style="background-image: url({{ site.baseurl }}/uploads/{{ section.image}}){% for item in section.background %}, linear-gradient({{ item }}, {{item}}){% endfor %}"></div>
     <h3>{{ section.name }}</h3>
     {% for item in section.text %}<p>{{ item }}</p>{% endfor %}
     <a href="" class="{{ section.button-class }} call-to-action">

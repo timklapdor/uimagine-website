@@ -5,7 +5,7 @@ layout: default
 ---
 
 <section class="project-hero" style="transform-style: preserve-3d; background-image:linear-gradient(to bottom, rgb({{ page.gradient-color1 }}), rgb({{ page.gradient-color2 }}){% for item in page.header-image %}, url({{ site.baseurl }}/{{ page.image-path }}{{ item }}){% endfor %}">
-<h3 class="icon" style="background-image: {% for item in page.icon %}url({{ site.baseurl }}/resources/images/{{ item }}){% endfor %}"></h3>
+<h3 class="icon" style="background-image: {% for item in page.icon %}url({{ site.baseurl }}/uploads/{{ item }}){% endfor %}"></h3>
   <h2 class="promo">{{ page.title }}</h2>
 </section>
 
@@ -30,7 +30,7 @@ layout: default
 
     {% if page.outputs %}
 
-    <h4>Output</h4><ul>{% for item in page.outputs %}<li><a href="{{ site.baseurl}}/resources/docs/{{ item.link }}" target="_blank">{{ item.description | capitalize }}</a></li>{% endfor %}</ul>
+    <h4>Output</h4><ul>{% for item in page.outputs %}<li><a href="{{ site.baseurl}}/uploads/{{ item.link }}" target="_blank">{{ item.description | capitalize }}</a></li>{% endfor %}</ul>
 
     {% endif %}
 
