@@ -45,7 +45,7 @@ fields:
   default: ''
   description: Describes how awesome the event was.
   config:
-    required: true
+    required: false
 - type: select
   name: status
   config:
