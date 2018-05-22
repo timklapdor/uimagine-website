@@ -10,7 +10,7 @@ hero:
   gradient_corner: ''
   gradient_side: ''
   image: ''
-  icon: ''
+  icon: "/uploads/eexams.svg"
 date: 2018-05-22 13:49:13 +1000
 progress: 100
 date-start: 2015-03-23 00:00:00 +1100
