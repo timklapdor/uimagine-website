@@ -146,12 +146,12 @@ fields:
     label: Gradient color 1
     type: text
     hidden: false
-    default: ''
+    default: '203,0,68'
   - name: gradient_color_2
     label: Gradient color 2
     type: text
     hidden: false
-    default: ''
+    default: '0,175,216'
   - name: image
     label: Image
     type: file
