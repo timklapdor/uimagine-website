@@ -4,11 +4,9 @@
     <title>Projects/OLM</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Projects/OLM" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="OpenSans-Light, Open Sans" font-size="27" font-weight="300" letter-spacing="-1.12499988" line-spacing="27">
-        <text id="Online-Learning-Mode" fill="#FFFFFF">
-            <tspan x="24.5529782" y="59.7080078">Online</tspan>
-            <tspan x="12.6525874" y="86.7080078">Learning</tspan>
-            <tspan x="25.6911618" y="113.708008">Model</tspan>
+    <g id="Projects/OLM" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0" font-family="OpenSans-Extrabold, Open Sans" font-size="57" font-weight="600" letter-spacing="-2.37499976" line-spacing="27">
+        <text id="OLM" stroke="#FFFFFF" stroke-width="0.9" fill="#FFFFFF">
+            <tspan x="0" y="123">OLM</tspan>
         </text>
     </g>
 </svg>
