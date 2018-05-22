@@ -18,7 +18,7 @@ outputs:
   - description: Final Report
     link: uploads/riverina-shore-final-report.pdf
   - description: Presentation
-    link: uploads/riverina-shore-solg.pdf
+    file: uploads/riverina-shore-solg.pdf
 date-start: 01-04-2015
 date-finish: 31-12-2016
 hero:

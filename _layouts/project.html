@@ -32,7 +32,15 @@ layout: default
 
     {% if page.outputs %}
 
-    <h4>Output</h4><ul>{% for item in page.outputs %}<li><a href="{{ site.baseurl}}/{{ item.link }}" target="_blank">{{ item.description | capitalize }}</a></li>{% endfor %}</ul>
+    <h4>Output</h4>
+    <ul>
+      {% for item in page.outputs %}
+      <li>
+        {% if item.link %}<a href="{{ site.baseurl}}/{{ item.link }}" target="_blank">{{ item.description | capitalize }}</a>
+        {% else %}<a href="{{ site.baseurl}}/{{ item.file }}" target="_blank">{{ item.description | capitalize }}</a>{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
 
     {% endif %}
 
