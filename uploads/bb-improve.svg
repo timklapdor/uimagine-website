@@ -5,18 +5,18 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Projects/Bb-Improve" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" transform="translate(28.000000, 33.000000)" stroke="#FFFFFF">
+        <g id="bb-improve" transform="translate(31.000000, 33.000000)" stroke="#FFFFFF">
             <rect id="Rectangle-10" transform="translate(76.500000, 39.500000) rotate(-45.000000) translate(-76.500000, -39.500000) " x="73.5" y="-2.5" width="6" height="84"></rect>
             <path d="M65.5,4.55 L65.5,14.45" id="Line-3" stroke-linecap="square"></path>
             <path d="M42.5,17.55 L42.5,27.45" id="Line-3-Copy-10" stroke-linecap="square"></path>
             <path d="M79,10 L79,25" id="Line-3-Copy-2" stroke-linecap="square"></path>
             <path d="M53,29 L53,44" id="Line-3-Copy-8" stroke-linecap="square"></path>
-            <path d="M71,9 L61,9" id="Line-3-Copy" stroke-linecap="square" transform="translate(66.000000, 9.000000) scale(-1, -1) translate(-66.000000, -9.000000) "></path>
-            <path d="M47,23 L37,23" id="Line-3-Copy-11" stroke-linecap="square" transform="translate(42.000000, 23.000000) scale(-1, -1) translate(-42.000000, -23.000000) "></path>
+            <path d="M71,8 L61,8" id="Line-3-Copy" stroke-linecap="square" transform="translate(66.000000, 8.500000) rotate(180.000000) translate(-66.000000, -8.500000) "></path>
+            <path d="M47,22 L37,22" id="Line-3-Copy-11" stroke-linecap="square" transform="translate(42.000000, 22.500000) rotate(180.000000) translate(-42.000000, -22.500000) "></path>
             <path d="M87,16 L72,16 L87,16 Z" id="Line-3-Copy-3" stroke-linecap="square"></path>
             <path d="M60,36 L45,36 L60,36 Z" id="Line-3-Copy-9" stroke-linecap="square"></path>
-            <path d="M88.5,55.95366 L82.1968369,49.5 L0.5,49.5 L0.5,66.5 L88.5,66.5 L88.5,55.95366 Z" id="Rectangle-11"></path>
-            <path d="M88.5,0.5 L0.5,0.5 L0.5,66.5 L88.5,66.5 L88.5,0.5 Z" id="Rectangle-11-Copy"></path>
+            <polygon id="Rectangle-11" points="88.5 55.95366 82.1968369 49.5 0.5 49.5 0.5 66.5 88.5 66.5"></polygon>
+            <polyline id="Rectangle-11-Copy" points="88.5 47 88.5 0.5 88.5 0.5 0.5 0.5 0.5 66.5 88.5 66.5 88.5 56"></polyline>
             <rect id="Rectangle-10" transform="translate(76.500000, 39.500000) rotate(-45.000000) translate(-76.500000, -39.500000) " x="73.5" y="-2.5" width="6" height="84"></rect>
             <path d="M53,67 L60,82" id="Line-4" stroke-linecap="square"></path>
             <path d="M31,67 L38,82" id="Line-4-Copy" stroke-linecap="square" transform="translate(34.500000, 74.500000) scale(-1, 1) translate(-34.500000, -74.500000) "></path>

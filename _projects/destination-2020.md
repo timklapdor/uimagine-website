@@ -26,7 +26,7 @@ hero:
   gradient_color_1: "203,0,68"
   gradient_color_2: "0,175,216"
   image: ''
-  icon: "/uploads/2018/05/22/destination-2020.svg"
+  icon: "/uploads/destination-2020.svg"
 
 ---
 ## Description
