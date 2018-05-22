@@ -27,5 +27,12 @@ outputs:
 - description: Online Style Guide
   file: ''
   link: http://uimagine.edu.au/interact2-theme/guide/
-hero: []
+hero:
+- full_screen: ''
+  gradient_corner: ''
+  gradient_side: ''
+  gradient_color_1: ''
+  gradient_color_2: ''
+  image: ''
+  icon: "/uploads/2018/05/22/bb-improve.svg"
 ---
