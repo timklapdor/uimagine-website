@@ -16,7 +16,19 @@ team:
 focus:
 - strategic direction
 outputs: []
-hero: []
+hero:
+- full_screen: ''
+  gradient_corner: ''
+  gradient_side: ''
+  gradient_color_1: ''
+  gradient_color_2: ''
+  image: ''
+  icon: "/uploads/2018/05/22/destination-2020.svg"
+  promo-head: ''
+  promo-text: ''
+  button_class: ''
+  button-text: ''
+  button_link: ''
 ---
 ## **Description**
 
