@@ -10,7 +10,7 @@ hero:
   gradient_corner: ''
   gradient_side: ''
   image: ''
-  icon: ''
+  icon: "/uploads/olm.svg"
 date: 2018-05-22 14:11:25 +1000
 progress: 100
 date-start: 2015-03-30 00:00:00 +1100
