@@ -157,31 +157,6 @@ fields:
     type: file
     hidden: false
     default: ''
-  - name: promo-head
-    label: Promo head
-    type: text
-    hidden: false
-    default: ''
-  - name: promo-text
-    label: Promo text
-    type: text
-    hidden: false
-    default: ''
-  - name: button_class
-    label: Button class
-    type: text
-    hidden: false
-    default: ''
-  - name: button-text
-    label: Button text
-    type: text
-    hidden: false
-    default: ''
-  - name: button_link
-    label: Button link
-    type: text
-    hidden: false
-    default: ''
   hidden: false
   default: ''
 pages:
