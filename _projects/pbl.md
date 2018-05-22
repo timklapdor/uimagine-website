@@ -23,11 +23,12 @@ outputs:
     link: uploads/pbl-report.pdf
 date-start: 01-02-2015
 date-finish: 30-06-2016
-icon: uploads/project-pbl.svg
-gradient_corner: top
-gradient_side: left
-gradient_color_1: "203,0,68"
-gradient_color_2: "0,175,216"
+hero:
+  - icon: uploads/project-pbl.svg
+    gradient_corner: top
+    gradient_side: left
+    gradient_color_1: "203,0,68"
+    gradient_color_2: "0,175,216"
 
 ---
 

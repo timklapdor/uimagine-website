@@ -9,7 +9,7 @@ hero:
   gradient_side:
   gradient_color_1: "0,175,216,.9"
   gradient_color_2: "0,175,216,.4"
-  image:
+  image: uploads/news-alpha.svg
   promo-head: News
 
 ---

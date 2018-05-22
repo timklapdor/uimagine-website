@@ -7,9 +7,9 @@ hero:
 - full_screen: false
   gradient_corner: bottom
   gradient_side:
-  gradient_color_1: "203,0,68,1"
-  gradient_color_2: "255,88,0,1"
-  image:
+  gradient_color_1: "203,0,68,.9"
+  gradient_color_2: "255,88,0,.8"
+  image: uploads/resources-alpha.svg
   promo-head: Resources
 feature:
 - full_screen: false
@@ -24,7 +24,7 @@ feature:
     text: ""
     button: Explore Projects
     button_class: btn-rev
-    button_link: features.html
+    button_link: projects/
 
 ---
 

@@ -18,11 +18,12 @@ outputs:
     link: uploads/child-protection-poster.pdf
 date-start: 01-04-2015
 date-finish: 31-12-2016
-icon: uploads/project-child-protection.svg
-gradient_corner: top
-gradient_side: left
-gradient_color_1: "203,0,68"
-gradient_color_2: "0,175,216"
+hero:
+  - icon: uploads/project-child-protection.svg
+    gradient_corner: top
+    gradient_side: left
+    gradient_color_1: "203,0,68"
+    gradient_color_2: "0,175,216"
 
 ---
 

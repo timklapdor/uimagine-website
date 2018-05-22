@@ -38,8 +38,8 @@
 
   <nav>
       {% if posts.size > 1 %}
-        {% if prevurl %}<a href="{{ site.baseurl }}/{{ prevurl }}.html" class="btn-nav prev">PREV</a>{% endif %}
-        {% if nexturl %}<a href="{{ site.baseurl }}/{{ nexturl }}.html" class="btn-nav next">NEXT</a>{% endif %}
+        {% if prevurl %}<a href="{{ site.baseurl }}{{ prevurl }}.html" class="btn-nav prev">PREV</a>{% endif %}
+        {% if nexturl %}<a href="{{ site.baseurl }}{{ nexturl }}.html" class="btn-nav next">NEXT</a>{% endif %}
       {% endif %}
   </nav>
 {% endif %}

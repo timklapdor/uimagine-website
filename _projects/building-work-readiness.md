@@ -27,11 +27,12 @@ outputs:
     link: uploads/report.pdf
   - description: something
     link: uploads/something.pdf
-icon: uploads/project-work-ready.svg
-gradient_corner: top
-gradient_side: left
-gradient_color_1: "203,0,68"
-gradient_color_2: "0,175,216"
+hero:
+  - icon: uploads/project-work-ready.svg
+    gradient_corner: top
+    gradient_side: left
+    gradient_color_1: "203,0,68"
+    gradient_color_2: "0,175,216"
 
 ---
 

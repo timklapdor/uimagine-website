@@ -24,8 +24,8 @@ section.team {
     margin-top: 0;
   }
   .thumb {
-      width: 80%;
-      padding-bottom: 80%;
+      width: 100%;
+      padding-bottom: 50vh;
       background-size: cover;
       background-position: center center;
     }
@@ -76,6 +76,9 @@ section.team {
 
 
 @media screen and (min-width: 1100px) {
+  .profile .thumb {
+    padding-bottom: 30vh;
+  }
 
   article.team-member {
     grid-column: span 1;
