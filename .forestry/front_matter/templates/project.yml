@@ -183,3 +183,5 @@ fields:
     default: ''
   hidden: false
   default: ''
+pages:
+- _projects/destination-2020.md
