@@ -117,7 +117,7 @@ fields:
   - type: text
     name: link
     label: Link
-    description: For online output - paste link URL here - f
+    description: For online output - paste link URL here
   hidden: false
   default: ''
   config:

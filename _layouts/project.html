@@ -20,7 +20,7 @@ layout: default
   <aside class="project">
 
     <h4>Summary</h4><em>{{ page.summary | markdownify }}</em>
-    <h4>Project Focus</h4><label>{% for item in page.focus %}{{ item | capitalize }}{% if forloop.last == false %}, {% endif %}{% endfor %}</label>
+    <h4>Project Focus</h4><label class="title">{% for item in page.focus %}{{ item }}{% if forloop.last == false %}, {% endif %}{% endfor %}</label>
     <h4>Progress</h4>
 
     <div class="progress">
