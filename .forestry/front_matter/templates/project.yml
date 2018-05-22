@@ -165,6 +165,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _projects/csu-online-learning-model.md
 - _projects/eexam-trials.md
 - _projects/destination-2020.md
 - _projects/blackboard-improve.md
