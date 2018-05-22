@@ -1,0 +1,185 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: project
+  config:
+    required: true
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+  config:
+    required: true
+- type: select
+  name: categories
+  config:
+    source:
+      type: simple
+    options:
+    - Innovation
+    - Incubation
+    - Open Education
+    required: true
+  label: Categories
+  description: Chose the applicable program of work
+  default: Innovation
+- type: select
+  name: status
+  config:
+    source:
+      type: simple
+    options:
+    - ongoing
+    - complete
+    required: true
+  label: Status
+  default: ongoing
+- type: number
+  name: progress
+  label: Progress
+  config:
+    min: '1'
+    max: '100'
+    step: '5'
+    required: true
+  default: ''
+  description: percentage of project completed
+- name: date-start
+  label: Date start
+  type: datetime
+  hidden: false
+  default: ''
+  config:
+    required: true
+- name: date-finish
+  label: Date finish
+  type: datetime
+  hidden: false
+  default: ''
+- name: summary
+  label: Summary
+  type: textarea
+  hidden: false
+  default: ''
+  config:
+    wysiwyg: false
+    schema:
+      format: markdown
+    required: true
+  description: Short summary of the projects aims
+- name: team
+  label: Team
+  type: list
+  hidden: false
+  default: ''
+  description: Team members involved in the project - just names (no titles)
+- name: focus
+  label: Focus
+  type: list
+  hidden: false
+  default: ''
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - resource
+    - experience
+    - pedagogy
+    - practice
+    - research
+    - scholarship
+    - new technology
+    - course
+  description: What output is this project focussed on producing?
+- name: outputs
+  label: Outputs
+  type: field_group_list
+  fields:
+  - name: description
+    label: Description
+    type: text
+    hidden: false
+    default: ''
+  - name: link
+    label: Link
+    type: file
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+  config:
+    labelField: description
+  description: Resources produced by the project - reports, document etc
+- name: hero
+  label: Hero
+  type: field_group_list
+  fields:
+  - name: full_screen
+    label: Full screen
+    type: boolean
+    hidden: false
+    default: ''
+  - name: gradient_corner
+    label: Gradient corner
+    type: text
+    hidden: false
+    default: ''
+  - name: gradient_side
+    label: Gradient side
+    type: text
+    hidden: false
+    default: ''
+  - name: gradient_color_1
+    label: Gradient color 1
+    type: text
+    hidden: false
+    default: ''
+  - name: gradient_color_2
+    label: Gradient color 2
+    type: text
+    hidden: false
+    default: ''
+  - name: image
+    label: Image
+    type: file
+    hidden: false
+    default: ''
+  - name: icon
+    label: Icon
+    type: file
+    hidden: false
+    default: ''
+  - name: promo-head
+    label: Promo head
+    type: text
+    hidden: false
+    default: ''
+  - name: promo-text
+    label: Promo text
+    type: text
+    hidden: false
+    default: ''
+  - name: button_class
+    label: Button class
+    type: text
+    hidden: false
+    default: ''
+  - name: button-text
+    label: Button text
+    type: text
+    hidden: false
+    default: ''
+  - name: button_link
+    label: Button link
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
