@@ -165,4 +165,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _projects/blackboard-improve.md
 - _projects/destination-2020.md
