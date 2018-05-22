@@ -15,7 +15,10 @@ team:
 - Professor Don Olcott
 focus:
 - strategic direction
-outputs: []
+outputs:
+- description: Published Documents
+  file: ''
+  link: https://www.csu.edu.au/division/learning-and-teaching/home/online-learning/strategic-directions/roadmap
 hero:
 - full_screen: ''
   gradient_corner: ''
