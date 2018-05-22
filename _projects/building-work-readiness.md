@@ -24,9 +24,9 @@ focus:
   - resources
 outputs:
   - description: report
-    link: uploads/report.pdf
+    file: uploads/report.pdf
   - description: something
-    link: uploads/something.pdf
+    file: uploads/something.pdf
 hero:
   - icon: uploads/project-work-ready.svg
     gradient_corner: top

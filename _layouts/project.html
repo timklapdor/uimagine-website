@@ -36,7 +36,7 @@ layout: default
     <ul>
       {% for item in page.outputs %}
       <li>
-        {% if item.link %}<a href="{{ site.baseurl}}/{{ item.link }}" target="_blank">{{ item.description | capitalize }}</a>
+        {% if item.link %}<a href="{{ item.link }}" target="_blank">{{ item.description | capitalize }}</a>
         {% else %}<a href="{{ site.baseurl}}/{{ item.file }}" target="_blank">{{ item.description | capitalize }}</a>{% endif %}
       </li>
       {% endfor %}

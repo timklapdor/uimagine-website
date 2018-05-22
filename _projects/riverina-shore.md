@@ -16,7 +16,7 @@ focus:
   - practice
 outputs:
   - description: Final Report
-    link: uploads/riverina-shore-final-report.pdf
+    file: uploads/riverina-shore-final-report.pdf
   - description: Presentation
     file: uploads/riverina-shore-solg.pdf
 date-start: 01-04-2015

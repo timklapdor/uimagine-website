@@ -10,11 +10,11 @@ status: complete
 progress: 100%
 outputs:
   - description: Ascilite 2016 Paper
-    link: uploads/skillbox-ascilite-2016-whitsed.pdf
+    file: uploads/skillbox-ascilite-2016-whitsed.pdf
   - description: Ascilite 2015 Paper
-    link: uploads/skillbox-ascilite-2015-whitsed.pdf
+    file: uploads/skillbox-ascilite-2015-whitsed.pdf
   - description: Presentation
-    link: uploads/skillbox-solg.pdf
+    file: uploads/skillbox-solg.pdf
 date-start: 01-04-2015
 date-finish: 31-12-2016
 project-focus: resource

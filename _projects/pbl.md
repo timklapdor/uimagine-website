@@ -20,7 +20,7 @@ focus:
 progress: 100%
 outputs:
   - description: Final Report
-    link: uploads/pbl-report.pdf
+    file: uploads/pbl-report.pdf
 date-start: 01-02-2015
 date-finish: 30-06-2016
 hero:
