@@ -97,6 +97,7 @@ fields:
     - scholarship
     - new technology
     - course
+    - strategic direction
   description: What output is this project focussed on producing?
 - name: outputs
   label: Outputs
