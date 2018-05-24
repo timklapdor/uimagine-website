@@ -101,3 +101,5 @@ fields:
     default: ''
   hidden: false
   default: ''
+pages:
+- _posts/testing.md
