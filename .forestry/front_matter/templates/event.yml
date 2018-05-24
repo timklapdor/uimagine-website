@@ -178,7 +178,7 @@ fields:
   description: Add for each speaker
 - name: hero
   label: Page Hero
-  type: field_group
+  type: field_group_list
   fields:
   - name: full_screen
     label: Full screen
