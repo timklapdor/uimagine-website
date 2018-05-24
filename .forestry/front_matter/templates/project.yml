@@ -164,6 +164,41 @@ fields:
     default: ''
   hidden: false
   default: ''
+- type: field_group
+  name: hero
+  label: Hero
+  description: Information for page banner
+  fields:
+  - type: select
+    name: gradient_corner
+    config:
+      source:
+        type: simple
+      options:
+      - top
+      - bottom
+    label: Gradient Corner
+  - type: select
+    config:
+      source:
+        type: simple
+      options:
+      - left
+      - right
+    label: Gradient side
+    name: gradient_side
+  - type: text
+    name: gradient_color_1
+    label: Gradient color 1
+  - type: text
+    name: gradient_color_2
+    label: Gradient Color 2
+  - type: file
+    name: icon
+    label: Icon
+  - type: file
+    name: image
+    label: Image
 pages:
 - _projects/test.md
 - _projects/csu-online-learning-model.md
