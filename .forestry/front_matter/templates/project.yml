@@ -123,47 +123,6 @@ fields:
   config:
     labelField: description
   description: Resources produced by the project - reports, document etc
-- name: hero
-  label: Hero
-  type: field_group
-  fields:
-  - name: full_screen
-    label: Full screen
-    type: boolean
-    hidden: false
-    default: ''
-  - name: gradient_corner
-    label: Gradient corner
-    type: text
-    hidden: false
-    default: ''
-  - name: gradient_side
-    label: Gradient side
-    type: text
-    hidden: false
-    default: ''
-  - name: gradient_color_1
-    label: Gradient color 1
-    type: text
-    hidden: false
-    default: '203,0,68'
-  - name: gradient_color_2
-    label: Gradient color 2
-    type: text
-    hidden: false
-    default: '0,175,216'
-  - name: image
-    label: Image
-    type: file
-    hidden: false
-    default: ''
-  - name: icon
-    label: Icon
-    type: file
-    hidden: false
-    default: ''
-  hidden: false
-  default: ''
 - type: field_group
   name: hero
   label: Hero
