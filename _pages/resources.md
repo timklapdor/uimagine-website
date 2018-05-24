@@ -5,8 +5,8 @@ title: Resources
 permalink: resources.html
 hero:
 - full_screen: false
-  gradient_corner: bottom
-  gradient_side:
+  gradient_corner:
+  gradient_side: right
   gradient_color_1: "203,0,68,.9"
   gradient_color_2: "255,88,0,.8"
   image: uploads/resources-alpha.svg

@@ -1,7 +1,8 @@
 ---
+
 title: CSU Online Learning Model
 layout: project
-categories: Innovation
+categories: innovation
 status: complete
 hero:
 - gradient_color_1: '203,0,68'
@@ -35,14 +36,16 @@ outputs:
   file: "/uploads/online-learning-model-v1.pdf"
 - file: "/uploads/online-learning-model-v2.pdf"
   description: Version 2
+
 ---
+
 ## **Description**
 
 The development of CSU’s Online Learning Model helped to share and shape the future direction for CSU efforts in online education. The model bought together a large amount of research and identified best practices that revolved around Moore’s model of interaction.
 
 ## **Aims**
 
-The original aim of the Online Learning Model was to provide a future vision for what online learning should and could look like. The model began to take shape as part of the work done in developing CSU’s strategic document Destination 2020. Use of the model expanded and began to be act as a bridge between the University’s strategic efforts and the practice of teaching. The applied use of the model was originally piloted across {{XX number of}} subjects and acted as a way to inform innovation, trial technology and change practices within the subject. The success of these early pilots led to a scale up across a much broader selection of subjects across the three faculties.
+The original aim of the Online Learning Model was to provide a future vision for what online learning should and could look like. The model began to take shape as part of the work done in developing CSU’s strategic document Destination 2020. Use of the model expanded and began to be act as a bridge between the University’s strategic efforts and the practice of teaching. The applied use of the model was originally piloted across 28 subjects and acted as a way to inform innovation, trial technology and change practices within the subject. The success of these early pilots led to a scale up across a much broader selection of subjects across the three faculties.
 
 ## **Approach**
 

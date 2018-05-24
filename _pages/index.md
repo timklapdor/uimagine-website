@@ -9,7 +9,7 @@ hero:
   gradient_side:
   gradient_color_1: "215,31,133,.7"
   gradient_color_2: "255,88,0,.7"
-  image: uploads/uimagine-sparks.jpg
+  image: uploads/uimagine-spark.jpg
   promo-head: blank
   promo-text: Spark something new!
   button_class: btn-ui-fuchia
@@ -54,8 +54,8 @@ feature-1:
 - full_screen: false
   gradient_corner: top
   gradient_side:
-  gradient_color_1: "255,88,0,1"
-  gradient_color_2: "215,31,133,1"
+  gradient_color_1: "255,88,0,.9"
+  gradient_color_2: "215,31,133,.9"
   image:
   text-area:
   - size: wide

@@ -20,11 +20,11 @@ layout: default
   <aside class="project">
 
     <h4>Summary</h4><em>{{ page.summary | markdownify }}</em>
-    <h4>Project Focus</h4><label class="title">{% for item in page.focus %}{{ item }}{% if forloop.last == false %}, {% endif %}{% endfor %}</label>
+    <h4>Project Focus</h4><label class="capitals">{% for item in page.focus %}{{ item }}{% if forloop.last == false %}, {% endif %}{% endfor %}</label>
     <h4>Progress</h4>
 
     <div class="progress">
-      <span style="width: {{ page.progress }}" class="ui-fuchia-bg">{{ page.progress }}</span>
+      <span style="width: {{ page.progress }}%" class="ui-fuchia-bg">{{ page.progress }}</span>
     </div>
     <h4>Status</h4><label>{{ page.status | capitalize }}</label>
     <h4>Team</h4><label><ul>{% for item in page.team %}<li>{{ item }}</li>{% endfor %}</ul></label>
@@ -36,8 +36,8 @@ layout: default
     <ul>
       {% for item in page.outputs %}
       <li>
-        {% if item.link %}<a href="{{ item.link }}" target="_blank" class="title">{{ item.description }}</a>
-        {% else %}<a href="{{ site.baseurl}}/{{ item.file }}" target="_blank" class="title">{{ item.description }}</a>{% endif %}
+        {% if item.link %}<a href="{{ item.link }}" target="_blank" class="capitals">{{ item.description }}</a>
+        {% else %}<a href="{{ site.baseurl}}/{{ item.file }}" target="_blank" class="capitals">{{ item.description }}</a>{% endif %}
       </li>
       {% endfor %}
     </ul>
