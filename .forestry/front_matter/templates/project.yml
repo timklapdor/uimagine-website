@@ -159,7 +159,6 @@ fields:
     name: image
     label: Image
 pages:
-- _projects/test.md
 - _projects/csu-online-learning-model.md
 - _projects/eexam-trials.md
 - _projects/destination-2020.md
