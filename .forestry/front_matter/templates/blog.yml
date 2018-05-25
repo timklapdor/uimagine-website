@@ -78,7 +78,7 @@ fields:
     label: Gradient corner
     type: text
     hidden: false
-    default: ''
+    default: bottom
   - name: gradient_side
     label: Gradient side
     type: text
@@ -88,12 +88,12 @@ fields:
     label: Gradient color 1
     type: text
     hidden: false
-    default: ''
+    default: '255,88,0,.1'
   - name: gradient_color_2
     label: Gradient color 2
     type: text
     hidden: false
-    default: ''
+    default: '255,88,0,.4'
   - name: image
     label: Image
     type: file
