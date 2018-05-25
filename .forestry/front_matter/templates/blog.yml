@@ -102,5 +102,5 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/on-the-uimagine-server.md
+- _posts/2018-05-25-on-the-uimagine-server.md
 - _posts/2018-05-24-testing.md
