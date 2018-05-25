@@ -3,10 +3,10 @@ title: Destination 2020
 layout: project
 categories: Innovation
 status: complete
-date: 2018-05-22 11:08:48 +1000
+date: 2018-05-22 01:08:48 +0000
 progress: 100
-date-start: 2014-04-21 00:00:00 +1000
-date-finish: 2015-06-01 00:00:00 +1000
+date-start: 2014-04-20 14:00:00 +0000
+date-finish: 2015-05-31 14:00:00 +0000
 summary: 'Destination 2020: A Road Map for CSU''s Online Future was developed to provide
   strategic direction to CSU''s approach to online learning.'
 team:
@@ -23,11 +23,10 @@ hero:
 - full_screen: ''
   gradient_corner: ''
   gradient_side: ''
-  gradient_color_1: "203,0,68"
-  gradient_color_2: "0,175,216"
+  gradient_color_1: '203,0,68'
+  gradient_color_2: '0,175,216'
   image: ''
   icon: "/uploads/destination-2020.svg"
-
 ---
 ## Description
 

@@ -1,31 +1,29 @@
 ---
-
 layout: about
 title: About uImagine
 permalink: about.html
 hero:
 - full_screen: false
-  gradient_corner:
+  gradient_corner: 
   gradient_side: left
-  gradient_color_1: "0,175,216,.9"
-  gradient_color_2: "215,31,133,.4"
+  gradient_color_1: '0,175,216,.9'
+  gradient_color_2: '215,31,133,.4'
   image: uploads/uimagine-sparks.jpg
   promo-head: About Us
 feature:
 - full_screen: false
-  gradient_corner:
-  gradient_side:
-  gradient_color_1:
-  gradient_color_2:
-  image:
+  gradient_corner: 
+  gradient_side: 
+  gradient_color_1: 
+  gradient_color_2: 
+  image: 
   text-area:
   - size: centered
     heading: Want to know what u!magine does?
-    text: "We do lots of things "
+    text: 'We do lots of things '
     button: Explore Our Work
     button_class: btn-rev
     button_link: programs.html
-
 ---
 
 ## What is u!magine?

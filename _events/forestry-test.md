@@ -3,11 +3,11 @@ title: Forestry Test
 layout: event
 event-type: conference
 status: upcoming
-date: 2018-05-21 15:33:41 +1000
+date: 2018-05-21 05:33:41 +0000
 promotional-text: This is going to be sweet
 post-mortem-text: This was such a sweet event
-date-start: 2018-05-23 12:00:00 +1000
-date-finish: 2018-05-23 13:00:00 +1000
+date-start: 2018-05-23 02:00:00 +0000
+date-finish: 2018-05-23 03:00:00 +0000
 speakers:
 - position: Online Learning Technology Person
   twitter: timklapdor
@@ -31,7 +31,7 @@ hero:
   gradient_color_1: '255,88,0,.8'
   gradient_color_2: '255,88,0,.4'
   image: "/uploads/leon-ephraim-30995.jpg"
-  icon: '/uploads/alt-staff.svg'
+  icon: "/uploads/alt-staff.svg"
 ---
 ## About
 

@@ -1,5 +1,4 @@
 ---
-
 title: CSU Online Learning Model
 layout: project
 categories: innovation
@@ -12,10 +11,10 @@ hero:
   gradient_side: ''
   image: ''
   icon: "/uploads/olm.svg"
-date: 2018-05-22 14:11:25 +1000
+date: 2018-05-22 04:11:25 +0000
 progress: 100
-date-start: 2015-03-30 00:00:00 +1100
-date-finish: 2016-12-31 00:00:00 +1100
+date-start: 2015-03-29 13:00:00 +0000
+date-finish: 2016-12-30 13:00:00 +0000
 summary: The development of CSU’s Online Learning Model helped to share and shape
   the future direction for CSU efforts in online education.
 team:
@@ -36,7 +35,6 @@ outputs:
   file: "/uploads/online-learning-model-v1.pdf"
 - file: "/uploads/online-learning-model-v2.pdf"
   description: Version 2
-
 ---
 
 ## **Description**

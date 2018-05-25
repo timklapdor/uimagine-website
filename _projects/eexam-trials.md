@@ -11,10 +11,10 @@ hero:
   gradient_side: ''
   image: ''
   icon: "/uploads/eexams.svg"
-date: 2018-05-22 13:49:13 +1000
+date: 2018-05-22 03:49:13 +0000
 progress: 100
-date-start: 2015-03-23 00:00:00 +1100
-date-finish: 2017-07-31 00:00:00 +1000
+date-start: 2015-03-22 13:00:00 +0000
+date-finish: 2017-07-30 14:00:00 +0000
 summary: Pilot of online systems to replicate and replace paper based exams.
 team:
 - Tim Klapdor

@@ -7,7 +7,7 @@ excerpt: We are Live!
 author: Tim Klapdor
 hero:
 - full_screen: false
-  gradient_corner: 'bottom'
+  gradient_corner: bottom
   gradient_side: ''
   gradient_color_1: '255,88,0,.7'
   gradient_color_2: '0,0,0,.4'

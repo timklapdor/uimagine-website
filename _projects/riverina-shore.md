@@ -1,40 +1,42 @@
 ---
-
 layout: project
 title: Riverina Shore
-summary: "'Riverina Shore’ is a virtual community developed to provide contextual client information for online learning."
+summary: "'Riverina Shore’ is a virtual community developed to provide contextual
+  client information for online learning."
 team:
-  - Caroline Robinson
-  - Ryun Fell
-  - Kerri Hicks
-  - Rachel Rossiter
-  - Louise Breheny
+- Caroline Robinson
+- Ryun Fell
+- Kerri Hicks
+- Rachel Rossiter
+- Louise Breheny
 status: complete
 progress: 100%
 focus:
-  - resource
-  - practice
+- resource
+- practice
 outputs:
-  - description: Final Report
-    file: uploads/riverina-shore-final-report.pdf
-  - description: Presentation
-    file: uploads/riverina-shore-solg.pdf
-date-start: 01-04-2015
-date-finish: 31-12-2016
+- description: Final Report
+  file: uploads/riverina-shore-final-report.pdf
+- description: Presentation
+  file: uploads/riverina-shore-solg.pdf
+date-start: 0001-04-20 00:00:00 +0000
+date-finish: 0031-12-20 00:00:00 +0000
 hero:
-  - icon: uploads/project-riverina-shore.svg
-    gradient_corner: top
-    gradient_side: left
-    gradient_color_1: "203,0,68"
-    gradient_color_2: "0,175,216"
-
+- icon: uploads/project-riverina-shore.svg
+  gradient_corner: top
+  gradient_side: left
+  gradient_color_1: '203,0,68'
+  gradient_color_2: '0,175,216'
+date: 2018-05-25 02:31:25 +0000
 ---
 
 ## Description
 
 ‘Riverina Shore’ is a virtual community which has been developed within the School of Community Health as an online learning resource for students. The virtual community is presented as an attractive webpage in which client scenarios are embedded in locations such as homes, community health centre and social spaces.
-The development of this virtual community was made possible through collaborative partnerships within CSU, between CSU and Albury-Wodonga Health, and most importantly with clients in the community.  A model based on activity theory has been developed to illustrate this collaboration between clients, practitioners, academics, media technologists and educational designers.
-Evaluation of this online learning resource with students, academics and practitioners through surveys and focus groups has highlighted its potential for engaging students with learning and enhancing their skills in clinical reasoning.
+
+The development of this virtual community was made possible through collaborative partnerships within CSU, between CSU and Albury-Wodonga Health, and most importantly with clients in the community.  A model based on activity theory has been developed to illustrate this collaboration between clients, practitioners, academics, media technologists and educational designers.
+
+Evaluation of this online learning resource with students, academics and practitioners through surveys and focus groups has highlighted its potential for engaging students with learning and enhancing their skills in clinical reasoning.
 
 ## Aims
 
@@ -55,9 +57,15 @@ Additionally, the community may be used for inter-professional activities in whi
 ## Findings
 
 A number of key learning theme emerged from students interaction with the virtual community:
-- Students could see people outside of a clinic setting/in the community/in a social setting.
-- The could now see the bigger picture for a client and how their treatment fits into their broader lives.
-- Students could look behind the scenes at what a person/family/carers are dealing with.
+
+- Students could see people outside of a clinic setting/in the community/in a social setting.
+
+- The could now see the bigger picture for a client and how their treatment fits into their broader lives.
+
+- Students could look behind the scenes at what a person/family/carers are dealing with.
 - Realising the physical/psychological/emotional/social impact of a condition on the person/family/carers/community.
-- Seeing opportunities for IPP.- Realising the positive impact of IPP on the person/family/community.
-- A greater sense of realism in terms of the scenarios presented to students.
+
+- Seeing opportunities for IPP.
+- Realising the positive impact of IPP on the person/family/community.
+
+- A greater sense of realism in terms of the scenarios presented to students.

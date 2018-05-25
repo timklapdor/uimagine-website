@@ -3,10 +3,10 @@ title: Testing
 layout: project
 categories: Innovation
 status: ongoing
-date: 2018-05-24 14:55:22 +1000
+date: 2018-05-24 04:55:22 +0000
 progress: 50
-date-start: 2018-05-24 00:00:00 +1000
-date-finish: 2018-05-26 00:00:00 +1000
+date-start: 2018-05-23 14:00:00 +0000
+date-finish: 2018-05-25 14:00:00 +0000
 summary: Testing 123
 team:
 - Tester

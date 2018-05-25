@@ -1,39 +1,38 @@
 ---
-
 layout: project
 title: Building Work Readiness
-summary: "Develop workplace readiness through online role play, games and simulations."
+summary: Develop workplace readiness through online role play, games and simulations.
 status: complete
-date-start: 01-04-2015
-date-finish: 31-12-2016
+date-start: 0001-04-20 00:00:00 +0000
+date-finish: 0031-12-20 00:00:00 +0000
 progress: 100%
-category: innovation
 team:
-  - Carole Hunter
-  - Chrys Gunasakera
-  - Miriam Edwards
-  - Rod Duncan
-  - Alissa Brabin
-  - Arif Khan
-  - Kath Herbert
-  - Deb Murdoch
-  - Rick Parmenter
+- Carole Hunter
+- Chrys Gunasakera
+- Miriam Edwards
+- Rod Duncan
+- Alissa Brabin
+- Arif Khan
+- Kath Herbert
+- Deb Murdoch
+- Rick Parmenter
 focus:
-  - pedagogy
-  - practice
-  - resources
+- pedagogy
+- practice
+- resources
 outputs:
-  - description: report
-    file: uploads/report.pdf
-  - description: something
-    file: uploads/something.pdf
+- description: report
+  file: uploads/report.pdf
+- description: something
+  file: uploads/something.pdf
 hero:
-  - icon: uploads/project-work-ready.svg
-    gradient_corner: top
-    gradient_side: left
-    gradient_color_1: "203,0,68"
-    gradient_color_2: "0,175,216"
-
+- icon: uploads/project-work-ready.svg
+  gradient_corner: top
+  gradient_side: left
+  gradient_color_1: '203,0,68'
+  gradient_color_2: '0,175,216'
+categories: innovation
+date: 2018-05-25 02:31:25 +0000
 ---
 
 ## Description
