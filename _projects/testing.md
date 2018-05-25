@@ -11,8 +11,8 @@ summary: Testing 123
 team:
 - Tester
 hero:
-- gradient_corner: 
-  gradient_side: 
+  gradient_corner: 
+  gradient_side:
   gradient_color_1: '203,0,68'
   gradient_color_2: '0,175,216'
   icon: "/uploads/project-best-network.svg"

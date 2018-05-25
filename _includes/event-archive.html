@@ -3,7 +3,7 @@
 {% for event in site.events %}
   <article class="event card {{ event.status }}" data-category="{{ event.status }}">
     <a href="{{ site.baseurl }}/{{ event.url }}.html">
-    {% for item in event.hero %}<img src="{{ site.baseurl }}{{ item.icon}}">{% endfor %}
+    {% if event.hero %}<img src="{{ site.baseurl }}{{ event.hero.icon}}">{% endif %}
     <h3 class="shadow-1 name">{{ event.title }}</h3>
     </a>
   </article>

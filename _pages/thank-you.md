@@ -3,7 +3,7 @@ layout: message
 title: Thank You!
 permalink: thank-you.html
 hero:
-- full_screen: true
+  full_screen: true
   gradient_corner: top
   gradient_side: left
   gradient_color_1: '0,0,0,0,1'

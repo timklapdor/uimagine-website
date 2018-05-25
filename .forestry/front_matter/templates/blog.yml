@@ -68,7 +68,7 @@ fields:
   description: Relate to specific topics covered - 5 max - All lowercase
 - name: hero
   label: Hero
-  type: field_group_list
+  type: field_group
   fields:
   - name: full_screen
     label: Full screen

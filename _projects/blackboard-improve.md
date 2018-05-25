@@ -28,7 +28,7 @@ outputs:
   file: ''
   link: http://uimagine.edu.au/interact2-theme/guide/
 hero:
-- full_screen: ''
+  full_screen: ''
   gradient_corner: ''
   gradient_side: ''
   gradient_color_1: '203,0,68'

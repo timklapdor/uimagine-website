@@ -25,7 +25,7 @@ location:
   lng: 147.3663067
   zoom: 17
 hero:
-- full_screen: ''
+  full_screen: ''
   gradient_corner: ''
   gradient_side: ''
   gradient_color_1: '255,88,0,.8'

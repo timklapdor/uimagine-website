@@ -4,7 +4,7 @@ layout: project
 categories: Innovation
 status: complete
 hero:
-- gradient_color_1: '203,0,68'
+  gradient_color_1: '203,0,68'
   gradient_color_2: '0,175,216'
   full_screen: false
   gradient_corner: left

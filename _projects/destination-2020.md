@@ -20,7 +20,7 @@ outputs:
   file: ''
   link: https://www.csu.edu.au/division/learning-and-teaching/home/online-learning/strategic-directions/roadmap
 hero:
-- full_screen: ''
+  full_screen: ''
   gradient_corner: ''
   gradient_side: ''
   gradient_color_1: '203,0,68'

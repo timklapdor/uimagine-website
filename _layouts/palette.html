@@ -4,9 +4,9 @@ layout: default
 
 ---
 
-{% for item in page.hero %}
+{% if page.hero %}
   {% include hero.html %}
-{% endfor %}
+{% endif %}
 
 {% for item in page.colours %}
   {% include palette.html %}

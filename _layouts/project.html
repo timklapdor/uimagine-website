@@ -4,12 +4,12 @@ layout: default
 
 ---
 
-{% for item in page.hero %}
-<section class="project-hero" style="transform-style: preserve-3d; background-image:linear-gradient(to bottom, rgb({{ item.gradient_color_1 }}), rgb({{ item.gradient_color_2 }}){% for item in item.header-image %}, url({{ site.baseurl }}/{{ item.image-path }}{{ item }}){% endfor %}">
-<h3 class="icon" style="background-image: {% for icon in item.icon %}url({{ site.baseurl }}/{{ icon }}){% endfor %}"></h3>
+{% if page.hero %}
+<section class="project-hero" style="transform-style: preserve-3d; background-image:linear-gradient(to bottom, rgb({{ page.hero.gradient_color_1 }}), rgb({{ page.hero.gradient_color_2 }}){% for item in page.hero.header-image %}, url({{ site.baseurl }}/{{ item.image-path }}{{ item }}){% endfor %}">
+<h3 class="icon" style="background-image: {% for icon in page.hero.icon %}url({{ site.baseurl }}/{{ icon }}){% endfor %}"></h3>
   <h2 class="promo">{{ page.title }}</h2>
 </section>
-{% endfor %}
+{% endif %}
 
 <section class="project">
 

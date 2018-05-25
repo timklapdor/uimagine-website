@@ -18,7 +18,7 @@ date-start: 0001-04-20 00:00:00 +0000
 date-finish: 0031-12-20 00:00:00 +0000
 project-focus: resource
 hero:
-- icon: uploads/project-skills-box.svg
+  icon: uploads/project-skills-box.svg
   gradient_corner: top
   gradient_side: left
   gradient_color_1: '203,0,68'

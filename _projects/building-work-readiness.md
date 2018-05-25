@@ -26,7 +26,7 @@ outputs:
 - description: something
   file: uploads/something.pdf
 hero:
-- icon: uploads/project-work-ready.svg
+  icon: uploads/project-work-ready.svg
   gradient_corner: top
   gradient_side: left
   gradient_color_1: '203,0,68'

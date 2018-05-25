@@ -6,9 +6,9 @@ layout: default
 
 
 <!--  Hero -->
-{% for item in page.hero %}
+{% if page.hero %}
   {% include hero.html %}
-{% endfor %}
+{% endif %}
 
 
 <section class="article">

@@ -3,8 +3,8 @@ layout: news
 title: News
 permalink: news.html
 hero:
-- full_screen: false
-  gradient_corner: 
+  full_screen: false
+  gradient_corner:
   gradient_side: right
   gradient_color_1: '0,175,216,.9'
   gradient_color_2: '215,31,133,9'

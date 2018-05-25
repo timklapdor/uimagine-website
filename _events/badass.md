@@ -16,7 +16,7 @@ location:
   lng: 147.351636
   zoom: 15
 hero:
-- icon: "/uploads/alt-staff.svg"
+  icon: "/uploads/alt-staff.svg"
   image: warren-wong-320130.jpg
   gradient_corner: 
   gradient_side: 

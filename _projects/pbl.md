@@ -24,7 +24,7 @@ outputs:
 date-start: 0001-02-20 00:00:00 +0000
 date-finish: 0030-06-20 00:00:00 +0000
 hero:
-- icon: uploads/project-pbl.svg
+  icon: uploads/project-pbl.svg
   gradient_corner: top
   gradient_side: left
   gradient_color_1: '203,0,68'
