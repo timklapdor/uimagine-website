@@ -55,6 +55,7 @@ fields:
     - Incubation
     - Innovation
     - Open Education
+    - Updates
     required: true
   label: Categories
   description: Which program does this go under?
@@ -64,7 +65,7 @@ fields:
   type: tag_list
   hidden: false
   default: ''
-  description: Relate to specific topics covered - 5 max
+  description: Relate to specific topics covered - 5 max - All lowercase
 - name: hero
   label: Hero
   type: field_group_list
