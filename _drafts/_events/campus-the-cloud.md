@@ -16,7 +16,7 @@ hero:
   full_screen: false
   gradient_side: ''
   image: ''
-  icon: ''
+  icon: "/uploads/campus-cloud.svg"
 date: 2018-05-28 13:51:16 +1000
 post-mortem-text: 'he Campus and the Cloud Symposium explored and scrutinised a range
   of online alternatives for many of the campus-based activities that form the core
