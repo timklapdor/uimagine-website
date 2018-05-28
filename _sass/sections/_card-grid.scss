@@ -31,9 +31,17 @@ section.card-grid {
       background-repeat: no-repeat;
     }
 
+    .date {
+      font-style: italic;
+      text-transform: uppercase;
+      text-align: right;
+      font-size: 70%;
+      margin: 0;
+      padding: 0;
+    }
+
     h3, p, a {
       margin: 24px;
-      text-align: center;
     }
   h3 {
   }
