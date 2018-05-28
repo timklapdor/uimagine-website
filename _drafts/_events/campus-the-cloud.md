@@ -30,7 +30,31 @@ date-start: 2016-05-10 09:00:00 +1000
 date-finish: 2016-05-10 17:00:00 +1000
 flickr-album: 72157668586031923
 speakers:
+- name: Matt Cheeseman
+  position: ''
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: "/uploads/cc-sym-cheeseman.pdf"
+  case-study: ''
+- name: Swee Kin Loke
+  position: ''
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: "/uploads/cc-sym-kin.pdf"
+  case-study: ''
 - name: Stuart Canning
+  position: ''
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: ''
+  case-study: ''
+- name: Euan Lindsay
   position: ''
   twitter: ''
   linkedin: ''
@@ -45,30 +69,6 @@ speakers:
   bio: ''
   photo: ''
   presentation: "/uploads/cc-sym-rocco.pdf"
-  case-study: ''
-- name: Euan Lindsay
-  position: ''
-  twitter: ''
-  linkedin: ''
-  bio: ''
-  photo: ''
-  presentation: ''
-  case-study: ''
-- name: Swee Kin Loke
-  position: ''
-  twitter: ''
-  linkedin: ''
-  bio: ''
-  photo: ''
-  presentation: "/uploads/cc-sym-kin.pdf"
-  case-study: ''
-- name: Matt Cheeseman
-  position: ''
-  twitter: ''
-  linkedin: ''
-  bio: ''
-  photo: ''
-  presentation: "/uploads/cc-sym-cheeseman.pdf"
   case-study: ''
 ---
 On the 10th of May 2016 u!magine hosted a symposium exploring strategies to provide laboratory experiments, clinical consultations, and interactive professional practice in an online space. The Campus to the Cloud event was hosted on both the Wagga and Bathurst campuses connected by a large screen video conference.
