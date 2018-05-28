@@ -29,7 +29,15 @@ promotional-text: 'he Campus and the Cloud Symposium explored and scrutinised a 
 date-start: 2016-05-10 09:00:00 +1000
 date-finish: 2016-05-10 17:00:00 +1000
 flickr-album: 72157668586031923
-speakers: []
+speakers:
+- name: Matt Cheeseman
+  position: ''
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: "/uploads/cc-sym-cheeseman.pdf"
+  case-study: ''
 ---
 On the 10th of May 2016 u!magine hosted a symposium exploring strategies to provide laboratory experiments, clinical consultations, and interactive professional practice in an online space. The Campus to the Cloud event was hosted on both the Wagga and Bathurst campuses connected by a large screen video conference.
 
