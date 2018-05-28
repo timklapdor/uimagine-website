@@ -36,7 +36,7 @@ speakers:
   linkedin: ''
   bio: ''
   photo: ''
-  presentation: "/uploads/cc-sym-lindsay.pdf"
+  presentation: ''
   case-study: ''
 - name: Euan Lindsay
   position: ''
