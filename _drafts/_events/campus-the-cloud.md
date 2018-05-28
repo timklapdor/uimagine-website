@@ -30,6 +30,14 @@ date-start: 2016-05-10 09:00:00 +1000
 date-finish: 2016-05-10 17:00:00 +1000
 flickr-album: 72157668586031923
 speakers:
+- name: Swee Kin Loke
+  position: ''
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: "/uploads/cc-sym-kin.pdf"
+  case-study: ''
 - name: Matt Cheeseman
   position: ''
   twitter: ''
