@@ -120,6 +120,11 @@ fields:
       min: '4'
   hidden: false
   default: ''
+- type: boolean
+  name: bios
+  label: No Bios
+  description: For a simple list of speakers - good for initial posting of event when
+    details are sparse
 - name: speakers
   label: Speakers
   type: field_group_list
@@ -134,6 +139,7 @@ fields:
     type: text
     hidden: false
     default: ''
+    description: Job title or institution they represent
   - name: twitter
     label: Twitter
     type: text
