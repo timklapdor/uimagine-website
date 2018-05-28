@@ -12,11 +12,11 @@ tags:
 excerpt: Something about this
 hero:
   full_screen: false
-  gradient_corner:
+  gradient_corner: 
   gradient_side: bottom
   gradient_color_1: '215,31,133,1'
   gradient_color_2: '215,31,133,1'
-  image:
+  image: 
 ---
 
 ## Nothing Else

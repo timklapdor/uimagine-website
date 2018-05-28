@@ -17,7 +17,7 @@ hero:
   gradient_side: ''
   image: ''
   icon: "/uploads/campus-cloud.svg"
-date: 2018-05-28 13:51:16 +1000
+date: 2018-05-28 03:51:16 +0000
 post-mortem-text: 'The Campus and the Cloud Symposium explored and scrutinised a range
   of online alternatives for many of the campus-based activities that form the core
   of residential schools. Demonstrations of successful applications of virtual laboratories
@@ -26,13 +26,13 @@ promotional-text: 'The Campus and the Cloud Symposium explored and scrutinised a
   of online alternatives for many of the campus-based activities that form the core
   of residential schools. Demonstrations of successful applications of virtual laboratories
   and online clinical and professional skills practice at CSU and beyond were on show. '
-date-start: 2016-05-10 09:00:00 +1000
-date-finish: 2016-05-10 17:00:00 +1000
+date-start: 2016-05-09 23:00:00 +0000
+date-finish: 2016-05-10 07:00:00 +0000
 flickr-album: https://www.flickr.com/photos/uimagine/sets/72157668586031923
 bios: false
 speakers:
 - name: Matt Cheeseman
-  position: 'University of Queensland'
+  position: University of Queensland
   twitter: ''
   linkedin: ''
   bio: ''
@@ -40,7 +40,7 @@ speakers:
   presentation: "/uploads/cc-sym-cheeseman.pdf"
   case-study: ''
 - name: Swee Kin Loke
-  position: 'University of Otago'
+  position: University of Otago
   twitter: ''
   linkedin: ''
   bio: ''
@@ -48,7 +48,7 @@ speakers:
   presentation: "/uploads/cc-sym-kin.pdf"
   case-study: ''
 - name: Stuart Canning
-  position: 'Smart Sparrow'
+  position: Smart Sparrow
   twitter: ''
   linkedin: ''
   bio: ''
@@ -56,7 +56,7 @@ speakers:
   presentation: ''
   case-study: ''
 - name: Euan Lindsay
-  position: 'CSU'
+  position: CSU
   twitter: ''
   linkedin: ''
   bio: ''
@@ -64,7 +64,7 @@ speakers:
   presentation: ''
   case-study: ''
 - name: Rocco Crino
-  position: 'CSU'
+  position: CSU
   twitter: ''
   linkedin: ''
   bio: ''
