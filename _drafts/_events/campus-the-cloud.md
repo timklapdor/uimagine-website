@@ -30,6 +30,22 @@ date-start: 2016-05-10 09:00:00 +1000
 date-finish: 2016-05-10 17:00:00 +1000
 flickr-album: 72157668586031923
 speakers:
+- name: Rocco Crino
+  position: ''
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: "/uploads/cc-sym-lindsay.pdf"
+  case-study: ''
+- name: Euan Lindsay
+  position: ''
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: ''
+  case-study: ''
 - name: Swee Kin Loke
   position: ''
   twitter: ''
