@@ -5,6 +5,7 @@
     <a href="{{ site.baseurl }}/{{ event.url }}.html">
     {% if event.hero %}<img src="{{ site.baseurl }}{{ event.hero.icon}}">{% endif %}
     <h3 class="shadow-1 name">{{ event.title }}</h3>
+    <p class="date event-date">{{ event.date-start | date_to_string }}</p>
     </a>
   </article>
 {% endfor %}

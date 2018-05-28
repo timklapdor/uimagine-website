@@ -1,12 +1,33 @@
 section.contact {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 5vw;
+    padding: 0 5vw 5vw;
     background-color: #FAF9F8;
 
     article {
+
+    &:nth-child(even) {
+      border-top: 4px solid $brand;
+      margin: 2em 0;
+    }
+
+    div {
+      padding: .25em 0;
+    }
+
+    input, textarea {
+      width: 95%;
+    }
+
+    input[type=checkbox] {
+      display: inline;
+      width: auto;
+      margin: .7em .5em;
+    }
+
+    ul {
+      list-style-type: none;
+    }
 
     }
 }
@@ -16,17 +37,25 @@ section.contact {
 @media screen and (min-width: 700px) {
   section.contact {
     display: grid;
-    grid-template-columns: 1fr 40em 1fr;
+    grid-template-columns: 1fr 1fr;
     grid-row: auto;
     grid-gap: 1em;
 
-
     article {
-      grid-column: 2 / span 1;
-      grid-row: 1;
+      grid-column: auto;
+      grid-row: auto;
+
+    &:nth-child(even) {
+      box-shadow: inset 2px 0 0 rgba(100, 100, 100, 0.1);
+      padding-left: 2em;
+      border-top: none;
+      margin: 0;
+    }
+
+
 
     h2 {
-      border-bottom: 2px solid;}
+      border-bottom: none;
     }
 
     p img {
@@ -43,5 +72,5 @@ section.contact {
     }
     }
   }
-
-  }
+}
+}

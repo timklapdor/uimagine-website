@@ -30,14 +30,20 @@ section.card-grid {
       background-position: center center;
       background-repeat: no-repeat;
     }
-
     .date {
       font-style: italic;
       text-transform: uppercase;
-      text-align: right;
       font-size: 70%;
       margin: 0;
+    }
+    .blog-date {
+      text-align: right;
       padding: 0;
+    }
+
+    .event-date {
+      text-align: center;
+      padding: .5em;
     }
 
     h3, p, a {
@@ -74,7 +80,7 @@ section.card-grid {
 
       article {
         margin: 1em;
-        flex: 0 1 25%;
+        flex: 1 1 25%;
       }
       .featured {
         flex: 2 2 50%;

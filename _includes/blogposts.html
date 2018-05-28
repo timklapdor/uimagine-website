@@ -4,7 +4,7 @@
   {% for post in site.posts %}
       <article {% if forloop.first == true %}class="featured" {% for item in post.hero %}style="background-image: linear-gradient(to {{item.gradient_corner}} {{item.gradient_side}}, rgba({{ item.gradient_color_1 }}), rgba({{ item.gradient_color_2 }})), url({{ site.baseurl }}/{{ item.image }}); background-position: center center; padding: 5em;"{% endfor %}{% endif %}>
         <a href="{{ site.baseurl }}{{ post.url }} ">
-        <p class="date {% if forloop.first == true %} {% else %}ui-grey-6{% endif %}">{{ post.date | date_to_long_string }}</p>
+        <p class="date blog-date {% if forloop.first == true %} {% else %}ui-grey-6{% endif %}">{{ post.date | date_to_long_string }}</p>
         {% if forloop.first == true %}
           <h3>{{ post.title }}</h3>{% else %}
           <h4>{{ post.title }}</h4>

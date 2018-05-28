@@ -11,8 +11,19 @@ layout: default
   {% include hero.html %}
 {% endif %}
 
-{% for item in page.form %}
-  <section class="contact">
-    {% include {{ item }}.html %}
-  </section>
-{% endfor %}
+<section class="article">
+  <article>
+    {{ content }}
+  </article>
+</section>
+
+<section class="contact">
+  {% if page.mailchimp == true %}
+    {% include mailchimp.html %}
+  {% endif %}
+
+
+  {% for item in page.form %}
+      {% include {{ item }}.html %}
+  {% endfor %}
+</section>
