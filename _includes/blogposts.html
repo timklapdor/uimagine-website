@@ -2,7 +2,7 @@
 
 <section class="card-grid blog" style="transform-style: preserve-3d; background-image: linear-gradient(to {{item.gradient_corner}} {{item.gradient_side}}, rgba({{ item.gradient_color_1 }}), rgba({{ item.gradient_color_2 }})), url({{ site.baseurl }}/{{ item.image }})">
   {% for post in site.posts %}
-      <article {% if forloop.first == true %}class="featured" {% for item in post.hero %}style="background-image: linear-gradient(to {{item.gradient_corner}} {{item.gradient_side}}, rgba({{ item.gradient_color_1 }}), rgba({{ item.gradient_color_2 }})), url({{ site.baseurl }}/{{ item.image }}); background-position: center center; padding: 5em;"{% endfor %}{% endif %}>
+      <article {% if forloop.first == true %}class="featured" {% if post.hero %}style="background-image: linear-gradient(to {{ post.hero.gradient_corner}} {{ post.hero.gradient_side}}, rgba({{ post.hero.gradient_color_1 }}), rgba({{ post.hero.gradient_color_2 }})), url({{ site.baseurl }}/{{ post.hero.image }}); background-position: center center; padding: 5em;"{% endif %}{% endif %}>
         <a href="{{ site.baseurl }}{{ post.url }} ">
         <p class="date blog-date {% if forloop.first == true %} {% else %}ui-grey-6{% endif %}">{{ post.date | date_to_long_string }}</p>
         {% if forloop.first == true %}

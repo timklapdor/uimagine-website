@@ -85,26 +85,24 @@
 }
 
 .download-btn {
-  -webkit-transform: translateZ(0);
-  // border: 2px solid;
-  padding: .5em 1em;
+  padding: .2em .4em;
   text-transform: uppercase;
-  border-radius: .5em;
+  border-radius: .2em;
   text-decoration: none;
-  background: transparent;
   text-align: center;
-  line-height: 2;
-  margin: 1em;
+  color: $rev;
+  background: $brand-1;
 
   &:before {
-    content: ""
+    content: url('../images/arrow-down.svg');
+    display: inline-block;
+    width: .7em;
+    padding: 0 .2em;
   }
 
+
   &:hover {
-    color: #af1a00;
-    background: $brand;
-    box-shadow: $shadow-2;
-    // border: $brand;
+    background: $brand-2;
 }
 }
 
@@ -123,4 +121,10 @@ button {
   min-height: 2em;
   padding: .5em;
   border-radius: .2em;
+}
+
+
+.svg-brand {
+  fill: $brand;
+  color: $brand;
 }

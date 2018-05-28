@@ -60,6 +60,10 @@ a {
   webkit-backface-visibility:none;
 }
 
+a:hover, a:active, a:focus {
+  color: $brand-2;
+}
+
 blockquote {
   border-left: 4px solid;
   color: $grey-item;
@@ -95,6 +99,8 @@ hr {border-top: 2px solid; width: 98%}
   margin: 4em 0 .5em -.3em;
   text-transform: uppercase;
 }
+
+.light-text {font-weight: 300;}
 
 .shadow-1 {text-shadow: $shadow-1}
 .shadow-2 {text-shadow: $shadow-2}

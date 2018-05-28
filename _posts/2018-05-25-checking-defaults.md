@@ -6,7 +6,7 @@ date: 2018-05-25 00:00:00 +0000
 excerpt: Testing the defaults for blog posts
 author: Tim Klapdor
 hero:
-- full_screen: ''
+  full_screen: ''
   gradient_corner: bottom
   gradient_side: ''
   gradient_color_1: '255,88,0,1'

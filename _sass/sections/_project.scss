@@ -11,9 +11,19 @@ section.project {
     width: 100%;
     border-top: 5px solid $brand;
 
-  h4 {
-    margin: .5em 0;
-  }
+    h5 {
+      text-transform: uppercase;
+      padding: 0;
+      margin: 1.5em 0 0;
+      font-size: 80%;
+      color: lighten($brand-1, 40%);
+    }
+
+    p {
+      margin: 0 0 1em;
+      line-height: 1.2;
+      font-size: 90%;
+    }
 
   ul {
     list-style: none;
@@ -103,7 +113,7 @@ div.button-group {
 @media screen and (min-width: 700px) {
 section.project {
   display: grid;
-  grid-template-columns: minmax(30em, 40em) .5fr;
+  grid-template-columns: minmax(30em, 40em) .75fr;
   grid-row: auto;
   grid-gap: 1em;
   margin-left: auto;

@@ -2,15 +2,13 @@
 layout: event
 title: Alternative Staffing Approaches
 event-type: think tank
-promotional-text: Coming soon a think tank exploring Alternative Staffing Approaches
-  for Scaleable Distance Education.
-post-mortem-text: uImagine hosted a think tank exploring Alternative Staffing Approaches
-  for Scaleable Distance Education.
+promotional-text: Coming soon a think tank exploring Alternative Staffing Approaches for Scaleable Distance Education.
+post-mortem-text: uImagine hosted a think tank exploring Alternative Staffing Approaches for Scaleable Distance Education.
 status: past
 date-start: 2015-09-15 09:00:00 +0000
 date-finish: 2015-09-15 17:00:00 +0000
 location:
-- info: CSU Wagga Campus
+  info: CSU Wagga Campus
   details: Room 217, Building 29
   lat: -35.064364
   lng: 147.351636
@@ -18,16 +16,17 @@ location:
 hero:
   icon: "/uploads/alt-staff.svg"
   image: "/uploads/warren-wong-320130.jpg"
-  gradient_corner: 
-  gradient_side: 
+  gradient_corner:
+  gradient_side:
   gradient_color_1: '255,88,0,.8'
   gradient_color_2: '0,255,0,.8'
 flickr-album: https://www.flickr.com/photos/uimagine/albums/72157658313869110
+bios: true
 speakers:
 - name: Dr. Valerie Peachey
-  position: 
+  position:
   twitter: https://twitter.com/valpeachey
-  linkedin: 
+  linkedin:
   photo: uploads/profile-val-peachey.jpg
   bio: Dr. Peachey’s expertise as entrepreneurial educational leader, spans over 25
     years in Canada’s Public Post Secondary Sector, where she has often created/initiated
@@ -43,9 +42,9 @@ speakers:
   presentation: uploads/alt-staff-val-peachey-presentation.pdf
   case-study: uploads/alt-staff-val-peachey-case.pdf
 - name: Prof. Albert Sangrà, Ph.D.
-  position: 
-  twitter: 
-  linkedin: 
+  position:
+  twitter:
+  linkedin:
   photo: uploads/profile-albert-sangra.jpg
   bio: |-
     Albert Sangrà is the Academic Director of the UNESCO Chair in Technology and Education for Social Change at the Open University of Catalonia. He is a researcher at the Edul@b research group and full professor at the Psychology and Educational Sciences Department.
@@ -56,11 +55,11 @@ speakers:
     He has been awarded with the 2015 EDEN Senior Fellow recognition for having demonstrated excellence in professional practice in Open, Distance and E-Learning, and with the 2015 Award of Excellence in E-Learning from the World Education Congress.
     European Ph.D. in Education at the Universitat Rovira i Virgili. Postgraduate in Applications of Information Technology in ODE at The Open University of the UK, and Diploma on Strategic Use of IT in Education at Harvard University. BA in Education at the Universitat de Barcelona.
   presentation: uploads/alt-staff-albert-sangra-presentation.pdf
-  case-study: 
+  case-study:
 - name: Professor Belinda Tynan
-  position: 
-  twitter: 
-  linkedin: 
+  position:
+  twitter:
+  linkedin:
   photo: uploads/profile-belinda-tynan.jpg
   bio: |-
     Professor Belinda Tynan is the Pro-Vice-Chancellor (Learning and Innovation) and a Professor of Higher Education at the Open University, UK. Reporting to the Vice-Chancellor, the Pro-Vice-Chancellor for Learning and Innovation contributes to the strategic vision and mission of the University and has a focus on supporting student success by providing executive leadership in the areas of innovation, strategy and policy development, production, informal learning and research and scholarship in technology enhanced learning. The PVC (LI) is Chair of the Education Committee amongst others and is a driver of initiatives relating to learning and innovation. The role interacts across the University faculties, institutes and supporting portfolios.
@@ -68,9 +67,9 @@ speakers:
   presentation: uploads/alt-staff-belinda-tynan-presentation.pdf
   case-study: uploads/alt-staff-belinda-tynan-case.pdf
 - name: Dr. Michael Crock
-  position: 
-  twitter: 
-  linkedin: 
+  position:
+  twitter:
+  linkedin:
   photo: uploads/profile-michael-crock.jpg
   bio: Michael has over 30 years higher education, management and consulting experience,
     including extensive involvement in the strategic development and operationalization

@@ -13,20 +13,21 @@ layout: default
 
   <aside>
 
-      <h6>{{ page.event-type | upcase }}</h6>
+      <h5>{{ page.event-type | upcase }}</h5>
 
 
       {% if page.status == 'past' %}
-      <h6>Held on the {{ page.date-start | date_to_long_string }}</h6>
+      <p>Held on the {{ page.date-start | date_to_long_string }}</p>
         {% else %}
       <p><strong>Start</strong><br> {{ page.date-start | date: "%m/%d/%Y, %H:%M" }}</p>
       <p><strong>Finish</strong><br> {{ page.date-finish | date: "%m/%d/%Y, %H:%M" }}</p>
       {% endif %}
 
-      <p><strong>Location</strong><br> {{ page.location-info }}</p>
-      {% for item in page.location %}
+      {% if page.location %}
+      <h5>Location</h5>
+        <p>{{ page.location.info }}</p>
         {% include maps.html %}
-      {% endfor %}
+      {% endif %}
   </aside>
 
 <article class="">
@@ -45,18 +46,33 @@ layout: default
   <div id="flickrembed"></div><div style=" display:block; text-align:center; z-index:-1;"><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input={{ page.flickr-album }}&sort=2&by=album&theme=compact&scale=fill&limit=10&skin=default&autoplay=true'></script><small style="display: block; text-align: center; margin: 0 auto;">Powered by <a href="https://flickrembed.com">flickr embed</a>.</small></div>
 {% endfor %}
 
+
+{% if page.bios == false %}
+<h2>Speakers</h2>
+<ul class="speakers">
+  {% for person in page.speakers %}
+  <li><h6>{{ person.name }}</h6>
+    {% for item in person.position %}<p class="ui-grey-2">{{ item }}</p>{% endfor %}
+    {% for item in person.presentation %}<a href="{{ item | absolute_url }}" class="download-btn" target="_blank">Slides</a>{% endfor %}
+    {% for item in person.case-study %}<a href="{{ item | absolute_url }}" class="download-btn" target="_blank">Case Study</a>{% endfor %}
+
+
+  </li>
+    {% endfor %}
+</ul>
+{% endif %}
+
 </article>
 
+
+{% if page.bios == true %}
 <article class="bustout">
 
 <h2>Speakers</h2>
 
-{% if page.speakers %}
-
 {% include speakers.html %}
 
-{% endif %}
-
 </article>
+{% endif %}
 
 </section>

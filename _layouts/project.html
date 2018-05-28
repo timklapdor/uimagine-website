@@ -19,20 +19,20 @@ layout: default
 
   <aside class="project">
 
-    <h4>Summary</h4><em>{{ page.summary | markdownify }}</em>
-    <h4>Project Focus</h4><label class="capitals">{% for item in page.focus %}{{ item }}{% if forloop.last == false %}, {% endif %}{% endfor %}</label>
-    <h4>Progress</h4>
+    <h5>Summary</h5><p><em>{{ page.summary | markdownify }}</em></p>
+    <h5>Project Focus</h5><p class="capitals">{% for item in page.focus %}{{ item }}{% if forloop.last == false %}, {% endif %}{% endfor %}</p>
+    <h5>Progress</h5>
 
     <div class="progress">
       <span style="width: {{ page.progress }}%" class="ui-fuchia-bg">{{ page.progress }}</span>
     </div>
-    <h4>Status</h4><label>{{ page.status | capitalize }}</label>
-    <h4>Team</h4><label><ul>{% for item in page.team %}<li>{{ item }}</li>{% endfor %}</ul></label>
-    <h4>Duration</h4><label>{{ page.date-start | date: "%b %y" }} – {{ page.date-finish | date: "%b %y" }}</label>
+    <h5>Status</h5><p>{{ page.status | capitalize }}</p>
+    <h5>Team</h5><p><ul>{% for item in page.team %}<li>{{ item }}</li>{% endfor %}</ul></p>
+    <h5>Duration</h5><p>{{ page.date-start | date: "%b %y" }} – {{ page.date-finish | date: "%b %y" }}</p>
 
     {% if page.outputs %}
 
-    <h4>Output</h4>
+    <h5>Output</h5>
     <ul>
       {% for item in page.outputs %}
       <li>
