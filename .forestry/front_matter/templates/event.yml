@@ -219,4 +219,5 @@ fields:
   default: ''
   description: Set the details for the banner
 pages:
+- _events/campus-the-cloud.md
 - _events/forestry-test.md
