@@ -60,16 +60,17 @@ speakers:
   photo: ''
   presentation: ''
   case-study: ''
-  speaker: []
 outputs: []
 flickr-album: ''
+
 ---
+
 The u!magine team aim was to engage with the CSU community around online education. We wanted to explore the current contexts, issues, technologies, challenges and practices around online education. The workshop engaged academic and professional staff in strategic thought around the future of online education and the approaches CSU needs to take and engage with in order to be successful.
 
 The workshops were a great chance for academic staff across the disciplines to provide input and insight into the challenges they face and the practices they employ. Each faculty and discipline has it’s own diverse requirements that needs to be captured and understood in order to ensure good practice across the institution.
 
 ## Output
 
-A recording of the online version of the workshop is available to view: 
+A recording of the online version of the workshop is available to view:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KWvd8rjqPlg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include youtube.html id="KWvd8rjqPlg" %}

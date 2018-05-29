@@ -26,7 +26,10 @@ layout: default
       {% if page.location %}
       <h5>Location</h5>
         <p>{{ page.location.info }}</p>
-        {% if page.location.lat %}
+        {% if page.location.lat == '' %}
+        <h5>Details</h5>
+        <p>{{ page.location.details }}</p>
+        {% else %}
           {% include maps.html %}
         {% endif %}
       {% endif %}
@@ -35,23 +38,25 @@ layout: default
 <article class="">
 
 {% if page.status == 'past' %}
-  <p class="description">{{ page.post-mortem-text }}</p>
+<section class="description">
+  {{ page.post-mortem-text | markdownify }}
   {% else %}
-  <p class="description">{{ page.promotional-text }}</p>
+  <p class="description">{{ page.promotional-text | markdownify  }}</p>
 {% endif %}
+</section>
+
+{{ content | markdownify }}
 
 
-{{ content }}
-
-{% if page.outputs.description %}
+{% if page.outputs != empty %}
 <h2>Outputs</h2>
-<ul class="speakers">
-    {% for item in page.outputs %}
-  <li class=""><p>{{ item.description }}</p><a href="{% if item.link %}{{ item.link }}{% else %}{{ item.file | absolute_url }}{% endif %}" class="download-btn full-btn" target="_blank">{{ item.button_text }}</a></li>
-    {% endfor %}
-</ul>
-{% endif %}
 
+  <ul class="speakers">
+      {% for item in page.outputs %}
+    <li class=""><p>{{ item.description }}</p><a href="{% if item.link %}{{ item.link }}{% else %}{{ item.file | absolute_url }}{% endif %}" class="download-btn full-btn" target="_blank">{{ item.button_text }}</a></li>
+      {% endfor %}
+  </ul>
+{% endif %}
 
 {% for item in page.flickr-album %}
   <h2>Photo Gallery</h2>
