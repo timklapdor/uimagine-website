@@ -35,6 +35,9 @@ speakers:
   presentation: ''
   case-study: ''
 outputs:
+- description: Conference Website
+  button_text: Visit
+  link: http://uimagine.edu.au/icde/
 - description: Conference Program
   file: "/uploads/icde-Program.pdf"
   button_text: Download
