@@ -15,7 +15,7 @@ hero:
   gradient_color_2: '0,175,216,.4'
   full_screen: false
   gradient_side: ''
-  image: ''
+  image: "/uploads/analytics-symposium.jpg"
   icon: "/uploads/learning-analytics.svg"
 date: 2018-05-29 13:49:36 +1000
 promotional-text: ''
