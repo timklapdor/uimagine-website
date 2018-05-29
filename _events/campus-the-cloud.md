@@ -61,14 +61,14 @@ speakers:
   linkedin: ''
   bio: ''
   photo: ''
-  presentation: ''
+  presentation: "/uploads/cc-sym-sparrow.pdf"
   case-study: ''
 - name: Euan Lindsay
   position: CSU
   twitter: ''
   linkedin: ''
   bio: ''
-  photo: ''
+  photo: "/uploads/cc-sym-lindsay.pdf"
   presentation: ''
   case-study: ''
 - name: Rocco Crino
