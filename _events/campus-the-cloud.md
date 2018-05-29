@@ -12,10 +12,10 @@ location:
 hero:
   gradient_corner: top
   gradient_color_1: '0,175,216,.8'
-  gradient_color_2: '0,175,216,.4'
+  gradient_color_2: '0,0,0,.8'
   full_screen: false
   gradient_side: ''
-  image: ''
+  image: "/uploads/campus-cloud.jpg"
   icon: "/uploads/campus-cloud.svg"
 date: 2018-05-28 03:51:16 +0000
 post-mortem-text: 'The Campus and the Cloud Symposium explored and scrutinised a range
