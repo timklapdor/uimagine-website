@@ -83,3 +83,23 @@ speakers:
 outputs: []
 flickr-album: https://www.flickr.com/photos/uimagine/albums/72157670443515830
 ---
+uImagine was pleased to launch itself at the inaugural Learning Analytics Symposium for CSU staff on Thursday 4 & Friday 5 September 2014 at our Wagga Campus. The event challenged the way we think about Learning Analytics and its role in higher education, while also providing insight on analytics initiatives and projects under way at CSU.
+
+A number of international experts were on hand to provide insight into the emerging field of learning analytics including:
+
+* **Prof Simon Buckingham Shum,** University of Technology Sydney,
+* **Assistant Prof Krishna Madhavan,** Purdue University
+* **Prof Tim Rogers,** University of South Australia
+
+A number of CSU staff also shared their expertise at the event:
+
+* **Prof Barney Dalgarno**, uImagine Co-Director, Institutional Engagement uImagine
+* **Assoc Prof Philip Uys**, Director Learning Technologies & Chair of CSU’s Learning Analytics Working Party
+* **Prof Alan Bain**, Director of Smart Learning
+* **Julie Newham & Tim Scott,** Office of Planning and Audit
+
+The final session of the day was a panel discussion led by Simon Welsh bringing together perspectives from the faculties – Barney Dalgarno from the Faculty of Education, Yann Guisard from Science and Jonathan Howard from Arts.
+
+A number of sessions from the day were recorded so you can catchup on the presentations given.
+
+{% include youtube.html id="otrVS81s3m8?list=PLBTNVfuAGS3kA67dtOl4D9gznxm6BSJF_" %}
