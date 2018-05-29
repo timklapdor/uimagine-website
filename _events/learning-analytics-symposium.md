@@ -17,13 +17,13 @@ hero:
   gradient_side: ''
   image: "/uploads/analytics-symposium.jpg"
   icon: "/uploads/learning-analytics.svg"
-date: 2018-05-29 13:49:36 +1000
+date: 2018-05-29 03:49:36 +0000
 promotional-text: ''
 post-mortem-text: The event challenged the way we think about Learning Analytics and
   its role in higher education, while also providing insight on analytics initiatives
   and projects under way at CSU.
-date-start: 2014-09-04 09:00:00 +1000
-date-finish: 2014-09-05 17:00:00 +1000
+date-start: 2014-09-03 23:00:00 +0000
+date-finish: 2014-09-05 07:00:00 +0000
 no-bios: true
 speakers:
 - name: Prof Simon Buckingham Shum
