@@ -36,8 +36,9 @@ speakers:
     This quest took him on an international odyssey with appointments at the École Polytechnique, Université de Montréal (professeur assistant/ agrégé, 1969-73); Télé-université, Université du Québec (Directeur des Études, 1973-77); Athabasca University (Vice-President for Learning Services, 1978-80); Concordia University (Vice-Rector, Academic, 1980- 84); Laurentian University (President/Recteur, 1984-90); The Open University (Vice-Chancellor, 1990-2001); UNESCO (Assistant Director- General for Education, 2001-04); and the Commonwealth of Learning (President, 2004-12).
 
     He now works on various international projects as Education Master in the Beijing DeTao Masters Academy, China,
+
     - Senior Advisor to Academic Partnerships International;
-    - Research Associate at Contact North | Contact Nord;
+    - Research Associate at Contact North, Contact Nord;
     - and Chair, pro bono, of the UWC (United World Colleges) International Board.
 
     Among Sir John’s 350+ publications are his books Mega-Universities and Knowledge Media Technology Strategies for Higher Education (Kogan Page, 1996) and Mega-Schools, Technology and Teachers Achieving Education for All (Routledge, 2010).
