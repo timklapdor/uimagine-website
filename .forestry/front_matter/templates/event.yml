@@ -170,9 +170,6 @@ fields:
     type: file
     hidden: false
     default: ''
-  - type: field_group_list
-    name: speaker
-    label: Speaker
   hidden: false
   default: ''
   config:
