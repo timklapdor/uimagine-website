@@ -256,5 +256,6 @@ fields:
   hidden: false
   description: Add link to Flickr Albumn
 pages:
+- _events/learning-analytics-symposium.md
 - _events/conversations-about-online-learning.md
 - _events/campus-the-cloud.md
