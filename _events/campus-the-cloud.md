@@ -68,8 +68,8 @@ speakers:
   twitter: ''
   linkedin: ''
   bio: ''
-  photo: "/uploads/cc-sym-lindsay.pdf"
-  presentation: ''
+  photo: ''
+  presentation: "/uploads/cc-sym-lindsay-1.pdf"
   case-study: ''
 - name: Rocco Crino
   position: CSU
