@@ -46,6 +46,9 @@ fields:
   description: Describes how awesome the event was.
   config:
     required: false
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: select
   name: status
   config:
