@@ -17,13 +17,13 @@ hero:
   gradient_side: ''
   image: ''
   icon: "/uploads/incubate.svg"
-date: 2018-05-29 16:41:00 +1000
+date: 2018-05-29 06:41:00 +0000
 promotional-text: 'The launch of uImagine''s incubation featured a guest lecture from
   visiting speaker Jim Groom. '
 post-mortem-text: 'The launch of uImagine''s incubation featured a guest lecture from
   visiting speaker Jim Groom. '
-date-start: 2017-07-27 14:00:00 +1000
-date-finish: 2017-07-27 16:00:00 +1000
+date-start: 2017-07-27 04:00:00 +0000
+date-finish: 2017-07-27 06:00:00 +0000
 no-bios: false
 speakers:
 - name: Jim Groom
