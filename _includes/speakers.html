@@ -12,8 +12,9 @@
     </div>
     <div class="bio">
       {% for item in person.bio %}<p>{{ item | markdownify }}</p>{% endfor %}
-      {% for item in person.presentation %}<a href="{{ item | absolute_url }}" class="btn-nav btn-blk-ui-fuchia " target="_blank">Presentation</a>{% endfor %}
-      {% for item in person.case-study %}<a href="{{ item | absolute_url }}" class="btn-nav btn-blk-ui-fuchia " target="_blank">Case Study</a>{% endfor %}
+      {% for item in person.presentation %}<a href="{{ item | absolute_url }}" class="download-btn full-btn " target="_blank">Presentation</a>{% endfor %}
+      {% for item in person.case-study %}<a href="{{ item | absolute_url }}" class="download-btn full-btn " target="_blank">Case Study</a>{% endfor %}
+      {% for item in person.external_link_url %}<a href="{{ item }}" class="download-btn full-btn " target="_blank">{{ person.external_link_label }}</a>{% endfor %}
     </div>
   </article>
   {% endfor %}
