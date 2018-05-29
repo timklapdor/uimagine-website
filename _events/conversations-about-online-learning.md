@@ -19,13 +19,13 @@ hero:
   gradient_side: ''
   image: ''
   icon: "/uploads/olm-roadshow.svg"
-date: 2018-05-29 11:06:10 +1000
+date: 2018-05-29 01:06:10 +0000
 promotional-text: Roadshow
 post-mortem-text: The **Conversations About Online Learning Workshop** was a travelling
   roadshow around all of CSU’s campuses. Events were held face-to-face and a session
   was also held online.
-date-start: 2015-05-12 10:00:00 +1000
-date-finish: 2015-06-30 15:00:00 +1000
+date-start: 2015-05-12 00:00:00 +0000
+date-finish: 2015-06-30 05:00:00 +0000
 no-bios: true
 speakers:
 - name: Barney Dalgarno
@@ -62,7 +62,6 @@ speakers:
   case-study: ''
 outputs: []
 flickr-album: ''
-
 ---
 
 The u!magine team aim was to engage with the CSU community around online education. We wanted to explore the current contexts, issues, technologies, challenges and practices around online education. The workshop engaged academic and professional staff in strategic thought around the future of online education and the approaches CSU needs to take and engage with in order to be successful.
