@@ -17,13 +17,13 @@ hero:
   gradient_side: ''
   image: "/uploads/icde-group.jpg"
   icon: "/uploads/icde.svg"
-date: 2018-05-29 16:13:26 +1000
+date: 2018-05-29 06:13:26 +0000
 promotional-text: University Presidents from around the world assembled in Sydney
   to discuss the future of Open and Distance Learning.
-post-mortem-text: 'University Presidents from around the world assembled in Sydney
-  to discuss the future of Open and Distance Learning.'
-date-start: 2016-11-20 08:30:00 +1100
-date-finish: 2016-11-23 13:00:00 +1100
+post-mortem-text: University Presidents from around the world assembled in Sydney
+  to discuss the future of Open and Distance Learning.
+date-start: 2016-11-19 21:30:00 +0000
+date-finish: 2016-11-23 02:00:00 +0000
 no-bios: true
 speakers:
 - name: Bill Pepicello
