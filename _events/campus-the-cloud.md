@@ -8,7 +8,10 @@ location:
   details: Building 29, Room 217
   lat: -35.064364
   lng: 147.351636
+<<<<<<< HEAD
   zoom: 15
+=======
+>>>>>>> origin/gh-pages
 hero:
   gradient_corner: top
   gradient_color_1: '0,175,216,.8'
