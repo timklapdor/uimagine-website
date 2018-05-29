@@ -176,6 +176,14 @@ fields:
     type: file
     hidden: false
     default: ''
+  - type: text
+    name: external_link_url
+    label: External Link URL
+    description: Link to an externally hosted resource
+  - type: text
+    name: external_link_label
+    label: External Link Label
+    description: Label for button
   hidden: false
   default: ''
   config:
