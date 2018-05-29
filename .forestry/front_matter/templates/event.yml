@@ -253,5 +253,6 @@ fields:
   hidden: false
   description: Add link to Flickr Albumn
 pages:
+- _events/conversations-about-online-learning.md
 - _events/campus-the-cloud.md
 - _events/forestry-test.md
