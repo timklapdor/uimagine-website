@@ -44,7 +44,7 @@ speakers:
     Among Sir John’s 350+ publications are his books Mega-Universities and Knowledge Media Technology Strategies for Higher Education (Kogan Page, 1996) and Mega-Schools, Technology and Teachers Achieving Education for All (Routledge, 2010).
 
     Sir John is an Honorary Fellow of St Edmund Hall, Oxford University (1990), the College of Preceptors (1997) and the Commonwealth of Learning (2002). He won the Symons Medal of the Association of Commonwealth Universities in 2008 and his 32 honorary degrees are from universities in 17 countries.
-  photo: ''
+  photo: "/uploads/John-Daniel.jpg"
   presentation: "/uploads/partnerships-crock-presentation.pdf"
   case-study: ''
   position: Former President of The Commonwealth of Learning
@@ -62,7 +62,7 @@ speakers:
     - instructional technology systems and sub-systems.
 
     Michael is currently working as an International Consultant in higher education, with a particular focus on working with organisations regarding strategies and opportunities for growing sustainable online education solutions.
-  photo: ''
+  photo: "/uploads/Michael-Crock.jpg"
   presentation: "/uploads/partnerships-crock-presentation-1"
   case-study: ''
 - name: Heather Cavanaugh
@@ -74,7 +74,7 @@ speakers:
     Over many years Professor Cavanagh has been instrumental in leading and developing off-shore programs, developing and maintaining strong relationships with international institutions and developing partnerships and pathways for domestic and international students.
     Professor Cavanagh has overseen a dramatic increase in student mobility (outward bound), successfully internationalised curriculum at both course and subject level, developed successful articulation pathways from strategic partners to CSU degrees, facilitated international accreditation and established successful Diploma to Degree pathways for international students. In addition, Professor Cavanagh has facilitated the development of productive research partnerships resulting in joint funding, publications and staff exchange in Europe, North America and Asia.
     This love of tertiary education has continued into her academic roles at Charles Sturt University. As Pro-Vice Chancellor Professor Cavanagh is actively working to establish Charles Sturt University as a global leader in higher education and the leading provider of on-line education in Canada, Asia and Australasia thus providing people around the world opportunity to study.
-  photo: ''
+  photo: "/uploads/Heather-Cavanaugh.jpg"
   presentation: "/uploads/partnerships-cavanagh-presentation.pdf"
   case-study: ''
 - name: Liz Smith
@@ -85,7 +85,7 @@ speakers:
     After working in K-6, special education and TAFE settings, Liz joined CSU 20 years ago as an educational designer (online). Responsible for the pilot of the first 12 CSU online subjects, Liz worked collaboratively with DIT, faculty and student support to begin the paradigm shift from print based to online education. Since this time Liz has continued her involvement in online education in a wide variety of roles including teaching and learning, staff development, student services and major projects (e.g. e2, Transition, HEPPP). Currently the Director Academic Success & Strategic Practice Leader Distance Education, Liz is responsible for student aspiration, bridging and enabling, academic literacy and numeracy, Indigenous access and support and career development. Liz acts as Head of School in relation to the STUDY LINK and Diploma of General Studies programs.
 
     Liz’s work has been recognised through a Vice Chancellors Award, and at the national level with an ASCILITE Award, 2 ALTC citations and a national University Teaching/Program Award. Liz has been a team member of several national strategic priority projects including Effective Teaching and Support of Students from LSES Backgrounds, In Their Own Words - the Experiences of First Time Distance Learners and currently, Shaping the 21st Century Student Experience in Regional Universities. Liz is an OLT grants and awards assessor, a member of the organising committee and SIG Convenor for the Unistars conference and a reviewer for the International Journal of the First Year Experience.
-  photo: ''
+  photo: "/uploads/Liz-Smith.jpg"
   presentation: ''
   case-study: ''
 - name: Gaye Krebs
@@ -104,7 +104,7 @@ speakers:
     nurse. Consequently we articulated (from the Certificate IV in Veterinary Nursing)
     and integrated courses offered by Goulburn Ovens Institute of TAFE (GOTAFE), with
     teaching of the new degree the responsibility of both CSU and GOTAFE.
-  photo: ''
+  photo: "/uploads/Gaye-Krebs.jpg"
   presentation: ''
   case-study: ''
 - name: Martin Hale
@@ -124,7 +124,7 @@ speakers:
     across Telstra. The review involved working with senior management across Telstra
     and resulted in significant improvements including a corporate wide reduction
     of $19.2ml in Telstra’s training expenditure.
-  photo: ''
+  photo: "/uploads/Martin-Hale.jpg"
   presentation: "/uploads/partnerships-hale-presentation.pdf"
   case-study: ''
 - name: Jason Howarth
@@ -138,7 +138,7 @@ speakers:
     by Charles Sturt University. Jason has worked closely with industry partners IT
     Masters Pty Ltd and Study Group Australia to help CSU become the national leader
     (in terms of course enrolments) for postgraduate IT courses in Australia.
-  photo: ''
+  photo: "/uploads/Jason-Howarth.jpg"
   presentation: ''
   case-study: ''
 outputs:
