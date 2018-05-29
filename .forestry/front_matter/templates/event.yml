@@ -67,11 +67,6 @@ fields:
   type: datetime
   hidden: false
   default: ''
-- name: flickr-album
-  label: Flickr album
-  type: text
-  hidden: false
-  default: ''
 - name: location
   label: Location
   type: field_group
@@ -121,10 +116,11 @@ fields:
   hidden: false
   default: ''
 - type: boolean
-  name: bios
+  name: no-bios
   label: No Bios
   description: For a simple list of speakers - good for initial posting of event when
     details are sparse
+  default: false
 - name: speakers
   label: Speakers
   type: field_group_list
@@ -224,6 +220,38 @@ fields:
   hidden: false
   default: ''
   description: Set the details for the banner
+- name: flickr-album
+  label: Flickr album
+  type: text
+  hidden: false
+  default: ''
+- type: field_group_list
+  name: outputs
+  label: Outputs
+  description: Use for documentation and products of the event
+  fields:
+  - type: text
+    name: description
+    label: Description
+    description: Text description
+    config:
+      required: true
+  - type: text
+    name: button_text
+    label: Button Text
+    description: Label to go on button
+    config:
+      required: true
+  - type: file
+    name: file
+    label: File
+    description: Upload file or use media library
+  - type: text
+    name: link
+    label: Link
+    description: Or supply URL
+  config:
+    labelField: description
 pages:
 - _events/campus-the-cloud.md
 - _events/forestry-test.md
