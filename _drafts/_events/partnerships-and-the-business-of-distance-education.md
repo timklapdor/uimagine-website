@@ -41,7 +41,7 @@ speakers:
 
     Sir John is an Honorary Fellow of St Edmund Hall, Oxford University (1990), the College of Preceptors (1997) and the Commonwealth of Learning (2002). He won the Symons Medal of the Association of Commonwealth Universities in 2008 and his 32 honorary degrees are from universities in 17 countries.
   photo: ''
-  presentation: ''
+  presentation: "/uploads/partnerships-crock-presentation.pdf"
   case-study: ''
 - name: Dr. Michael Crock
   position: ''
@@ -151,7 +151,7 @@ speakers:
   presentation: ''
   case-study: ''
 outputs: []
-flickr-album: ''
+flickr-album: https://www.flickr.com/photos/uimagine/albums/72157658313869110
 ---
 ## **SCOPE & OVERVIEW**
 
