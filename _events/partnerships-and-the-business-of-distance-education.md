@@ -15,7 +15,7 @@ hero:
   gradient_color_2: '0,0,0,.8'
   full_screen: false
   gradient_side: ''
-  image: ''
+  image: "/uploads/partnerships.jpg"
   icon: "/uploads/partnerships.svg"
 date: 2018-05-29 04:43:42 +0000
 promotional-text: ''
