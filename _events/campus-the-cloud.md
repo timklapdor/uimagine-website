@@ -32,7 +32,7 @@ flickr-album: https://www.flickr.com/photos/uimagine/sets/72157668586031923
 outputs:
 - description: ''
   button_text: ''
-  file:  ''
+  file: ''
   link: ''
 no-bios: true
 speakers:
