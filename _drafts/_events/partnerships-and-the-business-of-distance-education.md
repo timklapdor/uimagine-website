@@ -43,8 +43,8 @@ speakers:
   photo: ''
   presentation: "/uploads/partnerships-crock-presentation.pdf"
   case-study: ''
-- name: Dr. Michael Crock
-  position: ''
+- name: Michael Crock
+  position: Spintera
   twitter: ''
   linkedin: ''
   bio: "Michael has over 30 years higher education, management and consulting experience,
@@ -69,7 +69,7 @@ speakers:
     in higher education, with a particular focus on working with organisations regarding
     strategies and opportunities for growing sustainable online education solutions."
   photo: ''
-  presentation: ''
+  presentation: "/uploads/partnerships-crock-presentation-1"
   case-study: ''
 - name: Heather Cavanaugh
   position: Pro-Vice Chancellor, CSU
@@ -84,7 +84,7 @@ speakers:
 
     This love of tertiary education has continued into her academic roles at Charles Sturt University. As Pro-Vice Chancellor Professor Cavanagh is actively working to establish Charles Sturt University as a global leader in higher education and the leading provider of on-line education in Canada, Asia and Australasia thus providing people around the world opportunity to study.
   photo: ''
-  presentation: ''
+  presentation: "/uploads/partnerships-cavanagh-presentation.pdf"
   case-study: ''
 - name: Liz Smith
   position: Director Academic Success, CSU
@@ -134,7 +134,7 @@ speakers:
     and resulted in significant improvements including a corporate wide reduction
     of $19.2ml in Telstra’s training expenditure.
   photo: ''
-  presentation: ''
+  presentation: "/uploads/partnerships-hale-presentation.pdf"
   case-study: ''
 - name: Jason Howarth
   position: Course Director, CSU
