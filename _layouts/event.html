@@ -72,6 +72,8 @@ layout: default
     {% for item in person.position %}<p class="info ui-grey-2">{{ item }}</p>{% endfor %}
     {% for item in person.presentation %}<a href="{{ item | absolute_url }}" class="download-btn" target="_blank">Slides</a>{% endfor %}
     {% for item in person.case-study %}<a href="{{ item | absolute_url }}" class="download-btn" target="_blank">Case Study</a>{% endfor %}
+    {% for item in person.external_link_url %}<a href="{{ item | absolute_url }}" class="download-btn" target="_blank">{{ person.external_link_label }}</a>{% endfor %}
+
   </li>
     {% endfor %}
 </ul>

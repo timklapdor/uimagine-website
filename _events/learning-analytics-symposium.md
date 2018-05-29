@@ -32,8 +32,6 @@ speakers:
   photo: ''
   presentation: ''
   case-study: ''
-  external_link_url: https://youtu.be/otrVS81s3m8
-  external_link_label: Video
 - name: Assistant Prof Krishna Madhavan
   position: Purdue University
   twitter: ''
