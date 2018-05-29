@@ -1,7 +1,7 @@
 <section class="card-grid" >
 
 {% for event in site.events %}
-  <article class="event card {{ event.status }}" data-category="{{ event.status }}">
+  <article class="event card date {{ event.status }}" data-category="{{ event.status }}" data-time="{{ event.date-start }}">
     <a href="{{ site.baseurl }}{{ event.url }}.html">
     {% if event.hero %}<img src="{{ site.baseurl }}{{ event.hero.icon}}">{% endif %}
     <h3 class="shadow-1 name">{{ event.title }}</h3>

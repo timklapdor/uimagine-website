@@ -51,14 +51,24 @@ var iso = new Isotope( '.card-grid', {
     gutter: 20
   },
   getSortData: {
-  name: '.name',
+  date: '[data-time]',
   category: '[data-category]',
 },
-  sortBy: [ 'category', 'name' ],
+  sortBy: [ 'date', 'category' ],
   sortAscending: {
-  category: false,
-  name: true
+  date: false,
+  category: true
 }
+
+//   getSortData: {
+//   name: '.name',
+//   category: '[data-category]',
+// },
+//   sortBy: [ 'category', 'name' ],
+//   sortAscending: {
+//   category: false,
+//   name: true
+// }
 });
 
 // filter functions
