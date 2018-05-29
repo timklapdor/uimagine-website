@@ -41,16 +41,15 @@ layout: default
 {% endif %}
 
 
-{{ page.content | markdownify }}
+{{ content }}
 
-{% if page.outputs %}
+{% if page.outputs.description %}
 <h2>Outputs</h2>
 <ul class="speakers">
     {% for item in page.outputs %}
   <li class=""><p>{{ item.description }}</p><a href="{% if item.link %}{{ item.link }}{% else %}{{ item.file | absolute_url }}{% endif %}" class="download-btn full-btn" target="_blank">{{ item.button_text }}</a></li>
-  {% endfor %}
+    {% endfor %}
 </ul>
-
 {% endif %}
 
 

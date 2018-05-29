@@ -68,9 +68,7 @@ The u!magine team aim was to engage with the CSU community around online educati
 
 The workshops were a great chance for academic staff across the disciplines to provide input and insight into the challenges they face and the practices they employ. Each faculty and discipline has it’s own diverse requirements that needs to be captured and understood in order to ensure good practice across the institution.
 
-  
-\## Output
+## Output
 
-A recording of the online version of the workshop is available to view: 
-
+A recording of the online version of the workshop is available to view:
 <iframe width="560" height="315" src="[https://www.youtube-nocookie.com/embed/KWvd8rjqPlg?rel=0](https://www.youtube-nocookie.com/embed/KWvd8rjqPlg?rel=0 "https://www.youtube-nocookie.com/embed/KWvd8rjqPlg?rel=0")" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
