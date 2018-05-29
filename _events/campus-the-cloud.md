@@ -32,11 +32,11 @@ flickr-album: https://www.flickr.com/photos/uimagine/sets/72157668586031923
 outputs:
 - description: Program from the Event
   button_text: Program
-  file: "/uploads/cc-program-1"
+  file: "/uploads/cc-program.pdf"
 - description: Summary of discussion from the day
   button_text: Discussion
   file: "/uploads/cc-symposium-discussion.pdf"
-  link: 
+  link:
 no-bios: true
 speakers:
 - name: Matt Cheeseman
