@@ -18,7 +18,7 @@ hero:
   full_screen: false
   gradient_side: ''
   image: ''
-  icon: ''
+  icon: "/uploads/olm-roadshow.svg"
 date: 2018-05-29 11:06:10 +1000
 promotional-text: Roadshow
 post-mortem-text: The **Conversations About Online Learning Workshop** was a travelling
