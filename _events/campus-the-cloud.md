@@ -8,10 +8,7 @@ location:
   details: Building 29, Room 217
   lat: -35.064364
   lng: 147.351636
-<<<<<<< HEAD
   zoom: 15
-=======
->>>>>>> origin/gh-pages
 hero:
   gradient_corner: top
   gradient_color_1: '0,175,216,.8'
@@ -36,7 +33,7 @@ outputs:
 - description: Summary of discussion from the day
   button_text: Discussion
   file: "/uploads/cc-symposium-discussion.pdf"
-  link: 
+  link:
 no-bios: true
 speakers:
 - name: Matt Cheeseman
