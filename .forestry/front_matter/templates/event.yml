@@ -37,7 +37,7 @@ fields:
   default: ''
   description: Something in here that promotes the event.
   config:
-    required: true
+    required: false
 - name: post-mortem-text
   label: Post mortem text
   type: textarea
@@ -94,7 +94,7 @@ fields:
     default: ''
     description: Australia starts with -35
     config:
-      required: true
+      required: false
   - name: lng
     label: Lng
     type: text
@@ -102,14 +102,14 @@ fields:
     default: ''
     description: On the 147
     config:
-      required: true
+      required: false
   - type: number
     name: zoom
     label: Zoom
     description: Level of zoom for the map @ 15
     default: '15'
     config:
-      required: true
+      required: false
       max: '20'
       step: '1'
       min: '4'
