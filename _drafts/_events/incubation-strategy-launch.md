@@ -2,7 +2,7 @@
 title: Incubation Strategy Launch
 layout: event
 event-type: workshop
-status: upcoming
+status: past
 location:
   info: CSU Wagga Campus
   details: Building 29, Room 217
@@ -18,10 +18,12 @@ hero:
   image: ''
   icon: "/uploads/incubate.svg"
 date: 2018-05-29 16:41:00 +1000
-promotional-text: ''
-post-mortem-text: ''
-date-start: ''
-date-finish: ''
+promotional-text: 'The launch of uImagine''s incubation featured a guest lecture from
+  visiting speaker Jim Groom. '
+post-mortem-text: 'The launch of uImagine''s incubation featured a guest lecture from
+  visiting speaker Jim Groom. '
+date-start: 2017-07-27 14:00:00 +1000
+date-finish: 2017-07-27 16:00:00 +1000
 no-bios: false
 speakers:
 - name: Jim Groom
