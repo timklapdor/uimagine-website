@@ -150,7 +150,13 @@ speakers:
   photo: ''
   presentation: ''
   case-study: ''
-outputs: []
+outputs:
+- description: Education Reform - Sir John Daniel
+  button_text: Download
+  file: "/uploads/partnerships-daniel-education-reform.pdf"
+- description: The New Landscape - Sir John Daniel
+  button_text: Download
+  file: "/uploads/partnerships-daniel-the-new-landscape.pdf"
 flickr-album: https://www.flickr.com/photos/uimagine/albums/72157658313869110
 ---
 ## **SCOPE & OVERVIEW**
