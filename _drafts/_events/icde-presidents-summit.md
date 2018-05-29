@@ -15,8 +15,8 @@ hero:
   gradient_color_2: '0,175,216,.4'
   full_screen: false
   gradient_side: ''
-  image: ''
-  icon: ''
+  image: "/uploads/icde-group.jpg"
+  icon: "/uploads/icde.svg"
 date: 2018-05-29 16:13:26 +1000
 promotional-text: ''
 post-mortem-text: ''
