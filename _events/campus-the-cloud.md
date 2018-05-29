@@ -29,7 +29,12 @@ promotional-text: 'The Campus and the Cloud Symposium explored and scrutinised a
 date-start: 2016-05-09 23:00:00 +0000
 date-finish: 2016-05-10 07:00:00 +0000
 flickr-album: https://www.flickr.com/photos/uimagine/sets/72157668586031923
-bios: false
+outputs:
+- description: ''
+  button_text: ''
+  file:  ''
+  link: ''
+no-bios: true
 speakers:
 - name: Matt Cheeseman
   position: University of Queensland

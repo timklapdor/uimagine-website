@@ -26,7 +26,9 @@ layout: default
       {% if page.location %}
       <h5>Location</h5>
         <p>{{ page.location.info }}</p>
-        {% include maps.html %}
+        {% if page.location.lat %}
+          {% include maps.html %}
+        {% endif %}
       {% endif %}
   </aside>
 
@@ -41,22 +43,31 @@ layout: default
 
 {{ page.content | markdownify }}
 
+{% if page.outputs %}
+<h2>Outputs</h2>
+<ul class="speakers">
+    {% for item in page.outputs %}
+  <li class=""><p>{{ item.description }}</p><a href="{% if item.link %}{{ item.link }}{% else %}{{ site.baseurl }}{{ item.file | absolute_url }}{% endif %}" class="download-btn full-btn" target="_blank">{{ item.button_text }}</a></li>
+  {% endfor %}
+</ul>
+
+{% endif %}
+
+
 {% for item in page.flickr-album %}
   <h2>Photo Gallery</h2>
   <div id="flickrembed"></div><div style=" display:block; text-align:center; z-index:-1;"><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input={{ page.flickr-album }}&sort=2&by=album&theme=compact&scale=fill&limit=10&skin=default&autoplay=true'></script><small style="display: block; text-align: center; margin: 0 auto;">Powered by <a href="https://flickrembed.com">flickr embed</a>.</small></div>
 {% endfor %}
 
 
-{% if page.bios == false %}
+{% if page.no-bios == true %}
 <h2>Speakers</h2>
 <ul class="speakers">
   {% for person in page.speakers %}
   <li><h6>{{ person.name }}</h6>
-    {% for item in person.position %}<p class="ui-grey-2">{{ item }}</p>{% endfor %}
+    {% for item in person.position %}<p class="info ui-grey-2">{{ item }}</p>{% endfor %}
     {% for item in person.presentation %}<a href="{{ item | absolute_url }}" class="download-btn" target="_blank">Slides</a>{% endfor %}
     {% for item in person.case-study %}<a href="{{ item | absolute_url }}" class="download-btn" target="_blank">Case Study</a>{% endfor %}
-
-
   </li>
     {% endfor %}
 </ul>
@@ -65,7 +76,7 @@ layout: default
 </article>
 
 
-{% if page.bios == true %}
+{% if page.no-bios == false %}
 <article class="bustout">
 
 <h2>Speakers</h2>
