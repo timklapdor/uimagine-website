@@ -6,8 +6,8 @@ status: past
 location:
   info: CSU Albury Campus
   details: 'The Learning Hub, Building 754, Room 107 '
-  lat: -36.037608
-  lng: 146.990051
+  lat: -36.038760
+  lng: 146.990365
   zoom: 15
 hero:
   gradient_corner: top
