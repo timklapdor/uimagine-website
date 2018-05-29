@@ -75,7 +75,7 @@ fields:
     label: Info
     type: text
     hidden: false
-    default: ''
+    default: CSU Wagga Campus
     description: Location of Event - Campus, Town etc
     config:
       required: true
@@ -83,7 +83,7 @@ fields:
     label: Details
     type: text
     hidden: false
-    default: ''
+    default: Building 29, Room 217
     description: Building & Room Number
     config:
       required: true
@@ -91,7 +91,7 @@ fields:
     label: Lat
     type: text
     hidden: false
-    default: ''
+    default: "-35.064364"
     description: Australia starts with -35
     config:
       required: false
@@ -99,7 +99,7 @@ fields:
     label: Lng
     type: text
     hidden: false
-    default: ''
+    default: '147.351636'
     description: On the 147
     config:
       required: false
