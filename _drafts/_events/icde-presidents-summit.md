@@ -24,6 +24,9 @@ date-start: 2016-11-20 08:30:00 +1100
 date-finish: 2016-11-23 13:00:00 +1100
 no-bios: false
 speakers: []
-outputs: []
+outputs:
+- description: Conference Program
+  file: "/uploads/icde-Program.pdf"
+  button_text: Download
 flickr-album: ''
 ---
