@@ -7,8 +7,8 @@ location:
   zoom: 15
   info: Wagga Campus
   details: Building 29, Room 217
-  lat: -35.064248
-  lng: 147.3495273
+  lat: -35.064364
+  lng: 147.351636
 hero:
   gradient_corner: top
   gradient_color_1: '0,175,216,.8'
