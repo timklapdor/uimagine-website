@@ -32,12 +32,15 @@ fields:
   default: conference
 - name: promotional-text
   label: Promotional text
-  type: text
+  type: textarea
   hidden: false
   default: ''
   description: Something in here that promotes the event.
   config:
     required: false
+    wysiwyg: true
+    schema:
+      format: markdown
 - name: post-mortem-text
   label: Post mortem text
   type: textarea
