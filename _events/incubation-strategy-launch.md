@@ -51,4 +51,4 @@ The launch was held on the 27th of July 2017 on the Wagga Wagga Campus of CSU a
 
 ## Presentation
 
-<iframe src="https://docs.google.com/presentation/d/1GhnVhwFiwlXBsymko44anjTgTiacVXtDo3H6bl1O2CI/embed?start=false&amp;loop=false&amp;delayms=10000" width="960" height="569" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+{% include googleslides.html id="1GhnVhwFiwlXBsymko44anjTgTiacVXtDo3H6bl1O2CI" %}
