@@ -30,6 +30,8 @@ date-start: 2016-05-09 23:00:00 +0000
 date-finish: 2016-05-10 07:00:00 +0000
 flickr-album: https://www.flickr.com/photos/uimagine/sets/72157668586031923
 outputs:
+- description: Program from the Event
+  button_text: Program
 - description: Summary of discussion from the day
   button_text: Discussion
   file: "/uploads/cc-symposium-discussion.pdf"
