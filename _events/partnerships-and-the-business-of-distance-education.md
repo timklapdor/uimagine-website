@@ -29,17 +29,21 @@ speakers:
   twitter: ''
   linkedin: ''
   bio: |-
-    Sir John Daniel’s work has been recognised with national honours by the three countries in which he has lived: France – Ordre des Palmes Académiques: Chevalier ‘pour services rendus à la culture française (en Ontario)’ (1986); Officier: ‘pour services rendus à la culture française (au Royaume-Uni)’ (1991); United Kingdom – Knight Bachelor ‘for services to higher education’ (1994); Canada – Officer of the Order of Canada ‘for his advancement of open learning and distance education in Canada and around the world’ (2013).
+    Sir John Daniel’s work has been recognised with national honours by the three countries in which he has lived - France – Ordre des Palmes Académiques: Chevalier ‘pour services rendus à la culture française (en Ontario)’ (1986); Officier: ‘pour services rendus à la culture française (au Royaume-Uni)’ (1991); United Kingdom – Knight Bachelor ‘for services to higher education’ (1994); Canada – Officer of the Order of Canada ‘for his advancement of open learning and distance education in Canada and around the world’ (2013).
 
     He was educated at Christ’s Hospital and then obtained a First in Metallurgy at Oxford and the Doctorat ès-Sciences Physiques at the University of Paris. Later he demonstrated his commitment to lifelong learning by taking 25 years to complete a part-time Master’s degree in Educational Technology at Sir George Williams/Concordia University. The internship for that programme, which took him to the UK Open University in 1972, was a life-changing experience. He saw the future of higher education and wanted to be part of it.
 
     This quest took him on an international odyssey with appointments at the École Polytechnique, Université de Montréal (professeur assistant/ agrégé, 1969-73); Télé-université, Université du Québec (Directeur des Études, 1973-77); Athabasca University (Vice-President for Learning Services, 1978-80); Concordia University (Vice-Rector, Academic, 1980- 84); Laurentian University (President/Recteur, 1984-90); The Open University (Vice-Chancellor, 1990-2001); UNESCO (Assistant Director- General for Education, 2001-04); and the Commonwealth of Learning (President, 2004-12).
 
-    He now works on various international projects: as Education Master in the Beijing DeTao Masters Academy, China; Senior Advisor to Academic Partnerships International; Research Associate at Contact North | Contact Nord; and Chair, pro bono, of the UWC (United World Colleges) International Board.
+    He now works on various international projects as Education Master in the Beijing DeTao Masters Academy, China,
+    - Senior Advisor to Academic Partnerships International;
+    - Research Associate at Contact North | Contact Nord;
+    - and Chair, pro bono, of the UWC (United World Colleges) International Board.
 
-    Among Sir John’s 350+ publications are his books Mega-Universities and Knowledge Media: Technology Strategies for Higher Education (Kogan Page, 1996) and Mega-Schools, Technology and Teachers: Achieving Education for All (Routledge, 2010).
+    Among Sir John’s 350+ publications are his books Mega-Universities and Knowledge Media Technology Strategies for Higher Education (Kogan Page, 1996) and Mega-Schools, Technology and Teachers Achieving Education for All (Routledge, 2010).
 
     Sir John is an Honorary Fellow of St Edmund Hall, Oxford University (1990), the College of Preceptors (1997) and the Commonwealth of Learning (2002). He won the Symons Medal of the Association of Commonwealth Universities in 2008 and his 32 honorary degrees are from universities in 17 countries.
+
   photo: ''
   presentation: "/uploads/partnerships-crock-presentation.pdf"
   case-study: ''
@@ -48,27 +52,22 @@ speakers:
   position: Spintera
   twitter: ''
   linkedin: ''
-  bio: "Michael has over 30 years higher education, management and consulting experience,
-    including extensive involvement in the strategic development and operationalisation
-    of teaching and learning initiatives across multiple organisations, significant
-    involvement with the commercialisation of higher education products and services,
-    as well as additional relevant professional work experience in industry and working
-    with local, state and federal government organisations. Michael has held senior
-    academic and management positions at The University of Queensland, Central Queensland
-    University, Griffith University, Open Universities Australia, and most recently
-    at the University of New England as the Pro Vice Chancellor Educational Innovation
-    and International. He has also served as the CEO of STARLIT, one of six original
-    Australian national co-operative multimedia companies initially established under
-    federal government funding.\n\nSpecific major responsibilities have included the
-    strategic development, management, promotion, design, development, implementation,
-    support, and evaluation of:\n\n* national and international degree programs and
-    associated services\n* recruitment and retention strategies, pathways and transition
-    programs \n* student administrative systems and protocols, including undergraduate
-    and postgraduate application and enrolment protocols\n* institutional academic
-    staff development programs integrated\n* instructional technology systems and
-    sub-systems. \n\n  Michael is currently working as an International Consultant
-    in higher education, with a particular focus on working with organisations regarding
-    strategies and opportunities for growing sustainable online education solutions."
+  bio: "Michael has over 30 years higher education, management and consulting experience, including extensive involvement in the strategic development and operationalisation of teaching and learning initiatives across multiple organisations, significant involvement with the commercialisation of higher education products and services, as well as additional relevant professional work experience in industry and working with local, state and federal government organisations. Michael has held senior academic and management positions at The University of Queensland, Central Queensland University, Griffith University, Open Universities Australia, and most recently at the University of New England as the Pro Vice Chancellor Educational Innovation and International. He has also served as the CEO of STARLIT, one of six original Australian national co-operative multimedia companies initially established under federal government funding.
+
+    Specific major responsibilities have included the strategic development, management, promotion, design, development, implementation, support, and evaluation of:
+
+    - national and international degree programs and associated services
+
+    - recruitment and retention strategies, pathways and transition programs
+
+    - student administrative systems and protocols, including undergraduate and postgraduate application and enrolment protocols
+
+    - institutional academic staff development programs integrated
+
+    - instructional technology systems and sub-systems.  
+
+
+    Michael is currently working as an International Consultant in higher education, with a particular focus on working with organisations regarding strategies and opportunities for growing sustainable online education solutions."
   photo: ''
   presentation: "/uploads/partnerships-crock-presentation-1"
   case-study: ''
@@ -76,7 +75,8 @@ speakers:
   position: Pro-Vice Chancellor, CSU
   twitter: ''
   linkedin: ''
-  bio: |-
+  bio:
+
     Professor Cavanagh has a long history in developing and supporting International Education at CSU having held positions of Sub Dean International, Associate Dean (Deputy Dean) and Acting Executive Dean of Science prior to her appointment as the inaugural Pro-Vice Chancellor (International Education and Partnerships).
 
     Over many years Professor Cavanagh has been instrumental in leading and developing off-shore programs, developing and maintaining strong relationships with international institutions and developing partnerships and pathways for domestic and international students.
@@ -94,7 +94,7 @@ speakers:
   bio: |-
     After working in K-6, special education and TAFE settings, Liz joined CSU 20 years ago as an educational designer (online). Responsible for the pilot of the first 12 CSU online subjects, Liz worked collaboratively with DIT, faculty and student support to begin the paradigm shift from print based to online education. Since this time Liz has continued her involvement in online education in a wide variety of roles including teaching and learning, staff development, student services and major projects (e.g. e2, Transition, HEPPP). Currently the Director Academic Success & Strategic Practice Leader Distance Education, Liz is responsible for student aspiration, bridging and enabling, academic literacy and numeracy, Indigenous access and support and career development. Liz acts as Head of School in relation to the STUDY LINK and Diploma of General Studies programs.
 
-    Liz’s work has been recognised through a Vice Chancellors Award, and at the national level with an ASCILITE Award, 2 ALTC citations and a national University Teaching/Program Award. Liz has been a team member of several national strategic priority projects including Effective Teaching and Support of Students from LSES Backgrounds, In Their Own Words: the Experiences of First Time Distance Learners and currently, Shaping the 21st Century Student Experience in Regional Universities. Liz is an OLT grants and awards assessor, a member of the organising committee and SIG Convenor for the Unistars conference and a reviewer for the International Journal of the First Year Experience.
+    Liz’s work has been recognised through a Vice Chancellors Award, and at the national level with an ASCILITE Award, 2 ALTC citations and a national University Teaching/Program Award. Liz has been a team member of several national strategic priority projects including Effective Teaching and Support of Students from LSES Backgrounds, In Their Own Words - the Experiences of First Time Distance Learners and currently, Shaping the 21st Century Student Experience in Regional Universities. Liz is an OLT grants and awards assessor, a member of the organising committee and SIG Convenor for the Unistars conference and a reviewer for the International Journal of the First Year Experience.
   photo: ''
   presentation: ''
   case-study: ''
