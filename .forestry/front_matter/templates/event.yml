@@ -220,11 +220,6 @@ fields:
   hidden: false
   default: ''
   description: Set the details for the banner
-- name: flickr-album
-  label: Flickr album
-  type: text
-  hidden: false
-  default: ''
 - type: field_group_list
   name: outputs
   label: Outputs
@@ -252,6 +247,11 @@ fields:
     description: Or supply URL
   config:
     labelField: description
+- name: flickr-album
+  label: Flickr album
+  type: text
+  hidden: false
+  description: Add link to Flickr Albumn
 pages:
 - _events/campus-the-cloud.md
 - _events/forestry-test.md
