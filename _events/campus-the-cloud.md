@@ -4,11 +4,11 @@ layout: event
 event-type: symposium
 status: past
 location:
-  zoom: 15
-  info: Wagga Campus
+  info: CSU Wagga Campus
   details: Building 29, Room 217
-  lat: -35.064248
-  lng: 147.3495273
+  lat: -35.064364
+  lng: 147.351636
+  zoom: 15
 hero:
   gradient_corner: top
   gradient_color_1: '0,175,216,.8'
@@ -33,7 +33,7 @@ outputs:
 - description: Summary of discussion from the day
   button_text: Discussion
   file: "/uploads/cc-symposium-discussion.pdf"
-  link: ''
+  link: 
 no-bios: true
 speakers:
 - name: Matt Cheeseman
