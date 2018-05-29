@@ -151,6 +151,9 @@ speakers:
   presentation: ''
   case-study: ''
 outputs:
+- description: Online Education Business Framework
+  button_text: Download
+  file: "/uploads/partnerships-crock-online-education-business-model-framework.pdf"
 - description: Education Reform - Sir John Daniel
   button_text: Download
   file: "/uploads/partnerships-daniel-education-reform.pdf"
