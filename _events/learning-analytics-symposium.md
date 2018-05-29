@@ -16,7 +16,7 @@ hero:
   full_screen: false
   gradient_side: ''
   image: ''
-  icon: ''
+  icon: "/uploads/learning-analytics.svg"
 date: 2018-05-29 13:49:36 +1000
 promotional-text: ''
 post-mortem-text: The event challenged the way we think about Learning Analytics and
