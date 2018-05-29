@@ -15,7 +15,7 @@ hero:
   gradient_color_2: '0,0,0,.8'
   full_screen: false
   gradient_side: ''
-  image: ''
+  image: "/uploads/incubation-strategy-launch.jpg"
   icon: "/uploads/incubate.svg"
 date: 2018-05-29 06:41:00 +0000
 promotional-text: 'The launch of uImagine''s incubation featured a guest lecture from
