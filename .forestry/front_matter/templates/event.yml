@@ -264,6 +264,7 @@ fields:
   hidden: false
   description: Add link to Flickr Albumn
 pages:
+- _events/icde-presidents-summit.md
 - _events/partnerships-and-the-business-of-distance-education.md
 - _events/simulation-role-play-symposium.md
 - _events/alternative-staffing-approaches.md
