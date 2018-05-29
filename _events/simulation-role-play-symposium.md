@@ -6,7 +6,7 @@ status: past
 location:
   info: CSU Albury Campus
   details: 'The Learning Hub, Building 754, Room 107 '
-  lat: -36.038760
+  lat: -36.03876
   lng: 146.990365
   zoom: 15
 hero:
@@ -17,12 +17,12 @@ hero:
   gradient_side: ''
   image: "/uploads/roleplay-simulations.jpg"
   icon: "/uploads/roleplay-simulation.svg"
-date: 2018-05-29 14:27:39 +1000
+date: 2018-05-29 04:27:39 +0000
 promotional-text: ''
 post-mortem-text: A large group of CSU staff explored the exciting potential for Simulation
   and Role Play to play in creating exciting and engaging learning experiences.
-date-start: 2014-11-18 09:00:00 +1100
-date-finish: 2014-11-18 17:00:00 +1100
+date-start: 2014-11-17 22:00:00 +0000
+date-finish: 2014-11-18 06:00:00 +0000
 no-bios: true
 speakers:
 - name: Clark Quinn
