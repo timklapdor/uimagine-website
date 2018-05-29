@@ -1,5 +1,5 @@
 ---
-title: Partnerships and the Business of Distance Education
+title: Partnerships & Distance Education
 layout: event
 event-type: think tank
 status: past
