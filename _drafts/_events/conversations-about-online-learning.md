@@ -13,5 +13,5 @@ hero:
   gradient_corner: top
   gradient_color_1: '0,175,216,.8'
   gradient_color_2: '0,175,216,.4'
-date: 2018-05-29 11:06:10 +1000
+date: 2018-05-29 01:06:10 +0000
 ---

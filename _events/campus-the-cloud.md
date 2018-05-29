@@ -36,7 +36,7 @@ outputs:
 - description: Summary of discussion from the day
   button_text: Discussion
   file: "/uploads/cc-symposium-discussion.pdf"
-  link:
+  link: 
 no-bios: true
 speakers:
 - name: Matt Cheeseman
