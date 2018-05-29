@@ -44,6 +44,7 @@ speakers:
 outputs:
 - description: Strategy Document
   button_text: Download
+  file: "/uploads/incubation-strategy.pdf"
 flickr-album: https://www.flickr.com/photos/uimagine/albums/72157661143049747
 ---
 The launch was held on the 27th of July 2017 on the Wagga Wagga Campus of CSU and keynoted by Jim Groom, u!magine’s visiting speaker from the United States. Jim was the Director of the Division of Teaching and Learning Technologies and Adjunct Professor at the University of Mary Washington in Fredericksburg, Virginia, playing a key role in establishing their Domain of One’s Own project and the highly successful DS106 course. He is now the co-founder of Reclaim Hosting, an independent web hosting company supporting the higher education community to establish their own Domains projects. Jim will shared his views on emerging trends, issues and challenges in online learning innovation and incubation. 
