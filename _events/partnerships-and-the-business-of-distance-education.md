@@ -153,7 +153,7 @@ outputs:
   file: "/uploads/partnerships-daniel-the-new-landscape.pdf"
 flickr-album: https://www.flickr.com/photos/uimagine/albums/72157658313869110
 ---
-## **SCOPE & OVERVIEW**
+### Scope & Overview
 
 The growth of university partnerships, particularly public- private partnerships (PPPs) has created new opportunities for institutions to leverage increased capacity, minimise financial and reputational risks and increase their competitive advantage in a rapidly increasing marketplace. Moreover, institutions with quality online and distance learning capacity are leveraging new options for building innovative new approaches to strategic alliances and collaborations.
 
