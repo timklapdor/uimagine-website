@@ -70,5 +70,6 @@ The workshops were a great chance for academic staff across the disciplines to p
 
 ## Output
 
-A recording of the online version of the workshop is available to view:
-<iframe width="560" height="315" src="[https://www.youtube-nocookie.com/embed/KWvd8rjqPlg?rel=0](https://www.youtube-nocookie.com/embed/KWvd8rjqPlg?rel=0 "https://www.youtube-nocookie.com/embed/KWvd8rjqPlg?rel=0")" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+A recording of the online version of the workshop is available to view: 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KWvd8rjqPlg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
