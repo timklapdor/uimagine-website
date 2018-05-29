@@ -17,12 +17,12 @@ hero:
   gradient_side: ''
   image: ''
   icon: "/uploads/partnerships.svg"
-date: 2018-05-29 14:43:42 +1000
+date: 2018-05-29 04:43:42 +0000
 promotional-text: ''
 post-mortem-text: uImagine was the host for a think tank exploring Partnerships and
   the Business of Distance Education held on the Wagga Wagga Campus.
-date-start: 2015-11-24 09:00:00 +1100
-date-finish: 2015-11-24 17:00:00 +1100
+date-start: 2015-11-23 22:00:00 +0000
+date-finish: 2015-11-24 06:00:00 +0000
 no-bios: false
 speakers:
 - name: Sir John Daniel
@@ -43,7 +43,6 @@ speakers:
     Among Sir John’s 350+ publications are his books Mega-Universities and Knowledge Media Technology Strategies for Higher Education (Kogan Page, 1996) and Mega-Schools, Technology and Teachers Achieving Education for All (Routledge, 2010).
 
     Sir John is an Honorary Fellow of St Edmund Hall, Oxford University (1990), the College of Preceptors (1997) and the Commonwealth of Learning (2002). He won the Symons Medal of the Association of Commonwealth Universities in 2008 and his 32 honorary degrees are from universities in 17 countries.
-
   photo: ''
   presentation: "/uploads/partnerships-crock-presentation.pdf"
   case-study: ''
@@ -52,22 +51,16 @@ speakers:
   position: Spintera
   twitter: ''
   linkedin: ''
-  bio: "Michael has over 30 years higher education, management and consulting experience, including extensive involvement in the strategic development and operationalisation of teaching and learning initiatives across multiple organisations, significant involvement with the commercialisation of higher education products and services, as well as additional relevant professional work experience in industry and working with local, state and federal government organisations. Michael has held senior academic and management positions at The University of Queensland, Central Queensland University, Griffith University, Open Universities Australia, and most recently at the University of New England as the Pro Vice Chancellor Educational Innovation and International. He has also served as the CEO of STARLIT, one of six original Australian national co-operative multimedia companies initially established under federal government funding.
-
+  bio: |-
+    Michael has over 30 years higher education, management and consulting experience, including extensive involvement in the strategic development and operationalisation of teaching and learning initiatives across multiple organisations, significant involvement with the commercialisation of higher education products and services, as well as additional relevant professional work experience in industry and working with local, state and federal government organisations. Michael has held senior academic and management positions at The University of Queensland, Central Queensland University, Griffith University, Open Universities Australia, and most recently at the University of New England as the Pro Vice Chancellor Educational Innovation and International. He has also served as the CEO of STARLIT, one of six original Australian national co-operative multimedia companies initially established under federal government funding.
     Specific major responsibilities have included the strategic development, management, promotion, design, development, implementation, support, and evaluation of:
-
     - national and international degree programs and associated services
-
     - recruitment and retention strategies, pathways and transition programs
-
     - student administrative systems and protocols, including undergraduate and postgraduate application and enrolment protocols
-
     - institutional academic staff development programs integrated
+    - instructional technology systems and sub-systems.
 
-    - instructional technology systems and sub-systems.  
-
-
-    Michael is currently working as an International Consultant in higher education, with a particular focus on working with organisations regarding strategies and opportunities for growing sustainable online education solutions."
+    Michael is currently working as an International Consultant in higher education, with a particular focus on working with organisations regarding strategies and opportunities for growing sustainable online education solutions.
   photo: ''
   presentation: "/uploads/partnerships-crock-presentation-1"
   case-study: ''
@@ -75,14 +68,10 @@ speakers:
   position: Pro-Vice Chancellor, CSU
   twitter: ''
   linkedin: ''
-  bio:
-
+  bio: |-
     Professor Cavanagh has a long history in developing and supporting International Education at CSU having held positions of Sub Dean International, Associate Dean (Deputy Dean) and Acting Executive Dean of Science prior to her appointment as the inaugural Pro-Vice Chancellor (International Education and Partnerships).
-
     Over many years Professor Cavanagh has been instrumental in leading and developing off-shore programs, developing and maintaining strong relationships with international institutions and developing partnerships and pathways for domestic and international students.
-
     Professor Cavanagh has overseen a dramatic increase in student mobility (outward bound), successfully internationalised curriculum at both course and subject level, developed successful articulation pathways from strategic partners to CSU degrees, facilitated international accreditation and established successful Diploma to Degree pathways for international students. In addition, Professor Cavanagh has facilitated the development of productive research partnerships resulting in joint funding, publications and staff exchange in Europe, North America and Asia.
-
     This love of tertiary education has continued into her academic roles at Charles Sturt University. As Pro-Vice Chancellor Professor Cavanagh is actively working to establish Charles Sturt University as a global leader in higher education and the leading provider of on-line education in Canada, Asia and Australasia thus providing people around the world opportunity to study.
   photo: ''
   presentation: "/uploads/partnerships-cavanagh-presentation.pdf"
