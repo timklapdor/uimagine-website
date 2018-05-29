@@ -2,7 +2,7 @@
 title: ICDE Presidents’ Summit
 layout: event
 event-type: conference
-status: upcoming
+status: past
 location:
   info: Rydges Cronulla Beach
   details: Conference Centre
@@ -18,13 +18,22 @@ hero:
   image: "/uploads/icde-group.jpg"
   icon: "/uploads/icde.svg"
 date: 2018-05-29 16:13:26 +1000
-promotional-text: ''
+promotional-text: University Presidents from around the world assembled in Sydney
+  to discuss the future of Open and Distance Learning.
 post-mortem-text: 'University Presidents from around the world assembled in Sydney
   to discuss the future of Open and Distance Learning. '
 date-start: 2016-11-20 08:30:00 +1100
 date-finish: 2016-11-23 13:00:00 +1100
-no-bios: false
-speakers: []
+no-bios: true
+speakers:
+- name: Bill Pepicello
+  position: President Emeritus, University of Phoenix
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: ''
+  case-study: ''
 outputs:
 - description: Conference Program
   file: "/uploads/icde-Program.pdf"
