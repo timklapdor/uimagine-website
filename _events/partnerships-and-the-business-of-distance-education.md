@@ -43,6 +43,7 @@ speakers:
   photo: ''
   presentation: "/uploads/partnerships-crock-presentation.pdf"
   case-study: ''
+  position: Former President of The Commonwealth of Learning
 - name: Michael Crock
   position: Spintera
   twitter: ''
