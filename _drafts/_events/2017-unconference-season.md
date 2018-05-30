@@ -28,6 +28,16 @@ date-start: 2017-08-09 13:00:00 +1000
 date-finish: 2017-10-31 13:00:00 +1100
 no-bios: false
 speakers:
+- name: Carole Hunter
+  position: QLTO Leader, Faculty of Business, Justice and Behavioural Science
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: ''
+  case-study: ''
+  external_link_url: https://uimagine.edu.au/docs/unconf1-Hunter-AdobeSpark.pdf
+  external_link_label: Adobe Spark
 - position: QLTO Leader, Faculty of Arts and Education
   twitter: ''
   linkedin: ''
