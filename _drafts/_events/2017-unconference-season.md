@@ -71,3 +71,10 @@ speakers:
 outputs: []
 flickr-album: ''
 ---
+The format for each Unconference Session was a 1 hour videoconference session where 6 people  have 5 minutes each to share a new digital tool that is on their radar, or pitch a new innovative online learning idea and receive feedback from others. This is followed by 30 minutes of where we opened the floor for discussion. 
+
+_One of the key outcomes was the development of an Online Learning Innovators Network that was open to sharing their ideas and practices, something we want to continue into the future._ 
+
+You can watch a number of the past presentations in the playlist below – scroll down to access and download the slides.
+
+{% include youtube.html id="FGWSimXUND0" %}
