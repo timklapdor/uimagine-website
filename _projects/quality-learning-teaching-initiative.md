@@ -3,10 +3,10 @@ title: Quality Learning & Teaching Initiative
 layout: project
 categories: Innovation
 status: complete
-date: 2018-05-31 14:42:51 +1000
+date: 2018-05-31 04:42:51 +0000
 progress: 100
-date-start: 2016-01-01 09:00:00 +1100
-date-finish: 2016-12-31 17:00:00 +1100
+date-start: 2015-12-31 22:00:00 +0000
+date-finish: 2016-12-31 06:00:00 +0000
 summary: The CSU Quality Learning & Teaching (QLT) initiative has been designed to
   facilitate student-centred practices within faculties to enhance the learning experience
 team:
