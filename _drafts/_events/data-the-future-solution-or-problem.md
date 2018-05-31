@@ -38,7 +38,7 @@ speakers:
     James’ technology career started in the Royal Australian Air Force as a Communications and Information System Controller (CISCON), managing the advanced communication systems that keep the Air Force connected internally, with the other services, and with allied military forces worldwide. James active defence career saw him undertake several ‘tours of duty’.
 
     His commercial acumen was honed through various roles with Dell, a stint at Austrade and with the KAZ Group (now Fujitsu).
-  photo: ''
+  photo: "/uploads/james-howell.jpg"
   presentation: ''
   case-study: ''
   external_link_url: http://pdk.net.au
