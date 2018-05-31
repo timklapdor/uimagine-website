@@ -30,6 +30,17 @@ date-start: 2018-04-11 17:30:00 +1000
 date-finish: 2018-05-31 19:00:00 +1000
 no-bios: false
 speakers:
+- name: Deb Blackwell
+  position: Owner, Sunnybrae
+  twitter: ''
+  linkedin: ''
+  bio: |-
+    Deb is a fifth generation grazier, at Sunnybrae, Mundarlo on the Murrumbidgee River. Deb and her husband, Prof. John Blackwell, specialise in native grass fed Charolais – Red Poll cross beef. They also own Pentland Wines, vineyard at Yenda, NSW, where they specialise in only one French grape variety, Petit Verdot.  Working in isolated locations whilst competing commercially within a global market requires a great reliance upson technology and a source of accurate data.  From weather predictions to beef markets and wine trends, our daily lives are intrinsically reliant upon global data.  Keeping up with these trends, is complex and difficult, as well as potentially risky from a security and privacy perspective.
+
+    Deb is a past Chairman of the Livestock Health and Pest Authority, where her interest was in the pursuit of a sound Bio Security regime for Australia. Deb has a BA LLB from the University of Sydney and is involved in charity fundraising and maintains a strong interest in agri politics and environmental health.
+  photo: "/uploads/Blackwell.jpg"
+  presentation: ''
+  case-study: ''
 - name: Dr Tim Caton
   position: Medical Director and CEO, Complete Skin Wagga
   twitter: ''
