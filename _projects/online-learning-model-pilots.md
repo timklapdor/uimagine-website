@@ -20,12 +20,12 @@ focus:
 - practice
 - pedagogy
 outputs:
-- description: Online Learning Exchange
-  file: ''
-  link: http://uimagine.edu.au/csulx
 - description: Evaluation Report
   file: ''
   link: http://uimagine.edu.au/docs/Evaluation-OLM-Pilot-Final-Report.pdf
+- description: Online Learning Exchange
+  file: ''
+  link: http://uimagine.edu.au/csulx
 hero:
   gradient_corner: top
   gradient_side: ''
@@ -53,16 +53,16 @@ In the OLM survey, students were asked to identify the presence of features of t
 _Pearson correlations between perception of the presence of OLM elements and national Student Experience Survey items_
 
 | --- | --- |
-| OLM Elements | national Student Experience Survey (nSES) Measures |
-| Overall quality | Teaching Quality | Learning Resource Quality | Engagement |
-| Learning Communities | .388\*\* | .445\*\* | .384\*\* | .462\*\* |
-| Interaction between Students | .292\*\* | .430\*\* | .350\*\* | .660\*\* |
-| Teacher Presence | .712\*\* | .796\*\* | .681\*\* | .374\*\* |
-| Interaction with the Professions | .267\*\* | .299\*\* | .301\*\* | .393\*\* |
-| Flexible & Adaptive Learning | .696\*\* | .716\*\* | .662\*\* | .413\*\* |
-| Interactive Resources | .709\*\* | .683\*\* | .732\*\* | .410\*\* |
-| e-Assessment | .715\*\* | .710\*\* | .730\*\* | .353\*\* |
-| \*\* Correlation is significant at the 0.01 level (2-tailed).\* Correlation is significant at the 0.05 level (2-tailed). |
+| **OLM Elements** | national Student Experience Survey (nSES) Measures |
+| *Overall quality* | *Teaching Quality* | *Learning Resource Quality* | *Engagement* |
+| **Learning Communities** | .388\*\* | .445\*\* | .384\*\* | .462\*\* |
+| **Interaction between Students** | .292\*\* | .430\*\* | .350\*\* | .660\*\* |
+| **Teacher Presence** | .712\*\* | .796\*\* | .681\*\* | .374\*\* |
+| **Interaction with the Professions** | .267\*\* | .299\*\* | .301\*\* | .393\*\* |
+| **Flexible & Adaptive Learning** | .696\*\* | .716\*\* | .662\*\* | .413\*\* |
+| **Interactive Resources** | .709\*\* | .683\*\* | .732\*\* | .410\*\* |
+| **e-Assessment** | .715\*\* | .710\*\* | .730\*\* | .353\*\* |
+| \*\* Correlation is significant at the 0.01 level (2-tailed).\*   Correlation is significant at the 0.05 level (2-tailed). |
 
 As shown in the table there are strong positive correlations between _Teacher Presence_ and Teaching Quality(0.796), and between _Interactive Resources_ and _e-Assessment_ and Learning Resource Quality (0.732 and 0.730 respectively). Correlations between the students’ perceptions of the existence of _Learning Communities_ (0.388), _Interaction between Students_ (0.292), and _Interaction with the Professions_ (0.267) elements of the OLM and the students’ perceptions of the overall teaching quality were significant but somewhat weaker. This suggests that these elements may have had less of an impact on student perceptions of subject quality, or were less strongly implemented.
 

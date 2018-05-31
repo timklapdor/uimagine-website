@@ -52,6 +52,13 @@ section.project {
   article {
     width: 100%;
 
+  .section {
+    background: $grey-item;
+
+  &:nth-child(even)
+  background: transparent;
+  }
+
   p, li {
     max-width: 40em;
   }
