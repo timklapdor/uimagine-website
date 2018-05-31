@@ -28,6 +28,16 @@ date-start: 2017-08-09 13:00:00 +1000
 date-finish: 2017-10-31 13:00:00 +1100
 no-bios: false
 speakers:
+- name: Alison Munro
+  position: Executive Officer, Communications & Training, DIT
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: ''
+  case-study: ''
+  external_link_url: http://uimagine.edu.au/docs/unconf3-Munro_OneNote.pdf
+  external_link_label: One Note
 - name: Sam Parker
   position: Manager Learning Technologies, DLT
   twitter: ''
