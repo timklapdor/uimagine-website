@@ -151,6 +151,7 @@ nav ul li:hover {
   nav ul li:hover ul,  .dropdown ul .dropdown:hover ul {
      display: flex;
      flex-direction: column;
+     margin: 0;
 }
 .dropdown ul li > a:before {
   content: ''
