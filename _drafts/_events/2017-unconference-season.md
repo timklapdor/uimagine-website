@@ -28,6 +28,16 @@ date-start: 2017-08-09 13:00:00 +1000
 date-finish: 2017-10-31 13:00:00 +1100
 no-bios: false
 speakers:
+- name: 'Tehani Croft '
+  position: Lecturer in Teacher Librarianship, School of Information Studies
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: ''
+  case-study: ''
+  external_link_url: http://uimagine.edu.au/docs/unconf2-Croft-Kahoot.pdf
+  external_link_label: Using Kahoot
 - name: John Healy
   position: Lecturer in Social Work, School of Humanities and Social Science
   twitter: ''
