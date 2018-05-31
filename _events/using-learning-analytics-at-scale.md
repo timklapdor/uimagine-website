@@ -17,14 +17,14 @@ hero:
   gradient_side: ''
   image: "/uploads/data-rienties.jpg"
   icon: "/uploads/guest-speaker.svg"
-date: 2018-05-31 11:49:36 +1000
+date: 2018-05-31 01:49:36 +0000
 promotional-text: ''
 post-mortem-text: On Monday the 12th of March Dr. Bart Rienties, Professor of Learning
   Analytics at the Institute of Educational Technology of the Open University UK.
   discussed the use of learning analytics on a large scale.
 program: incubation
-date-start: 2018-03-12 10:00:00 +1100
-date-finish: 2018-03-12 11:00:00 +1100
+date-start: 2018-03-11 23:00:00 +0000
+date-finish: 2018-03-12 00:00:00 +0000
 no-bios: false
 speakers:
 - name: Dr Bart Rienties

@@ -17,15 +17,15 @@ hero:
   gradient_side: ''
   image: ''
   icon: "/uploads/guest-speaker.svg"
-date: 2018-05-31 13:27:47 +1000
+date: 2018-05-31 03:27:47 +0000
 promotional-text: ''
 post-mortem-text: Held on **Friday the 16th of March** Dr Rebecca Ferguson – a Senior
   Lecturer in the Institute of Educational Technology (IET) at The Open University
   in the UK, and a Senior Fellow of the Higher Education Academy led a discussion
   about the evidence provided by learning analytics.
 program: innovation
-date-start: 2018-03-16 10:00:00 +1100
-date-finish: 2018-03-16 11:00:00 +1100
+date-start: 2018-03-15 23:00:00 +0000
+date-finish: 2018-03-16 00:00:00 +0000
 no-bios: false
 speakers:
 - name: Dr Rebecca Ferguson

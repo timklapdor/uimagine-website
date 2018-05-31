@@ -17,14 +17,14 @@ hero:
   gradient_side: ''
   image: "/uploads/data-fergusson.jpg"
   icon: "/uploads/guest-speaker.svg"
-date: 2018-05-31 11:31:09 +1000
+date: 2018-05-31 01:31:09 +0000
 promotional-text: ''
 post-mortem-text: Held on **Thursday the 15th of March** Dr. Rachel Ferguson explored
   the use of learning analytics and the role they may play in the future of learning
   at a public lecture given at Riverina TAFE, Wagga.
 program: incubation
-date-start: 2018-03-15 17:00:00 +1100
-date-finish: 2018-03-15 19:00:00 +1100
+date-start: 2018-03-15 06:00:00 +0000
+date-finish: 2018-03-15 08:00:00 +0000
 no-bios: false
 speakers:
 - name: Dr Rebecca Ferguson
