@@ -28,6 +28,16 @@ date-start: 2017-08-09 13:00:00 +1000
 date-finish: 2017-10-31 13:00:00 +1100
 no-bios: false
 speakers:
+- name: Sam Parker Manager
+  position: Learning Technologies, DLT
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: ''
+  case-study: ''
+  external_link_url: http://uimagine.edu.au/docs/unconf2-Parker-Google-Maps.pdf
+  external_link_label: Google Maps Icebreaker
 - name: Tim Klapdor
   position: Online Learning Technology Leader, u!magine
   twitter: ''
