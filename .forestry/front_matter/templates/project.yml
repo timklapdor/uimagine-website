@@ -160,6 +160,7 @@ fields:
     name: image
     label: Image
 pages:
+- _projects/online-learning-model-pilots.md
 - _projects/quality-learning-teaching-initiative.md
 - _projects/testing.md
 - _projects/csu-online-learning-model.md
