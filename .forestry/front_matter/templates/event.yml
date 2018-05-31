@@ -277,6 +277,7 @@ fields:
   hidden: false
   description: Add link to Flickr Albumn
 pages:
+- _events/data-learning-future-visions.md
 - _events/data-the-future-solution-or-problem.md
 - _events/learning-on-the-open-web.md
 - _events/2017-unconference-season.md
