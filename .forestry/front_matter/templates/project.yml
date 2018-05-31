@@ -159,6 +159,7 @@ fields:
     name: image
     label: Image
 pages:
+- _projects/quality-learning-teaching-initiative.md
 - _projects/testing.md
 - _projects/csu-online-learning-model.md
 - _projects/eexam-trials.md
