@@ -45,7 +45,7 @@ speakers:
     projects and received a range of awards for his educational innovation projects.
     More info at [https://iet.open.ac.uk/people/bart.rienties](https://iet.open.ac.uk/people/bart.rienties
     "https://iet.open.ac.uk/people/bart.rienties")
-  photo: ''
+  photo: "/uploads/rientes-photo.jpg"
   presentation: ''
   case-study: ''
 outputs:
