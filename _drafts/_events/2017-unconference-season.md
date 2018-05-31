@@ -36,6 +36,16 @@ speakers:
   photo: ''
   presentation: ''
   case-study: ''
+  external_link_url: http://uimagine.edu.au/docs/unconf3-Munro-OneDrive.pdf
+  external_link_label: One Drive
+- name: Alison Munro
+  position: Executive Officer, Communications & Training, DIT
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: ''
+  case-study: ''
   external_link_url: http://uimagine.edu.au/docs/unconf3-Munro_OneNote.pdf
   external_link_label: One Note
 - name: Sam Parker
