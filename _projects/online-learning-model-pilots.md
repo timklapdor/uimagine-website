@@ -3,10 +3,10 @@ title: Online Learning Model Pilots
 layout: project
 categories: Innovation
 status: complete
-date: 2018-05-31 15:10:46 +1000
+date: 2018-05-31 05:10:46 +0000
 progress: 100
-date-start: 2015-05-01 00:00:00 +1000
-date-finish: 2016-07-31 00:00:00 +1000
+date-start: 2015-04-30 14:00:00 +0000
+date-finish: 2016-07-30 14:00:00 +0000
 summary: The pilots were established to evaluate and refine the model, derive design
   and implementation guidelines, and provide an evidence for further implementation.
 team:
