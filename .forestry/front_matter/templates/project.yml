@@ -108,16 +108,21 @@ fields:
     type: text
     hidden: false
     default: ''
+    description: Text Description
+  - type: text
+    name: button_text
+    label: Button Text
+    description: Label to go on Button
   - name: file
     label: File
     type: file
     hidden: false
     default: ''
-    description: Upload relevant files here
+    description: Upload file or use media library
   - type: text
     name: link
     label: Link
-    description: For online output - paste link URL here
+    description: Or supply URL
   hidden: false
   default: ''
   config:
