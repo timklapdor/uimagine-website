@@ -104,15 +104,11 @@ fields:
   type: field_group_list
   fields:
   - name: description
-    label: Description
+    label: Link Text
     type: text
     hidden: false
     default: ''
     description: Text Description
-  - type: text
-    name: button_text
-    label: Button Text
-    description: Label to go on Button
   - name: file
     label: File
     type: file
