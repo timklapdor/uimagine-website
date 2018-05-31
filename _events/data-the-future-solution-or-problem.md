@@ -103,3 +103,5 @@ Our panel session was ran by Pennie Scott and included:
 * David Bardos  – Logistics
 * James Howell – Information Technology
 * Dr Tim Caton – Health.
+
+![](/uploads/data-future-solution-problem-speakers.jpg)
