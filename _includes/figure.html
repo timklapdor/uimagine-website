@@ -1,4 +1,8 @@
 <figure>
-  <img src="{{ site.baseurl }}/uploads/{{ include.filename }}">
+  <a href="{{ site.baseurl }}/uploads/{{ include.filename }}" target="_blank" title="Click for full size image">
+    <img src="{{ site.baseurl }}/uploads/{{ include.filename }}" class="overlay">
+  </a>
+  {% if include.caption %}
   <figcaption>{{ include.caption }}</figcaption>
+  {% endif %}
 </figure>
