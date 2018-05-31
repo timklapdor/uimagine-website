@@ -8,7 +8,7 @@ hero:
   gradient_color_1: '203,0,68'
   gradient_color_2: '0,175,216'
   gradient_side: ''
-  icon: ''
+  icon: "/uploads/olm-scale-up.svg"
   image: ''
 date: 2018-05-31 05:58:34 +0000
 progress: 100
