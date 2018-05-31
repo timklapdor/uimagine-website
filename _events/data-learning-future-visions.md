@@ -16,7 +16,7 @@ hero:
   full_screen: false
   gradient_side: ''
   image: ''
-  icon: ''
+  icon: "/uploads/guest-speaker.svg"
 date: 2018-05-31 11:31:09 +1000
 promotional-text: ''
 post-mortem-text: Held on **Thursday the 15th of March** Dr. Rachel Ferguson explored
