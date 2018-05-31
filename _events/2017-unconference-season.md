@@ -17,15 +17,15 @@ hero:
   gradient_side: ''
   image: ''
   icon: "/uploads/unconference.svg"
-date: 2018-05-31 09:52:06 +1000
+date: 2018-05-30 23:52:06 +0000
 promotional-text: The **Unconference Season** aims at starting a dialogue around innovation
   at CSU. These open sessions are an invitation to share ideas, exchange knowledge
   and make use of the collective knowledge within CSU.
 post-mortem-text: The aim of the **Unconference Season** was to start a dialogue around
   innovation at CSU. These open sessions were an invitation to share ideas, exchange
   knowledge and make use of the collective knowledge within CSU.
-date-start: 2017-08-09 13:00:00 +1000
-date-finish: 2017-10-31 13:00:00 +1100
+date-start: 2017-08-09 03:00:00 +0000
+date-finish: 2017-10-31 02:00:00 +0000
 no-bios: true
 speakers:
 - name: 'Tim Klapdor '
