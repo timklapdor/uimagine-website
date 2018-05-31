@@ -138,6 +138,7 @@ fields:
       - top
       - bottom
     label: Gradient Corner
+    default: top
   - type: select
     config:
       source:
@@ -150,9 +151,11 @@ fields:
   - type: text
     name: gradient_color_1
     label: Gradient color 1
+    default: '203,0,68'
   - type: text
     name: gradient_color_2
     label: Gradient Color 2
+    default: '0,175,216'
   - type: file
     name: icon
     label: Icon
