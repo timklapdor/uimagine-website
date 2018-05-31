@@ -1,5 +1,5 @@
 ---
-title: 'Data: the Future, Solution or Problem?'
+title: 'Data: Future, Solution or Problem?'
 layout: event
 event-type: panel
 status: past
