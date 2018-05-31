@@ -28,6 +28,16 @@ date-start: 2017-08-09 13:00:00 +1000
 date-finish: 2017-10-31 13:00:00 +1100
 no-bios: false
 speakers:
+- name: " Julie Lindsay"
+  position: QLTO Leader, Faculty of Arts and Education
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: ''
+  case-study: ''
+  external_link_url: http://uimagine.edu.au/docs/unconf3-Lindsay-Twitter.pdf
+  external_link_label: 'Twitter and #Hashtags'
 - name: Julie Lindsay
   position: QLTO Leader, Faculty of Arts and Education
   twitter: ''
