@@ -28,6 +28,36 @@ date-start: 2017-08-09 13:00:00 +1000
 date-finish: 2017-10-31 13:00:00 +1100
 no-bios: false
 speakers:
+- name: James Brann
+  position: Director, Engagement, Office for Students
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: ''
+  case-study: ''
+  external_link_url: http://uimagine.edu.au/docs/unconf5-Brann-Evernote.pdf
+  external_link_label: Evernote
+- name: 'Michael Mehmet '
+  position: Lecturer in Marketing, School of Management and Marketing
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: ''
+  case-study: ''
+  external_link_url: http://uimagine.edu.au/docs/unconf4-Mehmet-Marketing-Dashboard.pdf
+  external_link_label: Course Dashboard
+- name: 'Susanne Francisco '
+  position: Lecturer, Adult and Vocational Education, School of Education
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: ''
+  case-study: ''
+  external_link_url: http://uimagine.edu.au/docs/unconf4-Francisco-AdobeSpark.pdf
+  external_link_label: Adobe Spark
 - name: Lyn Hay
   position: Online Learning Innovation Leader, u!magine
   twitter: ''
