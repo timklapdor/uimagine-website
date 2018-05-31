@@ -43,7 +43,7 @@ Typical OLM-focused design work on subjects included developing both synchronous
 
 The design of each subject varied widely, in keeping with the subject content and/or discipline needs of the program. The examples in this section demonstrate the types of improvement facilitated by the OLM approach.
 
-<section>
+<section markdown="1">
 
 **_PHL101 Applied Ethics_** is an online subject designed to apply philosophical techniques and theories to issues of practical concern and controversy. It is a large subject (approximately 300 students) and serves courses in Arts, Theology, Social Science, and Language & Culture. A key focus is the ability of students to apply their skills of analysis and argument, and their understanding of theories to the clarification and resolution of the particular practical moral problems/issues addressed in the syllabus. The Subject Coordinator preferred a ‘hands-on’ teaching style and, as well as answering many individual emails each week, had been offering regular teleconferences for student discussion and questions.
 
@@ -51,7 +51,7 @@ The OLM design challenges in this subject included updating modes of communicati
 
 </section>
 
-<section>
+<section markdown="1">
 
 **_BUS110 Workplace Learning 1_** is a first year workplace learning subject, designed to enhance students’ employability skills and career planning, with a particular focus on communication, teamwork, problem-solving and self-management. Students have an opportunity to develop skills on a short placement with a host organisation, by undertaking an agreed project in their existing workplace, or a series of replacement learning activities. The Subject Coordinator interacted with students through regular online meetings, although there was no opportunity for students to share their learning from the placements as these took place at different times during the session.
 

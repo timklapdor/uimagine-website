@@ -52,13 +52,14 @@ section.project {
   article {
     width: 100%;
 
-  .section {
-    background: $grey-item;
+  section {
+    border-top: 4px solid $brand;
 
-  &:nth-child(even){
-  background: transparent;
+  figure {
+    float: left;
+    width: 40%;
   }
-}
+  }
 
   p, li {
     max-width: 40em;
