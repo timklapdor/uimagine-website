@@ -31,6 +31,17 @@ fields:
     - lecture
   label: Event Type
   default: conference
+- type: select
+  name: status
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - upcoming
+    - past
+  label: Status
+  default: upcoming
 - name: promotional-text
   label: Promotional text
   type: textarea
@@ -54,16 +65,16 @@ fields:
     schema:
       format: markdown
 - type: select
-  name: status
+  name: program
   config:
     source:
       type: simple
-    required: true
     options:
-    - upcoming
-    - past
-  label: Status
-  default: upcoming
+    - open
+    - incubation
+    - innovation
+  label: Program
+  description: Link to which area of work this should fit in
 - name: date-start
   label: Date start
   type: datetime
