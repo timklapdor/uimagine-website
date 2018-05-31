@@ -16,7 +16,7 @@ hero:
   full_screen: false
   gradient_side: ''
   image: ''
-  icon: ''
+  icon: "/uploads/unconference.svg"
 date: 2018-05-31 09:52:06 +1000
 promotional-text: The **Unconference Season** aims at starting a dialogue around innovation
   at CSU. These open sessions are an invitation to share ideas, exchange knowledge
