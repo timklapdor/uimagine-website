@@ -28,8 +28,18 @@ date-start: 2017-08-09 13:00:00 +1000
 date-finish: 2017-10-31 13:00:00 +1100
 no-bios: false
 speakers:
-- name: Sam Parker Manager
-  position: Learning Technologies, DLT
+- name: John Healy
+  position: Lecturer in Social Work, School of Humanities and Social Science
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: ''
+  case-study: ''
+  external_link_url: http://uimagine.edu.au/docs/unconf2-Healy-SkypeRecording.pdf
+  external_link_label: Recording Skype Sessions
+- name: Sam Parker
+  position: Manager Learning Technologies, DLT
   twitter: ''
   linkedin: ''
   bio: ''
