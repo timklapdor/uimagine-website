@@ -27,9 +27,9 @@ date-start: 2018-03-15 17:00:00 +1100
 date-finish: 2018-03-15 19:00:00 +1100
 no-bios: false
 speakers:
-- name: ''
-  position: ''
-  twitter: ''
+- name: Dr Rebecca Ferguson
+  position: Senior Lecturer, The Open University, UK
+  twitter: R3beccaF
   linkedin: ''
   bio: |-
     Dr Rebecca Ferguson is a Senior Lecturer in the Institute of Educational Technology (IET) at The Open University in the UK, and a Senior Fellow of the Higher Education Academy. She is an executive member of the Society for Learning Analytics Research, programme chair of LAK18, and a leading member of the international learning analytics community. Her work has been influential in shaping the field, supporting implementation across Europe, and promoting a focus on social learning analytics. She has been invited to lead events in this area on five continents, including several associated with her work as principal investigator on the European Learning Analytics Community Exchange (LACE) and on LAEP, a project that helped European policymakers to set out an agenda for high-quality and stimulating ways of learning and teaching through the use of learning analytics.
