@@ -16,7 +16,7 @@ hero:
   full_screen: false
   gradient_side: ''
   image: "/uploads/data-header.jpg"
-  icon: "/uploads/guest-speaker.svg"
+  icon: "/uploads/panel.svg"
 date: 2018-05-31 00:54:32 +0000
 promotional-text: This event will be held on **Wednesday the 11th of April** in Wagga
   Wagga, and Live Streamed to the world. The discussion will be around Data – what
