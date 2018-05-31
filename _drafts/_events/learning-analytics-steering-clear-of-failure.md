@@ -28,6 +28,9 @@ date-start: 2018-03-16 10:00:00 +1100
 date-finish: 2018-03-16 11:00:00 +1100
 no-bios: false
 speakers: []
-outputs: []
+outputs:
+- description: Presentation Slides
+  button_text: Download
+  link: http://uimagine.edu.au/docs/WeImagine-Feguson-Evidence.pdf
 flickr-album: ''
 ---
