@@ -89,6 +89,7 @@ speakers:
 outputs:
 - description: Promotional Poster
   button_text: download
+  file: "/uploads/weimagine-data-poster.pdf"
 - description: LiveStream Recording
   button_text: Watch Video
   link: https://livestream.com/uimagine/data-community
