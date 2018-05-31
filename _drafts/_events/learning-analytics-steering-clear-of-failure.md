@@ -16,7 +16,7 @@ hero:
   full_screen: false
   gradient_side: ''
   image: ''
-  icon: ''
+  icon: "/uploads/guest-speaker.svg"
 date: 2018-05-31 13:27:47 +1000
 promotional-text: ''
 post-mortem-text: Held on **Friday the 16th of March** Dr Rebecca Ferguson – a Senior
@@ -27,10 +27,19 @@ program: innovation
 date-start: 2018-03-16 10:00:00 +1100
 date-finish: 2018-03-16 11:00:00 +1100
 no-bios: false
-speakers: []
+speakers:
+- name: Dr Rebecca Ferguson
+  twitter: R3beccaF
+  linkedin: ''
+  bio: ''
+  photo: "/uploads/Rebecca-Ferguson.jpg"
+  presentation: ''
+  case-study: ''
+  position: Senior Lecturer, Open University UK
 outputs:
 - description: Presentation Slides
   button_text: Download
   link: http://uimagine.edu.au/docs/WeImagine-Feguson-Evidence.pdf
 flickr-album: ''
 ---
+Where is the evidence for learning analytics? In particular, where is the evidence that it improves learning in practice? Can we rely on it? Currently, there are vigorous debates about the quality of research evidence in medicine and psychology, with particular issues around statistical good practice, the ‘file drawer effect’, and ways in which incentives for stakeholders in the research process reward the quantity of research produced rather than the quality. In this paper, we present the Learning Analytics Community Exchange (LACE) project’s Evidence Hub, an effort to relate research evidence in learning analytics to four propositions about learning analytics: whether they support learning, support teaching, are deployed widely, and are used ethically. Surprisingly little evidence in this strong, specific sense was found, and very little was negative (7%, N=123), suggesting that learning analytics is not immune from the pressures in other areas. We explore the evidence in one particular area in detail (whether learning analytics improve teaching and learners support in the university sector), and set out some of the weaknesses of the evidence available. We conclude that there is considerable scope for improving the evidence base for learning analytics, and set out some suggestions of ways for various stakeholders to achieve this.
