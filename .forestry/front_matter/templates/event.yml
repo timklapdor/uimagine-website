@@ -29,6 +29,7 @@ fields:
     - workshop
     - forum
     - lecture
+    - panel
   label: Event Type
   default: conference
 - type: select
