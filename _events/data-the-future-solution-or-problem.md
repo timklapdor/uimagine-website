@@ -104,4 +104,4 @@ Our panel session was ran by Pennie Scott and included:
 * James Howell – Information Technology
 * Dr Tim Caton – Health.
 
-![](/uploads/data-future-solution-problem-speakers.jpg)
+{% include figure.html filename="data-future-solution-problem-speakers.jpg" caption="From left to right: David Bardos, James Howell, Tim Caton, Lyn Hay, Pennie Scott and Deb Blackwell." %}
