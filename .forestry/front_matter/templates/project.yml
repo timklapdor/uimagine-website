@@ -163,6 +163,7 @@ fields:
     name: image
     label: Image
 pages:
+- _projects/de-transition-support.md
 - _projects/online-learning-model-scale-up.md
 - _projects/online-learning-model-pilots.md
 - _projects/quality-learning-teaching-initiative.md
