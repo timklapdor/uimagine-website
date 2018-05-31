@@ -24,6 +24,8 @@ section.card-grid {
     background-position: top center;
     background-size: cover;
 
+
+
     .thumb {
       padding-bottom: 80%;
       background-size: cover;
@@ -49,11 +51,14 @@ section.card-grid {
     h3, p, a {
       margin: 24px;
     }
-  h3 {
-  }
+
   }
   article:hover {
     box-shadow: $shadow-4;
+  }
+
+  .program h3 {
+    text-align: center;
   }
 }
 
