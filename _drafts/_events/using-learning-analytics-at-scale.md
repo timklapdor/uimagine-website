@@ -4,19 +4,19 @@ layout: event
 status: past
 event-type: lecture
 location:
-  info: CSU Wagga Campus
-  details: Building 29, Room 217
-  lat: -35.064364
-  lng: 147.351636
+  info: CSU Bathurst Campus
+  details: Building 1305, Room 127
+  lat: -33.433368
+  lng: 149.559319
   zoom: 15
 hero:
   gradient_corner: top
-  gradient_color_1: '0,175,216,.8'
-  gradient_color_2: '0,175,216,.4'
+  gradient_color_1: '0,175,216,.6'
+  gradient_color_2: '0,175,216,.6'
   full_screen: false
   gradient_side: ''
-  image: ''
-  icon: ''
+  image: "/uploads/data-rienties.jpg"
+  icon: "/uploads/guest-speaker.svg"
 date: 2018-05-31 11:49:36 +1000
 promotional-text: ''
 post-mortem-text: On Monday the 12th of March Dr. Bart Rienties, Professor of Learning
@@ -48,6 +48,9 @@ speakers:
   photo: ''
   presentation: ''
   case-study: ''
-outputs: []
+outputs:
+- button_text: download slides
+  link: http://uimagine.edu.au/docs/WeImagine-Rienties.pdf
+  description: Presentation Slides
 flickr-album: ''
 ---
