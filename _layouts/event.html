@@ -33,6 +33,9 @@ layout: default
           {% include maps.html %}
         {% endif %}
       {% endif %}
+      <nav>
+        <a href="{{ site.baseurl }}/events/" class="btn-nav prev">Back to All Events</a>
+      </nav>
   </aside>
 
 <article class="">
@@ -53,7 +56,7 @@ layout: default
 
   <ul class="speakers">
       {% for item in page.outputs %}
-    <li class=""><p>{{ item.description }}</p><a href="{% if item.link %}{{ item.link }}{% else %}{{ item.file | absolute_url }}{% endif %}" class="download-btn full-btn" target="_blank">{{ item.button_text }}</a></li>
+    <li class=""><p>{{ item.description }}</p><a href="{% if item.link %}{{ item.link }}{% else %}{{ item.file | absolute_url }}{% endif %}" class="action-btn full-btn" target="_blank">{{ item.button_text }}</a></li>
       {% endfor %}
   </ul>
 {% endif %}

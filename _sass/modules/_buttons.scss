@@ -67,6 +67,18 @@
 }
 }
 
+.up {
+&:hover {
+  color: $rev;
+  background: rgba($brand, .9);
+  box-shadow: $shadow-2;
+}
+
+&:before {
+  content: '\2191\00a0';
+}
+}
+
 .call-to-action {
   font-size: 100%;
   border: 2px solid;
@@ -100,6 +112,21 @@
     padding: 0 .2em;
   }
 
+
+  &:hover {
+    color: $rev;
+    background: $brand-2;
+}
+}
+
+.action-btn {
+  padding: .2em 1em;
+  text-transform: uppercase;
+  border-radius: .2em;
+  text-decoration: none;
+  text-align: center;
+  color: $rev;
+  background: $brand-1;
 
   &:hover {
     color: $rev;
