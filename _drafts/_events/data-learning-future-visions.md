@@ -26,7 +26,20 @@ program: incubation
 date-start: 2018-03-15 17:00:00 +1100
 date-finish: 2018-03-15 19:00:00 +1100
 no-bios: false
-speakers: []
+speakers:
+- name: ''
+  position: ''
+  twitter: ''
+  linkedin: ''
+  bio: |-
+    Dr Rebecca Ferguson is a Senior Lecturer in the Institute of Educational Technology (IET) at The Open University in the UK, and a Senior Fellow of the Higher Education Academy. She is an executive member of the Society for Learning Analytics Research, programme chair of LAK18, and a leading member of the international learning analytics community. Her work has been influential in shaping the field, supporting implementation across Europe, and promoting a focus on social learning analytics. She has been invited to lead events in this area on five continents, including several associated with her work as principal investigator on the European Learning Analytics Community Exchange (LACE) and on LAEP, a project that helped European policymakers to set out an agenda for high-quality and stimulating ways of learning and teaching through the use of learning analytics.
+
+    Rebecca is lead author on the Open University’s [_Innovating Pedagogy 2017 _](https://iet.open.ac.uk/file/innovating-pedagogy-2017.pdf)report. This highly cited series of high-profile annual reports explores new forms of teaching, learning and assessment in order to guide educators and policy makers around the world. Her most recent book, _Augmented Education_, was published by Palgrave in Spring 2014.
+  photo: "/uploads/Rebecca-Ferguson.jpg"
+  presentation: ''
+  case-study: ''
+  external_link_url: http://uimagine.edu.au/docs/WeImagine-Ferguson-Visions.pdf
+  external_link_label: Presentation Slides
 outputs: []
 flickr-album: ''
 ---
