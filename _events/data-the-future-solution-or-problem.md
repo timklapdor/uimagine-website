@@ -17,7 +17,7 @@ hero:
   gradient_side: ''
   image: "/uploads/data-header.jpg"
   icon: "/uploads/guest-speaker.svg"
-date: 2018-05-31 10:54:32 +1000
+date: 2018-05-31 00:54:32 +0000
 promotional-text: This event will be held on **Wednesday the 11th of April** in Wagga
   Wagga, and Live Streamed to the world. The discussion will be around Data – what
   it is, what it means and how we can use it to change the way we do business, communicate
@@ -26,8 +26,8 @@ post-mortem-text: This panel discussion provided insight into Data – what it i
   it means and how we can use it to change the way we do business, communicate and
   live our lives.
 program: incubation
-date-start: 2018-04-11 17:30:00 +1000
-date-finish: 2018-05-31 19:00:00 +1000
+date-start: 2018-04-11 07:30:00 +0000
+date-finish: 2018-05-31 09:00:00 +0000
 no-bios: false
 speakers:
 - name: David Bardos
