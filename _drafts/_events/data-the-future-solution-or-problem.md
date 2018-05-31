@@ -30,6 +30,21 @@ date-start: 2018-04-11 17:30:00 +1000
 date-finish: 2018-05-31 19:00:00 +1000
 no-bios: false
 speakers:
+- name: David Bardos
+  position: Business Development Manager, Port of Melbourne
+  twitter: ''
+  linkedin: ''
+  bio: |-
+    David is the Business Development Manager for New South Wales at the Port of Melbourne (PoM). David is based in Wagga Wagga regional New South Wales and manages a wide selection of work concerning all aspects of international trade which includes financial, commercial, strategic analysis, planning and marketing. David is responsible in developing trade and business opportunities as well as maintaining effective and high quality relationship with all stakeholders involved in supply chain and logistics. This includes but is not limited to; exporters, importers, transport service providers, all layers of Government and various peak body associations in Australia. 
+
+    David graduated from the University of Santo Tomas in the Philippines with a Bachelor of Science and Commerce degree (major in Business Administration) and has pursued additional studies in the United States and in Australia specifically in the fields of supply chain management and project management. 
+
+    In his free time he devotes his time to his family (plus three dogs and a cat). He is a member of the Charles Sturt University Regional Consultative Committee and is currently the President of the Police-Citizens Youth Club (PCYC) Wagga Wagga. David is also a strong advocate against Domestic Violence and to date has impacted more than 1,500 women who attended his programs.
+  photo: "/uploads/Bardos-2.jpg"
+  presentation: ''
+  case-study: ''
+  external_link_url: http://www.portofmelbourne.com/
+  external_link_label: Port of Melbourne
 - name: Deb Blackwell
   position: Owner, Sunnybrae
   twitter: ''
