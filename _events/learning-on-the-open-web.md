@@ -39,7 +39,7 @@ speakers:
     Alan has been part of many of the most innovative online education projects, not only teaching into them, but developing the tools and technologies that underpin them. From the [DS106 Assignment Bank](http://assignments.ds106.us/), [Flickr CC Attribution Helper](http://cogdogblog.com/flickr-cc-helper/), [Connected Courses](http://connectedcourses.net/) and [SPLOT](http://splot.ca/)s. Alan has developed some of the tools that have changed the way many people can, and do, learn online.
 
     Alan’s open approach to his work, prolific output and presence online has meant that he has a huge following of colleagues (and fans) that deeply respect his work, process and contribution to the web.
-  photo: ''
+  photo: "/uploads/alan-levine-2.jpg"
   presentation: ''
   case-study: ''
   external_link_label: Presentation
