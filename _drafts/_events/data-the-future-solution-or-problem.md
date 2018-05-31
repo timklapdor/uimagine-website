@@ -29,7 +29,22 @@ program: incubation
 date-start: 2018-04-11 17:30:00 +1000
 date-finish: 2018-05-31 19:00:00 +1000
 no-bios: false
-speakers: []
+speakers:
+- twitter: ''
+  linkedin: ''
+  bio: |-
+    James is passionate about building information technology solutions. He believes in an Australia in which where you choose to live and work is no impediment to opportunity, whether in your business or family. He created [PDK](http://pdk.net.au/) to bring global technology solutions to regional Australia. Establishing PDK as the preeminent technology company in the Riverina, NSW and now throughout Australia.
+
+    James’ technology career started in the Royal Australian Air Force as a Communications and Information System Controller (CISCON), managing the advanced communication systems that keep the Air Force connected internally, with the other services, and with allied military forces worldwide. James active defence career saw him undertake several ‘tours of duty’.
+
+    His commercial acumen was honed through various roles with Dell, a stint at Austrade and with the KAZ Group (now Fujitsu).
+  photo: ''
+  presentation: ''
+  case-study: ''
+  external_link_url: http://pdk.net.au
+  external_link_label: PDK
+  name: James Howell
+  position: Managing Director, Professional Data Kinetics
 outputs: []
 flickr-album: ''
 ---
