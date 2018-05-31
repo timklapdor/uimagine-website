@@ -28,6 +28,16 @@ date-start: 2017-08-09 13:00:00 +1000
 date-finish: 2017-10-31 13:00:00 +1100
 no-bios: false
 speakers:
+- name: Lyn Hay
+  position: Online Learning Innovation Leader, u!magine
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: ''
+  case-study: ''
+  external_link_url: https://uimagine.edu.au/docs/unconf1-Hay-Vizia.pdf
+  external_link_label: Vizia
 - name: Evan Plowman
   position: Lecturer, School of Nursing, Midwifery, and Indigenous Health
   twitter: ''
