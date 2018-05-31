@@ -30,6 +30,21 @@ date-start: 2018-04-11 17:30:00 +1000
 date-finish: 2018-05-31 19:00:00 +1000
 no-bios: false
 speakers:
+- name: Dr Tim Caton
+  position: Medical Director and CEO, Complete Skin Wagga
+  twitter: ''
+  linkedin: ''
+  bio: |-
+    Dr Tim Caton is a local GP, running both a skin cancer focussed business and an aesthetic medical practice. He has a background in hospital emergency medicine, medical education and military medicine.
+
+    He has had experience across a wide variety of information systems in the health sector. Prior to doing medicine he was a Health Information Manager, involved in various projects to do with electronic medical records and also the running of Medical Records Services in Public Hospitals in Western Sydney. He has an ongoing interest in information, collection, distribution, protection and use. 
+
+    When he is not hard at work he can be found – not hard at work………..
+  photo: "/uploads/Caton.jpg"
+  presentation: ''
+  case-study: ''
+  external_link_url: http://www.completeskinwagga.com.au/
+  external_link_label: Complete Skin Wagga
 - twitter: ''
   linkedin: ''
   bio: |-
