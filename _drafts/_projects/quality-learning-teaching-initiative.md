@@ -19,8 +19,8 @@ outputs: []
 hero:
   gradient_corner: top
   gradient_side: ''
-  gradient_color_1: ''
-  gradient_color_2: ''
+  gradient_color_1: '203,0,68'
+  gradient_color_2: '0,175,216'
   icon: "/uploads/qlt.svg"
   image: ''
 ---
