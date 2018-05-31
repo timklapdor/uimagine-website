@@ -55,9 +55,10 @@ section.project {
   .section {
     background: $grey-item;
 
-  &:nth-child(even)
+  &:nth-child(even){
   background: transparent;
   }
+}
 
   p, li {
     max-width: 40em;
