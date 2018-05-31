@@ -10,10 +10,10 @@ hero:
   gradient_side: ''
   icon: ''
   image: ''
-date: 2018-05-31 15:58:34 +1000
+date: 2018-05-31 05:58:34 +0000
 progress: 100
-date-start: 2016-06-01 00:00:00 +1000
-date-finish: 2017-06-30 00:00:00 +1000
+date-start: 2016-05-31 14:00:00 +0000
+date-finish: 2017-06-29 14:00:00 +0000
 summary: 'Following on from the pilots, the Scale Up worked on implementing the revised
   OLM model (Version 2) across seven large courses at CSU. '
 team:
