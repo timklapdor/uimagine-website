@@ -28,6 +28,7 @@ fields:
     - symposium
     - workshop
     - forum
+    - lecture
   label: Event Type
   default: conference
 - name: promotional-text
