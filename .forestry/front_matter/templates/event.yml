@@ -290,6 +290,7 @@ fields:
   hidden: false
   description: Add link to Flickr Albumn
 pages:
+- _events/conversations-about-online-learning.md
 - _events/data-learning-preparing-for-the-future.md
 - _events/using-learning-analytics-at-scale.md
 - _events/learning-analytics-steering-clear-of-failure.md
@@ -302,5 +303,4 @@ pages:
 - _events/simulation-role-play-symposium.md
 - _events/alternative-staffing-approaches.md
 - _events/learning-analytics-symposium.md
-- _events/conversations-about-online-learning.md
 - _events/campus-the-cloud.md
