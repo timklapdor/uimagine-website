@@ -36,7 +36,6 @@ fields:
     - Innovation
     - Incubation
     - Open Education
-    - WeImagine
     required: true
   label: Category
   description: Chose the applicable program of work
