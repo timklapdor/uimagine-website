@@ -28,7 +28,7 @@ contact-name: uImagine Team
 include: ["_pages"]
 permalink: /:year/:title.html
 
-# Setup for Categories
+# Setup for category
 
 
 # Setup for Collections
