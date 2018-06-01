@@ -94,7 +94,7 @@ outputs:
   button_text: Watch Video
   link: https://livestream.com/uimagine/data-community
 flickr-album: ''
-category: WeImagine
+categories: WeImagine
 ---
 From Agriculture to Logistics, Health to Communications, data is fundamentally changing how we do things – from making decisions, caring for one another, working with the environment and doing business around the world. The proliferation of digital data has changed many aspects of our lives, but it's still a mystery into how it really works, how it's being used and how it could be used into the future. uImagine assembled a panel of local experts keen to share what data means to them, how it’s being used in their industry and what the future might hold.
 
