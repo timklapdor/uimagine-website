@@ -1,7 +1,6 @@
 ---
 title: Zeetings Trial
 layout: project
-category: Incubation
 status: ongoing
 hero:
   gradient_corner: top
@@ -10,9 +9,9 @@ hero:
   gradient_side: ''
   icon: "/uploads/zeetings.svg"
   image: ''
-date: 2018-06-01 12:42:17 +1000
+date: 2018-06-01 02:42:17 +0000
 progress: 50
-date-start: 2018-01-01 00:00:00 +1100
+date-start: 2017-12-31 13:00:00 +0000
 date-finish: ''
 summary: 'A trial of the participatory presentation platform Zeetings. '
 team:
@@ -20,6 +19,7 @@ team:
 focus:
 - new technology
 outputs: []
+categories: Incubation
 ---
 ## Description
 
