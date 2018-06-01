@@ -26,7 +26,7 @@ outputs:
 - description: H5P Server
   file: ''
   link: http://h5p.csu.edu.au
-categories: Incubation
+category: Incubation
 ---
 ## Description
 

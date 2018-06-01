@@ -25,7 +25,7 @@ focus:
 outputs:
 - description: Project Report
   file: "/uploads/project-engagement-lectures.pdf"
-categories: Innovation
+category: Innovation
 ---
 ## Description
 

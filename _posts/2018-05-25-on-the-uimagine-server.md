@@ -1,7 +1,7 @@
 ---
 title: On the uImagine Server
 layout: post
-categories: Incubation
+category: Incubation
 date: 2018-05-25 00:00:00 +0000
 excerpt: We are Live!
 author: Tim Klapdor

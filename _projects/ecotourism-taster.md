@@ -24,7 +24,7 @@ focus:
 - experience
 - pedagogy
 outputs: []
-categories: Open Education
+category: Open Education
 ---
 ## Description 
 
