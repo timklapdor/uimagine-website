@@ -21,8 +21,11 @@ team:
 - Kerri Hicks
 - George John
 focus:
+- research
 - new technology
-outputs: []
+outputs:
+- description: Project Report
+  file: "/uploads/project-engagement-lectures.pdf"
 ---
 ## Description
 
@@ -37,3 +40,11 @@ The project will focus on the integration of audience response systems that allo
 This study and the framework developed are expected to increase engagement and especially for online students (or students not attending lectures) to make the process more interesting and enjoyable. This would subsequently increase progression in subject sand also reduce attrition. It is also envisaged that the framework will enhance student satisfaction scores in the areas of engagement and student satisfaction in terms of value proposition offered. 
 
 ## Findings
+
+The key findings of this work included: 
+
+1. Students preferred technologies that they were already familiar with and that allowed a more seamless integration 
+2. Students were keen for more engagement in their lectures both internally and online 
+3. Technology had to be used well to ensure students would not become disengaged. 
+
+The majority of students in the focus group preferred Adobe Connect with Quiz Connect as it was in a platform they were used to. It also offered better integration with video resources and interactions through quizzes were possible within the same recording. This technology was also well received in subject trials, with the number of students accessing the recordings doubling after in-lecture questions were added using Quiz Connect. 
