@@ -1,7 +1,6 @@
 ---
 title: Engagement in Online Lectures
 layout: project
-category: Innovation
 status: complete
 hero:
   gradient_corner: top
@@ -10,10 +9,10 @@ hero:
   gradient_side: ''
   icon: "/uploads/project-engagement-lecture.svg"
   image: ''
-date: 2018-06-01 11:14:06 +1000
+date: 2018-06-01 01:14:06 +0000
 progress: 100
-date-start: 2015-09-01 17:00:00 +1000
-date-finish: 2016-06-30 09:00:00 +1000
+date-start: 2015-09-01 07:00:00 +0000
+date-finish: 2016-06-29 23:00:00 +0000
 summary: The aim of the project was to research and evaluate a range of technologies
   aimed at increasing online lecture engagement, both synchronously and asynchronously.
 team:
@@ -26,6 +25,7 @@ focus:
 outputs:
 - description: Project Report
   file: "/uploads/project-engagement-lectures.pdf"
+categories: Innovation
 ---
 ## Description
 
