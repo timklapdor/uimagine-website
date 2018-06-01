@@ -17,19 +17,6 @@ fields:
   config:
     required: true
 - type: select
-  name: category
-  config:
-    source:
-      type: simple
-    options:
-    - Innovation
-    - Incubation
-    - Open Education
-    required: true
-  label: Category
-  description: Chose the applicable program of work
-  default: Innovation
-- type: select
   name: status
   config:
     source:
@@ -40,6 +27,20 @@ fields:
     required: true
   label: Status
   default: ongoing
+- type: select
+  name: category
+  config:
+    source:
+      type: simple
+    options:
+    - Innovation
+    - Incubation
+    - Open Education
+    - WeImagine
+    required: true
+  label: Category
+  description: Chose the applicable program of work
+  default: Innovation
 - type: number
   name: progress
   label: Progress
