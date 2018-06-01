@@ -46,6 +46,8 @@ speakers:
   external_link_url: https://speakerdeck.com/cogdog/affordances-of-the-open-web-1
 outputs: []
 flickr-album: ''
+category: Open Education
+program: ''
 ---
 ### Lecture & Workshop
 
