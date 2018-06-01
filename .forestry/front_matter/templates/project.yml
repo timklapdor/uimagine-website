@@ -163,6 +163,7 @@ fields:
     name: image
     label: Image
 pages:
+- _projects/h5p-server.md
 - _projects/engagement-in-online-lectures.md
 - _projects/biomedical-learning-resources.md
 - _projects/de-transition-support.md
