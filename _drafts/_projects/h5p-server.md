@@ -28,3 +28,14 @@ outputs:
   file: ''
   link: http://h5p.csu.edu.au
 ---
+## Description
+
+[H5P](http://www.h5p.org) is a new and open sourced tool for developing online interactive learning resources. To help academics, educational designers and learning technologist utilise the tool we are setting up a server to house these resources. By bringing the technology inside CSU we are able to maintain and support the use of the tool and track it's use and growth. 
+
+## Aims
+
+To provide access to the suite of tools that H5P makes available. These can be used by staff across CSU and can be maintained by a range of staff. 
+
+## Approach
+
+The site uses a Wordpress Multisite installation to house all the content. New users can request a site be set up for their subject and then they can go in and develop and play with the tools that H5P provides.
