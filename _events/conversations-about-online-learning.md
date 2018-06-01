@@ -62,8 +62,8 @@ speakers:
   case-study: ''
 outputs: []
 flickr-album: ''
-category: Innovation
 program: ''
+categories: Innovation
 ---
 
 The u!magine team aim was to engage with the CSU community around online education. We wanted to explore the current contexts, issues, technologies, challenges and practices around online education. The workshop engaged academic and professional staff in strategic thought around the future of online education and the approaches CSU needs to take and engage with in order to be successful.

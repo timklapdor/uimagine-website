@@ -290,8 +290,8 @@ fields:
   hidden: false
   description: Add link to Flickr Albumn
 pages:
-- _events/icde-presidents-summit.md
 - _events/conversations-about-online-learning.md
+- _events/icde-presidents-summit.md
 - _events/data-learning-preparing-for-the-future.md
 - _events/using-learning-analytics-at-scale.md
 - _events/learning-analytics-steering-clear-of-failure.md

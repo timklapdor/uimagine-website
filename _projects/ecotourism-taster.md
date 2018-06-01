@@ -1,7 +1,6 @@
 ---
 title: EcoTourism Taster
 layout: project
-category: Open Education
 status: ongoing
 hero:
   gradient_corner: top
@@ -10,9 +9,9 @@ hero:
   gradient_side: ''
   icon: "/uploads/project-eco-tourism.svg"
   image: ''
-date: 2018-06-01 14:29:19 +1000
+date: 2018-06-01 04:29:19 +0000
 progress: 80
-date-start: 2018-01-01 00:00:00 +1100
+date-start: 2017-12-31 13:00:00 +0000
 date-finish: ''
 summary: The EcoTourism Taster course was developed as part of the Open Pathways initiative
   which seeks to open up opportunities for studying at CSU.
@@ -24,7 +23,7 @@ focus:
 - experience
 - pedagogy
 outputs: []
-category: Open Education
+categories: Open Education
 ---
 ## Description 
 

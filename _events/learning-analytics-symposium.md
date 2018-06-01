@@ -82,8 +82,8 @@ speakers:
   case-study: ''
 outputs: []
 flickr-album: https://www.flickr.com/photos/uimagine/albums/72157670443515830
-category: Innovation
 program: ''
+categories: Innovation
 ---
 uImagine was pleased to launch itself at the inaugural Learning Analytics Symposium for CSU staff on Thursday 4 & Friday 5 September 2014 at our Wagga Campus. The event challenged the way we think about Learning Analytics and its role in higher education, while also providing insight on analytics initiatives and projects under way at CSU.
 

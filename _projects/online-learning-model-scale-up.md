@@ -1,7 +1,7 @@
 ---
 title: Online Learning Model Scale Up
 layout: project
-category: Innovation
+categories: Innovation
 status: complete
 hero:
   gradient_corner: top
