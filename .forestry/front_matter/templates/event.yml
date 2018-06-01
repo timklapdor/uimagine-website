@@ -52,6 +52,7 @@ fields:
     - Innovation
     - Incubation
     - Open Education
+    - WeImagine
     required: true
   label: Category
   default: Innovation
