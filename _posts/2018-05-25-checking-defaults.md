@@ -1,7 +1,7 @@
 ---
 title: Checking Defaults
 layout: post
-category: Updates
+categories: Updates
 date: 2018-05-25 00:00:00 +0000
 excerpt: Testing the defaults for blog posts
 author: Tim Klapdor
