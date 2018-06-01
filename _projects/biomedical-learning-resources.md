@@ -27,9 +27,9 @@ outputs: []
 ---
 ## Decription
 
-Lucy Webster of the School of Biomedical Sciences lead a collaborative project with uImagine in which subjects across three schools within the Faculty of Science trialled the use of the BEST network biomedical image database along with the Smart Sparrow adaptive learning tool. Students benefited greatly from the ability to access a wide range of microscopic biomedical images in the context of self-paced learning resources helping them to build their conceptual understandings of key anatomical or physiological material.
+Lucy Webster of the School of Biomedical Sciences lead a collaborative project with uImagine in which subjects across three schools within the Faculty of Science trialled the use of the [BEST Network](https://www.best.edu.au/) biomedical image database along with the [Smart Sparrow](https://www.smartsparrow.com/) adaptive learning tool. Students benefited greatly from the ability to access a wide range of microscopic biomedical images in the context of self-paced learning resources helping them to build their conceptual understandings of key anatomical or physiological material.
 
-Membership to the [BEST Networ**k**](https://www.best.edu.au/) provides CSU with access to courseware tools that allow the creation of rich, interactive and adaptive. It also gives CSU access to the world class SLICE medical Image Bank.
+Membership to the [BEST Network](https://www.best.edu.au/) provides CSU with access to courseware tools that allow the creation of rich, interactive and adaptive. It also gives CSU access to the world class SLICE medical Image Bank.
 
 ## Aims
 
@@ -42,4 +42,4 @@ The aim of the project was to provide:
 
 ## Findings
 
-Access to the BEST Network provided incredibly useful online resources for staff and students to aid them in their teaching and learning. Access to the network also provided a chance to trial Smart Sparrow for the authoring of learning resources. The tool has now been adopted into a supported technology for the whole university. 
+Access to the BEST Network provided incredibly useful online resources for staff and students to aid them in their teaching and learning. Access to the network also provided a chance to trial [Smart Sparrow](https://www.smartsparrow.com/) for the authoring of learning resources. The tool has now been adopted into a supported technology for the whole university.
