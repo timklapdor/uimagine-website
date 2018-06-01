@@ -39,3 +39,7 @@ To provide access to the suite of tools that H5P makes available. These can be u
 ## Approach
 
 The site uses a Wordpress Multisite installation to house all the content. New users can request a site be set up for their subject and then they can go in and develop and play with the tools that H5P provides.
+
+## Outcomes
+
+The site was made available at the beginning of 2018 and it will run for the next 12-18 months before a review is undertaken. During this time a number of trials and pilots can be run to assess the tool and if it will should become a support learning technology within CSU. 
