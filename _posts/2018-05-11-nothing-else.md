@@ -14,7 +14,7 @@ hero:
   gradient_color_1: '215,31,133,1'
   gradient_color_2: '215,31,133,1'
   image: 
-categories: innovation
+category: innovation
 ---
 
 ## Nothing Else

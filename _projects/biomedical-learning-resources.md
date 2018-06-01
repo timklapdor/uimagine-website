@@ -1,7 +1,7 @@
 ---
 title: Biomedical Learning Resources
 layout: project
-categories: Innovation
+category: Innovation
 status: complete
 hero:
   gradient_corner: top
