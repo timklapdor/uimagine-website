@@ -43,6 +43,18 @@ fields:
     - panel
   label: Event Type
   default: conference
+- type: select
+  name: category
+  config:
+    source:
+      type: simple
+    options:
+    - Innovation
+    - Incubation
+    - Open Education
+    required: true
+  label: Category
+  default: Innovation
 - name: promotional-text
   label: Promotional text
   type: textarea
