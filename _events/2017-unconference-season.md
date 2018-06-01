@@ -260,6 +260,8 @@ speakers:
   name: Julie Lindsay
 outputs: []
 flickr-album: ''
+category: Incubation
+program: ''
 ---
 The format for each Unconference Session was a 1 hour videoconference session where 6 people  have 5 minutes each to share a new digital tool that is on their radar, or pitch a new innovative online learning idea and receive feedback from others. This is followed by 30 minutes of where we opened the floor for discussion. 
 
