@@ -42,6 +42,7 @@ outputs:
   file: "/uploads/icde-Program.pdf"
   button_text: Download
 flickr-album: https://www.flickr.com/photos/uimagine/albums/72157673239569623
+category: Open Education
+program: ''
 ---
-
-The 2016 ICDE Presidents’ Summit entitled **A New Era of Leadership and Quality: The Business of Open and Distance Learning 2020** will focus on new trends in executive leadership, changing paradigms, and innovative approaches for distributed leadership and management practice. The Summit theme will focus on sharing creative and innovative new approaches to leadership, continuous quality improvement and new regional, national and global partnership models. The broader goal of the 2016 President’ Summit is to empower leaders to take a critical look at their own leadership approaches and tap the input from fellow delegates in reformulating their leadership 2020 strategy. Managers do things right . . . leaders do the right things. The Presidents’ Summit 2016 is ultimately about presidents and chief executive officers from across the globe sharing how we can do things right.
+The 2016 ICDE Presidents’ Summit entitled **A New Era of Leadership and Quality: The Business of Open and Distance Learning 2020** will focus on new trends in executive leadership, changing paradigms, and innovative approaches for distributed leadership and management practice. The Summit theme will focus on sharing creative and innovative new approaches to leadership, continuous quality improvement and new regional, national and global partnership models. The broader goal of the 2016 President’ Summit is to empower leaders to take a critical look at their own leadership approaches and tap the input from fellow delegates in reformulating their leadership 2020 strategy. Managers do things right ... leaders do the right things. The Presidents’ Summit 2016 is ultimately about presidents and chief executive officers from across the globe sharing how we can do things right.
