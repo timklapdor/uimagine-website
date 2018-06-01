@@ -2,7 +2,7 @@
 
 {% for project in site.projects %}
 
-  <article class="project card {{ project.status }} {{ project.categories | downcase }}" data-category="{{ project.status }}" data-time="{{ project.date-start }}">
+  <article class="project card {{ project.status }} {% for item in project.categories %}{{  item | downcase }}{% endfor %}" data-category="{{ project.status }}" data-time="{{ project.date-start }}">
       <a href="{{ site.baseurl }}{{ project.url }}.html">
         {% if project.hero %}
     <img src="{{ project.hero.icon | absolute_url }}">
