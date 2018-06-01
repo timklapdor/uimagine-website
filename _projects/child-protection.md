@@ -3,7 +3,6 @@ layout: project
 title: Child Protection Preparation
 summary: 'Develop a repository of strengths-based learning materials to enhance the
   child protection preparation. '
-category: Innovation
 team:
 - Dr Angela Fenton
 - Kathryn Dalton
@@ -17,8 +16,8 @@ outputs:
   file: uploads/child-protection-presentation.pdf
 - description: Conference Poster
   file: uploads/child-protection-poster.pdf
-date-start: 2015-07-01 00:00:00 +1000
-date-finish: 2016-11-30 00:00:00 +1000
+date-start: 2015-06-30 14:00:00 +0000
+date-finish: 2016-11-29 14:00:00 +0000
 hero:
   icon: uploads/project-child-protection.svg
   gradient_corner: top
@@ -26,6 +25,7 @@ hero:
   gradient_color_1: '203,0,68'
   gradient_color_2: '0,175,216'
 date: 2018-05-25 02:31:25 +0000
+categories: Innovation
 ---
 
 ## Description

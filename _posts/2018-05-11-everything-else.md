@@ -3,18 +3,18 @@ layout: post
 title: Everything Else is fine
 date: 2018-05-11 01:00:00 +0000
 author: Christian Surname
-category: innovation
 tags:
 - something
 - else
 excerpt: Something about this
 hero:
   full_screen: false
-  gradient_corner:
+  gradient_corner: 
   gradient_side: bottom
   gradient_color_1: '215,31,133,1'
   gradient_color_2: '215,31,133,1'
-  image:
+  image: 
+categories: innovation
 ---
 
 ## All Else

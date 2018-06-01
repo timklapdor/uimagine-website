@@ -1,7 +1,6 @@
 ---
 layout: project
 title: Online Problem-Based Learning
-category: Innovation
 summary: 'The project explored the used of a problem based learning (PBL) approach
   to improve student learning in an online environment, '
 team:
@@ -22,8 +21,8 @@ progress: 100%
 outputs:
 - description: Final Report
   file: uploads/pbl-report.pdf
-date-start: 2015-05-30 09:00:00 +1000
-date-finish: 2015-05-31 09:00:00 +1000
+date-start: 2015-05-29 23:00:00 +0000
+date-finish: 2015-05-30 23:00:00 +0000
 hero:
   icon: uploads/project-pbl.svg
   gradient_corner: top
@@ -31,6 +30,7 @@ hero:
   gradient_color_1: '203,0,68'
   gradient_color_2: '0,175,216'
 date: 2018-05-25 02:31:25 +0000
+categories: Innovation
 ---
 
 ## Description

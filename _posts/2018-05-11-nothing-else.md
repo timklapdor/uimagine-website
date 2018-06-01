@@ -3,18 +3,18 @@ layout: post
 title: Nothing Else
 date: 2018-05-11 02:00:00 +0000
 author: Christian Surname
-category: innovation
 tags:
 - something
 - else
 excerpt: Something about this
 hero:
   full_screen: false
-  gradient_corner:
+  gradient_corner: 
   gradient_side: bottom
   gradient_color_1: '215,31,133,1'
   gradient_color_2: '215,31,133,1'
-  image:
+  image: 
+categories: innovation
 ---
 
 ## Nothing Else
