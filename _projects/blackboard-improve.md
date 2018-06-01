@@ -1,7 +1,7 @@
 ---
 title: Blackboard Improve
 layout: project
-categories: Innovation
+category: Innovation
 status: complete
 date: 2018-05-22 03:19:30 +0000
 progress: 100

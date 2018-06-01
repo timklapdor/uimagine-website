@@ -3,6 +3,7 @@ layout: project
 title: Riverina Shore
 summary: "'Riverina Shore’ is a virtual community developed to provide contextual
   client information for online learning."
+category: Innovation
 team:
 - Caroline Robinson
 - Ryun Fell
@@ -19,8 +20,8 @@ outputs:
   file: uploads/riverina-shore-final-report.pdf
 - description: Presentation
   file: uploads/riverina-shore-solg.pdf
-date-start: 0001-04-20 00:00:00 +0000
-date-finish: 0031-12-20 00:00:00 +0000
+date-start: 2015-05-30 09:00:00 +1000
+date-finish: 2016-07-31 09:00:00 +1000
 hero:
   icon: uploads/project-riverina-shore.svg
   gradient_corner: top

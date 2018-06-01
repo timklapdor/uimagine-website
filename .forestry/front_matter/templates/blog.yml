@@ -47,7 +47,7 @@ fields:
     - Wendy Rowlands
   label: Author
 - type: select
-  name: categories
+  name: category
   config:
     source:
       type: simple
@@ -57,7 +57,7 @@ fields:
     - Open Education
     - Updates
     required: true
-  label: Categories
+  label: Category
   description: Which program does this go under?
   default: Incubation
 - name: tags

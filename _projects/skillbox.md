@@ -2,6 +2,7 @@
 layout: project
 title: SkillBox
 summary: A formatively assessed scaffold tool to develop and assess student skills.
+category: Innovation
 team:
 - Dr Rachel Whitsed
 - Joanne Parker
@@ -14,8 +15,8 @@ outputs:
   file: uploads/skillbox-ascilite-2015-whitsed.pdf
 - description: Presentation
   file: uploads/skillbox-solg.pdf
-date-start: 0001-04-20 00:00:00 +0000
-date-finish: 0031-12-20 00:00:00 +0000
+date-start: 2015-07-15 09:00:00 +1000
+date-finish: 2016-06-30 09:00:00 +1000
 project-focus: resource
 hero:
   icon: uploads/project-skills-box.svg

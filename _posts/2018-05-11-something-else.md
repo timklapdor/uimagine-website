@@ -3,9 +3,7 @@ layout: post
 title: Another post with a title involved
 date: 2018-05-11 00:00:00 +0000
 author: Christian Surname
-categories:
-- jekyll
-- update
+category: open
 tags:
 - something
 - else
@@ -13,10 +11,10 @@ excerpt: Something about this
 hero:
   full_screen: false
   gradient_corner: top
-  gradient_side: 
+  gradient_side:
   gradient_color_1: '215,31,133,1'
   gradient_color_2: '215,31,133,1'
-  image: 
+  image:
 ---
 
 ## Something Else Entirely

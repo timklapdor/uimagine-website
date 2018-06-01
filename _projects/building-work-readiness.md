@@ -2,9 +2,10 @@
 layout: project
 title: Building Work Readiness
 summary: Develop workplace readiness through online role play, games and simulations.
+category: Innovation
 status: complete
-date-start: 0001-04-20 00:00:00 +0000
-date-finish: 0031-12-20 00:00:00 +0000
+date-start: 2015-05-01 09:00:00 +1000
+date-finish: 2016-06-30 09:00:00 +1000
 progress: 100%
 team:
 - Carole Hunter
@@ -31,7 +32,6 @@ hero:
   gradient_side: left
   gradient_color_1: '203,0,68'
   gradient_color_2: '0,175,216'
-categories: innovation
 date: 2018-05-25 02:31:25 +0000
 ---
 

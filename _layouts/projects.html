@@ -30,8 +30,8 @@ layout: default
 <button data-filter=".on-going">on going</button>
 <button data-filter=".complete">complete</button>
 <button data-filter=".innovation">innovation</button>
-<button data-filter=".practice">practice</button>
-<button data-filter=".resource">resource</button>
+<button data-filter=".open">open</button>
+<button data-filter=".incubation">incubation</button>
 
 </div>
   {% include project-archive.html %}
@@ -57,8 +57,8 @@ var iso = new Isotope( '.card-grid', {
 },
   sortBy: [ 'date', 'category' ],
   sortAscending: {
-  date: true,
-  category: true
+  date: false,
+  category: false
 }
 });
 

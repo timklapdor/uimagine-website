@@ -17,7 +17,7 @@ fields:
   config:
     required: true
 - type: select
-  name: categories
+  name: category
   config:
     source:
       type: simple
@@ -26,7 +26,7 @@ fields:
     - Incubation
     - Open Education
     required: true
-  label: Categories
+  label: Category
   description: Chose the applicable program of work
   default: Innovation
 - type: select
