@@ -1,5 +1,5 @@
 ---
-title: CSU Online Learning Model
+title: Online Learning Model
 layout: project
 categories: innovation
 status: complete
