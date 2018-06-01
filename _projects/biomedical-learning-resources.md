@@ -10,10 +10,10 @@ hero:
   gradient_side: ''
   icon: "/uploads/project-best-network.svg"
   image: ''
-date: 2018-06-01 10:23:24 +1000
+date: 2018-06-01 00:23:24 +0000
 progress: 100
-date-start: 2015-07-15 09:00:00 +1000
-date-finish: 2016-06-16 09:00:00 +1000
+date-start: 2015-07-14 23:00:00 +0000
+date-finish: 2016-06-15 23:00:00 +0000
 summary: 'Membership to the BEST Network and trial of the Smart Sparrow learning tool. '
 team:
 - Lucy Webster

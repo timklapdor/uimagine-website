@@ -10,10 +10,10 @@ hero:
   gradient_side: ''
   icon: "/uploads/transition.svg"
   image: ''
-date: 2018-05-31 16:39:45 +1000
+date: 2018-05-31 06:39:45 +0000
 progress: 100
-date-start: 2016-01-01 00:00:00 +1100
-date-finish: 2017-06-30 00:00:00 +1000
+date-start: 2015-12-31 13:00:00 +0000
+date-finish: 2017-06-29 14:00:00 +0000
 summary: 'Redevelopment of subject materials to support the development of micro-skills
   to adapt and recognise prior learning. '
 team:
