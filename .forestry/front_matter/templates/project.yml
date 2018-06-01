@@ -28,7 +28,7 @@ fields:
   label: Status
   default: ongoing
 - type: select
-  name: category
+  name: categories
   config:
     source:
       type: simple
