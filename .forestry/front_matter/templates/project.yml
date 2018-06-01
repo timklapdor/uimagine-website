@@ -163,6 +163,7 @@ fields:
     name: image
     label: Image
 pages:
+- _projects/ecotourism-taster.md
 - _projects/zeetings-trial.md
 - _projects/h5p-server.md
 - _projects/engagement-in-online-lectures.md
