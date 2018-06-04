@@ -42,8 +42,7 @@ speakers:
   external_link_label: Presentation Slides
 outputs: []
 flickr-album: ''
-categories: WeImagine
-category: Innovation
+categories: Innovation
 ---
 This event was open to all educators in the Wagga area – from K-12 through to Higher Education –  interested in using Learning Analytics to inform their practice.
 

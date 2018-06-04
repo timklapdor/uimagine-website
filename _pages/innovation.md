@@ -7,19 +7,19 @@ archive: true
 hero:
   full_screen: false
   gradient_corner: top
-  gradient_side:
+  gradient_side: 
   gradient_color_1: '0,175,216,.9'
   gradient_color_2: '0,175,216,.4'
   icon: uploads/innovate-alpha.svg
-  image:
+  image: 
   promo-head: Innovations
 feature:
 - full_screen: false
   gradient_corner: bottom
-  gradient_side:
+  gradient_side: 
   gradient_color_1: '0,175,216,1'
   gradient_color_2: '0,175,216,.8'
-  image:
+  image: 
   text-area:
   - size: centered
     heading: Find out more about our open educaiton opportunities

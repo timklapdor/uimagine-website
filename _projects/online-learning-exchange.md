@@ -10,9 +10,9 @@ hero:
   gradient_side: ''
   icon: "/uploads/projects-csulx.svg"
   image: ''
-date: 2018-06-01 16:55:20 +1000
+date: 2018-06-01 06:55:20 +0000
 progress: 80
-date-start: 2016-06-01 00:00:00 +1000
+date-start: 2016-05-31 14:00:00 +0000
 date-finish: ''
 summary: 'The Online Learning Exchange was established to house the Online Learning
   Model and the developed strategies to implement it. '

@@ -24,7 +24,6 @@ focus:
 - pedagogy
 outputs: []
 categories: Open
-
 ---
 ## Description
 
