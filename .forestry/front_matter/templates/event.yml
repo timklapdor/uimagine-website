@@ -43,19 +43,18 @@ fields:
     - panel
   label: Event Type
   default: conference
-- type: select
-  name: category
+- type: list
+  name: categories
+  label: Categories
   config:
+    use_select: true
     source:
       type: simple
     options:
-    - Innovation
-    - Incubation
-    - Open Education
-    - WeImagine
-    required: true
-  label: Category
-  default: Innovation
+    - incubation
+    - innovation
+    - open
+    - weimagine
 - name: promotional-text
   label: Promotional text
   type: textarea
