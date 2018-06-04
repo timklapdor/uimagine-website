@@ -27,19 +27,18 @@ fields:
     required: true
   label: Status
   default: ongoing
-- type: select
-  name: categories
+- type: list
+  label: Category
+  name: category
+  description: Select area of work
   config:
+    use_select: true
     source:
       type: simple
     options:
-    - Innovation
-    - Incubation
-    - Open Education
-    required: true
-  label: Category
-  description: Chose the applicable program of work
-  default: Innovation
+    - incubation
+    - innovation
+    - open
 - type: number
   name: progress
   label: Progress
