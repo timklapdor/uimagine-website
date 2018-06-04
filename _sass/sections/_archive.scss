@@ -1,6 +1,15 @@
+section.filtered {
+  min-height: 80vh;
+}
+
 article.archive {
 
-  margin: 0 2vw;
+  margin: 0 -2vw;
+  padding: 1vw 2vw 3vw;
+
+  &:first-child {
+    background: lighten($brand-1, 70%);
+  }
 
   &:last-child {
     padding-bottom: 5vw;
@@ -52,6 +61,8 @@ article.archive {
      margin: 0;
      line-height: 1;
      padding-bottom: 1em;
+     min-width: 10em;
+     max-width: 10em;
    }
 
    .date {
@@ -89,6 +100,22 @@ div.project-list {
 div.project-list {
   a {
     width: 20vw;
+  }
+}
+}
+
+@media screen and (min-width: 1500px) {
+div.project-list {
+  a {
+    width: 16vw;
+  }
+}
+}
+
+@media screen and (min-width: 2000px) {
+div.project-list {
+  a {
+    width: 11vw;
   }
 }
 }

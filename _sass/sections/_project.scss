@@ -87,13 +87,13 @@ div.button-group {
     border-radius: 0;
     padding: .8em 1em;
     color: $rev;
-    background-color: $brand-3;
+    background-color: $brand-1;
     border-bottom: 1px solid $rev;
     border-right: 1px solid $rev;
   }
 
   button:hover, button:active, button:focus {
-    background: darken($brand-3, 20%);
+    background: $brand-4;
     border: 0;
     color: $rev;
   }
