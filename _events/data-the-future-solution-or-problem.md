@@ -95,14 +95,17 @@ outputs:
   link: https://livestream.com/uimagine/data-community
 flickr-album: ''
 categories: WeImagine
+category: Innovation
 ---
 From Agriculture to Logistics, Health to Communications, data is fundamentally changing how we do things – from making decisions, caring for one another, working with the environment and doing business around the world. The proliferation of digital data has changed many aspects of our lives, but it's still a mystery into how it really works, how it's being used and how it could be used into the future. uImagine assembled a panel of local experts keen to share what data means to them, how it’s being used in their industry and what the future might hold.
 
-Our panel session was ran by Pennie Scott and included:
+Our panel session was run by Pennie Scott (editor of the Wagga Weekly) and included:
 
 * Deb Blackwell – Agriculture
 * David Bardos  – Logistics
 * James Howell – Information Technology
 * Dr Tim Caton – Health.
+
+The event was co-sponsored by the Wagga Weekly and Wagga Wagga City Council. 
 
 {% include figure.html filename="data-future-solution-problem-speakers.jpg" caption="From left to right: David Bardos, James Howell, Tim Caton, Lyn Hay, Pennie Scott and Deb Blackwell." %}
