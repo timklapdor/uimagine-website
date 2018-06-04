@@ -1,0 +1,39 @@
+
+{% assign incubate = site.events | where:"categories","Incubation" | sort: 'date-start' | reverse  %}
+{% assign innovate = site.events | where:"categories","Innovation" | sort: 'date-start' | reverse %}
+{% assign open = site.events | where:"categories","Open" | sort: 'date-start' | reverse  %}
+
+<!--  {{ open.size }}-->
+
+<article class="archive">
+  <h2>Events</h2>
+  <div>
+    {% case page.categories %}
+    {% when 'open' %}
+    {% for event in open %}
+    <a href="{{ site.baseurl }}{{ event.url }}" class="open">
+        <img src="{{ site.baseurl }}/{{ event.hero.icon }}" height="100">
+        <p>{{ event.title}}</p>
+    </a>
+    {% endfor %}
+
+    {% when 'incubation' %}
+    {% for event in incubate %}
+      <a href="{{ site.baseurl }}{{ event.url }}" class="incubate">
+          <img src="{{ site.baseurl }}/{{ event.hero.icon }}" height="100">
+          <p>{{ event.title}}</p>
+      </a>
+    {% endfor %}
+
+    {% when 'innovation' %}
+      {% for event in innovate  %}
+      <a href="{{ site.baseurl }}{{ event.url }}" class="innovate">
+          <img src="{{ site.baseurl }}/{{ event.hero.icon }}" height="100">
+          <p>{{ event.title}}</p>
+          <p class="date">{{ event.date-start | date_to_string }}</p>
+      </a>
+      {% endfor %}
+
+    {% endcase %}
+    <div>
+</article>

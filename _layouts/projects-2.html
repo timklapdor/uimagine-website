@@ -34,7 +34,7 @@ layout: default
 <button data-filter=".incubation">incubation</button>
 
 </div>
-  {% include project-archive.html %}
+  {% include project-archive-2.html %}
 {% endfor %}
 
 <!--  Isotope Filter Script  -->
@@ -44,7 +44,7 @@ layout: default
 // external js: isotope.pkgd.js
 
 // init Isotope
-var iso = new Isotope( '.card-grid', {
+var iso = new Isotope( '.project-list', {
   itemSelector: '.project',
   percentPosition: true,
   layoutMode: 'fitRows',

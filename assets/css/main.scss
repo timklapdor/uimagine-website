@@ -33,6 +33,7 @@ $brand-4: #{{ site.brand-4 }};
 @import "sections/speakers";
 @import "sections/contact";
 @import "sections/palette";
+@import "sections/archive";
 
 // Modules
 @import "modules/buttons";

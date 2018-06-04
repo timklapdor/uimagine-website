@@ -14,6 +14,14 @@ layout: default
   </article>
 </section>
 
+
+<section class="">
+  {% if page.archive == true %}
+    {% include event-list.html %}
+    {% include project-list.html %}
+  {% endif %}
+</section>
+
 {% for item in page.feature %}
   {% include feature.html %}
 {% endfor %}

@@ -1,0 +1,94 @@
+article.archive {
+
+  margin: 0 2vw;
+
+  &:last-child {
+    padding-bottom: 5vw;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  div {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  a {
+    // flex: 0 1 15%;
+    color: $rev;
+    text-decoration: none;
+    flex-direction: column;
+    align-items: center;
+    margin: .5em .2em;
+    padding: .2em .4em;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  a:hover {
+    background: $brand-1;
+    color: $rev;
+  }
+
+
+  .incubate {
+    background: $brand-3;
+  }
+  .innovate {
+    background: $brand-2;
+  }
+  .open {
+    background: $brand;
+  }
+
+ p {
+     text-align: center;
+     margin: 0;
+     line-height: 1;
+     padding-bottom: 1em;
+   }
+
+   .date {
+     font-size: 80%;
+     text-transform: uppercase;
+   }
+  }
+
+div.project-list {
+  a {
+    width: 38vw;
+  }
+
+  .incubation {
+    background: $brand-3;
+  }
+  .innovation {
+    background: $brand-2;
+  }
+  .open {
+    background: $brand;
+  }
+}
+
+@media screen and (min-width: 600px) {
+div.project-list {
+  a {
+    width: 25vw;
+  }
+}
+}
+
+
+@media screen and (min-width: 1020px) {
+div.project-list {
+  a {
+    width: 20vw;
+  }
+}
+}
