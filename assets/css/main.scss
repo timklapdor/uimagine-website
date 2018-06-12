@@ -34,9 +34,13 @@ $brand-4: #{{ site.brand-4 }};
 @import "sections/contact";
 @import "sections/palette";
 @import "sections/archive";
+@import "sections/columns";
+@import "sections/publications";
+
 
 // Modules
 @import "modules/buttons";
 @import "modules/progress";
 @import "modules/video";
 @import "modules/figure";
+@import "modules/apa";

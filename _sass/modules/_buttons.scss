@@ -157,3 +157,19 @@ button {
   fill: $brand;
   color: $brand;
 }
+
+.see-more {
+  text-align: right;
+  text-transform: uppercase;
+  a {
+    text-decoration: none;
+    background: $grey-hover;
+    padding: .2em 1em;
+    border-radius: .2em;
+
+&:hover {
+  background: $brand-1;
+}
+  }
+
+}

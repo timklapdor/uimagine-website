@@ -1,0 +1,25 @@
+
+{% assign publications = site.data.publications | sort: 'date' | reverse  %}
+{% assign presentations = site.data.presentations | sort: 'date' | reverse %}
+
+<!--  {{ open.size }}-->
+
+<article class="publications">
+
+  {% case page.kind %}
+  {% when 'publications' %}
+<ul class="grid">
+  {% for item in publications %}
+  <li class="output" data-title="{{ item.title }}" data-author="{{ item.author }}" data-date="{{ item.date }}">{{ item.reference | markdownify }}</li>
+  {% endfor %}
+</ul>
+{% when 'presentations' %}
+<ul class="grid">
+  {% for item in presentations %}
+  <li class="output" data-title="{{ item.title }}" data-author="{{ item.author }}" data-date="{{ item.date }}">{{ item.reference | markdownify }}</li>
+  {% endfor %}
+</ul>
+
+{% endcase%}
+
+</article>

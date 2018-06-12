@@ -1,0 +1,80 @@
+---
+
+layout: default
+
+---
+
+{% if page.hero %}
+  {% include hero.html %}
+{% endif %}
+
+<section class="article">
+  <article class="">
+    {{ page.content | markdownify }}
+
+</article>
+</section>
+
+<section class="filtered ">
+{% include output-filters.html %}
+{% include outputs-list.html %}
+</section>
+
+<!--  Isotope Filter Script  -->
+
+<script>
+// external js: isotope.pkgd.js
+
+// init Isotope
+var iso = new Isotope( '.grid', {
+  itemSelector: '.output',
+  percentPosition: true,
+  layoutMode: 'fitRows',
+  fitRows: {
+    gutter: 25
+  },
+  getSortData: {
+  date: '[data-date]',
+  author: '[data-author]',
+  title: '[data-title]'
+  },
+  sortAscending: {
+  date: false,
+  title: true
+  }
+});
+
+// bind sort button click
+var sortByGroup = document.querySelector('.sort-button-group');
+sortByGroup.addEventListener( 'click', function( event ) {
+  // only button clicks
+  if ( !matchesSelector( event.target, 'button' ) ) {
+    return;
+  }
+  var sortValue = event.target.getAttribute('data-sort-value');
+  iso.arrange({ sortBy: sortValue });
+});
+
+// change is-checked class on buttons
+var buttonGroups = document.querySelectorAll('.button-group');
+for ( var i=0; i < buttonGroups.length; i++ ) {
+  buttonGroups[i].addEventListener( 'click', onButtonGroupClick );
+}
+
+function onButtonGroupClick( event ) {
+  // only button clicks
+  if ( !matchesSelector( event.target, 'button' ) ) {
+    return;
+  }
+  var button = event.target;
+  button.parentNode.querySelector('.is-checked').classList.remove('is-checked');
+  button.classList.add('is-checked');
+}
+
+
+
+</script>
+
+{% for item in page.feature %}
+  {% include feature.html %}
+{% endfor %}

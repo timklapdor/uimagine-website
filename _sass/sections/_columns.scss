@@ -1,0 +1,25 @@
+section.columns {
+  display: flex;
+  flex-direction: column;
+}
+
+
+@media screen and (min-width: 800px){
+section.columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto 1fr auto;
+  margin: 0 5vw;
+  grid-gap: 5vw;
+
+  article {
+    max-width: 37em;
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  }
+}
+}

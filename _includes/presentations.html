@@ -1,7 +1,21 @@
-{% assign presentations = site.data.presentations | sort: 'title' | reverse  %}
+{% assign presentations = site.data.presentations | sort: 'date' | reverse %}
 
-<ul>
-  {% for item in presentations %}
-  <li><strong>{{item.author }}</strong> - {{ item.reference }}</li>
-    {% endfor %}
-</ul>
+<article>
+
+  <h2>Latest Presentations</h2>
+
+  <ul class="apa">
+  {% for item in presentations limit: 10 %}
+    <li>
+      {% if item.file %}<a href="{{site.baseurl}}/{{ item.file }}" class="reference" target="_blank">{{ item.reference | markdownify | remove: '<p>' | remove: '</p>'  }}</a>{% endif %}
+      {% if item.url %}<a href="{{ item.url }}" class="reference" target="_blank">{{ item.reference | markdownify | remove: '<p>' | remove: '</p>' }}</a>
+        {% else %}
+        {{ item.reference | markdownify | remove: '<p>' | remove: '</p>' }}
+      {% endif %}
+    </li>
+  {% endfor %}
+  </ul>
+
+  <p class="see-more"><a href="{{ site.baseurl }}/presentations">See all Presentations</a></p>
+
+</article>

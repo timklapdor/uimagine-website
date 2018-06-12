@@ -1,9 +1,20 @@
-{% assign publications = site.data.publications  %}
+{% assign publications = site.data.publications | sort: 'date' | reverse %}
 
 <article>
-  <ul>
-    {% for item in publications %}
-    <li><strong>{{item.author }}</strong> - {{ item.reference }}</li>
-      {% endfor %}
+
+  <h2>Latest Publications</h2>
+  <ul class="apa">
+    {% for item in publications limit: 10%}
+
+    <li>
+      {% if item.file %}<a href="{{site.baseurl}}/{{ item.file }}" class="reference" target="_blank">{{ item.reference | markdownify | remove: '<p>' | remove: '</p>'  }}</a>{% endif %}
+      {% if item.url %}<a href="{{ item.url }}" class="reference" target="_blank">{{ item.reference | markdownify | remove: '<p>' | remove: '</p>' }}</a>
+        {% else %}
+        {{ item.reference | markdownify | remove: '<p>' | remove: '</p>' }}
+      {% endif %}
+    </li>
+
+    {% endfor %}
   </ul>
-</strong>
+  <p class="see-more"><a href="{{ site.baseurl }}/publications">See all Publications</a></p>
+</article>

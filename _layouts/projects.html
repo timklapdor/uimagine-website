@@ -25,16 +25,12 @@ layout: default
 <!--  Archive Area -->
 
 {% for item in page.archive%}
-<div class="button-group filters-button-group">
-<button data-filter="*">show all</button>
-<button data-filter=".ongoing">on going</button>
-<button data-filter=".complete">complete</button>
-<button data-filter=".innovation">innovation</button>
-<button data-filter=".open">open</button>
-<button data-filter=".incubation">incubation</button>
+
 
 </div>
+<section class="filtered">
   {% include project-archive.html %}
+</section>
 {% endfor %}
 
 <!--  Isotope Filter Script  -->
@@ -44,7 +40,7 @@ layout: default
 // external js: isotope.pkgd.js
 
 // init Isotope
-var iso = new Isotope( '.card-grid', {
+var iso = new Isotope( '.project-list', {
   itemSelector: '.project',
   percentPosition: true,
   layoutMode: 'fitRows',
