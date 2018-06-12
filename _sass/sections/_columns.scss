@@ -1,6 +1,10 @@
 section.columns {
   display: flex;
   flex-direction: column;
+
+  article {
+    margin: 2vw;
+  }
 }
 
 

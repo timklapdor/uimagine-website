@@ -31,5 +31,3 @@ feature:
 - Incubation Strategy
 - Learning Exchange
 - Online Learning Model
-- Presentations
-- Publications

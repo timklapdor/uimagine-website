@@ -5,18 +5,29 @@
 <!--  {{ open.size }}-->
 
 <article class="publications">
-
+<ul class="grid apa">
   {% case page.kind %}
   {% when 'publications' %}
-<ul class="grid">
+
   {% for item in publications %}
-  <li class="output" data-title="{{ item.title }}" data-author="{{ item.author }}" data-date="{{ item.date }}">{{ item.reference | markdownify }}</li>
+  <li class="output" data-title="{{ item.title }}" data-author="{{ item.author }}" data-date="{{ item.date }}">
+    {% if item.file %}<a href="{{site.baseurl}}/{{ item.file }}" class="reference" target="_blank">{{ item.reference | markdownify | remove: '<p>' | remove: '</p>'  }}</a>{% endif %}
+    {% if item.url %}<a href="{{ item.url }}" class="reference" target="_blank">{{ item.reference | markdownify | remove: '<p>' | remove: '</p>' }}</a>
+      {% else %}
+      {{ item.reference | markdownify | remove: '<p>' | remove: '</p>' }}
+    {% endif %}
+  </li>
   {% endfor %}
-</ul>
+
 {% when 'presentations' %}
-<ul class="grid">
   {% for item in presentations %}
-  <li class="output" data-title="{{ item.title }}" data-author="{{ item.author }}" data-date="{{ item.date }}">{{ item.reference | markdownify }}</li>
+  <li class="output" data-title="{{ item.title }}" data-author="{{ item.author }}" data-date="{{ item.date }}">
+    {% if item.file %}<a href="{{site.baseurl}}/{{ item.file }}" class="reference" target="_blank">{{ item.reference | markdownify | remove: '<p>' | remove: '</p>'  }}</a>{% endif %}
+    {% if item.url %}<a href="{{ item.url }}" class="reference" target="_blank">{{ item.reference | markdownify | remove: '<p>' | remove: '</p>' }}</a>
+      {% else %}
+      {{ item.reference | markdownify | remove: '<p>' | remove: '</p>' }}
+    {% endif %}
+  </li>
   {% endfor %}
 </ul>
 
