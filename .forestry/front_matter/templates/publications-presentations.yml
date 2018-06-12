@@ -39,4 +39,5 @@ fields:
   config:
     labelField: title
 data_files:
+- _data/presentations.yml
 - _data/publications.yml
