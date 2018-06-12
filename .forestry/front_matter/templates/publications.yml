@@ -19,14 +19,11 @@ fields:
     description: Add title (or shortened version) for sorting
     config:
       required: true
-  - type: file
-    name: file
-    label: File
-    description: Upload file if available
-  - type: text
-    name: url
-    label: URL
-    description: Or add link if there's no file
+  - type: datetime
+    label: Date Published
+    name: date_published
+    config:
+      date_format: MM/YYYY
   - type: textarea
     name: reference
     label: Reference
@@ -36,6 +33,14 @@ fields:
         format: markdown
       required: true
     description: Add in APA reference and style accordingly
+  - type: file
+    name: file
+    label: File
+    description: Upload file if available
+  - type: text
+    name: url
+    label: URL
+    description: Or add link if there's no file
   config:
     labelField: title
 data_files:
