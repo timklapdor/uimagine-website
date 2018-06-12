@@ -19,6 +19,12 @@ fields:
     description: Add title (or shortened version) for sorting
     config:
       required: true
+  - type: datetime
+    name: date
+    label: Date
+    description: Add date of presentation
+    config:
+      date_format: MM/YYYY
   - type: file
     name: file
     label: File
