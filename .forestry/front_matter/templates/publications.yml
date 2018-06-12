@@ -36,5 +36,8 @@ fields:
         format: markdown
       required: true
     description: Add in APA reference and style accordingly
+- type: field_group_list
+  name: publications
+  label: Publications
 data_files:
 - _data/publications.yml
