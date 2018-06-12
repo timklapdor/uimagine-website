@@ -2,7 +2,7 @@
 hide_body: false
 is_partial: false
 fields:
-- type: field_group
+- type: field_group_list
   name: publications
   label: Publications
   description: Add new entry for each publication
@@ -36,8 +36,5 @@ fields:
         format: markdown
       required: true
     description: Add in APA reference and style accordingly
-- type: field_group_list
-  name: publications
-  label: Publications
 data_files:
 - _data/publications.yml
