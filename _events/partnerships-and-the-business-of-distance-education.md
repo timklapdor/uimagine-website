@@ -3,6 +3,7 @@ title: Partnerships & Distance Education
 layout: event
 event-type: think tank
 status: past
+categories: innovation
 location:
   info: CSU Wagga Campus
   details: Building 29, Room 217

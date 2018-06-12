@@ -35,7 +35,8 @@ article.archive {
     margin: .5em .75vw;
     padding: .2em .4em;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    min-height: 14em;
   }
 
   a:hover {
@@ -71,7 +72,7 @@ article.archive {
 
 div.project-list {
   a {
-    width: 38vw;
+    width: 40vw;
   }
 
   .incubation {
@@ -88,7 +89,7 @@ div.project-list {
 @media screen and (min-width: 650px) {
 div.project-list {
   a {
-    width: 24vw;
+    width: 26vw;
   }
 }
 }
@@ -102,7 +103,7 @@ div.project-list {
 }
 }
 
-@media screen and (min-width: 1500px) {
+@media screen and (min-width: 1400px) {
 div.project-list {
   a {
     width: 15vw;
@@ -110,7 +111,7 @@ div.project-list {
 }
 }
 
-@media screen and (min-width: 2000px) {
+@media screen and (min-width: 1800px) {
 div.project-list {
   a {
     width: 12vw;

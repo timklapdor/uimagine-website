@@ -53,7 +53,7 @@ outputs:
   link: http://uimagine.edu.au/docs/WeImagine-Rienties.pdf
   description: Presentation Slides
 flickr-album: ''
-categories: WeImagine
+categories: Incubation
 ---
 Across the globe many educational institutions are collecting vast amounts of small and big data about students and their learning behaviour, such as their class attendance, online activities, or assessment scores. As a result, the emerging field of Learning Analytics (LA) is exploring how data can be used to empower teachers and institutions to effectively support learners. In the recent Innovative Pedagogy Report (Ferguson et al., 2017) encourage researchers and practitioners to move towards a new form of learning analytics called student-led learning analytics, which enable learners to specify their own goals and ambitions. They also support learners to reach these goals. This is particularly helpful for individuals who have little time to spare for study. In this interactive session, based upon 6 years of experience with LA data and large-scale implementations amongst 200.000+ students at a range of contexts including the Open University UK, I will use an interactive format to discuss and debate three major questions: 1) To what extent is learning analytics the new holy grail of learning and teaching? 2) How can instructional design be optimised using the principles of learning analytics?; 3) With the introduction of student-led analytics, to what extent can learning analytics promote ‘personalisation’ or ‘generalisation’ for diverse populations of students?
 

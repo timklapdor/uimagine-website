@@ -23,15 +23,6 @@ layout: default
 
 
 {% for item in page.archive%}
-
-<div class="button-group filters-button-group">
-<button data-filter="*">All</button>
-<button data-filter=".upcoming">Future</button>
-<button data-filter=".past">Past</button>
-
-
-</div>
-
   {% include event-archive.html %}
 {% endfor %}
 
@@ -43,8 +34,8 @@ layout: default
 // external js: isotope.pkgd.js
 
 // init Isotope
-var iso = new Isotope( '.card-grid', {
-  itemSelector: '.card',
+var iso = new Isotope( '.project-list', {
+  itemSelector: '.event',
   percentPosition: true,
   layoutMode: 'fitRows',
   fitRows: {

@@ -1,14 +1,16 @@
-<section class="card-grid" >
+<article class="archive">
+  <h2>Projects</h2>
 
-{% for project in site.projects %}
+    {% include project-filters.html %}
 
-  <article class="project card {{ project.status }} {% for item in project.categories %}{{  item | downcase }}"{% endfor %} data-category="{{ project.status }}" data-time="{{ project.date-start }}">
-      <a href="{{ site.baseurl }}{{ project.url }}.html">
-        {% if project.hero %}
-    <img src="{{ project.hero.icon | absolute_url }}">
-      {% endif %}
-    <h3 class="shadow-1">{{ project.title }}</h3>
+  <div class="project-list">
+
+    {% for project in site.projects %}
+    <a href="{{ site.baseurl }}{{ project.url }}.html" class="project {{ project.status }} {% for item in project.categories %}{{  item | downcase }}{% endfor %}" data-category="{{ project.status }}" data-time="{{ project.date-start }}">
+        <img src="{{ site.baseurl }}/{{ project.hero.icon }}" >
+        <p>{{ project.title}}</p>
     </a>
-  </article>
-  {% endfor %}
-</section>
+    {% endfor %}
+
+    <div>
+</article>

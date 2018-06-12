@@ -14,6 +14,7 @@
     <a href="{{ site.baseurl }}{{ event.url }}.html" class="open">
         <img src="{{ site.baseurl }}/{{ event.hero.icon }}" height="100">
         <p>{{ event.title}}</p>
+        <p class="date">{{ event.date-start | date_to_string }}</p>
     </a>
     {% endfor %}
 
@@ -22,6 +23,7 @@
       <a href="{{ site.baseurl }}{{ event.url }}.html" class="incubate">
           <img src="{{ site.baseurl }}/{{ event.hero.icon }}" height="100">
           <p>{{ event.title}}</p>
+          <p class="date">{{ event.date-start | date_to_string }}</p>
       </a>
     {% endfor %}
 

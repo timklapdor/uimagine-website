@@ -47,14 +47,14 @@ speakers:
 outputs: []
 flickr-album: ''
 program: ''
-categories: Open Education
+categories: Open
 ---
 ### Lecture & Workshop
 
-Alan will presented a public lecture on working beyond the Learning Management System and introduced his approach and toolkit for teaching and learning online. 
+Alan will presented a public lecture on working beyond the Learning Management System and introduced his approach and toolkit for teaching and learning online.
 
-For those keen to explore some of the tools and practices that Alan is famous for the lecture was followed on by a hands-on workshop. Alan introduced some of the tools he’s developed, including Better Calling Cards, SPLOT Image Collector, SPLOT Writer, SPLOTpoint, Syndication Course Hub, The Daily Blank and Open Assignment Bank. We then jumped into the process of setting these tools up and and had them running them for ourselves. 
+For those keen to explore some of the tools and practices that Alan is famous for the lecture was followed on by a hands-on workshop. Alan introduced some of the tools he’s developed, including Better Calling Cards, SPLOT Image Collector, SPLOT Writer, SPLOTpoint, Syndication Course Hub, The Daily Blank and Open Assignment Bank. We then jumped into the process of setting these tools up and and had them running them for ourselves.
 
-Alan's sessions exposed all of us to some really innovative ideas and practices to liven up and change our concept of online learning. His interactive approach to learning not only provides a way to get students engaged but also helps them develop key digital literacies and skills. 
+Alan's sessions exposed all of us to some really innovative ideas and practices to liven up and change our concept of online learning. His interactive approach to learning not only provides a way to get students engaged but also helps them develop key digital literacies and skills.
 
-Alan wrote up [a great blog post of his time in Wagga](https://cogdogroo.wordpress.com/2017/12/26/wagga-days/) - and the rest of the time he spent in Australia. 
+Alan wrote up [a great blog post of his time in Wagga](https://cogdogroo.wordpress.com/2017/12/26/wagga-days/) - and the rest of the time he spent in Australia.

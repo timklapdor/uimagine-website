@@ -83,6 +83,7 @@ speakers:
   case-study: ''
 outputs: []
 flickr-album: https://www.flickr.com/photos/uimagine/albums/72157671424693526
+categories: innovation
 ---
 The Simulation and Role Play Symposium was held on the 18th November 2014 on the Albury-Wodonga Campus of CSU.
 
