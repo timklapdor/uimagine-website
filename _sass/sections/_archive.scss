@@ -4,7 +4,6 @@ section.filtered {
 
 article.archive {
 
-  margin: 0 -2vw;
   padding: 1vw 2vw 3vw;
 
   &:first-child {
@@ -20,7 +19,6 @@ article.archive {
   }
 
   div {
-    margin: 0;
     padding: 0;
     display: flex;
     flex-direction: row;
@@ -34,7 +32,7 @@ article.archive {
     text-decoration: none;
     flex-direction: column;
     align-items: center;
-    margin: .5em .2em;
+    margin: .5em .75vw;
     padding: .2em .4em;
     display: flex;
     justify-content: space-between;
@@ -61,8 +59,8 @@ article.archive {
      margin: 0;
      line-height: 1;
      padding-bottom: 1em;
-     min-width: 10em;
-     max-width: 10em;
+     min-width: 9em;
+     max-width: 90%;
    }
 
    .date {
@@ -87,19 +85,19 @@ div.project-list {
   }
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 650px) {
 div.project-list {
   a {
-    width: 25vw;
+    width: 24vw;
   }
 }
 }
 
 
-@media screen and (min-width: 1020px) {
+@media screen and (min-width: 1000px) {
 div.project-list {
   a {
-    width: 20vw;
+    width: 19vw;
   }
 }
 }
@@ -107,7 +105,7 @@ div.project-list {
 @media screen and (min-width: 1500px) {
 div.project-list {
   a {
-    width: 16vw;
+    width: 15vw;
   }
 }
 }
@@ -115,7 +113,7 @@ div.project-list {
 @media screen and (min-width: 2000px) {
 div.project-list {
   a {
-    width: 11vw;
+    width: 12vw;
   }
 }
 }

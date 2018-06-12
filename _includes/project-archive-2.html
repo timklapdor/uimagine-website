@@ -1,9 +1,12 @@
 <article class="archive">
   <h2>Projects</h2>
+
+    {% include project-filters.html %}
+
   <div class="project-list">
 
     {% for project in site.projects %}
-    <a href="{{ site.baseurl }}{{ project.url }}" class="project {{ project.status }} {% for item in project.categories %}{{  item | downcase }}"{% endfor %} data-category="{{ project.status }}" data-time="{{ project.date-start }}">
+    <a href="{{ site.baseurl }}{{ project.url }}.html" class="project {{ project.status }} {% for item in project.categories %}{{  item | downcase }}"{% endfor %} data-category="{{ project.status }}" data-time="{{ project.date-start }}">
         <img src="{{ site.baseurl }}/{{ project.hero.icon }}" height="100">
         <p>{{ project.title}}</p>
     </a>

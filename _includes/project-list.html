@@ -7,11 +7,11 @@
 
 <article class="archive">
   <h2>Projects</h2>
-  <div>
+  <div class="project-list">
     {% case page.categories %}
     {% when 'open' %}
     {% for project in open %}
-    <a href="{{ site.baseurl }}{{ project.url }}" class="open">
+    <a href="{{ site.baseurl }}{{ project.url }}.html" class="open">
         <img src="{{ site.baseurl }}/{{ project.hero.icon }}" height="100">
         <p>{{ project.title}}</p>
     </a>
@@ -19,7 +19,7 @@
 
     {% when 'incubation' %}
     {% for project in incubate %}
-      <a href="{{ site.baseurl }}{{ project.url }}" class="incubate">
+      <a href="{{ site.baseurl }}{{ project.url }}.html" class="incubate">
           <img src="{{ site.baseurl }}/{{ project.hero.icon }}" height="100">
           <p>{{ project.title}}</p>
       </a>
@@ -27,7 +27,7 @@
 
     {% when 'innovation' %}
       {% for project in innovate  %}
-      <a href="{{ site.baseurl }}{{ project.url }}" class="innovate">
+      <a href="{{ site.baseurl }}{{ project.url }}.html" class="innovate">
           <img src="{{ site.baseurl }}/{{ project.hero.icon }}" height="100">
           <p>{{ project.title}}</p>
       </a>

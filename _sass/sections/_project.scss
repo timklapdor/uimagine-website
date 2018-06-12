@@ -79,6 +79,7 @@ div.button-group {
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
+  margin: 1em 0 !important;
 
   button {
     width: 30%;
@@ -90,6 +91,7 @@ div.button-group {
     background-color: $brand-1;
     border-bottom: 1px solid $rev;
     border-right: 1px solid $rev;
+    font-size: 80%;
   }
 
   button:hover, button:active, button:focus {

@@ -7,11 +7,11 @@
 
 <article class="archive">
   <h2>Events</h2>
-  <div>
+  <div class="project-list">
     {% case page.categories %}
     {% when 'open' %}
     {% for event in open %}
-    <a href="{{ site.baseurl }}{{ event.url }}" class="open">
+    <a href="{{ site.baseurl }}{{ event.url }}.html" class="open">
         <img src="{{ site.baseurl }}/{{ event.hero.icon }}" height="100">
         <p>{{ event.title}}</p>
     </a>
@@ -19,7 +19,7 @@
 
     {% when 'incubation' %}
     {% for event in incubate %}
-      <a href="{{ site.baseurl }}{{ event.url }}" class="incubate">
+      <a href="{{ site.baseurl }}{{ event.url }}.html" class="incubate">
           <img src="{{ site.baseurl }}/{{ event.hero.icon }}" height="100">
           <p>{{ event.title}}</p>
       </a>
@@ -27,7 +27,7 @@
 
     {% when 'innovation' %}
       {% for event in innovate  %}
-      <a href="{{ site.baseurl }}{{ event.url }}" class="innovate">
+      <a href="{{ site.baseurl }}{{ event.url }}.html" class="innovate">
           <img src="{{ site.baseurl }}/{{ event.hero.icon }}" height="100">
           <p>{{ event.title}}</p>
           <p class="date">{{ event.date-start | date_to_string }}</p>
