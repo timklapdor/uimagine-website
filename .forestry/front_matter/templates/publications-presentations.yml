@@ -1,0 +1,40 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: field_group_list
+  name: publications
+  label: Publications & Presenations
+  description: Add new entry for each presentation or publication
+  fields:
+  - type: text
+    name: author
+    label: Author
+    description: Add lead authors last name (for sorting)
+    config:
+      required: true
+  - type: text
+    name: title
+    label: Title
+    description: Add title (or shortened version) for sorting
+    config:
+      required: true
+  - type: file
+    name: file
+    label: File
+    description: Upload file if available
+  - type: text
+    name: url
+    label: URL
+    description: Or add link if there's no file
+  - type: textarea
+    name: reference
+    label: Reference
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+      required: true
+    description: Add in APA reference and style accordingly
+  config:
+    labelField: title
