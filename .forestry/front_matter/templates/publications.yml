@@ -36,5 +36,7 @@ fields:
         format: markdown
       required: true
     description: Add in APA reference and style accordingly
+  config:
+    labelField: title
 data_files:
 - _data/publications.yml
