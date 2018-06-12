@@ -4,8 +4,8 @@ is_partial: false
 fields:
 - type: field_group_list
   name: publications
-  label: Publications & Presenations
-  description: Add new entry for each presentation or publication
+  label: Publications
+  description: Add new entry for each publication
   fields:
   - type: text
     name: author
@@ -40,4 +40,3 @@ fields:
     labelField: title
 data_files:
 - _data/publications.yml
-- _data/presentations.yml
