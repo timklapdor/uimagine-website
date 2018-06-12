@@ -1,0 +1,7 @@
+{% assign presentations = site.data.presentations | sort: 'title' | reverse  %}
+
+<ul>
+  {% for item in presentations %}
+  <li><strong>{{item.author }} - {{ item.reference }}</li>
+    {% endfor %}
+</ul>

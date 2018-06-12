@@ -1,0 +1,26 @@
+---
+
+layout: default
+
+---
+
+{% if page.hero %}
+  {% include hero.html %}
+{% endif %}
+
+<section class="article">
+  <article class="">
+    {{ page.content | markdownify }}
+  </article>
+</section>
+
+
+<section class="">
+    {% include publications.html %}
+    {% include presentations.html %}
+
+</section>
+
+{% for item in page.feature %}
+  {% include feature.html %}
+{% endfor %}

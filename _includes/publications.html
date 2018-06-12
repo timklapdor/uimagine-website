@@ -1,0 +1,9 @@
+{% assign publications = site.data.publications  %}
+
+<article>
+  <ul>
+    {% for item in publications %}
+    <li><strong>{{item.author }} - {{ item.reference }}</li>
+      {% endfor %}
+  </ul>
+</strong>
