@@ -12,13 +12,13 @@ fields:
     label: Author
     description: Add lead authors last name (for sorting)
     config:
-      required: false
+      required: true
   - type: text
     name: title
     label: Title
     description: Add title (or shortened version) for sorting
     config:
-      required: false
+      required: true
   - type: file
     name: file
     label: File
