@@ -4,8 +4,8 @@ is_partial: false
 fields:
 - type: field_group_list
   name: publications
-  label: Publications
-  description: Add new entry for each publication
+  label: Publications & Presenations
+  description: Add new entry for each presentation or publication
   fields:
   - type: text
     name: author
