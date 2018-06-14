@@ -25,6 +25,8 @@ team:
 focus:
 - strategic direction
 - resource
-outputs: []
+outputs:
+- description: Strategy Document
+  file: "/uploads/incubation-strategy.pdf"
 published: false
 ---
