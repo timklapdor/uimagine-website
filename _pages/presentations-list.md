@@ -11,7 +11,7 @@ hero:
   gradient_color_2: '0,175,216,1'
   image:
   promo-head: Presentations
-  promo-text: On-going and Past Work
+  promo-text: 
   button_class:
   button-text:
   button_link:

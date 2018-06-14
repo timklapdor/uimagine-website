@@ -54,6 +54,13 @@ article.archive {
   .open {
     background: $brand;
   }
+  .other {
+    background: $brand-1;
+
+  &:hover{
+    background: $brand-4;
+  }
+  }
 
  p {
      text-align: center;

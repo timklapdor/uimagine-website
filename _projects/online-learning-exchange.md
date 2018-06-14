@@ -8,7 +8,7 @@ hero:
   gradient_color_1: '203,0,68'
   gradient_color_2: '0,175,216'
   gradient_side: ''
-  icon: "/uploads/projects-csulx.svg"
+  icon: "/uploads/projects-online-learning-exchange.svg"
   image: ''
 date: 2018-06-01 06:55:20 +0000
 progress: 80

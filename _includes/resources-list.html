@@ -1,0 +1,20 @@
+
+{% assign resources = page.resources  %}
+
+
+<!--  {{ open.size }}-->
+
+<article class="archive">
+  <h2>Published Resources</h2>
+  <div class="project-list">
+
+    {% for item in page.resources %}
+
+    <a href="{{ site.baseurl }}/projects/{{ item | slugify }}.html" class="other">
+        <img src="{{ site.baseurl }}/uploads/project-{{ item | slugify }}.svg" height="">
+        <p>{{ item }}</p>
+    </a>
+    {% endfor %}
+
+    <div>
+</article>

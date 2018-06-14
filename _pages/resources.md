@@ -24,8 +24,14 @@ feature:
     button: Explore Projects
     button_class: btn-rev
     button_link: projects/
+resources:
+  - Destination 2020
+  - Incubation Strategy
+  - Online Learning Model
+  - Online Learning Exchange
 ---
 
+uImagine has developed a range of resources that have set the tone and direction for our work, and that of the university community.  
 
 - Destination 2020
 - Incubation Strategy

@@ -10,7 +10,7 @@ hero:
   gradient_corner: ''
   gradient_side: ''
   image: ''
-  icon: "/uploads/olm.svg"
+  icon: "/uploads/project-online-learning-model.svg"
 date: 2018-05-22 04:11:25 +0000
 progress: 100
 date-start: 2015-03-29 13:00:00 +0000
