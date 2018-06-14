@@ -28,7 +28,6 @@ focus:
 outputs:
 - description: Strategy Document
   file: "/uploads/incubation-strategy.pdf"
-published: false
 ---
 ## **Description**
 
