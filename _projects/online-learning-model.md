@@ -1,7 +1,7 @@
 ---
 title: Online Learning Model
 layout: project
-categories: innovation
+categories: Innovation
 status: complete
 hero:
   gradient_color_1: '203,0,68'

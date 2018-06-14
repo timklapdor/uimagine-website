@@ -5,7 +5,7 @@ permalink: index.html
 hero:
   full_screen: true
   gradient_corner: top
-  gradient_side: 
+  gradient_side:
   gradient_color_1: '215,31,133,.7'
   gradient_color_2: '255,88,0,.7'
   image: uploads/uimagine-spark.jpg
@@ -18,33 +18,33 @@ area-heading: Something Goes Here
 grid-1:
 - full_screen: false
   gradient_corner: top
-  gradient_side: 
+  gradient_side:
   gradient_color_1: '60,60,60,1'
   gradient_color_2: '60,60,60,1'
-  image: 
+  image:
   section-head: Current Programs
-  section-head-colour: 
+  section-head-colour:
   griditems:
   - name: Incubation
     image: uploads/incubate.svg
-    background: 
-    text: 
+    background:
+    text:
     item_class: ui-fuchia-bg
     button-text: Find out more
     button_class: btn-blk-ui-fuchia
     button_link: incubation.html
   - name: Innovation
     image: uploads/innovate.svg
-    background: 
-    text: 
+    background:
+    text:
     item_class: ui-blue-bg
     button-text: Find out more
     button_class: btn-blk-ui-blue
     button_link: innovation.html
   - name: Open Education
     image: uploads/open.svg
-    background: 
-    text: 
+    background:
+    text:
     item_class: ui-orange-bg
     button-text: Find out more
     button_class: btn-blk-ui-orange
@@ -52,50 +52,36 @@ grid-1:
 feature-1:
 - full_screen: false
   gradient_corner: top
-  gradient_side: 
+  gradient_side:
   gradient_color_1: '255,88,0,.9'
   gradient_color_2: '215,31,133,.9'
-  image: 
+  image:
   text-area:
   - size: wide
-    heading: Some text here
-    text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-      eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-      in culpa qui officia deserunt mollit anim id est laborum.
-  - size: 
-    heading: Some text here
-    text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-      eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-      in culpa qui officia deserunt mollit anim id est laborum.
-  - heading: Some text here
-    text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-      eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-      in culpa qui officia deserunt mollit anim id est laborum.
-  - size: wide
-    background: uploads/leon-ephraim-30995.jpg
-    heading: Bring it on!
-    text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-      eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-      in culpa qui officia deserunt mollit anim id est laborum.
+    heading: What is u!magine?
+    text: |-
+      At u!magine we are a team of enthusiastic and inspired thinkers, working in the Division of Learning and Teaching at **Charles Sturt University**.
+
+      We bring a variety of skill sets to **solve educational challenges**, **create new learning opportunities for curious people**, **collaborate with our communities to achieve extraordinary results**.
+
+      u!magine is built around the concept of !magineering. We combine imagination and innovation to create possibilities. We work to actively shape the future of learning. u!magine is a think-tank for educational innovation, a catalyst for new scholarship in online learning, and a experimental laboratory for new educational paradigms and technologies. We love exploring new technologies and approaches to teaching practice, new ways of thinking about resources that enhance the learning process, and even the learning space itself!
+  - size: tall
+    heading: To do this we
+    text: |-
+      **Collaborate** with CSU and our external partners to foster digital innovation.
+
+      **Curate** and share best practice and research in innovative teaching and learning.
+
+      **Create** opportunities to explore, incubate and design innovative teaching practices and learning experiences.
+
+      **Lead** innovation and open pathways in education through engagement at regional, national and international levels.
 grid-2:
 - full_screen: false
   gradient_corner: top
-  gradient_side: 
-  gradient_color_1: 
-  gradient_color_2: 
-  image: 
+  gradient_side:
+  gradient_color_1:
+  gradient_color_2:
+  image:
   section-head: Something
   section-head-colour: ui-pink
   griditems:
@@ -117,17 +103,14 @@ grid-2:
 feature-2:
 - full_screen: false
   gradient_corner: bottom
-  gradient_side: 
+  gradient_side:
   gradient_color_1: '255,88,0,1'
   gradient_color_2: '215,31,133,1'
-  image: 
+  image:
   text-area:
   - size: centered
-    heading: u!magine is Amazing!
-    text: We're currently in development but **always** keen to have a chat and discuss
-      the future. Feel free to get in touch with us, we'd love to pitch our idea and
-      discuss AgTech in general. We love to consult on projects too - so if you're
-      looking for some technical expertise let us know!
+    heading: Innovate | Incubate | Educate
+    text: Find out more about our team, what we do and how we do it.
     button: Find Our More About Us
     button_class: btn-ui-blue
     button_link: about.html

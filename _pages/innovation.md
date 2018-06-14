@@ -7,19 +7,19 @@ archive: true
 hero:
   full_screen: false
   gradient_corner: top
-  gradient_side: 
+  gradient_side:
   gradient_color_1: '0,175,216,.9'
   gradient_color_2: '0,175,216,.4'
   icon: uploads/innovate-alpha.svg
-  image: 
+  image:
   promo-head: Innovations
 feature:
 - full_screen: false
   gradient_corner: bottom
-  gradient_side: 
+  gradient_side:
   gradient_color_1: '0,175,216,1'
   gradient_color_2: '0,175,216,.8'
-  image: 
+  image:
   text-area:
   - size: centered
     heading: Find out more about our open educaiton opportunities
@@ -29,10 +29,8 @@ feature:
     button_link: open-education.html
 ---
 
-### Innovation
+u!magine was established to drive innovative in online learning and teaching at Charles Sturt University. Starting with the [Destination 2020]() project that outlined the vision for CSU's future direction, uImagine has helped to shape and drive innovation. The [Online Learning Model]() was then developed to address one of the key concerns and indicators of quality online learning - engagement. The [pilots]() and [scale up]() followed and helped develop a range of strategies that could be implemented across courses across the university. These were collected in the [Online Learning Exchange]() which has been used as a key tool for professional development, learning design and to showcase innovative practices at the university.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Age sane, inquam. Scio enim esse quosdam, qui quavis lingua philosophari possint; Ergo, si semel tristior effectus est, hilara vita amissa est? <a href="http://loripsum.net/" target="_blank">Sin aliud quid voles, postea.</a> Duo Reges: constructio interrete. <i>Omnes enim iucundum motum, quo sensus hilaretur.</i> Quis non odit sordidos, vanos, leves, futtiles? Falli igitur possumus. <a href="http://loripsum.net/" target="_blank">Quid sequatur, quid repugnet, vident.</a> </p>
+To encourage innovation at the grass-roots level a range of academic led projects were funded as part of a grants program.
 
-<p><a href="http://loripsum.net/" target="_blank">Rationis enim perfectio est virtus;</a> Si quicquam extra virtutem habeatur in bonis. <a href="http://loripsum.net/" target="_blank">Si enim ad populum me vocas, eum.</a> Quod autem principium officii quaerunt, melius quam Pyrrho; Nam et complectitur verbis, quod vult, et dicit plane, quod intellegam; <i>Tum Torquatus: Prorsus, inquit, assentior;</i> In motu et in statu corporis nihil inest, quod animadvertendum esse ipsa natura iudicet? Cur igitur, inquam, res tam dissimiles eodem nomine appellas? <i>Dici enim nihil potest verius.</i> An dolor longissimus quisque miserrimus, voluptatem non optabiliorem diuturnitas facit? Partim cursu et peragratione laetantur, congregatione aliae coetum quodam modo civitatis imitantur; </p>
-
-<p>Octavio fuit, cum illam severitatem in eo filio adhibuit, quem in adoptionem D. Non enim iam stirpis bonum quaeret, sed animalis. Quarum ambarum rerum cum medicinam pollicetur, luxuriae licentiam pollicetur. Quid turpius quam sapientis vitam ex insipientium sermone pendere? Cum id fugiunt, re eadem defendunt, quae Peripatetici, verba. Etenim nec iustitia nec amicitia esse omnino poterunt, nisi ipsae per se expetuntur. Virtutis, magnitudinis animi, patientiae, fortitudinis fomentis dolor mitigari solet. Nam bonum ex quo appellatum sit, nescio, praepositum ex eo credo, quod praeponatur aliis. </p>
+The team has also hosted a range of events to stimulate new ideas and introduce new practices to staff.
