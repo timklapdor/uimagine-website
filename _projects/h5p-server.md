@@ -26,15 +26,15 @@ outputs:
 - description: H5P Server
   file: ''
   link: http://h5p.csu.edu.au
-categories: Incubation
+categories: incubation
 ---
 ## Description
 
-[H5P](http://www.h5p.org) is a new and open sourced tool for developing online interactive learning resources. To help academics, educational designers and learning technologist utilise the tool we are setting up a server to house these resources. By bringing the technology inside CSU we are able to maintain and support the use of the tool and track it's use and growth. 
+[H5P](http://www.h5p.org) is a new and open sourced tool for developing online interactive learning resources. To help academics, educational designers and learning technologist utilise the tool we are setting up a server to house these resources. By bringing the technology inside CSU we are able to maintain and support the use of the tool and track it's use and growth.
 
 ## Aims
 
-To provide access to the suite of tools that H5P makes available. These can be used by staff across CSU and can be maintained by a range of staff. 
+To provide access to the suite of tools that H5P makes available. These can be used by staff across CSU and can be maintained by a range of staff.
 
 ## Approach
 
@@ -42,4 +42,4 @@ The site uses a Wordpress Multisite installation to house all the content. New u
 
 ## Outcomes
 
-The site was made available at the beginning of 2018 and it will run for the next 12-18 months before a review is undertaken. During this time a number of trials and pilots can be run to assess the tool and if it will should become a support learning technology within CSU. 
+The site was made available at the beginning of 2018 and it will run for the next 12-18 months before a review is undertaken. During this time a number of trials and pilots can be run to assess the tool and if it will should become a support learning technology within CSU.

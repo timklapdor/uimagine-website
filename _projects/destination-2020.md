@@ -1,7 +1,7 @@
 ---
 title: Destination 2020
 layout: project
-categories: Innovation
+categories: innovation
 status: complete
 date: 2018-05-22 01:08:48 +0000
 progress: 100

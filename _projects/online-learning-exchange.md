@@ -2,7 +2,7 @@
 title: Online Learning Exchange
 layout: project
 status: ongoing
-categories: Innovation
+categories: innovation
 hero:
   gradient_corner: top
   gradient_color_1: '203,0,68'

@@ -1,7 +1,7 @@
 ---
 title: Quality Learning & Teaching Initiative
 layout: project
-categories: Innovation
+categories: innovation
 status: complete
 date: 2018-05-31 04:42:51 +0000
 progress: 100

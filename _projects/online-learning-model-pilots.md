@@ -1,7 +1,7 @@
 ---
 title: Online Learning Model Pilots
 layout: project
-categories: Innovation
+categories: innovation
 status: complete
 date: 2018-05-31 05:10:46 +0000
 progress: 100

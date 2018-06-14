@@ -19,7 +19,7 @@ team:
 focus:
 - new technology
 outputs: []
-categories: Incubation
+categories: incubation
 ---
 ## Description
 

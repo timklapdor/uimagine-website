@@ -1,7 +1,7 @@
 ---
 title: DE Transition Support
 layout: project
-categories: Innovation
+categories: innovation
 status: complete
 hero:
   gradient_corner: top

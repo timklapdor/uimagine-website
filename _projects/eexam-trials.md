@@ -1,7 +1,7 @@
 ---
 title: eExam Trials
 layout: project
-categories: Innovation
+categories: innovation
 status: complete
 hero:
   gradient_color_1: '203,0,68'

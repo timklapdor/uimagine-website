@@ -23,7 +23,7 @@ focus:
 - experience
 - pedagogy
 outputs: []
-categories: Open
+categories: open
 ---
 ## Description
 

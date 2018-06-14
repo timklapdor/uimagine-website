@@ -47,7 +47,7 @@ speakers:
 outputs: []
 flickr-album: ''
 program: ''
-categories: Open
+categories: open
 ---
 ### Lecture & Workshop
 

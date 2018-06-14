@@ -3,7 +3,7 @@ title: Incubation Strategy Launch
 layout: event
 event-type: workshop
 status: past
-categories: Incubation
+categories: incubation
 location:
   info: CSU Wagga Campus
   details: Building 29, Room 217

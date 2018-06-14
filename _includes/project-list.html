@@ -1,7 +1,7 @@
 
-{% assign incubate = site.projects | where:"categories","Incubation" | sort: 'date-start' | reverse  %}
-{% assign innovate = site.projects | where:"categories","Innovation" | sort: 'date-start' | reverse %}
-{% assign open = site.projects | where:"categories","Open" | sort: 'date-start' | reverse  %}
+{% assign incubate = site.projects | where:"categories","incubation" | sort: 'date-start' | reverse  %}
+{% assign innovate = site.projects | where:"categories","innovation" | sort: 'date-start' | reverse %}
+{% assign open = site.projects | where:"categories","open" | sort: 'date-start' | reverse  %}
 
 <!--  {{ open.size }}-->
 

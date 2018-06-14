@@ -80,7 +80,7 @@ speakers:
   presentation: "/uploads/cc-sym-rocco.pdf"
   case-study: ''
 program: ''
-categories: Innovation
+categories: innovation
 ---
 On the 10th of May 2016 u!magine hosted a symposium exploring strategies to provide laboratory experiments, clinical consultations, and interactive professional practice in an online space. The Campus to the Cloud event was hosted on both the Wagga and Bathurst campuses connected by a large screen video conference.
 
