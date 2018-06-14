@@ -27,7 +27,7 @@ date-finish: 2016-11-23 02:00:00 +0000
 no-bios: true
 speakers:
 - name: Bill Pepicello
-  position: President Emeritus, University of Phoenix
+  position: 'President Emeritus, University of Phoenix'
   twitter: ''
   linkedin: ''
   bio: ''

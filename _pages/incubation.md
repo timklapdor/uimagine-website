@@ -31,7 +31,7 @@ feature:
 
 One of the key goals of uImagine is to incubate **new ideas**, **technologies**, **pedagogies** and **practices** for online learning. The concept of incubation is an incredibly important part of the innovation process but it is often neglected. Creating an environment for innovation to flourish requires a space for people to try out new ideas and concepts, to challenge the status quo and to experiment in a safe space. That is what our incubation program seeks to address.
 
-The work done to develop the **[Online Learning Innovation and Incubation Strategy]()** explored with stakeholders across the university about ways that they could be supported. We identified for four main areas that needed to be addressed:
+The work done to develop the [Online Learning Innovation and Incubation Strategy](projects/incubation-strategy.html) explored with stakeholders across the university about ways that they could be supported. We identified for four main areas that needed to be addressed:
 
 - Creative Solutions
 - Foster Community
