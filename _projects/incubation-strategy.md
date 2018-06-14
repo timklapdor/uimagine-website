@@ -7,7 +7,7 @@ hero:
   gradient_color_1: '203,0,68'
   gradient_color_2: '0,175,216'
   gradient_side: ''
-  icon: ''
+  icon: "/uploads/incubate.svg"
   image: ''
 date: 2018-06-14 12:36:01 +1000
 category:
