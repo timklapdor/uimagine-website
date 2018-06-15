@@ -40,3 +40,6 @@ fields:
   - type: text
     name: facebook
     label: Facebook
+  - type: text
+    name: youtube
+    label: YouTube
