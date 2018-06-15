@@ -52,3 +52,10 @@ fields:
   - type: text
     name: flickr
     label: Flickr
+  - type: field_group_list
+    name: publications
+    label: Publications
+    fields:
+    - type: text
+      name: author
+      label: Author
