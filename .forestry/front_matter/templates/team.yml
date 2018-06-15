@@ -27,3 +27,9 @@ fields:
       schema:
         format: markdown
       required: true
+  - type: file
+    name: photo
+    label: Photo
+  - type: text
+    name: email
+    label: Email
