@@ -59,3 +59,22 @@ fields:
     - type: text
       name: author
       label: Author
+      config:
+        required: true
+    - type: text
+      name: title
+      label: Title
+      config:
+        required: true
+    - type: datetime
+      name: date
+      label: Date
+      config:
+        date_format: YYYY
+        required: true
+    - type: file
+      name: file
+      label: File
+    - type: text
+      name: url
+      label: Url
