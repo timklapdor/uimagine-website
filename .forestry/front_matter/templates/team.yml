@@ -37,3 +37,6 @@ fields:
     name: twitter
     label: Twitter
     description: leave out the @
+  - type: text
+    name: facebook
+    label: Facebook
