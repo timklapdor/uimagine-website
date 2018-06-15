@@ -85,3 +85,5 @@ fields:
         wysiwyg: true
         schema:
           format: markdown
+    config:
+      labelField: title
