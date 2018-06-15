@@ -1,4 +1,13 @@
 ---
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: field_group_list
+  name: team
+  label: Team Member
+  fields:
+  - type: text
+    name: name
+    label: Name
+    config:
+      required: true
