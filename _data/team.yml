@@ -46,6 +46,7 @@
   blog: 
   publications: []
   presentations: []
+  portrait: "/uploads/lyn-hay.jpg"
 - name: Tim Klapdor
   greeting: Tim
   position: Online Learning Technology Leader
@@ -66,6 +67,7 @@
   blog: 
   publications: []
   presentations: []
+  portrait: "/uploads/tim-klapdor.jpg"
 - name: Julie Lindsay
   greeting: Julie
   position: Open Pathways Design Leader
@@ -88,6 +90,7 @@
   blog: 
   publications: []
   presentations: []
+  portrait: "/uploads/julie-lindsay.jpg"
 - name: Leanne White
   greeting: Leanne
   position: Project Design
@@ -107,6 +110,7 @@
   blog: 
   publications: []
   presentations: []
+  portrait: "/uploads/leanne-white.jpg"
 - name: Wendy Rowlands
   greeting: Wendy
   position: Project Support
@@ -126,3 +130,4 @@
   blog: 
   publications: []
   presentations: []
+  portrait: "/uploads/wendy-rowlands.jpg"
