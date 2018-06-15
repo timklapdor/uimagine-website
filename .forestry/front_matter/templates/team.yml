@@ -11,3 +11,11 @@ fields:
     label: Name
     config:
       required: true
+  - type: text
+    name: greeting
+    label: Greeting
+  - type: text
+    name: position
+    label: Position
+    config:
+      required: true
