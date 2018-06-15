@@ -43,3 +43,6 @@ fields:
   - type: text
     name: youtube
     label: YouTube
+  - type: text
+    name: linkedin
+    label: linkedin
