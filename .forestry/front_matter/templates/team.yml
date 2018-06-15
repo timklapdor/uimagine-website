@@ -78,3 +78,10 @@ fields:
     - type: text
       name: url
       label: Url
+    - type: textarea
+      name: reference
+      label: Reference
+      config:
+        wysiwyg: true
+        schema:
+          format: markdown
