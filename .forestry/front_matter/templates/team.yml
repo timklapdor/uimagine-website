@@ -122,3 +122,5 @@ fields:
           format: markdown
     config:
       labelField: title
+data_files:
+- _data/team.yml
