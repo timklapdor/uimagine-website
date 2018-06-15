@@ -45,4 +45,4 @@ fields:
     label: YouTube
   - type: text
     name: linkedin
-    label: linkedin
+    label: Linked In
