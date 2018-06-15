@@ -1,0 +1,139 @@
+---
+- name: Val Peachey
+  greeting: Val
+  position: Professor Open Learning and Co-Director, u!magine
+  bio: "Valerie brings over 25 years of experience in the higher education sector in Canada and Australia. Having been at the forefront of digital learning, she has led several institutional initiatives in the digital space creating access for stakeholders both in the corporate and educational arenas. As a highly respected leader, she believes opening pathways and access to educational opportunities can yield transformative results as individuals have increased opportunities to reach their personal and professional goals. Often recognised by colleagues for her enthusiasm, energy and tenacity Valerie is often called upon to share her insights at conferences and professional gatherings. As co-director Valerie energises her team, works collaboratively with faculties and schools across the university and actively seeks opportunities to establish partnerships with internal and external stakeholders."
+  photo: uploads/val-peachey.jpg
+  email: vpeachey@csu.edu.au
+  twitter: valpeachey
+  facebook:
+  youtube:
+  linkedin:
+  blog:
+  publications:
+    - author:
+      title:
+      date:
+      url:
+      reference:
+  presentations:
+    - author:
+      title:
+      date:
+      url:
+      reference:
+- name: Lyn Hay
+  greeting: Tim
+  position: Online Learning Innovation Leader
+  bio: "Lyn has over 20 years of experience working as an academic in library, education and IT programs at undergraduate and postgraduate levels across blended and online modes. She has considerable experience in learning design using a range of asynchronous and synchronous technologies to enhance teacher presence, student engagement, and collaboration with professional communities, and employs qualitative and quantitative research methods to explore teaching and learning in school and higher education contexts. Lyn is responsible for supporting the integration of innovative pedagogical approaches and emerging technologies in online learning design; developing, implementing and evaluating online learning innovation and incubation projects; and facilitating scholarship in online learning initiatives."
+  photo: uploads/lyn-hay.jpg
+  email: lhay@csu.edu.au
+  twitter: lyn_hay
+  facebook:
+  youtube:
+  linkedin:
+  blog:
+  publications:
+    - author:
+      title:
+      date:
+      url:
+      reference:
+  presentations:
+    - author:
+      title:
+      date:
+      url:
+      reference:
+- name: Tim Klapdor
+  greeting: Tim
+  position: Online Learning Technology Leader
+  bio: "Tim has over a decade of experience working with all aspects of Educational Technology, from the development of interactive resources, piloting and innovating new technologies, right through to implementing institutional systems. He brings a critical eye and a deep understanding of the underlying technical infrastructure to each of the projects he’s involved in. His ability to bridge the gap between the technical and educational needs of staff ensures that solutions that are user focussed. Tim provides the technical know-how to get new systems designed, built, piloted and integrated regardless of the scale or challenges involved."
+  photo: uploads/tim-klapdor.jpg
+  email: tklapdor@csu.edu.au
+  twitter: timklapdor
+  facebook:
+  youtube:
+  linkedin:
+  blog:
+  publications:
+    - author:
+      title:
+      date:
+      url:
+      reference:
+  presentations:
+    - author:
+      title:
+      date:
+      url:
+      reference:
+- name: Julie Lindsay
+  greeting: Julie
+  position: Open Pathways Design Leader
+  bio: "Julie has a 30+ years career in K-12 schools across six countries and more recently in higher education. She is an online learning specialist with research interests in teacher pedagogical change through the implementation on online global collaborative learning modes. Using emerging technologies and related pedagogies she has designed a range of online learning experiences for all education levels leveraging community of practice strategies, social media, and design thinking approaches. Julie enjoys working in an environment that fosters innovation and creativity, and is focused on shifting practice for teaching and learning through strategic leadership and design practices. Her responsibility at u!magine includes providing leadership with design and development of Open Pathways online courses."
+  photo: uploads/julie-lindsay.jpg
+  email: jlindsay@csu.edu.au
+  twitter: julielindsay
+  facebook:
+  youtube:
+  linkedin:
+  blog:
+  publications:
+    - author:
+      title:
+      date:
+      url:
+      reference:
+  presentations:
+    - author:
+      title:
+      date:
+      url:
+      reference:
+- name: Leanne White
+  greeting: Leanne
+  position: Project Design
+  bio: "Leanne provides strategic project support for the Open Pathways and u!magine Initiatives. Leanne has extensive experience in business administration, vocational education, and media technology. Since joining Charles Sturt University in 1998 she has produced and coordinated the preparation of high quality learning materials for print and online and worked as an Educational Designer. She enjoys keeping up with technological changes and implementing new technologies to enhance the learning design of coursework."
+  photo: uploads/leanne-white.jpg
+  email: lewhite@csu.edu.au
+  twitter:
+  facebook:
+  youtube:
+  linkedin:
+  blog:
+  publications:
+    - author:
+      title:
+      date:
+      url:
+      reference:
+  presentations:
+    - author:
+      title:
+      date:
+      url:
+      reference:
+- name: Wendy Rowlands
+  greeting: Wendy
+  position: Project Support
+  bio: "Wendy provides administration and project support for u!magine. Wendy has over 10 years experience in business administration and event coordination. With a wealth of organisational knowledge and experience Wendy is the “go-to” person for a huge variety of important projects. She uses her expertise to organise events and resources, to manage the logistics of u!magine’s guests, collaborators and partners. Wendy is a fantastic asset to the team and ensures that the details are taken care of."
+  photo: uploads/wendy-rowlands.jpg
+  email: wrowlands@csu.edu.au
+  twitter:
+  facebook:
+  youtube:
+  linkedin:
+  blog:
+  publications:
+    - author:
+      title:
+      date:
+      url:
+      reference:
+  presentations:
+    - author:
+      title:
+      date:
+      url:
+      reference:
