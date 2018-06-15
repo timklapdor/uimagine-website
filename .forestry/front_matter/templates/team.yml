@@ -46,3 +46,9 @@ fields:
   - type: text
     name: linkedin
     label: Linked In
+  - type: text
+    name: blog
+    label: Blog
+  - type: text
+    name: flickr
+    label: Flickr
