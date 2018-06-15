@@ -33,3 +33,7 @@ fields:
   - type: text
     name: email
     label: Email
+  - type: text
+    name: twitter
+    label: Twitter
+    description: leave out the @
