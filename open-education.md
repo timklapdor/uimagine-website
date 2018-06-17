@@ -27,7 +27,6 @@ feature:
     button: Explore Incubation
     button_class: btn-rev
     button_link: incubation.html
-published: false
 ---
 ### Open Education
 
