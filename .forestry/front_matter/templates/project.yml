@@ -162,6 +162,7 @@ fields:
     name: image
     label: Image
 pages:
+- _projects/become-a-digital-online-learner.md
 - _projects/h5p-server.md
 - _projects/destination-2020.md
 - _projects/incubation-strategy.md
