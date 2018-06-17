@@ -103,6 +103,6 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/2018-05-24-testing.md
 - _posts/2018-05-25-checking-defaults.md
 - _posts/2018-05-25-on-the-uimagine-server.md
+- _posts/2018-05-24-testing.md
