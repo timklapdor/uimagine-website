@@ -28,8 +28,6 @@ feature:
     button_class: btn-rev
     button_link: incubation.html
 ---
-## Open Education
-
 Open Education is an umbrella term to cover the different areas of focus within the CSU program spearheaded by u!magine. According to the Open Education Consortium, “Open education encompasses resources, tools and practices that employ a framework of open sharing to improve educational access and effectiveness worldwide.” This includes utilizing the affordances of digital technologies to create freely accessible and ubiquitous knowledge bases (Blessinger & Bliss, 2016).
 
 As a member of the [Open Education Consortium](http://www.oeconsortium.org/) and [OERu](https://oeru.org/), CSU connects internationally with thought leaders and initiatives and views Open Education as being wider than Open Education Resources (OER) and Open Content. UNESCO[ defined OER](http://www.unevoc.unesco.org/go.php?q=Open%20Educational%20Resources) as ‘any type of educational materials that are in the public domain or introduced with an open license….that anyone can legally and freely copy, use, adapt and re-share’.
