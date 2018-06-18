@@ -34,7 +34,7 @@ As a member of the [Open Education Consortium](http://www.oeconsortium.org/) and
 
 Through Open Educational Practices, defined by Cronin (2018) as “practices that include the creation, use and reuse of open educational resources (OER) as well as open pedagogies and open sharing of teaching practices”, our aim is to employ effective learning design and learning resources development to connect learners with new opportunities and pathways for study.
 
-## Open Pathways tasters
+### Open Pathways tasters
 
 The u!magine Open Pathways initiative includes the development of short, freely available online courses or mini-modules that will articulate into fee-paying single subjects and courses at all levels:  postgraduate, undergraduate, university preparation, and continuing professional development.
 
