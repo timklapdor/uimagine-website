@@ -86,3 +86,5 @@ fields:
         format: markdown
   config:
     labelField: title
+pages:
+- _team/lyn-hay.md
