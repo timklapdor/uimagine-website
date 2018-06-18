@@ -1,0 +1,88 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: layout
+  name: layout
+  hidden: true
+  default: team
+- type: text
+  name: title
+  label: Name
+  config:
+    required: true
+- type: text
+  name: position
+  label: Position
+- type: select
+  name: order
+  config:
+    source:
+      type: simple
+    options:
+    - '01'
+    - '02'
+    - '03'
+    - '04'
+    - '05'
+    - '06'
+    - '07'
+    - 08
+    - 09
+  label: Order
+- type: file
+  name: portrait
+  label: portrait
+- type: text
+  name: email
+  label: Email
+- type: text
+  name: phone_number
+  label: Phone Number
+- type: text
+  name: twitter
+  label: Twitter
+  description: Leave out @
+- type: text
+  name: facebook
+  label: Facebook
+- type: text
+  name: youtube
+  label: YouTube
+- type: text
+  name: linkedin
+  label: LinkedIn
+- type: text
+  name: blog
+  label: Blog
+- type: field_group_list
+  name: publications
+  label: Publications
+  fields:
+  - type: text
+    name: author
+    label: Author
+  - type: text
+    name: title
+    label: Title
+  - type: datetime
+    name: date
+    label: Date
+    config:
+      date_format: YYYY
+  - type: text
+    label: Weblink
+    name: url
+  - type: file
+    name: file
+    label: File
+  - type: textarea
+    name: reference
+    label: Reference
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  config:
+    labelField: title
