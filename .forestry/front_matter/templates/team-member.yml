@@ -13,6 +13,10 @@ fields:
   config:
     required: true
 - type: text
+  name: greeting
+  label: Greeting
+  description: Name you want to be contacted by
+- type: text
   name: position
   label: Position
 - type: select
