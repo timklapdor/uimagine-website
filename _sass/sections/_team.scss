@@ -98,7 +98,6 @@ section.project.profile {
 
 @media screen and (min-width: 1100px) {
   section.team {
-    grid-template-columns: 1fr 1fr 1fr;
 
   .profile .thumb {
     padding-bottom: 30vw;
@@ -112,8 +111,15 @@ section.project.profile {
     height: 1em;
   }
 }
+}
 
+@media screen and (min-width: 1600px) {
+  section.team {
 
+  .profile .thumb {
+    padding-bottom: 20vw;
+  }
+}
 }
 
 section.team-banner {

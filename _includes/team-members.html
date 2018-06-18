@@ -3,7 +3,7 @@
   <h3 class="blurb">We have assembled a team with a broad range of skills, talents and backgrounds. They bring to their work a wide range of experiences and a depth of knowledge in various areas.</h3>
 
 
-  {% assign team = site.team | sort: 'date' | reverse %}
+  {% assign team = site.team | sort: 'order'  %}
 
   {% for person in team %}
     <a href="{{ site.baseurl }}/team/{{ person.title | slugify }}.html" class="team-member">

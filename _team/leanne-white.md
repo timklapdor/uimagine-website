@@ -4,7 +4,7 @@ layout: team
 date: 2018-06-18 17:07:34 +1000
 greeting: Leanne
 position: Project Design
-order: '04'
+order: '05'
 portrait: "/uploads/leanne-white.jpg"
 email: lewhite@csu.edu.au
 phone_number: ''
