@@ -87,4 +87,5 @@ fields:
   config:
     labelField: title
 pages:
+- _team/val-peachey.md
 - _team/lyn-hay.md
