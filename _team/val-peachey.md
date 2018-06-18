@@ -1,0 +1,32 @@
+---
+layout: team
+title: Val Peachey
+greeting: Val
+position: Professor Open Learning & Co-Director, u!magine
+order: 1
+portrait: uploads/val-peachey.jpg
+banner: uploads/val-bg.png
+email: vpeachey@csu.edu.au
+phone-number: 02333222333
+twitter: valpeachey
+facebook: words
+youtube: something
+linkedin: else
+blog: text
+publications:
+  - author:
+    title:
+    date:
+    file:
+    url:
+    reference:
+presentations:
+- author:
+  title:
+  date:
+  file:
+  url:
+  reference:
+---
+
+Valerie brings over 25 years of experience in the higher education sector in Canada and Australia. Having been at the forefront of digital learning, she has led several institutional initiatives in the digital space creating access for stakeholders both in the corporate and educational arenas. As a highly respected leader, she believes opening pathways and access to educational opportunities can yield transformative results as individuals have increased opportunities to reach their personal and professional goals. Often recognised by colleagues for her enthusiasm, energy and tenacity Valerie is often called upon to share her insights at conferences and professional gatherings. As co-director Valerie energises her team, works collaboratively with faculties and schools across the university and actively seeks opportunities to establish partnerships with internal and external stakeholders.

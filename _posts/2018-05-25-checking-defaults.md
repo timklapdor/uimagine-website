@@ -11,7 +11,7 @@ hero:
   gradient_side: ''
   gradient_color_1: '255,88,0,1'
   gradient_color_2: '255,88,0,.4'
-  image: ''
+  image: uploads/benjamin-davies-265095.jpg
 tags: []
 ---
 ## Looking at Defaults

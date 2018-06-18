@@ -23,8 +23,7 @@ section.card-grid {
     background: $grey-page;
     background-position: top center;
     background-size: cover;
-
-
+    border-radius: .2em;
 
     .thumb {
       padding-bottom: 80%;
@@ -49,7 +48,7 @@ section.card-grid {
     }
 
     h3, p, a {
-      margin: 24px;
+      margin: .75em;
     }
 
   }
@@ -57,9 +56,15 @@ section.card-grid {
     box-shadow: $shadow-4;
   }
 
-  .program h3 {
+  .program {
+    .thumb {
+      padding-bottom: 20vh;
+      background-size: contain;
+    }
+  h3 {
     text-align: center;
   }
+}
 }
 
 
@@ -79,7 +84,7 @@ section.card-grid {
 
 
       h2 {
-        margin: 0;
+        margin: 2em 0 0;
         flex: 2 2 100%;
       }
 

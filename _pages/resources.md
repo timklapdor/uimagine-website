@@ -31,9 +31,4 @@ resources:
   - Online Learning Exchange
 ---
 
-uImagine has developed a range of resources that have set the tone and direction for our work, and that of the university community.  
-
-- Destination 2020
-- Incubation Strategy
-- Learning Exchange
-- Online Learning Model
+uImagine has developed a range of resources that have set the tone and direction for our work, and that of the university community. These resources have been made openly available as shared resources for the global higher education community. 

@@ -1,0 +1,16 @@
+
+<section class="card-grid" style="transform-style: preserve-3d; background-image: linear-gradient(to {{item.gradient_corner}} {{item.gradient_side}}, rgba({{ item.gradient_color_1 }}), rgba({{ item.gradient_color_2 }})), url({{ site.baseurl }}/{{ item.image }})">
+  <h2 class="{{item.section-head-colour }}">{{ item.section-head }}</h2>
+  {% assign news = site.posts | sort: 'date' | reverse %}
+
+  {% for item in news limit:3 %}
+  <article class="">
+    <div class="thumb {{ item.item_class }}" style="background-image: url({{ site.baseurl }}/{{ item.hero.image}}){% for item in section.background %}, linear-gradient({{ item }}, {{item}}){% endfor %}"></div>
+    <h3>{{ item.title }}</h3>
+    <p>{{ item.excerpt }}</p>
+    <a href="{{ site.baseurl }}/{{ item.url }}" class="btn-blk-ui-orange call-to-action">
+      Read Post
+    </a>
+  </article>
+  {% endfor %}
+</section>

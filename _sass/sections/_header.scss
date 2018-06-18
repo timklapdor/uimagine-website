@@ -3,7 +3,6 @@ header {
   background: $brand-1;
   display: flex;
   flex-direction: column;
-  flex-wrap: wrap;
 
  & > div {
   padding: 0 1em;
@@ -48,6 +47,7 @@ img {
 
 @media only screen and (min-width:600px){
   header {
+    flex-wrap: wrap;
     flex-direction: row;
     background: $brand-1-rgb;
 

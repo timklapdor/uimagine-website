@@ -12,7 +12,7 @@ section article.publications {
   }
 
   li {
-    width: 100%;
+    width: calc(100% - 2em);
     padding: .4em;
   }
 }

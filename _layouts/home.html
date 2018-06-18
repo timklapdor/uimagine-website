@@ -10,25 +10,25 @@ layout: default
   {% include hero.html %}
 {% endif %}
 
+<!--  Feature -->
+
+{% for item in page.blurb %}
+  {% include feature.html %}
+{% endfor %}
+
 <!--  Grid Area -->
-{% for item in page.grid-1 %}
+{% for item in page.programs %}
   {% include card-grid-programs.html %}
 {% endfor %}
 
+
 <!--  Feature -->
 
-{% for item in page.feature-1 %}
+{% for item in page.feature %}
   {% include feature.html %}
 {% endfor %}
-
 
 <!--  Grid Area -->
-{% for item in page.grid-2 %}
-  {% include card-grid.html %}
-{% endfor %}
-
-<!--  Feature -->
-
-{% for item in page.feature-2 %}
-  {% include feature.html %}
+{% for item in page.news %}
+  {% include blog-grid.html %}
 {% endfor %}

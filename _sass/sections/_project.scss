@@ -9,7 +9,6 @@ section.project {
 
   aside {
     width: 100%;
-    border-top: 5px solid $brand;
 
     h5 {
       text-transform: uppercase;
@@ -51,6 +50,7 @@ section.project {
   }
   article {
     width: 100%;
+    border-bottom: 5px solid $brand;
 
   section {
     border-top: 4px solid $brand;

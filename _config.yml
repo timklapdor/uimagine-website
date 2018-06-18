@@ -39,6 +39,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:name
+  team:
+    output: true
+    permalink: /:collection/:name
 
 
 #Timezone
