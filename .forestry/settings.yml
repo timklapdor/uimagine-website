@@ -2,8 +2,12 @@
 new_page_extension: md
 auto_deploy: true
 admin_path: "/admin/"
-webhook_url: 
-collections: 
+webhook_url:
+collections:
+  _events:
+    default_front_matter_template: event
+  projects:
+    default_front_matter_template: project
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
