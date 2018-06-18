@@ -91,5 +91,6 @@ fields:
   config:
     labelField: title
 pages:
+- _team/tim-klapdor.md
 - _team/val-peachey.md
 - _team/lyn-hay.md
