@@ -4,7 +4,7 @@ layout: team
 date: 2018-06-18 17:09:37 +1000
 greeting: Wendy
 position: Project Support
-order: '05'
+order: '06'
 portrait: "/uploads/wendy-rowlands.jpg"
 email: " wrowlands@csu.edu.au"
 phone_number: ''
