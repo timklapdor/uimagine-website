@@ -7,7 +7,7 @@ hero:
   gradient_color_1: '203,0,68'
   gradient_color_2: '0,175,216'
   gradient_side: ''
-  icon: ''
+  icon: 'uploads/project-online-learner.svg'
   image: ''
 date: 2018-06-18 07:13:06 +1000
 category:
