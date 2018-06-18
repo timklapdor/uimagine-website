@@ -91,6 +91,7 @@ fields:
   config:
     labelField: title
 pages:
+- _team/wendy-rowlands.md
 - _team/leanne-white.md
 - _team/julie-lindsay.md
 - _team/tim-klapdor.md
