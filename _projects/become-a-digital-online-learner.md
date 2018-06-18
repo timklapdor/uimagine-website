@@ -15,7 +15,7 @@ category:
 progress: 31
 date-start: 2018-05-01 00:00:00 +1000
 date-finish: ''
-summary: The Get ready, get set, become a digital online learner course was developed
+summary: The "Get ready, get set, become a digital online learner" course was developed
   as part of the Open Pathways initiative which seeks to open up opportunities for
   studying at CSU.
 team:
