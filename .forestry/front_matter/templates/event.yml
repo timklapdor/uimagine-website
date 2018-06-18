@@ -289,6 +289,11 @@ fields:
   hidden: false
   description: Add link to Flickr Albumn
 pages:
+- _events/icde-presidents-summit.md
+- _events/alternative-staffing-approaches.md
+- _events/learning-on-the-open-web.md
+- _events/partnerships-and-the-business-of-distance-education.md
+- _events/conversations-about-online-learning.md
 - _events/data-learning-preparing-for-the-future.md
 - _events/using-learning-analytics-at-scale.md
 - _events/data-the-future-solution-or-problem.md
@@ -297,9 +302,4 @@ pages:
 - _events/learning-analytics-steering-clear-of-failure.md
 - _events/campus-the-cloud.md
 - _events/2017-unconference-season.md
-- _events/icde-presidents-summit.md
-- _events/alternative-staffing-approaches.md
-- _events/learning-on-the-open-web.md
-- _events/partnerships-and-the-business-of-distance-education.md
 - _events/incubation-strategy-launch.md
-- _events/conversations-about-online-learning.md

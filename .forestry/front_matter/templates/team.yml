@@ -28,8 +28,11 @@ fields:
         format: markdown
       required: true
   - type: file
-    name: photo
-    label: Photo
+    name: portrait
+    label: Portrait
+  - type: file
+    name: banner
+    label: Banner
   - type: text
     name: email
     label: Email
@@ -122,3 +125,5 @@ fields:
           format: markdown
     config:
       labelField: title
+data_files:
+- _data/team.yml
