@@ -14,5 +14,4 @@ youtube: ''
 linkedin: ''
 blog: ''
 publications: []
-published: false
 ---
