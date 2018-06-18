@@ -13,16 +13,16 @@ layout: default
     <img src="{{ page.portrait | absolute_url }}" width="100%">
     <h5>Contact</h5><p><em>{{ page.summary | markdownify }}</em></p>
       <div class="social">
-          <a href="mailto:{{ item }}?subject=Hi {{ person.greeting }}, I was on your website and wanted to get in touch"><img src="{{ site.baseurl }}/assets/images/envelope-blk.svg" /></a>
-          <a href="tel:{{ page.phone-number }}"><img src="{{ site.baseurl }}/assets/images/phone.svg" /></a>
+          <a href="mailto:{{ page.email }}?subject=Hi {{ page.greeting }}, I was on your website and wanted to get in touch" title="{{ page.email }}"><img src="{{ site.baseurl }}/assets/images/envelope-blk.svg" /></a>
+          <a href="tel:{{ page.phone_number }}" title="{{ page.phone_number }}"><img src="{{ site.baseurl }}/assets/images/phone.svg" /></a>
       </div>
     <h5>Social</h5>
       <div class="social">
-        {% for item in page.twitter %}<a href="https://www.twitter.com/{{ item }}" title="Twitter"><img src="{{ site.baseurl }}/assets/images/twitter-blk.svg" /></a>{% endfor %}
-        {% for item in page.linkedin %}<a href="https://www.linkedin.com/in/{{ item }}" title="LinkedIn"><img src="{{ site.baseurl }}/assets/images/linkedin-in-blk.svg" /></a>{% endfor %}
-        {% for item in page.facebook %}<a href="https://www.linkedin.com/in/{{ item }}" title="Facebook"><img src="{{ site.baseurl }}/assets/images/facebook-f-blk.svg" /></a>{% endfor %}
-        {% for item in page.youtube %}<a href="https://www.linkedin.com/in/{{ item }}" title="YouTube"><img src="{{ site.baseurl }}/assets/images/youtube-play.svg" /></a>{% endfor %}
-        {% for item in page.blog %}<a href="https://www.linkedin.com/in/{{ item }}" title="Blog"><img src="{{ site.baseurl }}/assets/images/browser.svg" /></a>{% endfor %}
+        {% for item in page.twitter %}<a href="https://www.twitter.com/{{ item }}" title="Twitter" target="_blank"><img src="{{ site.baseurl }}/assets/images/twitter-blk.svg" /></a>{% endfor %}
+        {% for item in page.linkedin %}<a href="https://www.linkedin.com/in/{{ item }}" title="LinkedIn" target="_blank"><img src="{{ site.baseurl }}/assets/images/linkedin-in-blk.svg" /></a>{% endfor %}
+        {% for item in page.facebook %}<a href="https://www.linkedin.com/in/{{ item }}" title="Facebook" target="_blank"><img src="{{ site.baseurl }}/assets/images/facebook-f-blk.svg" /></a>{% endfor %}
+        {% for item in page.youtube %}<a href="https://www.linkedin.com/in/{{ item }}" title="YouTube" target="_blank"><img src="{{ site.baseurl }}/assets/images/youtube-play.svg" /></a>{% endfor %}
+        {% for item in page.blog %}<a href="https://www.linkedin.com/in/{{ item }}" title="Blog" target="_blank"><img src="{{ site.baseurl }}/assets/images/browser.svg" /></a>{% endfor %}
       </div>
 </aside>
 
