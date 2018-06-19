@@ -162,6 +162,7 @@ fields:
     name: image
     label: Image
 pages:
+- _projects/edugrowth.md
 - _projects/online-learning-exchange.md
 - _projects/become-a-digital-online-learner.md
 - _projects/h5p-server.md
