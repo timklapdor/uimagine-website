@@ -121,9 +121,9 @@ fields:
   config:
     labelField: title
 pages:
+- _team/val-peachey.md
 - _team/wendy-rowlands.md
 - _team/leanne-white.md
 - _team/julie-lindsay.md
 - _team/tim-klapdor.md
-- _team/val-peachey.md
 - _team/lyn-hay.md
