@@ -49,6 +49,8 @@ The original aim of the Online Learning Model was to provide a future vision for
 
 The Online Learning Model was an adaptive body of work that changed over time. It started out as a collection of key concepts aimed improving student interaction in a number of areas as a way to improve satisfaction and retention. These concepts were expanded upon and fleshed out with relevant research. The next stage saw the team take to the road and workshop the model across all of CSU’s campus locations in face to face workshops and online. These workshops helped to redefine and streamline the model down and to look at ways that it could be implemented and modelled. The pilots then took the existing model and sort to conduct real pilots of practices related to the model. The feedback and analysis of these pilots resulted in a revised model being released and the start of developing the Online Learning Exchange to capture the strategies being developed around the implementation of the model. The pilots of the model were then expanded and looked at the challenges of scaling up the established practices as well as creating new strategies for implementation.
 
+{% include youtube.html id="tNbGNynZA8U" %}
+
 ## **Outcomes**
 
 The outcome of this work has been the implementation of the strategic Transforming Online Learning project at CSU. The TOL project has adapted the OLM further seeking to add further elements around flexibility of the student experience.
