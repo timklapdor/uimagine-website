@@ -58,6 +58,9 @@ fields:
   name: linkedin
   label: LinkedIn
 - type: text
+  name: flickr
+  label: Flickr
+- type: text
   name: blog
   label: Blog
 - type: field_group_list
