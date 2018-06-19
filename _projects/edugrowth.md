@@ -25,7 +25,6 @@ team:
 focus:
 - new technology
 outputs: []
-published: false
 ---
 ## **Description**
 
