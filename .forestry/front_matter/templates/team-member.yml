@@ -90,6 +90,36 @@ fields:
         format: markdown
   config:
     labelField: title
+- type: field_group_list
+  name: presentations
+  label: Presentations
+  fields:
+  - type: text
+    name: author
+    label: Author
+  - type: text
+    name: title
+    label: Title
+  - type: datetime
+    name: date
+    label: Date
+    config:
+      date_format: YYYY
+  - type: text
+    label: Weblink
+    name: url
+  - type: file
+    name: file
+    label: File
+  - type: textarea
+    name: reference
+    label: Reference
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  config:
+    labelField: title
 pages:
 - _team/wendy-rowlands.md
 - _team/leanne-white.md
