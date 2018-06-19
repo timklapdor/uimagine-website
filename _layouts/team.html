@@ -20,16 +20,17 @@ layout: default
       <div class="social">
         {% for item in page.twitter %}<a href="https://www.twitter.com/{{ item }}" title="Twitter" target="_blank"><img src="{{ site.baseurl }}/assets/images/twitter-blk.svg" /></a>{% endfor %}
         {% for item in page.linkedin %}<a href="https://www.linkedin.com/in/{{ item }}" title="LinkedIn" target="_blank"><img src="{{ site.baseurl }}/assets/images/linkedin-in-blk.svg" /></a>{% endfor %}
-        {% for item in page.facebook %}<a href="https://www.linkedin.com/in/{{ item }}" title="Facebook" target="_blank"><img src="{{ site.baseurl }}/assets/images/facebook-f-blk.svg" /></a>{% endfor %}
-        {% for item in page.youtube %}<a href="https://www.linkedin.com/in/{{ item }}" title="YouTube" target="_blank"><img src="{{ site.baseurl }}/assets/images/youtube-play.svg" /></a>{% endfor %}
-        {% for item in page.blog %}<a href="https://www.linkedin.com/in/{{ item }}" title="Blog" target="_blank"><img src="{{ site.baseurl }}/assets/images/browser.svg" /></a>{% endfor %}
+        {% for item in page.facebook %}<a href="https://www.facebook.com/in/{{ item }}" title="Facebook" target="_blank"><img src="{{ site.baseurl }}/assets/images/facebook-f-blk.svg" /></a>{% endfor %}
+        {% for item in page.youtube %}<a href="https://www.youtube.com/user/{{ item }}" title="YouTube" target="_blank"><img src="{{ site.baseurl }}/assets/images/youtube-play.svg" /></a>{% endfor %}
+        {% for item in page.flickr %}<a href="https://www.flickr.com/photos/{{ item }}" title="Flickr" target="_blank"><img src="{{ site.baseurl }}/assets/images/flickr-dots-square.svg" /></a>{% endfor %}
+        {% for item in page.blog %}<a href="{{ item }}" title="Blog" target="_blank"><img src="{{ site.baseurl }}/assets/images/browser.svg" /></a>{% endfor %}
       </div>
 </aside>
 
 <article class="profile ">
   {{ page.content | markdownify }}
 
-{% if page.presentations %}
+{% if page.presentations.title %}
   <h3>Presentations</h3>
   <div class="apa">
     <ul>
@@ -46,7 +47,7 @@ layout: default
 {% endif %}
 
 
-{% if page.presentations %}
+{% if page.publications.title %}
   <h3>Publications</h3>
   <div class="apa">
     <ul>
