@@ -22,6 +22,10 @@ layout: default
   {% endif %}
 </section>
 
+{% for item in page.programs %}
+  {% include card-grid-programs.html %}
+{% endfor %}
+
 {% for item in page.feature %}
   {% include feature.html %}
 {% endfor %}

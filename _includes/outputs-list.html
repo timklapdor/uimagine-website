@@ -10,7 +10,7 @@
   {% when 'publications' %}
 
   {% for item in publications %}
-  <li class="output" data-title="{{ item.title }}" data-author="{{ item.author }}" data-date="{{ item.date }}">
+  <li class="output {{ item.date }}" data-title="{{ item.title }}" data-author="{{ item.author }}" data-date="{{ item.date }}">
     {% if item.file %}<a href="{{site.baseurl}}/{{ item.file }}" class="reference" target="_blank">{{ item.reference | markdownify | remove: '<p>' | remove: '</p>'  }}</a>{% endif %}
     {% if item.url %}<a href="{{ item.url }}" class="reference" target="_blank">{{ item.reference | markdownify | remove: '<p>' | remove: '</p>' }}</a>
       {% else %}
@@ -21,7 +21,7 @@
 
 {% when 'presentations' %}
   {% for item in presentations %}
-  <li class="output" data-title="{{ item.title }}" data-author="{{ item.author }}" data-date="{{ item.date }}">
+  <li class="output {{ item.date }}" data-title="{{ item.title }}" data-author="{{ item.author }}" data-date="{{ item.date }}">
     {% if item.file %}<a href="{{site.baseurl}}/{{ item.file }}" class="reference" target="_blank">{{ item.reference | markdownify | remove: '<p>' | remove: '</p>'  }}</a>{% endif %}
     {% if item.url %}<a href="{{ item.url }}" class="reference" target="_blank">{{ item.reference | markdownify | remove: '<p>' | remove: '</p>' }}</a>
       {% else %}

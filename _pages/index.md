@@ -27,7 +27,7 @@ blurb:
   - size: centered
     text: |-
       ### uImagine is Charles Sturt University's digital learning innovation laboratory and part of the Division of Learning and teaching.
-
+      
 programs:
 - full_screen: false
   gradient_corner: top
@@ -73,7 +73,10 @@ feature:
   text-area:
   - size: centered
     heading: Innovate | Incubate | Educate
-    text: Find out more about our team, what we do and how we do it.
+    text: |-
+      Our mission is to promote and sustain high quality online teaching and learning through **innovative digital practice**, **scholarship** and **incubation**. We aim to explore new technologies and approaches to teaching practice, underpinned by innovative ways of thinking about the design of learning resources, learning spaces and online learning curriculum.Find out more about our team, what we do and how we do it.
+
+      Find out more about our team, what we do and how we do it.
     button: Find Our More About Us
     button_class: btn-ui-blue
     button_link: about.html
