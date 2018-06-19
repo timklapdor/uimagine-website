@@ -6,28 +6,27 @@ hero:
   full_screen: true
   gradient_corner: top
   gradient_side:
-  gradient_color_1: '215,31,133,.7'
-  gradient_color_2: '255,88,0,.7'
+  gradient_color_1: '215,31,133,.5'
+  gradient_color_2: '255,88,0,.5'
   image: uploads/uimagine-spark.jpg
-  promo-head: blank
+  promo-head: Yes
   promo-text: Spark something new!
   button_class: btn-ui-fuchia
   button-text: Find out more about us
   button_link: about.html
-
 
 blurb:
 - full_screen: false
   gradient_corner: bottom
   gradient_side:
   gradient_color_1: '255,88,0,1'
-  gradient_color_2: '255,88,0,.8'
+  gradient_color_2: '255,88,0,1'
   image:
   text-area:
   - size: centered
     text: |-
       ### uImagine is Charles Sturt University's digital learning innovation laboratory and part of the Division of Learning and teaching.
-      
+
 programs:
 - full_screen: false
   gradient_corner: top
@@ -67,8 +66,8 @@ feature:
 - full_screen: false
   gradient_corner: bottom
   gradient_side:
-  gradient_color_1: '215,31,133,1'
-  gradient_color_2: '215,31,133,.8'
+  gradient_color_1: '60,60,60,1'
+  gradient_color_2: '60,60,60,1'
   image:
   text-area:
   - size: centered
@@ -90,5 +89,4 @@ news:
   image:
   section-head: Latest News
   section-head-colour: ui-pink
-
 ---

@@ -1,0 +1,26 @@
+---
+
+layout: default
+
+---
+
+
+<!--  Hero -->
+
+{% if page.hero %}
+  {% include hero.html %}
+{% endif %}
+
+<section class="article">
+  <article>
+    {{ content }}
+  </article>
+</section>
+
+<section class="article">
+  <article>
+    {% for item in page.form %}
+        {% include {{ item }}.html %}
+    {% endfor %}
+  </article>
+</section>
