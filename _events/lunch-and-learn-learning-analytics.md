@@ -30,6 +30,16 @@ date-start: 2018-06-25 12:00:00 +1000
 date-finish: 2018-06-29 13:00:00 +1000
 no-bios: true
 speakers:
+- name: Ged Bourke
+  position: Blackboard Online Test Analytics
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: ''
+  case-study: ''
+  external_link_url: http://www.csu.edu.au/__data/assets/file/0004/3035380/Blackboard-Online-Test-Analytics-Lunch-and-Learn-Building-your-analytics-toolbox.ics
+  external_link_label: Calendar Invite
 - name: Ian Holder & Kath Herbert
   position: Dashboards for Interact2
   twitter: ''
