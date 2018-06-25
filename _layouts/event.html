@@ -38,13 +38,13 @@ layout: default
       </nav>
   </aside>
 
-<article class="">
+<article class="test">
 
-{% if page.status == 'past' %}
 <section class="description">
+{% if page.status == 'past' %}
   {{ page.post-mortem-text | markdownify }}
   {% else %}
-  <p class="description">{{ page.promotional-text | markdownify  }}</p>
+  {{ page.promotional-text | markdownify  }}
 {% endif %}
 </section>
 

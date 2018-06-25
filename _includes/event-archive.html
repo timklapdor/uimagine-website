@@ -6,7 +6,7 @@
   <div class="project-list">
 
     {% for event in site.events %}
-    <a href="{{ site.baseurl }}{{ event.url }}.html"class="event card date {{ event.status }} {% for item in event.categories %}{{  item | downcase }}{% endfor %}" data-category="{{ event.status }}" data-time="{{ event.date-start }}">
+    <a href="{{ site.baseurl }}{{ event.url }}.html"class="event card date {{ event.status }} {% for item in event.categories %}{{  item | downcase }} {% endfor %}" data-category="{{ event.status }}" data-time="{{ event.date-start }}">
         <img src="{{ site.baseurl }}{{ event.hero.icon}}">
         <p>{{ event.title}}</p>
         <p class="date event-date">{{ event.date-start | date_to_string }}</p>

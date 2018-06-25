@@ -1,5 +1,5 @@
 ---
-title: 'Lunch and Learn: Learning Analytics'
+title: 'Lunch & Learn - Learning Analytics'
 layout: event
 status: upcoming
 event-type: workshop
@@ -21,9 +21,7 @@ date: 2018-06-25 14:00:09 +1000
 categories:
 - weimagine
 - innovation
-promotional-text: These short workshops provide a quick introduction to some of the
-  learning analytics tools available to CSU staff to help inform their teaching. Come
-  along. Bring your lunch, and learn.
+promotional-text: 'These short workshops provide a quick introduction to some of the learning analytics tools available to CSU staff to help inform their teaching. Come along. Bring your lunch, and learn.'
 post-mortem-text: ''
 program: ''
 date-start: 2018-06-25 12:00:00 +1000
@@ -71,7 +69,7 @@ speakers:
   external_link_url: http://www.csu.edu.au/__data/assets/file/0006/3035337/Retention-Centre-and-notifying-students-Lunch-and-Learn-Building-your-analytics-toolbox.ics
   external_link_label: Calendar Invite
 - name: Kirsten Locke & Stewart McKinney
-  position: 'Grade Centre: Proficiencies & Potentialities'
+  position: 'Grade Centre - Proficiencies & Potentialities'
   twitter: ''
   linkedin: ''
   bio: ''
@@ -79,10 +77,11 @@ speakers:
   presentation: ''
   case-study: ''
   external_link_url: "#"
-  external_link_label: Recorded Presentation
+  external_link_label: Video
 outputs: []
 flickr-album: ''
 ---
-u!magine and [Adaptive Learning and Teaching Services](http://www.csu.edu.au/division/learning-and-teaching/home/analytics-and-evaluations) are running their **Lunch & Learn: Building your Analytics Toolbox** series in June, with an additional session featuring Blackboard Test Analytics. 
+
+u!magine and [Adaptive Learning and Teaching Services](http://www.csu.edu.au/division/learning-and-teaching/home/analytics-and-evaluations) are running their **Lunch & Learn: Building your Analytics Toolbox** series in June, with an additional session featuring Blackboard Test Analytics.
 
 Each session will begin at 12.30pm using the format – 10 min presentation of functionality, 10 min academic practitioner, followed by a 10 min Q&A. These sessions are designed to help academics build their analytics toolbox by exploring the ways specific CSU systems can be used to inform teaching and learning, and showcase the practical ways these are already being used by some academics.
