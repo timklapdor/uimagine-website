@@ -49,7 +49,7 @@ speakers:
   presentation: ''
   case-study: ''
   external_link_url: http://www.csu.edu.au/__data/assets/file/0003/3035370/Dashboards-for-Interact2-Lunch-and-Learn-Building-your-analytics-toolbox.ics
-  external_link_label: Calendar Invite
+  external_link_label: Thursday
 - name: Sam Parker, Michelle Wilkinson & Stewart McKinney
   position: Checking progress with Achievements
   twitter: ''
@@ -59,7 +59,7 @@ speakers:
   presentation: ''
   case-study: ''
   external_link_url: http://www.csu.edu.au/__data/assets/file/0010/3035368/Checking-progress-with-Interact2-Achievements-Lunch-and-Learn-Building-your-analytics-toolbox.ics
-  external_link_label: Calendar Invite
+  external_link_label: Wednesday
 - name: Kelly Linden & Stewart McKinney
   position: Retention Centre & Notifying Students
   twitter: ''
@@ -69,7 +69,7 @@ speakers:
   presentation: ''
   case-study: ''
   external_link_url: http://www.csu.edu.au/__data/assets/file/0006/3035337/Retention-Centre-and-notifying-students-Lunch-and-Learn-Building-your-analytics-toolbox.ics
-  external_link_label: Calendar Invite
+  external_link_label: Tuesday
 - name: Kirsten Locke & Stewart McKinney
   position: Grade Centre - Proficiencies & Potentialities
   twitter: ''
