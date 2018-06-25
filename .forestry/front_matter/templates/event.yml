@@ -289,6 +289,7 @@ fields:
   hidden: false
   description: Add link to Flickr Albumn
 pages:
+- _events/lunch-and-learn-learning-analytics.md
 - _events/icde-presidents-summit.md
 - _events/alternative-staffing-approaches.md
 - _events/learning-on-the-open-web.md
