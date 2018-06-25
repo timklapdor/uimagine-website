@@ -30,6 +30,16 @@ date-start: 2018-06-25 12:00:00 +1000
 date-finish: 2018-06-29 13:00:00 +1000
 no-bios: true
 speakers:
+- name: Ian Holder & Kath Herbert
+  position: Dashboards for Interact2
+  twitter: ''
+  linkedin: ''
+  bio: ''
+  photo: ''
+  presentation: ''
+  case-study: ''
+  external_link_url: http://www.csu.edu.au/__data/assets/file/0003/3035370/Dashboards-for-Interact2-Lunch-and-Learn-Building-your-analytics-toolbox.ics
+  external_link_label: Calendar Invite
 - name: Sam Parker, Michelle Wilkinson & Stewart McKinney
   position: Checking progress with Achievements
   twitter: ''
