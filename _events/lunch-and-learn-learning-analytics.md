@@ -42,7 +42,6 @@ speakers:
   external_link_label: Recorded Presentation
 outputs: []
 flickr-album: ''
-published: false
 ---
 u!magine and [Adaptive Learning and Teaching Services](http://www.csu.edu.au/division/learning-and-teaching/home/analytics-and-evaluations) are running their **Lunch & Learn: Building your Analytics Toolbox** series in June, with an additional session featuring Blackboard Test Analytics. 
 
