@@ -295,6 +295,13 @@ fields:
   - type: text
     name: title
     label: Title
+  - type: textarea
+    label: Description
+    name: description
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
   - type: field_group_list
     name: presenters
     label: Presenters
@@ -305,6 +312,28 @@ fields:
     - type: text
       name: position
       label: Position
+    - type: text
+      name: email
+      label: Email
+    - type: text
+      name: twitter
+      label: Twitter
+  - type: field_group_list
+    name: links
+    label: Links
+    fields:
+    - type: text
+      name: description
+      label: Description
+    - type: text
+      name: button_text
+      label: Button text
+    - type: file
+      name: file
+      label: File
+    - type: text
+      name: link
+      label: Link
 pages:
 - _events/lunch-and-learn-learning-analytics.md
 - _events/icde-presidents-summit.md
