@@ -283,11 +283,6 @@ fields:
     description: Or supply URL
   config:
     labelField: description
-- name: flickr-album
-  label: Flickr album
-  type: text
-  hidden: false
-  description: Add link to Flickr Albumn
 - type: field_group_list
   name: sessions
   label: Sessions
@@ -295,6 +290,9 @@ fields:
   - type: text
     name: title
     label: Title
+  - type: datetime
+    name: date
+    label: Date & Time
   - type: textarea
     label: Description
     name: description
@@ -334,6 +332,11 @@ fields:
     - type: text
       name: link
       label: Link
+- name: flickr-album
+  label: Flickr album
+  type: text
+  hidden: false
+  description: Add link to Flickr Albumn
 pages:
 - _events/lunch-and-learn-learning-analytics.md
 - _events/icde-presidents-summit.md
