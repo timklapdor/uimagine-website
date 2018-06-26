@@ -1,0 +1,30 @@
+<section class="">
+  {% for session in page.sessions %}
+  <article class="speaker">
+    <div class="profile">
+      <h4>{{ person.name }}</h4>
+      {% for item in person.photo %}<div class="thumb" style="background-image: url({{ person.photo | absolute_url }})"></div>{% endfor %}
+      {% for item in person.position %}<h5>{{ item }}</h5>{% endfor %}
+      <div class="social">
+      {% for item in person.twitter %}<a href="https://www.twitter.com/{{ item }}"><img src="{{ site.baseurl }}/assets/images/twitter-blk.svg" /></a>{% endfor %}
+      {% for item in person.linkedin %}<a href="https://www.linkedin.com/in/{{ item }}"><img src="{{ site.baseurl }}/assets/images/linkedin-in-blk.svg" /></a>{% endfor %}
+    </div>
+    </div>
+    <div class="bio">
+      {% for item in sessions.title %}<p>{{ item | capitalize }}</p>{% endfor %}
+
+      {% for item in sessions.description %}<p>{{ item | markdownify }}</p>{% endfor %}
+
+      {% if item in session.presenters %}
+        {% for item in session.presenters %}
+          <h4>{{ name }}</h4>
+          <h5>{{ position }}</h5>
+          {% for item in person.twitter %}<a href="https://www.twitter.com/{{ item }}"><img src="{{ site.baseurl }}/assets/images/twitter-blk.svg" /></a>{% endfor %}
+          {% for item in person.email %}<a href="https://www.linkedin.com/in/{{ item }}"><img src="{{ site.baseurl }}/assets/images/linkedin-in-blk.svg" /></a>{% endfor %}
+
+      {% for item in sessions.presentation %}<a href="{{ item | absolute_url }}" class="action-btn  full-btn " target="_blank">Presentation</a>{% endfor %}
+
+    </div>
+  </article>
+  {% endfor %}
+</section>

@@ -67,6 +67,8 @@ layout: default
 {% endfor %}
 
 
+
+
 {% if page.no-bios == true %}
 <h2>Speakers</h2>
 <ul class="speakers">
@@ -83,6 +85,15 @@ layout: default
 {% endif %}
 
 </article>
+
+{% if page.sessions %}
+
+  <article class="bustout">
+    <h2>Sessions</h2>
+      {% include sessions.html %}
+  </article>
+
+{% endif %}
 
 
 {% if page.no-bios == false %}
