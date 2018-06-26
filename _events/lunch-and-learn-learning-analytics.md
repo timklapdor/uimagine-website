@@ -1,5 +1,5 @@
 ---
-title: Lunch & Learn - Learning Analytics
+title: 'Lunch & Learn: Build Your Analytics Toolbox'
 layout: event
 status: upcoming
 event-type: workshop

@@ -25,8 +25,7 @@ blurb:
   text-area:
   - size: centered
     text: |-
-      ### uImagine is Charles Sturt University's digital learning innovation laboratory and part of the Division of Learning and teaching.
-
+      ### uImagine is Charles Sturt University's digital learning innovation laboratory and part of the Division of Learning & Teaching.
 programs:
 - full_screen: false
   gradient_corner: top
