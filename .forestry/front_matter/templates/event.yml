@@ -288,6 +288,23 @@ fields:
   type: text
   hidden: false
   description: Add link to Flickr Albumn
+- type: field_group_list
+  name: sessions
+  label: Sessions
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: field_group_list
+    name: presenters
+    label: Presenters
+    fields:
+    - type: text
+      name: name
+      label: Name
+    - type: text
+      name: position
+      label: Position
 pages:
 - _events/lunch-and-learn-learning-analytics.md
 - _events/icde-presidents-summit.md
