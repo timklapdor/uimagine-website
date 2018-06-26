@@ -293,6 +293,9 @@ fields:
   - type: datetime
     name: date
     label: Date & Time
+  - type: text
+    name: location_details
+    label: Location Details
   - type: textarea
     label: Description
     name: description
