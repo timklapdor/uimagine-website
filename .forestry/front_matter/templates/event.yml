@@ -341,6 +341,7 @@ fields:
   hidden: false
   description: Add link to Flickr Albumn
 pages:
+- _events/learning-analytics-steering-clear-of-failure.md
 - _events/lunch-and-learn-learning-analytics.md
 - _events/icde-presidents-summit.md
 - _events/alternative-staffing-approaches.md
@@ -352,7 +353,6 @@ pages:
 - _events/data-the-future-solution-or-problem.md
 - _events/simulation-role-play-symposium.md
 - _events/learning-analytics-symposium.md
-- _events/learning-analytics-steering-clear-of-failure.md
 - _events/campus-the-cloud.md
 - _events/2017-unconference-season.md
 - _events/incubation-strategy-launch.md
