@@ -16,6 +16,11 @@
 
     <div class="profile">
       <p>{{ item.description }}</p>
+      <p>
+        {% for item in person.presentation %}<a href="{{ item | absolute_url }}" class="action-btn" target="_blank">Presentation</a>{% endfor %}
+        {% for item in person.case-study %}<a href="{{ item | absolute_url }}" class="action-btn" target="_blank">Case Study</a>{% endfor %}
+        {% for item in links %}<a href="{% if item.file %}{{ item.file | absolute_ur }}{% else %}{{ item.link | absolute_url }}{% endif %}" class="action-btn" target="_blank">{{ item.button_text }}</a>{% endfor %}
+      </p>
     </div>
 
   </article>
