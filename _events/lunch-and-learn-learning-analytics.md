@@ -103,8 +103,21 @@ sessions:
     Interact2 Online Tests are used extensively as part of the learning design for many subjects to measure student knowledge and gauge progress. The effectiveness of online tests can be checked by using Item Analysis. Item Analysis provides statistics on overall individual performances and test performance. This data helps you recognise questions that might be poor discriminators of student performance.
 
     These insights go towards improving questions for future test administrations and can provide the basis for supplementary or developmental content.
+  youtube: 'ijWn6UJG3Xc'
   presenters:
   - name: Ged Bourke
+    position: 'Online Learning Designer, Learning Online Unit'
+    email: 'gebourke@csu.edu.au'
+    twitter: ''
+  links:
+  - description: 'Calendar Invite'
+    button_text: 'Add to Calendar'
+    file: ''
+    link: http://www.csu.edu.au/__data/assets/file/0004/3035380/Blackboard-Online-Test-Analytics-Lunch-and-Learn-Building-your-analytics-toolbox.ics
+  - description: 'Calendar Invite 2'
+    button_text: 'Add to Calendar 2'
+    file: ''
+    link: http://www.csu.edu.au/__data/assets/file/0004/3035380/Blackboard-Online-Test-Analytics-Lunch-and-Learn-Building-your-analytics-toolbox.ics    
   location_details: Online meeting using Zoom https://zoom.us/j/8389243643
 ---
 

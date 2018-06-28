@@ -1,26 +1,29 @@
-  <article class="session">
-    <div class="bio">
-      <h3>{{ item.title }}</h3>
-      {% for person  in item.presenters %}
-      <p><strong>{{ person.name }}</strong>
-        {% for item in person.position %} - <em>{{ item }}</em>{% endfor %}</p>
-      <p class="social">
-        {% for item in person.twitter %}<a href="https://www.twitter.com/{{ item }}"><img src="{{ site.baseurl }}/assets/images/twitter-blk.svg" /></a>{% endfor %}
-        {% for item in person.email %}<a href="mailto:{{ item }}?subject=Hi {{ person.name }}, I saw your presentation on the uImagine website and wanted to get in touch" title="Contact Email"><img src="{{ site.baseurl }}/assets/images/envelope-blk.svg" /></a>
-{% endfor %}
-      </p>
-{% endfor %}
+<article class="session">
 
+  <div class="bio">
+    <h3>{{ item.title }}</h3>
+    {% for person  in item.presenters %}
+    <p><strong>{{ person.name }}</strong>
+      {% for item in person.position %} - <em>{{ item }}</em>{% endfor %}</p>
+        <div class="social">
+          {% for item in person.twitter %}<a href="https://www.twitter.com/{{ item }}"><img src="{{ site.baseurl }}/assets/images/twitter-blk.svg" /></a>{% endfor %}
+          {% for item in person.email %}<a href="mailto:{{ item }}?subject=Hi, I saw your presentation on the uImagine website and wanted to get in touch" title="Contact Email"><img src="{{ site.baseurl }}/assets/images/envelope-blk.svg" /></a>{% endfor %}
+        </div>
+      {% endfor %}
+ </div>
 
-    </div>
+  <div class="">
+    <p>{{ item.description }}</p>
 
-    <div class="profile">
-      <p>{{ item.description }}</p>
-      <p>
-        {% for item in person.presentation %}<a href="{{ item | absolute_url }}" class="action-btn" target="_blank">Presentation</a>{% endfor %}
-        {% for item in person.case-study %}<a href="{{ item | absolute_url }}" class="action-btn" target="_blank">Case Study</a>{% endfor %}
-        {% for item in links %}<a href="{% if item.file %}{{ item.file | absolute_ur }}{% else %}{{ item.link | absolute_url }}{% endif %}" class="action-btn" target="_blank">{{ item.button_text }}</a>{% endfor %}
-      </p>
-    </div>
+    {% if item.youtube %}
+    {% capture video_link %}{{ item.youtube }}{% endcapture %}
 
-  </article>
+    {% include youtube.html id=video_link %}
+    {% endif %}
+    <p>
+      {% for item in item.presentation %}<a href="{{ item | absolute_url }}" class="action-btn" target="_blank">Presentation</a>{% endfor %}
+      {% for item in item.case-study %}<a href="{{ item | absolute_url }}" class="action-btn" target="_blank">Case Study</a>{% endfor %}
+      {% for item in item.links %}<a href="{{ item.link | absolute_url }}" class="action-btn" target="_blank">{{ item.button_text }}</a> {% endfor %}
+    </p>
+  </div>
+</article>
