@@ -303,6 +303,9 @@ fields:
       wysiwyg: true
       schema:
         format: markdown
+  - type: text
+    name: youtube
+    label: YouTube Link
   - type: field_group_list
     name: presenters
     label: Presenters
