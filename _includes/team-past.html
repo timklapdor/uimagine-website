@@ -1,0 +1,11 @@
+<section class="article">
+  <article>
+    <h3>Past Team Members</h3>
+    <p>The uImagine team has been quite dynamic and changed substantially over the last few years. All of our past staff have contributed to our work and we'd like to acknowledge their efforts:
+    <ul>
+    {% for person in site.data.past-team %}
+      <li><strong>{{ person.name }}</strong> – <em>{{ person.position }}</em></li>
+    {% endfor %}
+    </ul>
+  </article>
+</section>
