@@ -1,4 +1,4 @@
-  article.speaker {
+  article.speaker, article.session {
     border-bottom: 1px $blk solid;
 
   &:last-child {
@@ -16,6 +16,10 @@
       background-repeat: no-repeat;
       padding-bottom: 100%;
     }
+  }
+
+  .bio h3 {
+    text-transform: capitalize;
   }
 
   .bio {
@@ -64,7 +68,7 @@
   }
 
 
-  article.speaker {
+  article.speaker, article.session {
     grid-column: span 2;
     display: grid;
     grid-template-columns: 1fr 2fr;

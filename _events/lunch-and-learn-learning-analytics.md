@@ -96,8 +96,8 @@ sessions:
   - name: Kath Herbert
     position: 'Lecturer in Learning and Teaching, Faculty of Arts and Education '
   - name: Ian Holder
-    position: 'Adaptive Learning and Teaching Analyst '
-- title: Blackboard Online Test Analytics
+    position: 'Adaptive Learning and Teaching Analyst'
+- title: Blackboard online Test Analytics
   date: 2018-06-29 12:00:00 +1000
   description: |-
     Interact2 Online Tests are used extensively as part of the learning design for many subjects to measure student knowledge and gauge progress. The effectiveness of online tests can be checked by using Item Analysis. Item Analysis provides statistics on overall individual performances and test performance. This data helps you recognise questions that might be poor discriminators of student performance.

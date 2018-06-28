@@ -1,6 +1,6 @@
-  <article class="speaker">
+  <article class="session">
     <div class="bio">
-      <h3>{{ item.title | capitalize }}</h3>
+      <h3>{{ item.title }}</h3>
       {% for person  in item.presenters %}
       <p><strong>{{ person.name }}</strong>
         {% for item in person.position %} - <em>{{ item }}</em>{% endfor %}</p>
