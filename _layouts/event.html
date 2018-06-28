@@ -86,15 +86,18 @@ layout: default
 
 </article>
 
-{% if page.sessions %}
 
-  <article class="bustout">
-    <h2>Sessions</h2>
-      {% include sessions.html %}
-  </article>
+<article class="bustout">
+<h2>Sessions</h2>
+  {% for item in page.sessions %}
 
-{% endif %}
-
+  {% include session.html %}
+  <!-- <h4>{{ item.title | capitalize }}</h4>
+  {% for person  in item.presenters %}<h5>{{ person.name }}</h5><p>{{ person.position }}</p>
+  {% endfor %}
+  <p>{{ item.description }}</p> -->
+  {% endfor %}
+</article>
 
 {% if page.no-bios == false %}
 <article class="bustout">

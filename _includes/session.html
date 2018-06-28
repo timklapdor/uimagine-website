@@ -1,0 +1,21 @@
+  <article class="speaker">
+    <div class="bio">
+      <h3>{{ item.title | capitalize }}</h3>
+      {% for person  in item.presenters %}
+      <p><strong>{{ person.name }}</strong>
+        {% for item in person.position %} - <em>{{ item }}</em>{% endfor %}</p>
+      <p class="social">
+        {% for item in person.twitter %}<a href="https://www.twitter.com/{{ item }}"><img src="{{ site.baseurl }}/assets/images/twitter-blk.svg" /></a>{% endfor %}
+        {% for item in person.email %}<a href="mailto:{{ item }}?subject=Hi {{ person.name }}, I saw your presentation on the uImagine website and wanted to get in touch" title="Contact Email"><img src="{{ site.baseurl }}/assets/images/envelope-blk.svg" /></a>
+{% endfor %}
+      </p>
+{% endfor %}
+
+
+    </div>
+
+    <div class="profile">
+      <p>{{ item.description }}</p>
+    </div>
+
+  </article>
