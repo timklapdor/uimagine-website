@@ -33,6 +33,14 @@ layout: default
           {% include maps.html %}
         {% endif %}
       {% endif %}
+      {% if page.external_link %}
+      <h5>Links</h5>
+      <p class="links">
+      {% for item in page.external_link %}
+        <a href="{{ item.link_url }}" target="_blank" class="action-btn">{{ item.button_text }}</a>
+      {% endfor %}
+      </p>
+      {% endif %}
       <nav>
         <a href="{{ site.baseurl }}/events/" class="btn-nav prev">Back to All Events</a>
       </nav>
@@ -86,26 +94,22 @@ layout: default
 {% endif %}
 </article>
 
+{% if page.sessions %}
+  <article class="bustout">
+    <h2>Sessions</h2>
+      {% for item in page.sessions %}
+        {% include session.html %}
+      {% endfor %}
+  </article>
+{% endif %}
 
-<article class="bustout">
-<h2>Sessions</h2>
-  {% for item in page.sessions %}
-
-  {% include session.html %}
-
-  {% endfor %}
-</article>
 
 {% if page.no-bios == false %}
-{% if page.speakers != empty %}
-<article class="bustout">
-
-<h2>Speakers</h2>
-
-{% include speakers.html %}
-
-</article>
+  {% if page.speakers %}
+    <article class="bustout">
+      <h2>Speakers</h2>
+      {% include speakers.html %}
+    </article>
+  {% endif %}
 {% endif %}
-{% endif %}
-
 </section>

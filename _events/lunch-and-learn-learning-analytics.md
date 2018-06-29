@@ -118,6 +118,10 @@ sessions:
 external_link:
 - button_text: Zoom Meeting
   link_url: https://zoom.us/j/8389243643
+- button_text: Zoomed
+  link_url: https://zoom.us/j/8389243643
+- button_text: Zooming
+  link_url: https://zoom.us/j/8389243643  
 ---
 
 u!magine and [Adaptive Learning and Teaching Services](http://www.csu.edu.au/division/learning-and-teaching/home/analytics-and-evaluations) ran a **Lunch & Learn: Building your Analytics Toolbox** series in June, with an additional session featuring Blackboard Test Analytics.

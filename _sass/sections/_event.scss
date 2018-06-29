@@ -16,7 +16,7 @@ section.event {
     line-height: 1.2;
     border-radius: .5em;
 
-    
+
     p {
       line-height: 1.3;
     }
@@ -93,6 +93,11 @@ section.event {
   nav {
     display: flex;
     margin-top: 2em;
+  }
+
+  .links a {
+    margin: .1rem;
+    line-height: 2;
   }
   }
 }
