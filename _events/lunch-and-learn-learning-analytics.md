@@ -30,26 +30,6 @@ date-start: 2018-06-25 02:00:00 +0000
 date-finish: 2018-06-29 03:00:00 +0000
 no-bios: true
 speakers:
-- name: Ged Bourke
-  position: Blackboard Online Test Analytics
-  twitter: ''
-  linkedin: ''
-  bio: ''
-  photo: ''
-  presentation: ''
-  case-study: ''
-  external_link_url: http://www.csu.edu.au/__data/assets/file/0004/3035380/Blackboard-Online-Test-Analytics-Lunch-and-Learn-Building-your-analytics-toolbox.ics
-  external_link_label: Friday
-- name: Ian Holder & Kath Herbert
-  position: Dashboards for Interact2
-  twitter: ''
-  linkedin: ''
-  bio: ''
-  photo: ''
-  presentation: ''
-  case-study: ''
-  external_link_url: http://www.csu.edu.au/__data/assets/file/0003/3035370/Dashboards-for-Interact2-Lunch-and-Learn-Building-your-analytics-toolbox.ics
-  external_link_label: Thursday
 - name: Sam Parker, Michelle Wilkinson & Stewart McKinney
   position: Checking progress with Achievements
   twitter: ''
@@ -84,7 +64,7 @@ outputs: []
 flickr-album: ''
 sessions:
 - title: Dashboards for Interact2
-  date: 2018-06-28 12:00:00 +1000
+  date: 2018-06-28 02:00:00 +0000
   location_details: Online meeting using Zoom https://zoom.us/j/8389243643
   description: |-
     Dashboards provide a way to visualise student engagement in Interact2 subject sites. Hear about the development of a dashboard for the Lecturers in Learning and Teaching, Faculty of Arts & Education, and how it can be used to determine how student engagement relates to the design of subject sites.
@@ -96,28 +76,28 @@ sessions:
   - name: Kath Herbert
     position: 'Lecturer in Learning and Teaching, Faculty of Arts and Education '
   - name: Ian Holder
-    position: 'Adaptive Learning and Teaching Analyst'
+    position: Adaptive Learning and Teaching Analyst
 - title: Blackboard online Test Analytics
-  date: 2018-06-29 12:00:00 +1000
+  date: 2018-06-29 02:00:00 +0000
   description: |-
     Interact2 Online Tests are used extensively as part of the learning design for many subjects to measure student knowledge and gauge progress. The effectiveness of online tests can be checked by using Item Analysis. Item Analysis provides statistics on overall individual performances and test performance. This data helps you recognise questions that might be poor discriminators of student performance.
 
     These insights go towards improving questions for future test administrations and can provide the basis for supplementary or developmental content.
-  youtube: 'ijWn6UJG3Xc'
+  youtube: ijWn6UJG3Xc
   presenters:
   - name: Ged Bourke
-    position: 'Online Learning Designer, Learning Online Unit'
-    email: 'gebourke@csu.edu.au'
+    position: Online Learning Designer, Learning Online Unit
+    email: gebourke@csu.edu.au
     twitter: ''
   links:
-  - description: 'Calendar Invite'
-    button_text: 'Add to Calendar'
+  - description: Calendar Invite
+    button_text: Add to Calendar
     file: ''
     link: http://www.csu.edu.au/__data/assets/file/0004/3035380/Blackboard-Online-Test-Analytics-Lunch-and-Learn-Building-your-analytics-toolbox.ics
-  - description: 'Calendar Invite 2'
-    button_text: 'Add to Calendar 2'
+  - description: Calendar Invite 2
+    button_text: Add to Calendar 2
     file: ''
-    link: http://www.csu.edu.au/__data/assets/file/0004/3035380/Blackboard-Online-Test-Analytics-Lunch-and-Learn-Building-your-analytics-toolbox.ics    
+    link: http://www.csu.edu.au/__data/assets/file/0004/3035380/Blackboard-Online-Test-Analytics-Lunch-and-Learn-Building-your-analytics-toolbox.ics
   location_details: Online meeting using Zoom https://zoom.us/j/8389243643
 ---
 
