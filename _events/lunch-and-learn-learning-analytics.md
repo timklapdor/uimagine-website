@@ -63,6 +63,24 @@ speakers:
 outputs: []
 flickr-album: ''
 sessions:
+- title: Retention Centre & notifying students
+  start: 2018-06-26 12:30:00 +1000
+  end: 2018-06-26 13:00:00 +1000
+  location_details: Online Zoom SessionDr. Kelly Linden, Lecturer, School Community
+    Health
+  description: "Retention Centre in Interact2 subject sites provides an easy way for
+    teaching staff to monitor student engagement and activity levels. The session
+    today will demonstrate how Retention Centre can be used to capture the picture
+    of student engagement using site accesses and then how to send notification ‘nudges’
+    to students who are either above or below the subject average. \n\n \n\nKelly
+    Linden will demonstrate how her team are using Retention Centre and notifications
+    for their priority subjects in the Faculty of Science. In the final Q&A segment
+    you will have opportunity to ask questions or seek clarifications."
+  presenters:
+  - name: Stewart McKinney
+    position: " Adaptive Learning & Teaching Project Officer"
+  - name: Kelly Linden
+    position: Lecturer, School Community Health
 - title: Checking Progress with Achievements
   start: 2018-06-27 12:30:00 +1000
   end: 2018-06-27 13:00:00 +1000
