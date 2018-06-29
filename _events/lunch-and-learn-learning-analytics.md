@@ -63,6 +63,7 @@ speakers:
 outputs: []
 flickr-album: ''
 sessions:
+- title: Checking Progress with Achievements
 - title: Dashboards for Interact2
   date: 2018-06-28 02:00:00 +0000
   location_details: Online meeting using Zoom https://zoom.us/j/8389243643
