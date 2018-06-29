@@ -66,7 +66,7 @@ sessions:
 - title: Checking Progress with Achievements
 - title: Dashboards for Interact2
   date: 2018-06-28 02:00:00 +0000
-  location_details: Online meeting using Zoom https://zoom.us/j/8389243643
+  location_details: Online Zoom Session
   description: |-
     Dashboards provide a way to visualise student engagement in Interact2 subject sites. Hear about the development of a dashboard for the Lecturers in Learning and Teaching, Faculty of Arts & Education, and how it can be used to determine how student engagement relates to the design of subject sites.
 
@@ -78,6 +78,8 @@ sessions:
     position: 'Lecturer in Learning and Teaching, Faculty of Arts and Education '
   - name: Ian Holder
     position: Adaptive Learning and Teaching Analyst
+  start: 2018-06-28 12:30:00 +1000
+  end: 2018-06-29 13:00:00 +1000
 - title: Blackboard online Test Analytics
   date: 2018-06-29 02:00:00 +0000
   description: |-
