@@ -76,6 +76,10 @@ sessions:
     staff to gain insights into overall learning progress. In the final Q&A segment
     you will have opportunity to ask questions or seek clarifications"
   presenters:
+  - name: Stewart McKinney
+    position: 'Adaptive Learning & Teaching Project Officer '
+  - name: Michelle Wilkinson
+    position: Educational Designer
   - name: Sam Parker
     position: Subject Coordinator, MGT220 eCommerce
 - title: Dashboards for Interact2
