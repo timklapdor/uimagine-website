@@ -20,7 +20,7 @@ feature:
   text-area:
   - size: centered
     heading: Want to know what u!magine does?
-    text: 'We do lots of things '
+    text: ''
     button: Explore Our Work
     button_class: btn-rev
     button_link: incubation.html

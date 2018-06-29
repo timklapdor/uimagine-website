@@ -15,4 +15,6 @@ linkedin:
 blog:
 publications: []
 ---
-Lenni has over 16 years experience designing learning, in online and blended learning modes, for higher education and industry. She also has experience as an academic; in project management in IT, health, education; and is a visual artist.
+Lenni has over 16 years’ experience designing learning, in online and blended learning modes, in education and other industries. She has worked on educational design and quality review of online learning for Australian Universities and Online Education Providers. In this work, she has collaborated with: subject matter experts; educational technologists; information specialists; media production specialists; digital learning product developers; project managers; digital publishers; researchers and executive staff, to develop, implement and evaluate online, student learning experiences.
+
+Lenni's approach to designing online learning is motivated by student-centred, learning approaches and utilising design methodologies that support collaboration, creativity and innovation. Lenni also has experience as an academic in Higher Education; in project management in IT, Health, Education; and she is a Visual Artist. In uImagine, Lenni will collaborate with academic subject matter experts, design, media and project teams to design and develop quality online learning experiences for Open Pathways.
