@@ -29,37 +29,7 @@ program: ''
 date-start: 2018-06-25 02:00:00 +0000
 date-finish: 2018-06-29 03:00:00 +0000
 no-bios: true
-speakers:
-- name: Sam Parker, Michelle Wilkinson & Stewart McKinney
-  position: Checking progress with Achievements
-  twitter: ''
-  linkedin: ''
-  bio: ''
-  photo: ''
-  presentation: ''
-  case-study: ''
-  external_link_url: http://www.csu.edu.au/__data/assets/file/0010/3035368/Checking-progress-with-Interact2-Achievements-Lunch-and-Learn-Building-your-analytics-toolbox.ics
-  external_link_label: Wednesday
-- name: Kelly Linden & Stewart McKinney
-  position: Retention Centre & Notifying Students
-  twitter: ''
-  linkedin: ''
-  bio: ''
-  photo: ''
-  presentation: ''
-  case-study: ''
-  external_link_url: http://www.csu.edu.au/__data/assets/file/0006/3035337/Retention-Centre-and-notifying-students-Lunch-and-Learn-Building-your-analytics-toolbox.ics
-  external_link_label: Tuesday
-- name: Kirsten Locke & Stewart McKinney
-  position: Grade Centre - Proficiencies & Potentialities
-  twitter: ''
-  linkedin: ''
-  bio: ''
-  photo: ''
-  presentation: ''
-  case-study: ''
-  external_link_url: "#"
-  external_link_label: Video
+speakers: []
 outputs: []
 flickr-album: ''
 sessions:
