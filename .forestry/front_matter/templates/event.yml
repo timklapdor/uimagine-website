@@ -291,8 +291,11 @@ fields:
     name: title
     label: Title
   - type: datetime
-    name: date
-    label: Date & Time
+    name: start
+    label: Start Date & Time
+  - type: datetime
+    name: end
+    label: End Date & Time
   - type: text
     name: location_details
     label: Location Details
