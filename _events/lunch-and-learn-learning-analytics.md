@@ -63,6 +63,19 @@ speakers:
 outputs: []
 flickr-album: ''
 sessions:
+- title: 'Grade Centre: Proficiencies & Potentialities'
+  start: 2018-06-25 12:30:00 +1000
+  end: 2018-06-25 13:00:00 +1000
+  location_details: Online Zoom Session
+  description: |-
+    Grade Centre is the Interact2 system for recording and managing students' marks for assessments and their final grades. What is not often realised is that, through its potential for analytics reporting, Grade Centre is much more than just an administrative area. The session will show how Grade Centre data flow through to trigger Retention Centre alert rules and are employed in two of the Site Analytics integrated reports.
+
+    Kirsten Locke will showcase how teaching staff in the School of Indigenous Australian Studies are using Grade Centre more dynamically in their practice, with an aim towards gaining better insights into student engagement and performance using analytics. In the final Q&A segment you will have opportunity to ask questions or seek clarifications.
+  presenters:
+  - name: Stewart McKinney
+    position: Adaptive Learning & Teaching Project Officer
+  - name: Kirsten Locke
+    position: Associate Head of School, School of Indigenous Australian Studies
 - title: Retention Centre & notifying students
   start: 2018-06-26 12:30:00 +1000
   end: 2018-06-26 13:00:00 +1000
