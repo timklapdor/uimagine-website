@@ -214,75 +214,6 @@ fields:
   config:
     labelField: name
   description: Add for each speaker
-- name: hero
-  label: Page Hero
-  type: field_group
-  fields:
-  - name: full_screen
-    label: Full screen
-    type: boolean
-    hidden: false
-    default: ''
-  - name: gradient_corner
-    label: Gradient corner
-    type: text
-    hidden: false
-    default: top
-  - name: gradient_side
-    label: Gradient side
-    type: text
-    hidden: false
-    default: ''
-  - name: gradient_color_1
-    label: Gradient color 1
-    type: text
-    hidden: false
-    default: '0,175,216,.8'
-  - name: gradient_color_2
-    label: Gradient color 2
-    type: text
-    hidden: false
-    default: '0,175,216,.4'
-  - name: image
-    label: Image
-    type: file
-    hidden: false
-    default: ''
-  - name: icon
-    label: Icon
-    type: file
-    hidden: false
-    default: ''
-  hidden: false
-  default: ''
-  description: Set the details for the banner
-- type: field_group_list
-  name: outputs
-  label: Outputs
-  description: Use for documentation and products of the event
-  fields:
-  - type: text
-    name: description
-    label: Description
-    description: Text description
-    config:
-      required: true
-  - type: text
-    name: button_text
-    label: Button Text
-    description: Label to go on button
-    config:
-      required: true
-  - type: file
-    name: file
-    label: File
-    description: Upload file or use media library
-  - type: text
-    name: link
-    label: Link
-    description: Or supply URL
-  config:
-    labelField: description
 - type: field_group_list
   name: sessions
   label: Sessions
@@ -341,11 +272,90 @@ fields:
     - type: text
       name: link
       label: Link
+- type: field_group_list
+  name: outputs
+  label: Outputs
+  description: Use for documentation and products of the event
+  fields:
+  - type: text
+    name: description
+    label: Description
+    description: Text description
+    config:
+      required: true
+  - type: text
+    name: button_text
+    label: Button Text
+    description: Label to go on button
+    config:
+      required: true
+  - type: file
+    name: file
+    label: File
+    description: Upload file or use media library
+  - type: text
+    name: link
+    label: Link
+    description: Or supply URL
+  config:
+    labelField: description
 - name: flickr-album
   label: Flickr album
   type: text
   hidden: false
   description: Add link to Flickr Albumn
+- name: hero
+  label: Page Hero
+  type: field_group
+  fields:
+  - name: full_screen
+    label: Full screen
+    type: boolean
+    hidden: false
+    default: ''
+  - name: gradient_corner
+    label: Gradient corner
+    type: text
+    hidden: false
+    default: top
+  - name: gradient_side
+    label: Gradient side
+    type: text
+    hidden: false
+    default: ''
+  - name: gradient_color_1
+    label: Gradient color 1
+    type: text
+    hidden: false
+    default: '0,175,216,.8'
+  - name: gradient_color_2
+    label: Gradient color 2
+    type: text
+    hidden: false
+    default: '0,175,216,.4'
+  - name: image
+    label: Image
+    type: file
+    hidden: false
+    default: ''
+  - name: icon
+    label: Icon
+    type: file
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+  description: Set the details for the banner
+- type: field_group_list
+  name: external_link
+  label: External Link
+  fields:
+  - type: text
+    name: button_text
+    label: Button Text
+  - type: text
+    name: link_url
+    label: Link URL
 pages:
 - _events/lunch-and-learn-learning-analytics.md
 - _events/learning-analytics-steering-clear-of-failure.md
