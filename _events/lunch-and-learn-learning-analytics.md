@@ -90,16 +90,10 @@ sessions:
     position: Online Learning Designer, Learning Online Unit
     email: gebourke@csu.edu.au
     twitter: ''
-  links:
-  - description: Calendar Invite
-    button_text: Add to Calendar
-    file: ''
-    link: http://www.csu.edu.au/__data/assets/file/0004/3035380/Blackboard-Online-Test-Analytics-Lunch-and-Learn-Building-your-analytics-toolbox.ics
-  - description: Calendar Invite 2
-    button_text: Add to Calendar 2
-    file: ''
-    link: http://www.csu.edu.au/__data/assets/file/0004/3035380/Blackboard-Online-Test-Analytics-Lunch-and-Learn-Building-your-analytics-toolbox.ics
-  location_details: Online meeting using Zoom https://zoom.us/j/8389243643
+  links: []
+  location_details: Online Zoom Session
+  start: 2018-06-29 12:30:00 +1000
+  end: 2018-06-29 13:00:00 +1000
 ---
 
 u!magine and [Adaptive Learning and Teaching Services](http://www.csu.edu.au/division/learning-and-teaching/home/analytics-and-evaluations) are running their **Lunch & Learn: Building your Analytics Toolbox** series in June, with an additional session featuring Blackboard Test Analytics.
