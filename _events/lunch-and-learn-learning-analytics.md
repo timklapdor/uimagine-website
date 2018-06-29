@@ -64,6 +64,20 @@ outputs: []
 flickr-album: ''
 sessions:
 - title: Checking Progress with Achievements
+  start: 2018-06-27 12:30:00 +1000
+  end: 2018-06-27 13:00:00 +1000
+  location_details: Online Zoom Session
+  description: "Blackboard Learn Achievements permit students to see their progress
+    through a subject as they attempt or are graded on, as examples, tests or a reflective
+    journal entry. Using adaptive release and the mark reviewed function is an additional
+    aspect of Achievements that allows students to track their movement through learning
+    content. \n\n \n\nThis session looks at how you can easily and effectively set
+    up Achievements in an Interact2 subject site as a means for students and teaching
+    staff to gain insights into overall learning progress. In the final Q&A segment
+    you will have opportunity to ask questions or seek clarifications"
+  presenters:
+  - name: Sam Parker
+    position: Subject Coordinator, MGT220 eCommerce
 - title: Dashboards for Interact2
   date: 2018-06-28 02:00:00 +0000
   location_details: Online Zoom Session
