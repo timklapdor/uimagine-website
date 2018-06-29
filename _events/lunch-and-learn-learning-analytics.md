@@ -115,6 +115,9 @@ sessions:
   location_details: Online Zoom Session
   start: 2018-06-29 12:30:00 +1000
   end: 2018-06-29 13:00:00 +1000
+external_link:
+- button_text: Zoom Meeting
+  link_url: https://zoom.us/j/8389243643
 ---
 
 u!magine and [Adaptive Learning and Teaching Services](http://www.csu.edu.au/division/learning-and-teaching/home/analytics-and-evaluations) are running their **Lunch & Learn: Building your Analytics Toolbox** series in June, with an additional session featuring Blackboard Test Analytics.
