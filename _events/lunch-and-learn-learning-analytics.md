@@ -1,7 +1,7 @@
 ---
 title: 'Lunch & Learn: Build Your Analytics Toolbox'
 layout: event
-status: upcoming
+status: past
 event-type: workshop
 location:
   info: Zoom Meeting Room
@@ -24,7 +24,7 @@ categories:
 promotional-text: These short workshops provide a quick introduction to some of the
   learning analytics tools available to CSU staff to help inform their teaching. Come
   along. Bring your lunch, and learn.
-post-mortem-text: ''
+post-mortem-text: 'These short workshops provided a quick introduction to some of the learning analytics tools available to CSU staff to help inform their teaching. These short sessions allowed staff to bring their lunch along and learn.'
 program: ''
 date-start: 2018-06-25 02:00:00 +0000
 date-finish: 2018-06-29 03:00:00 +0000
@@ -78,7 +78,7 @@ sessions:
     you will have opportunity to ask questions or seek clarifications"
   presenters:
   - name: Stewart McKinney
-    position: 'Adaptive Learning & Teaching Project Officer '
+    position: 'Adaptive Learning & Teaching Project Officer'
   - name: Michelle Wilkinson
     position: Educational Designer
   - name: Sam Parker
@@ -94,7 +94,7 @@ sessions:
     In the Q&A segment you will not only have the chance to ask questions of Ian and Kath, but you can suggest your own visualisations or data you’d like to see to help examine and improve your teaching and your students’ learning.
   presenters:
   - name: Kath Herbert
-    position: 'Lecturer in Learning and Teaching, Faculty of Arts and Education '
+    position: 'Lecturer in Learning and Teaching, Faculty of Arts and Education'
   - name: Ian Holder
     position: Adaptive Learning and Teaching Analyst
   start: 2018-06-28 12:30:00 +1000
@@ -120,6 +120,6 @@ external_link:
   link_url: https://zoom.us/j/8389243643
 ---
 
-u!magine and [Adaptive Learning and Teaching Services](http://www.csu.edu.au/division/learning-and-teaching/home/analytics-and-evaluations) are running their **Lunch & Learn: Building your Analytics Toolbox** series in June, with an additional session featuring Blackboard Test Analytics.
+u!magine and [Adaptive Learning and Teaching Services](http://www.csu.edu.au/division/learning-and-teaching/home/analytics-and-evaluations) ran a **Lunch & Learn: Building your Analytics Toolbox** series in June, with an additional session featuring Blackboard Test Analytics.
 
-Each session will begin at 12.30pm using the format – 10 min presentation of functionality, 10 min academic practitioner, followed by a 10 min Q&A. These sessions are designed to help academics build their analytics toolbox by exploring the ways specific CSU systems can be used to inform teaching and learning, and showcase the practical ways these are already being used by some academics.
+Each session will began at 12.30pm using the format – 10 min presentation of functionality, 10 min academic practitioner, followed by a 10 min Q&A. These sessions are designed to help academics build their analytics toolbox by exploring the ways specific CSU systems can be used to inform teaching and learning, and showcase the practical ways these are already being used by some academics.

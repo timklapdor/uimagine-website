@@ -68,7 +68,7 @@ layout: default
 
 
 
-
+{% if page.speakers != empty %}
 {% if page.no-bios == true %}
 <h2>Speakers</h2>
 <ul class="speakers">
@@ -83,7 +83,7 @@ layout: default
     {% endfor %}
 </ul>
 {% endif %}
-
+{% endif %}
 </article>
 
 
@@ -97,6 +97,7 @@ layout: default
 </article>
 
 {% if page.no-bios == false %}
+{% if page.speakers != empty %}
 <article class="bustout">
 
 <h2>Speakers</h2>
@@ -104,6 +105,7 @@ layout: default
 {% include speakers.html %}
 
 </article>
+{% endif %}
 {% endif %}
 
 </section>
