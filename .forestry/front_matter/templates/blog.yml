@@ -103,6 +103,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/holistic-approaches-to-online-collaborative-learning-design.md
 - _posts/test-monday.md
 - _posts/2018-05-25-checking-defaults.md
 - _posts/2018-05-25-on-the-uimagine-server.md
