@@ -8,7 +8,7 @@ hero:
   gradient_color_2: '255,88,0,.4'
   full_screen: false
   gradient_side: ''
-  image: "/uploads/INF537 FlipGrid.png"
+  image: "/uploads/Screenshot 2018-07-02 07.15.11.png"
 date: 2018-07-02 00:00:00 +0000
 excerpt: When designing online learning consideration should be given to how a community
   can be built around subject content and objectives and how students will interact
