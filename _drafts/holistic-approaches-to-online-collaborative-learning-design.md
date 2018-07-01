@@ -28,6 +28,12 @@ This  post focuses on the 'Paper presentation' which was a 45 minute session  wh
 
 ![](/uploads/Screenshot 2018-06-27 13.06.54.png)
 
+**Abstract**
+
+ When  designing online learning consideration should be given to how a  community can be built around subject content and objectives and how  students will interact with the academic and with each other. The  institutional learning management system affords a safe and reliable  albeit often less than inspiring space for learning. New digital  learning environments using the affordances of Web 2.0 technologies  support connected and collaborative pedagogies. Holistic approaches with  a focus on multimodal design extends learning into online spaces for  improved engagement, provision for response choices (text, audio,  video), online publishing and media creation while fostering new  pedagogical approaches. 
+
+**Essential Discussion**
+
 This  session shared research-based holistic implementation of Web 2.0 tools  (tools that allow for multimodal communication, interaction and  collaboration as well as online publishing and media creation), or the  ‘collaboration web’ (Harasim, 2017) as a design feature for online  subjects in higher education. Emerging pedagogies based on participatory  and collaborative online learning were examined with current examples  of learning space design using Web 2.0 tools shared via the Case Study  of INF537 - Digital Futures Colloquium. This is the capstone subject I  co-wrote and teach at Charles Sturt University as part of the [Master of Education degree in Knowledge Networking and Digital Innovation](http://futurestudents.csu.edu.au/courses/teaching-education/master-education-knowledge-networks-digital-innovation).
 
 These three essential understandings frame the presentation content:
@@ -42,7 +48,7 @@ Veletsianos  (2016) believes that sociocultural factors make technologies and  p
 
 \[slideshare id=103869999&doc=holisticapproachestoonlinecollaborativelearningdesignupload-180701202207\]
 
-As  part of the INF537 Case Study discussion one of the tools shared is  FlipGrid. This is a vital communication and collaboration tool that has  recently been bought out by Microsoft. Kudos to FlipGrid creators for  their inspiration and we will wait to see what MS does with the tool -  so far it has been made FREE to educators but with the implementation of  a mandatory password on each Grid. My thoughts about that as an  educational impositions will be shared in a subsequent blog post.....
+As  part of the INF537 Case Study discussion one of the tools shared is  FlipGrid. This is a vital communication and collaboration tool that has  recently been bought out by Microsoft. Kudos to [FlipGrid creators](https://flipgrid.com/) for  their inspiration and we will wait to see what MS does with the tool -  so far it has been made FREE to educators but with the implementation of  a mandatory password on each Grid. My thoughts about that as an  educational imposition will be shared in a subsequent blog post.....
 
 Meanwhile you can access the [INF537 FlipGrid](https://flipgrid.com/055e20) where students discuss preliminary ideas for their Research Assignment.  Password is INF537-17
 
