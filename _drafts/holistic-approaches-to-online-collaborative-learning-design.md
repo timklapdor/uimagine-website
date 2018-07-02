@@ -20,7 +20,12 @@ excerpt: When designing online learning consideration should be given to how a c
   provision for response choices (text, audio, video), online publishing and media
   creation while fostering new pedagogical approaches.
 author: Julie Lindsay
-tags: []
+tags:
+- learning design
+- conference
+- case study
+- flipgrid
+- web 2.0
 ---
 Last week I attended the 43rd [Improving University Teaching Conference](http://www.iutconference.com/)  held on the Charles Sturt University Port Macquarie campus. As an  international conference it attracted representatives from Australia,  Scotland, China, South Africa, USA, Canada, Fiji and more..... This was a  small and very friendly event and over the three main days I did three  presentations - each one with a slightly different format.
 
@@ -30,7 +35,7 @@ This  post focuses on the 'Paper presentation' which was a 45 minute session  wh
 
 **Abstract**
 
- When  designing online learning consideration should be given to how a  community can be built around subject content and objectives and how  students will interact with the academic and with each other. The  institutional learning management system affords a safe and reliable  albeit often less than inspiring space for learning. New digital  learning environments using the affordances of Web 2.0 technologies  support connected and collaborative pedagogies. Holistic approaches with  a focus on multimodal design extends learning into online spaces for  improved engagement, provision for response choices (text, audio,  video), online publishing and media creation while fostering new  pedagogical approaches. 
+When  designing online learning consideration should be given to how a  community can be built around subject content and objectives and how  students will interact with the academic and with each other. The  institutional learning management system affords a safe and reliable  albeit often less than inspiring space for learning. New digital  learning environments using the affordances of Web 2.0 technologies  support connected and collaborative pedagogies. Holistic approaches with  a focus on multimodal design extends learning into online spaces for  improved engagement, provision for response choices (text, audio,  video), online publishing and media creation while fostering new  pedagogical approaches.
 
 **Essential Discussion**
 
@@ -46,7 +51,7 @@ Harisim  shares how Web 2.0 has  drawn attention to online social communication
 
 Veletsianos  (2016) believes that sociocultural factors make technologies and  practices emergent. Participatory technologies like online social  networks and blogging have become an integral part of open scholarship.  However, he questions what effect online socialisation with peers via  social networking sites might have for online learners, as well as the  pedagogical affordances of these sites. Tensions between Web 2.0 use and  educational practice in higher education are shared in research by  Bennett, Bishop, Dalgarno, Waycott and Kennedy (2012) where more  successful outcomes saw alignment between educational and Web 2.0  practices and highlighted the potential learning benefits from effective  use, through student content creation and sharing. Lock and Johnson  (2016) discuss the need for careful consideration of technology to  support student completion of collaborative learning tasks, and at the  higher education level students should be empowered to make those  decisions. Kuit and Fell (2010) found that constructivism underpins the  use of Web 2.0 technologies, and the role of the academic in this  process is pertinent to foster judgement, synthesis, research and  collaborative practices.
 
-\[slideshare id=103869999&doc=holisticapproachestoonlinecollaborativelearningdesignupload-180701202207\]
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2PeaRn62e7uDH0" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/julielindsay/holistic-approaches-to-online-collaborative-learning-design-web-20-technologies-and-emerging-pedagogies" title="Holistic approaches to online collaborative learning design: Web 2.0 technologies and emerging pedagogies" target="_blank">Holistic approaches to online collaborative learning design: Web 2.0 technologies and emerging pedagogies</a> </strong> from <strong><a href="https://www.slideshare.net/julielindsay" target="_blank">Julie Lindsay</a></strong> </div>
 
 As  part of the INF537 Case Study discussion one of the tools shared is  FlipGrid. This is a vital communication and collaboration tool that has  recently been bought out by Microsoft. Kudos to [FlipGrid creators](https://flipgrid.com/) for  their inspiration and we will wait to see what MS does with the tool -  so far it has been made FREE to educators but with the implementation of  a mandatory password on each Grid. My thoughts about that as an  educational imposition will be shared in a subsequent blog post.....
 
@@ -54,7 +59,7 @@ Meanwhile you can access the [INF537 FlipGrid](https://flipgrid.com/055e20) wher
 
 ![](/uploads/INF537 FlipGrid.png)
 
-**REFERENCES** 
+**REFERENCES**
 
 Bennett, S., Bishop, A., Dalgarno, B., Waycott, J., & Kennedy, G. (2012). Implementing Web 2.0 technologies in higher education: A collective case study. Computers & Education, 59(2), 524-534.
 
@@ -62,7 +67,7 @@ Harasim, L. (2017). Learning theory and online technologies: Taylor & Francis.
 
 Koehler, A. A., Newby, T. J., & Ertmer, P. A. (2017). Examining the Role of Web 2.0 Tools in Supporting Problem Solving During Case-Based Instruction. Journal of Research on Technology in Education, 1-16.
 
-Kuit, J. A., & Fell, A. (2010). Web 2.0 to pedagogy 2.0: A social-constructivist approach to learning enhanced by technology. Critical design and effective tools for elearning in higher education: Theory into practice, 310-325. 
+Kuit, J. A., & Fell, A. (2010). Web 2.0 to pedagogy 2.0: A social-constructivist approach to learning enhanced by technology. Critical design and effective tools for elearning in higher education: Theory into practice, 310-325.
 
 Lock, J., & Johnson, C. (2017). From Assumptions to Practice: Creating and Supporting Robust Online Collaborative Learning. International Journal on E-Learning, 16(1), 47-Learning, 2017, Vol.2016(2011), p. 2047-2066.
 
