@@ -103,7 +103,7 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/here-comes-dr-jekyll.md
+- _posts/2018-07-02-here-comes-dr-jekyll.md
 - _posts/u-magine-s-weimagine-data-program.md
 - _posts/holistic-approaches-to-online-collaborative-learning-design.md
 - _posts/test-monday.md
