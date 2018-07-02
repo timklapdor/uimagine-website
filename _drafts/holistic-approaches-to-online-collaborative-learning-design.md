@@ -67,7 +67,7 @@ Harasim, L. (2017). _Learning theory and online technologies (2nd ed.)._ New Yor
 
 Koehler, A. A., Newby, T. J., & Ertmer, P. A. (2017). Examining the Role of Web 2.0 Tools in Supporting Problem Solving During Case-Based Instruction. _Journal of Research on Technology in Education_, 49(3-4), 182-197.
 
-Kuit, J. A., & Fell, A. (2010). Web 2.0 to pedagogy 2.0: A social-constructivist approach to learning enhanced by technology. _Critical design and effective tools for elearning in higher education: Theory into practice_, 310-325.
+Kuit, J. A., & Fell, A. (2010). Web 2.0 to pedagogy 2.0: A social-constructivist approach to learning enhanced by technology. In R. Donnelly, J. Harvey, & K. O’Rourke (Eds.), _Critical design and effective tools for elearning in higher education: Theory into practice_ (pp. 310-325). Hershey, PA: IGI Global.
 
 Lock, J., & Johnson, C. (2017). From Assumptions to Practice: Creating and Supporting Robust Online Collaborative Learning. _International Journal on E-Learning_, 16(1), 47-66.
 
