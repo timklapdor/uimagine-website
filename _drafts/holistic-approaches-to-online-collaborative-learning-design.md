@@ -10,15 +10,8 @@ hero:
   gradient_side: ''
   image: "/uploads/Screenshot 2018-07-02 07.15.11.png"
 date: 2018-07-02 00:00:00 +0000
-excerpt: When designing online learning consideration should be given to how a community
-  can be built around subject content and objectives and how students will interact
-  with the academic and with each other. The institutional learning management system
-  affords a safe and reliable albeit often less than inspiring space for learning.
-  New digital learning environments using the affordances of Web 2.0 technologies
-  support connected and collaborative pedagogies. Holistic approaches with a focus
-  on multimodal design extends learning into online spaces for improved engagement,
-  provision for response choices (text, audio, video), online publishing and media
-  creation while fostering new pedagogical approaches.
+excerpt: Digital learning environments using the affordances of Web 2.0 technologies
+  support holistic learning design for connected and collaborative pedagogies.
 author: Julie Lindsay
 tags:
 - learning design
