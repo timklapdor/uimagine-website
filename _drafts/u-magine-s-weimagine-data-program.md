@@ -1,5 +1,5 @@
 ---
-title: u!magine’s weimagine:Data program
+title: International experts launch weimagine:Data program
 layout: post
 category: Innovation
 hero:
@@ -9,7 +9,7 @@ hero:
   full_screen: false
   gradient_side: ''
   image: "/uploads/WeImagine-Data-banner.png"
-date: 2018-07-02 00:00:00 +0000
+date: 2018-03-29 10:00:00 +1100
 excerpt: Activities and events in March-April as we explored learning analytics
 author: Lyn Hay
 tags:
