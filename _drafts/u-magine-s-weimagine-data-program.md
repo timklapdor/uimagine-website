@@ -20,7 +20,9 @@ tags:
 - evidence based practice
 categories: Innovation
 ---
-![](/uploads/WeImagine-Data-banner.png)The [u!magine team](http://uimagine.edu.au/about/team/ "u!magine team") partnered with the [Adaptive Learning & Teaching Services (ALTS) team](http://www.csu.edu.au/division/learning-and-teaching/home/analytics-and-evaluations/adaptive-learning-and-teaching-services "ALTS team") of the Learning Technologies Unit to explore the ways that data can be used to support learning and teaching in higher education. The _weimagine:Data_ program consisted of a number of face-to-face and online lectures, workshops, panel discussions and demo sessions which ran over a period of six weeks where visiting professors and learning analytics experts, members of the Wagga and broader Riverina community, and CSU academic and professional staff came together to:
+![](/uploads/WeImagine-Data-banner.png)   
+
+The [u!magine team](http://uimagine.edu.au/about/team/ "u!magine team") partnered with the [Adaptive Learning & Teaching Services (ALTS) team](http://www.csu.edu.au/division/learning-and-teaching/home/analytics-and-evaluations/adaptive-learning-and-teaching-services "ALTS team") of the Learning Technologies Unit to explore the ways that data can be used to support learning and teaching in higher education. The _weimagine:Data_ program consisted of a number of face-to-face and online lectures, workshops, panel discussions and demo sessions which ran over a period of six weeks where visiting professors and learning analytics experts, members of the Wagga and broader Riverina community, and CSU academic and professional staff came together to:
 
 * explore the range of data sources available to inform teaching and learning in higher education;
 * examine how different approaches to learning analytics can influence the way we 'see' and 'use' data;
