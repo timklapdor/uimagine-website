@@ -5,7 +5,7 @@ date: 2018-06-18 07:06:36 +0000
 greeting: Julie
 position: Open Pathways Design Leader
 order: '04'
-portrait: "/uploads/julie-lindsay.jpg"
+portrait: "/uploads/julie-lindsay-2.jpg"
 email: jlindsay@csu.edu.au
 phone_number: 0269334507
 twitter: julielindsay

@@ -4,7 +4,7 @@ title: Val Peachey
 greeting: Val
 position: Professor Open Learning & Co-Director u!magine
 order: '01'
-portrait: uploads/val-peachey.jpg
+portrait: uploads/val-peachey-2.jpg
 banner: uploads/val-bg.png
 email: vpeachey@csu.edu.au
 phone_number: 0269332275

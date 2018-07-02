@@ -14,6 +14,7 @@ hero:
   image: "/uploads/jordan-mcqueen-9790.jpg"
 tags: []
 ---
+
 ## We are live!
 
 I'm writing this test on the uImagine server. I've got [Forestry.io](http://forestry.io "forestry") up and running to provide a backend UI for the website which is build with Jekyll.

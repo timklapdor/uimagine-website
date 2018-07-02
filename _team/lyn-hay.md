@@ -4,7 +4,7 @@ title: Lyn Hay
 greeting: Lyn
 position: Online Learning Innovation Leader
 order: '02'
-portrait: uploads/lyn-hay.jpg
+portrait: uploads/lyn-hay-2.jpg
 email: lhay@csu.edu.au
 phone_number: '0262726332'
 twitter: lyn_hay
