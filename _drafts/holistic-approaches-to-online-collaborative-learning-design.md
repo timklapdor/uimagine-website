@@ -61,14 +61,14 @@ Meanwhile you can access the [INF537 FlipGrid](https://flipgrid.com/055e20) wher
 
 **REFERENCES**
 
-Bennett, S., Bishop, A., Dalgarno, B., Waycott, J., & Kennedy, G. (2012). Implementing Web 2.0 technologies in higher education: A collective case study. Computers & Education, 59(2), 524-534.
+Bennett, S., Bishop, A., Dalgarno, B., Waycott, J., & Kennedy, G. (2012). Implementing Web 2.0 technologies in higher education: A collective case study. _Computers & Education_, 59(2), 524-534.
 
-Harasim, L. (2017). Learning theory and online technologies: Taylor & Francis.
+Harasim, L. (2017). _Learning theory and online technologies_. Taylor & Francis.
 
-Koehler, A. A., Newby, T. J., & Ertmer, P. A. (2017). Examining the Role of Web 2.0 Tools in Supporting Problem Solving During Case-Based Instruction. Journal of Research on Technology in Education, 1-16.
+Koehler, A. A., Newby, T. J., & Ertmer, P. A. (2017). Examining the Role of Web 2.0 Tools in Supporting Problem Solving During Case-Based Instruction. _Journal of Research on Technology in Education_, 1-16.
 
-Kuit, J. A., & Fell, A. (2010). Web 2.0 to pedagogy 2.0: A social-constructivist approach to learning enhanced by technology. Critical design and effective tools for elearning in higher education: Theory into practice, 310-325.
+Kuit, J. A., & Fell, A. (2010). Web 2.0 to pedagogy 2.0: A social-constructivist approach to learning enhanced by technology. _Critical design and effective tools for elearning in higher education: Theory into practice_, 310-325.
 
-Lock, J., & Johnson, C. (2017). From Assumptions to Practice: Creating and Supporting Robust Online Collaborative Learning. International Journal on E-Learning, 16(1), 47-Learning, 2017, Vol.2016(2011), p. 2047-2066.
+Lock, J., & Johnson, C. (2017). From Assumptions to Practice: Creating and Supporting Robust Online Collaborative Learning. _International Journal on E-Learning_, 16(1), 47-Learning, 2017, Vol.2016(2011), p. 2047-2066.
 
-Veletsianos, G. (2016). Digital Learning Environments. In N. Rushby & D. Surry (Eds.), Handbook of Learning Technologies (pp. 242-260): Wiley.
+Veletsianos, G. (2016). Digital Learning Environments. In N. Rushby & D. Surry (Eds.), _Handbook of Learning Technologies_ (pp. 242-260): Wiley.
