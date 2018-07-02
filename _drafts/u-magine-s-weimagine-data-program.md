@@ -31,7 +31,7 @@ The [u!magine team](http://uimagine.edu.au/about/team/ "u!magine team") partnere
 * discover ways students can use data to inform their learning journey; and
 * showcase examples of learning analytics in practice.
 
-##### International Experts in Learning Analytics visit CSU to kickstart our we!magine:Data season 
+#### International Experts in Learning Analytics visit CSU to kickstart our we!magine:Data season 
 
 The _weimagine:Data_ program was opened in the CSU Engineering building on Bathurst campus by [Dr. Bart Rienties](https://iet.open.ac.uk/people/bart.rienties "About Dr Bart Rienties"), Professor of Learning Analytics at the Institute of Educational Technology of the Open University UK. Bart [discussed his experience with learning analytics data and findings from large-scale implementations](https://youtu.be/L0ecWmQ7SF0 "View his lecture") involving over 200,000+ students across a range of contexts including The Open University UK. Key takeaways included they ways  instructional design can be optimised using the principles of learning analytics, and the extent to which can learning analytics can promote ‘personalisation’ or ‘generalisation’ for diverse populations of students. [Download a copy of Bart's slides](http://uimagine.edu.au/docs/WeImagine-Rienties.pdf "Download a pdf of Bart's slides")
 
