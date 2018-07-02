@@ -10,7 +10,7 @@ hero:
   gradient_side: ''
   image: "/uploads/WeImagine-Data-banner.png"
 date: 2018-03-29 10:00:00 +1100
-excerpt: Activities and events in March-April as we explored learning analytics
+excerpt: Open University UK experts in learning analytics visit CSU campuses
 author: Lyn Hay
 tags:
 - learning analytics
