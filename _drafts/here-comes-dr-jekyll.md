@@ -1,20 +1,21 @@
 ---
 title: Here Comes Dr Jekyll
 layout: post
-category: Updates
+category: Incubation
 hero:
   gradient_corner: bottom
-  gradient_color_1: '255,88,0,1'
-  gradient_color_2: '255,88,0,.4'
+  gradient_color_1: '0,0,0,.5'
+  gradient_color_2: '0,0,0,.2'
   full_screen: false
   gradient_side: ''
-  image: ''
+  image: "/uploads/test-tubes.jpg"
 date: 2018-07-02 00:00:00 +0000
 excerpt: How the new website was created
 author: Tim Klapdor
 tags:
 - website
 - jekyll
+categories: Updates
 ---
 For more than 3 years the uImagine website has been running on \[Wordpress\]([https://wordpress.org/](https://wordpress.org/ "https://wordpress.org/")). During that time there have been a few glitches, dodgy plugins, redos and a few unexplainable cases of weirdness that seem to resolve themselves in an hour or so. Oh and about a million security patches and updates. Wordpress is a fantastic platform, plastic in ways that no other web tool is, but at the same I’m finding it overkill for a lot of recent projects. Most of the time what we need isn’t a dynamic way of engaging with a huge page, but a simple stable way of navigating publisher information. I’m a front end guy, HTML and CSS are my cup of tea, so a lack of PHP skills has always hampered what I can personally do with Wordpress. I’ve been reliant on other people’s plugins to do relatively simple things, and that has created a few dependencies that don’t  make me very happy. 
 
