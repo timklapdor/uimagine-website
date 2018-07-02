@@ -7,19 +7,19 @@ archive: true
 hero:
   full_screen: false
   gradient_corner: top
-  gradient_side:
+  gradient_side: 
   gradient_color_1: '255,88,0,.9'
   gradient_color_2: '255,88,0,.4'
   icon: uploads/open-alpha.svg
-  image:
+  image: 
   promo-head: Open Education
 feature:
 - full_screen: false
   gradient_corner: bottom
-  gradient_side:
+  gradient_side: 
   gradient_color_1: '255,88,0,1'
   gradient_color_2: '255,88,0,.8'
-  image:
+  image: 
   text-area:
   - size: centered
     heading: Want to know our incubation projects
@@ -42,8 +42,7 @@ A ‘taster’ online course is usually designed to be completed as an independe
 
 #### References
 
-
-- Blessinger, P., & Bliss, T. (2016). Introduction to open education: Towards a human rights theory. In P. Blessinger & T. Bliss (Eds.), _Open education: International perspectives in higher education_. Cambridge, UK: Open Book Publishers. [http://www.openbookpublishers.com/htmlreader/978-1-78374-278-3/contents.xhtml](http://www.openbookpublishers.com/htmlreader/978-1-78374-278-3/contents.xhtml "http://www.openbookpublishers.com/htmlreader/978-1-78374-278-3/contents.xhtml")
-- Cronin, C. (2018). _Openness and praxis: A situated study of academic staff meaning-making and decision-making with respect to openness and the use of open educational practices in higher education._ (Doctor of Philosophy). NUI Galway.
-- Open Education Consortium. (n.d.). About the Open Education Consortium. Retrieved May 3, 2015, from [http://www.oeconsortium.org/about-oec/](http://www.openbookpublishers.com/htmlreader/978-1-78374-278-3/contents.xhtml "http://www.openbookpublishers.com/htmlreader/978-1-78374-278-3/contents.xhtml")
-{: .apa }
+* Blessinger, P., & Bliss, T. (2016). Introduction to open education: Towards a human rights theory. In P. Blessinger & T. Bliss (Eds.), _Open education: International perspectives in higher education_. Cambridge, UK: Open Book Publishers. [http://www.openbookpublishers.com/htmlreader/978-1-78374-278-3/contents.xhtml](http://www.openbookpublishers.com/htmlreader/978-1-78374-278-3/contents.xhtml "http://www.openbookpublishers.com/htmlreader/978-1-78374-278-3/contents.xhtml")
+* Cronin, C. (2018). _Openness and praxis: A situated study of academic staff meaning-making and decision-making with respect to openness and the use of open educational practices in higher education._ (Doctor of Philosophy). NUI Galway.
+* Open Education Consortium. (n.d.). About the Open Education Consortium. Retrieved from [http://www.oeconsortium.org/about-oec/](http://www.openbookpublishers.com/htmlreader/978-1-78374-278-3/contents.xhtml "http://www.openbookpublishers.com/htmlreader/978-1-78374-278-3/contents.xhtml")
+  {: .apa }
