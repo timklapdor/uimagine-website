@@ -1,0 +1,29 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<!-- Pages -->
+  {% for page in site.pages %}
+{% if page.sitemap != false %}<url><loc>{{ site.url }}{{ page.url }}</loc></url>{% endif %}
+  {% endfor %}
+<!-- Posts -->
+  {% for post in site.posts %}
+<url><loc>{{ site.url }}{{ post.url }}</loc></url>
+  {% endfor %}
+<!-- Projects -->
+  {% for project in site.projects %}
+<url><loc>{{ site.url }}{{ project.url }}</loc></url>
+  {% endfor %}
+<!-- Events -->
+  {% for event in site.events %}
+<url><loc>{{ site.url }}{{ event.url }}</loc></url>
+  {% endfor %}
+<!-- Team Members -->
+  {% for person in site.team %}
+<url><loc>{{ site.url }}{{ person.url }}</loc></url>
+  {% endfor %}
+</urlset>
