@@ -12,7 +12,7 @@ hero:
   gradient_color_1: '255,88,0,.7'
   gradient_color_2: '0,0,0,.4'
   image: "/uploads/jordan-mcqueen-9790.jpg"
-tags: []
+tags: "something, something else"
 ---
 
 ## We are live!
