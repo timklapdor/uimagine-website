@@ -55,7 +55,7 @@
 <meta name="twitter:creator" content="@{{ site.social-twitter }}">
 <meta name="twitter:title" content="{{ page.title }}">
 <meta name="twitter:description" content="{{ page.excerpt }}">
-{% for item in page.hero.image %}<meta name="twitter:image:src" content="{{ item | absolute_url }}">{% endfor %}
-{% for item in page.hero.icon %}<meta name="twitter:image:src" content="{{ item | absolute_url }}">{% endfor %}
+{% for item in page.hero.image %}<meta name="twitter:image" content="{{ item | absolute_url }}">{% endfor %}
+{% for item in page.hero.icon %}<meta name="twitter:image" content="{{ item | absolute_url }}">{% endfor %}
 
 </head>
