@@ -87,6 +87,7 @@ sessions:
     position: Educational Designer
   - name: Sam Parker
     position: Subject Coordinator, MGT220 eCommerce
+  youtube: 71pMIwQW-7w
 - title: Dashboards for Interact2
   date: 2018-06-28 02:00:00 +0000
   location_details: Online Zoom Session
@@ -103,13 +104,14 @@ sessions:
     position: Adaptive Learning and Teaching Analyst
   start: 2018-06-28 02:30:00 +0000
   end: 2018-06-29 03:00:00 +0000
+  youtube: w0slw5wAwqQ
 - title: Blackboard online Test Analytics
   date: 2018-06-29 02:00:00 +0000
   description: |-
     Interact2 Online Tests are used extensively as part of the learning design for many subjects to measure student knowledge and gauge progress. The effectiveness of online tests can be checked by using Item Analysis. Item Analysis provides statistics on overall individual performances and test performance. This data helps you recognise questions that might be poor discriminators of student performance.
 
     These insights go towards improving questions for future test administrations and can provide the basis for supplementary or developmental content.
-  youtube: ijWn6UJG3Xc
+  youtube: NoIaqrDgQ4o
   presenters:
   - name: Ged Bourke
     position: Online Learning Designer, Learning Online Unit
