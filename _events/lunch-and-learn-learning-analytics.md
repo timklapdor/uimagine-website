@@ -49,7 +49,7 @@ sessions:
   - name: Kirsten Locke
     position: Associate Head of School, School of Indigenous Australian Studies
   youtube: E8bcUVQoPTs
-- title: Retention Centre & notifying students
+- title: Retention Centre & Notifying Students
   start: 2018-06-26 02:30:00 +0000
   end: 2018-06-26 03:00:00 +0000
   location_details: Online Zoom SessionDr. Kelly Linden, Lecturer, School Community
@@ -67,6 +67,7 @@ sessions:
     position: " Adaptive Learning & Teaching Project Officer"
   - name: Kelly Linden
     position: Lecturer, School Community Health
+  youtube: Cuvn5JItUKc
 - title: Checking Progress with Achievements
   start: 2018-06-27 02:30:00 +0000
   end: 2018-06-27 03:00:00 +0000
