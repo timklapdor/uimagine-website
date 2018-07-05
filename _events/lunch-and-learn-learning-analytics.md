@@ -24,7 +24,9 @@ categories:
 promotional-text: These short workshops provide a quick introduction to some of the
   learning analytics tools available to CSU staff to help inform their teaching. Come
   along. Bring your lunch, and learn.
-post-mortem-text: 'These short workshops provided a quick introduction to some of the learning analytics tools available to CSU staff to help inform their teaching. These short sessions allowed staff to bring their lunch along and learn.'
+post-mortem-text: These short workshops provided a quick introduction to some of the
+  learning analytics tools available to CSU staff to help inform their teaching. These
+  short sessions allowed staff to bring their lunch along and learn.
 program: ''
 date-start: 2018-06-25 02:00:00 +0000
 date-finish: 2018-06-29 03:00:00 +0000
@@ -34,8 +36,8 @@ outputs: []
 flickr-album: ''
 sessions:
 - title: 'Grade Centre: Proficiencies & Potentialities'
-  start: 2018-06-25 12:30:00 +1000
-  end: 2018-06-25 13:00:00 +1000
+  start: 2018-06-25 02:30:00 +0000
+  end: 2018-06-25 03:00:00 +0000
   location_details: Online Zoom Session
   description: |-
     Grade Centre is the Interact2 system for recording and managing students' marks for assessments and their final grades. What is not often realised is that, through its potential for analytics reporting, Grade Centre is much more than just an administrative area. The session will show how Grade Centre data flow through to trigger Retention Centre alert rules and are employed in two of the Site Analytics integrated reports.
@@ -46,9 +48,10 @@ sessions:
     position: Adaptive Learning & Teaching Project Officer
   - name: Kirsten Locke
     position: Associate Head of School, School of Indigenous Australian Studies
+  youtube: E8bcUVQoPTs
 - title: Retention Centre & notifying students
-  start: 2018-06-26 12:30:00 +1000
-  end: 2018-06-26 13:00:00 +1000
+  start: 2018-06-26 02:30:00 +0000
+  end: 2018-06-26 03:00:00 +0000
   location_details: Online Zoom SessionDr. Kelly Linden, Lecturer, School Community
     Health
   description: "Retention Centre in Interact2 subject sites provides an easy way for
@@ -65,8 +68,8 @@ sessions:
   - name: Kelly Linden
     position: Lecturer, School Community Health
 - title: Checking Progress with Achievements
-  start: 2018-06-27 12:30:00 +1000
-  end: 2018-06-27 13:00:00 +1000
+  start: 2018-06-27 02:30:00 +0000
+  end: 2018-06-27 03:00:00 +0000
   location_details: Online Zoom Session
   description: "Blackboard Learn Achievements permit students to see their progress
     through a subject as they attempt or are graded on, as examples, tests or a reflective
@@ -78,7 +81,7 @@ sessions:
     you will have opportunity to ask questions or seek clarifications"
   presenters:
   - name: Stewart McKinney
-    position: 'Adaptive Learning & Teaching Project Officer'
+    position: Adaptive Learning & Teaching Project Officer
   - name: Michelle Wilkinson
     position: Educational Designer
   - name: Sam Parker
@@ -94,11 +97,11 @@ sessions:
     In the Q&A segment you will not only have the chance to ask questions of Ian and Kath, but you can suggest your own visualisations or data you’d like to see to help examine and improve your teaching and your students’ learning.
   presenters:
   - name: Kath Herbert
-    position: 'Lecturer in Learning and Teaching, Faculty of Arts and Education'
+    position: Lecturer in Learning and Teaching, Faculty of Arts and Education
   - name: Ian Holder
     position: Adaptive Learning and Teaching Analyst
-  start: 2018-06-28 12:30:00 +1000
-  end: 2018-06-29 13:00:00 +1000
+  start: 2018-06-28 02:30:00 +0000
+  end: 2018-06-29 03:00:00 +0000
 - title: Blackboard online Test Analytics
   date: 2018-06-29 02:00:00 +0000
   description: |-
@@ -113,17 +116,10 @@ sessions:
     twitter: ''
   links: []
   location_details: Online Zoom Session
-  start: 2018-06-29 12:30:00 +1000
-  end: 2018-06-29 13:00:00 +1000
-external_link:
-- button_text: Zoom Meeting
-  link_url: https://zoom.us/j/8389243643
-- button_text: Zoomed
-  link_url: https://zoom.us/j/8389243643
-- button_text: Zooming
-  link_url: https://zoom.us/j/8389243643  
+  start: 2018-06-29 02:30:00 +0000
+  end: 2018-06-29 03:00:00 +0000
+external_link: []
 ---
-
 u!magine and [Adaptive Learning and Teaching Services](http://www.csu.edu.au/division/learning-and-teaching/home/analytics-and-evaluations) ran a **Lunch & Learn: Building your Analytics Toolbox** series in June, with an additional session featuring Blackboard Test Analytics.
 
-Each session will began at 12.30pm using the format – 10 min presentation of functionality, 10 min academic practitioner, followed by a 10 min Q&A. These sessions are designed to help academics build their analytics toolbox by exploring the ways specific CSU systems can be used to inform teaching and learning, and showcase the practical ways these are already being used by some academics.
+Each session began at 12.30pm using the format – 10 min presentation of functionality, 10 min academic practitioner, followed by a 10 min Q&A. These sessions were designed to help academics build their analytics toolbox by exploring the ways specific CSU systems can be used to inform teaching and learning, and showcase the practical ways these are already being used by some academics.
