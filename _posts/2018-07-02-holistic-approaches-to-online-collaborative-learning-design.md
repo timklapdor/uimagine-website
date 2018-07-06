@@ -1,7 +1,6 @@
 ---
 title: Holistic approaches to online collaborative learning design
 layout: post
-category: Innovation
 hero:
   gradient_corner: bottom
   gradient_color_1: '255,88,0,.7'
@@ -19,6 +18,7 @@ tags:
 - case study
 - flipgrid
 - web 2.0
+categories: Innovation
 ---
 Last week I attended the 43rd [Improving University Teaching Conference](http://www.iutconference.com/) held on the Charles Sturt University Port Macquarie campus. As an international conference it attracted representatives from Australia, Scotland, China, South Africa, USA, Canada, Fiji and more..... This was a small and very friendly event and over the three main days I did three presentations - each one with a slightly different format.
 
