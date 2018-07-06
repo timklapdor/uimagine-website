@@ -2,31 +2,31 @@
 new_page_extension: md
 auto_deploy: true
 admin_path: "/admin/"
-webhook_url:
+webhook_url: 
 collections:
 - path: _posts
   label: Blog
+  create: all
   templates:
   - blog
-  create: all
 - path: _events
   label: Events
+  create: all
   templates:
   - event
-  create: all
 - path: _projects
   label: Projects
+  create: all
   templates:
   - project
-  create: all
 - path: ''
   label: Pages
   create: all
 - path: _team
   label: Team
+  create: all
   templates:
   - team member
-  create: all
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
