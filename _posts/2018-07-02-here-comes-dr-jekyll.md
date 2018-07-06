@@ -29,7 +29,7 @@ Static Site Generators are incredibly flexible and speedy, and **for novice user
 
 That’s right, there’s a big downside to Jekyll, which is its huge learning curve to get up and running. To get started you’ll need to open the actual terminal (how 1980s), type into the command line to install stuff, create sites, run servers and build sites. You’ll have to learn [Liquid](https://shopify.github.io/liquid/) templating and [YAML](http://yaml.org/) and write everything in [Markdown](https://daringfireball.net/projects/markdown/syntax). Authoring and editing happens in a text editor, no lovely GUI here, and with one small error or spelling mistake you can break your site and stop it from publishing.
 
-> The biggest problem with most Static Site Generators is that aren’t suitable for beginners.
+> The biggest problem with most Static Site Generators is that they aren’t suitable for beginners.
 
 In the past this has meant that I need to do everything - but this creates it’s own bottlenecks and issues. It also hampers collaboration. I was able to get around that bit by using GitHub but that was another technical leap for many users. So when [Forestry](https://forestry.io/docs/editing/menus/) came onto my radar I was keen to explore it. Forestry provides a familiar CMS (content management systsem) interface for Jekyll sites. It gives you rich text editors and powerful ways to configure your [YAML](http://yaml.org/)) metadata system that makes it easy for users to engage with.
 
