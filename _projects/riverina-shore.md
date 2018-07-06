@@ -60,13 +60,9 @@ Additionally, the community may be used for inter-professional activities in whi
 A number of key learning theme emerged from students interaction with the virtual community:
 
 - Students could see people outside of a clinic setting/in the community/in a social setting.
-
 - The could now see the bigger picture for a client and how their treatment fits into their broader lives.
-
 - Students could look behind the scenes at what a person/family/carers are dealing with.
 - Realising the physical/psychological/emotional/social impact of a condition on the person/family/carers/community.
-
 - Seeing opportunities for IPP.
 - Realising the positive impact of IPP on the person/family/community.
-
 - A greater sense of realism in terms of the scenarios presented to students.

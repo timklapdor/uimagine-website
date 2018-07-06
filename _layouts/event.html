@@ -13,27 +13,27 @@ layout: default
 
   <aside>
 
-      <h5>{{ page.event-type | upcase }}</h5>
-
-
-      {% if page.status == 'past' %}
-      <p>Held on the {{ page.date-start | date_to_long_string }}</p>
+    <h5>{{ page.event-type | upcase }}</h5>
+    {% if page.status == 'past' %}
+    <p>Held on the {{ page.date-start | date_to_long_string }}</p>
         {% else %}
-      <p><strong>Start</strong><br> {{ page.date-start | date: "%m/%d/%Y, %H:%M" }}</p>
-      <p><strong>Finish</strong><br> {{ page.date-finish | date: "%m/%d/%Y, %H:%M" }}</p>
-      {% endif %}
+    <p><strong>Start</strong><br> {{ page.date-start | date: "%m/%d/%Y, %H:%M" }}</p>
+    <p><strong>Finish</strong><br> {{ page.date-finish | date: "%m/%d/%Y, %H:%M" }}</p>
+    {% endif %}
 
-      {% if page.location %}
-      <h5>Location</h5>
+    {% if page.location %}
+    <h5>Location</h5>
         <p>{{ page.location.info }}</p>
-        {% if page.location.lat == '' %}
+        {% if page.location.details != empty %}
         <h5>Details</h5>
         <p>{{ page.location.details }}</p>
-        {% else %}
+        {% if page.location.lat != empty %}
           {% include maps.html %}
         {% endif %}
-      {% endif %}
-      {% if page.external_link %}
+        {% endif %}
+    {% endif %}
+
+      {% if page.external_link != empty %}
       <h5>Links</h5>
       <p class="links">
       {% for item in page.external_link %}

@@ -4,8 +4,8 @@ layout: event
 status: past
 event-type: workshop
 location:
-  info: Zoom Meeting Room
-  details: https://zoom.us/j/8389243643
+  info: Webinar
+  details: ''
   lat: ''
   lng: ''
   zoom: ''

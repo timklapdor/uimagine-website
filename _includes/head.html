@@ -21,19 +21,19 @@
 <meta name="theme-color" content="#ff5800">
 
 <!-- Search Engine -->
-<meta name="description" content="{{ page.excerpt }}">
+<meta name="description" content="{{ page.excerpt | strip_html }}">
 <meta name="image" content="{{ site.url }}{{ site.baseurl }}/assets/images/{{ site.og_image }}">
 
 <!-- Schema.org for Google -->
 <meta itemprop="name" content="{{ page.title }}">
-<meta itemprop="description" content="{{ page.excerpt }}">
+<meta itemprop="description" content="{{ page.excerpt | strip_html }}">
 {% for item in page.hero.image %}<meta itemprop="image" content="{{ item | absolute_url }}">{% endfor %}
 {% for item in page.hero.icon %}<meta itemprop="image" content="{{ item | absolute_url }}">{% endfor %}
 
 <!-- Open Graph general (Facebook, Pinterest & Google+) -->
 <meta name="og:url" content="{{ page.url | absolute_url }}">
 <meta name="og:title" content="{{ page.title }}">
-<meta name="og:description" content="{{ page.excerpt }}">
+<meta name="og:description" content="{{ page.excerpt | strip_html }}">
 {% for item in page.hero.icon %}<meta name="og:image" content="{{ item | absolute_url }}">{% endfor %}
 {% for item in page.hero.image %}<meta name="og:image" content="{{ item | absolute_url }}">{% endfor %}
 
@@ -54,7 +54,7 @@
 <meta name="twitter:site" content="@{{ site.social-twitter }}">
 <meta name="twitter:creator" content="@{{ site.social-twitter }}">
 <meta name="twitter:title" content="{{ page.title }}">
-<meta name="twitter:description" content="{{ page.excerpt }}">
+<meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
 {% for item in page.hero.image %}<meta name="twitter:image" content="{{ item | absolute_url }}">{% endfor %}
 {% for item in page.hero.icon %}<meta name="twitter:image" content="{{ item | absolute_url }}">{% endfor %}
 
