@@ -89,12 +89,12 @@ fields:
     label: Gradient color 1
     type: text
     hidden: false
-    default: '255,88,0,1'
+    default: '0,0,0,.8'
   - name: gradient_color_2
     label: Gradient color 2
     type: text
     hidden: false
-    default: '255,88,0,.4'
+    default: '0,0,0,.4'
   - name: image
     label: Image
     type: file
