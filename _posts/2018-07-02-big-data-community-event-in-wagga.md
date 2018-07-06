@@ -4,8 +4,8 @@ layout: post
 category: Innovation
 hero:
   gradient_corner: bottom
-  gradient_color_1: '255,88,0,1'
-  gradient_color_2: '255,88,0,.4'
+  gradient_color_1: '0,0,0,.8'
+  gradient_color_2: '0,0,0,.4'
   full_screen: false
   gradient_side: ''
   image: "/uploads/pexels-photo-373543.jpeg"
@@ -34,8 +34,6 @@ Results of the poll asking the audience to answer the question being asked of th
 The audience were also asked to contribute to a word cloud activity by sharing one word they would use to describe what they believed to be the biggest issue or concern regarding ethics and big data. 52% of the audience identified privacy issues as their greatest concern, followed by security, control, confidentiality, lack of regulation, integrity and transparency, to name a few.
 
 The concluding question asked of the panel and audience was, “How would you like to see data being used for good in your organisation?”. Responses included:
-
-
 
 * To help support global understanding of the use of data
 * Easily accessible outside office/onsite jobs

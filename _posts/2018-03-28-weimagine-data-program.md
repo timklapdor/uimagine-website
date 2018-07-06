@@ -3,8 +3,8 @@ title: International experts launch weimagine:Data program
 layout: post
 hero:
   gradient_corner: bottom
-  gradient_color_1: '255,88,0,1'
-  gradient_color_2: '255,88,0,.4'
+  gradient_color_1: '0,0,0,.8'
+  gradient_color_2: '0,0,0,.4'
   full_screen: false
   gradient_side: ''
   image: "/uploads/WeImagine-Data-banner.png"
