@@ -24,7 +24,7 @@ Last week I attended the 43rd [Improving University Teaching Conference](http://
 
 This post focuses on the 'Paper presentation' which was a 45 minute session where I talked about my topic based on a slideshow, and then we had discussion and questions in the room. The outcome of this session is an academic paper (yet to be finalised!). Here are some essential artefacts to learn from in the meantime. Thanks to Judy O'Connell for tweeting this out during the session!
 
-![](/uploads/Screenshot 2018-06-27 13.06.54.png)
+![]({{ site.baseurl }}/uploads/Screenshot 2018-06-27 13.06.54.png)
 
 **Abstract**
 
@@ -50,7 +50,7 @@ As part of the INF537 Case Study discussion one of the tools shared is FlipGrid.
 
 Meanwhile you can access the [INF537 FlipGrid](https://flipgrid.com/055e20) where students discuss preliminary ideas for their Research Assignment.  Password is INF537-17
 
-![](/uploads/INF537 FlipGrid.png)
+![]({{ site.baseurl }}/uploads/INF537 FlipGrid.png)
 
 #### Reference
 
