@@ -11,7 +11,7 @@ hero:
   image: ''
 date: 2018-06-19 13:47:17 +1000
 category:
-- innovation
+- incubation
 progress: 50
 date-start: 2016-06-01 00:00:00 +1000
 date-finish: ''
@@ -44,4 +44,4 @@ Our plan is to partner with these companies and work towards mutually beneficial
 
 ## **Outcomes**
 
-So far uImagine has bought a number of new technologies to our staff with the aim of running supported trials of these tools. These include our [Zeetings Trial](zeetings-trial.html). 
+So far uImagine has bought a number of new technologies to our staff with the aim of running supported trials of these tools. These include our [Zeetings Trial](zeetings-trial.html).

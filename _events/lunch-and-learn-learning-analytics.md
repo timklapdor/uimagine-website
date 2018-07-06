@@ -115,7 +115,7 @@ sessions:
   presenters:
   - name: Ged Bourke
     position: Online Learning Designer, Learning Online Unit
-    email: gebourke@csu.edu.au
+    email: ''
     twitter: ''
   links: []
   location_details: Online Zoom Session
