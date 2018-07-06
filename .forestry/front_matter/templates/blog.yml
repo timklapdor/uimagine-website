@@ -103,11 +103,8 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/holistic-approaches-to-online-collaborative-learning-design.md
 - _posts/u-magine-s-weimagine-data-program.md
 - _posts/test-monday.md
 - _posts/2018-07-02-big-data-community-event-in-wagga.md
 - _posts/2018-07-02-here-comes-dr-jekyll.md
-- _posts/holistic-approaches-to-online-collaborative-learning-design.md
-- _posts/2018-05-25-on-the-uimagine-server.md
-- _posts/2018-05-25-checking-defaults.md
-- _posts/2018-05-24-testing.md
