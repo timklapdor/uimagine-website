@@ -1,7 +1,6 @@
 ---
 title: International experts launch weimagine:Data program
 layout: post
-category: Innovation
 hero:
   gradient_corner: bottom
   gradient_color_1: '255,88,0,1'
@@ -9,7 +8,7 @@ hero:
   full_screen: false
   gradient_side: ''
   image: "/uploads/WeImagine-Data-banner.png"
-date: 2018-03-29 10:00:00 +1100
+date: 2018-03-28 23:00:00 +0000
 excerpt: Open University UK experts in learning analytics visit CSU campuses
 author: Lyn Hay
 tags:
