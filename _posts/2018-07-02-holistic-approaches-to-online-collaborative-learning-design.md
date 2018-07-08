@@ -21,7 +21,7 @@ tags:
 categories: Innovation
 category: Incubation
 ---
-Last week I attended the 43rd [Improving University Teaching Conference](http://www.iutconference.com/) held on the Charles Sturt University Port Macquarie campus. As an international conference it attracted representatives from Australia, Scotland, China, South Africa, USA, Canada, Fiji and more..... This was a small and very friendly event and over the three main days I did three presentations - each one with a slightly different format.
+Recently I attended the 43rd [Improving University Teaching Conference](http://www.iutconference.com/) held on the Charles Sturt University Port Macquarie campus. As an international conference it attracted representatives from Australia, Scotland, China, South Africa, USA, Canada, Fiji and more..... This was a small and very friendly event and over the three main days I did three presentations - each one with a slightly different format.
 
 This post focuses on the 'Paper presentation' which was a 45 minute session where I talked about my topic based on a slideshow, and then we had discussion and questions in the room. The outcome of this session is an academic paper (yet to be finalised!). Here are some essential artefacts to learn from in the meantime. Thanks to [Judy O'Connell](https://twitter.com/heyjudeonline) (Faculty of Arts and Education) for tweeting this out during the session!
 
