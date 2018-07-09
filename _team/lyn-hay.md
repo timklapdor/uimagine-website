@@ -64,6 +64,15 @@ publications:
     (pp. 10-27). Santa Barbara, CA: Libraries Unlimited & IASL. '
   author: Henri
 presentations:
+- author: Crease
+  title: 'A virtual presence: Creating connections through Second Life'
+  date: 2012-07-01 00:00:00 +1000
+  url: http://www.pixel-online.net/edu_future2012/common/download/Paper_pdf/163-DE03-FP-Crease-FOE2012.pdf
+  reference: 'Crease, R., Pymm, B., & Hay, L. (2012). A virtual presence: Creating
+    connections through Second Life. In Pixel (Ed.), _The Future of Education, International
+    Conference Proceedings, 7-8 June._ Florence, Italy: Simonelli Editore. Retrieved
+    from [http://www.pixel-online.net/edu_future2012/common/download/Paper_pdf/163-DE03-FP-Crease-FOE2012.pdf](http://www.pixel-online.net/edu_future2012/common/download/Paper_pdf/163-DE03-FP-Crease-FOE2012.pdf
+    "http://www.pixel-online.net/edu_future2012/common/download/Paper_pdf/163-DE03-FP-Crease-FOE2012.pdf")'
 - author: Gregory
   title: Sustaining the future through virtual worlds
   date: 2012-07-01 00:00:00 +1000
