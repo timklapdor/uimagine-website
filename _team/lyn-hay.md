@@ -13,6 +13,15 @@ youtube: ''
 linkedin: ''
 blog: ''
 publications:
+- author: Hay
+  title: Do we have to use a wiki, Miss?” How Web 2.0 technologies can support students
+    as inquiry learners in a secondary school
+  date: 2017-07-01 00:00:00 +1000
+  reference: Hay, L . (2017). _“Do we have to use a wiki, Miss?” How Web 2.0 technologies
+    can support students as inquiry learners in a secondary school._ (Doctoral dissertation,
+    Charles Sturt University, Australia). Retrieved from [https://researchoutput.csu.edu.au/ws/portalfiles/portal/11051269](https://researchoutput.csu.edu.au/ws/portalfiles/portal/11051269
+    "https://researchoutput.csu.edu.au/ws/portalfiles/portal/11051269")
+  url: https://researchoutput.csu.edu.au/ws/portalfiles/portal/11051269
 - title: 'An international study on principal support of school libraries: Synergy
     in themes and methods'
   date: 2018-07-01 00:00:00 +1000
