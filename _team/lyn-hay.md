@@ -64,6 +64,26 @@ publications:
     (pp. 10-27). Santa Barbara, CA: Libraries Unlimited & IASL. '
   author: Henri
 presentations:
+- author: Gregory
+  title: Australian higher education institutions transforming the future of teaching
+    and learning through virtual worlds
+  date: 2010-07-01 00:00:00 +1000
+  url: http://www.ascilite.org.au/conferences/sydney10/Ascilite%20conference%20proceedings%202010/Gregory-full.pdf
+  reference: Gregory. S., Lee, M.J.W., Ellis, A., Gregory, B., Wood, D., Hillier,
+    M.,  Campbell, M., Grenfell, J., Pace, S., Farley, H., Thomas, A., Cram, A.,  Sinnappan,
+    S., Smith, K., Hay, L., Kennedy-Clark, S., Warren, I., Grant, S., Craven, D.,
+    Dreher, H., Matthews, C., Murdoch, D., McKeown, L. (2010). [Australian higher
+    education institutions transforming the future of teaching and learning through
+    virtual worlds.](http://www.ascilite.org.au/conferences/sydney10/Ascilite%20conference%20proceedings%202010/Gregory-full.pdf)
+    \[Refereed\]. In C. Steel, M.J. Keppell & P. Gerbic (Eds), _Curriculum, technology
+    & transformation for an unknown future. Proceedings ascilite Sydney 2010_.
+- author: Gregory
+  title: 'Learning and teaching in Second Life: Educator and student perspectives'
+  date: 2011-07-01 00:00:00 +1000
+  reference: 'Gregory, S., Willems, J., Wood, D., Hay, L., Ellis, E. & Jacka, L. (2011).
+    Learning and teaching in Second Life: Educator and student perspectives. _Education
+    2011 – 2021: Global challenges and perspectives of blended and distance learning.
+    DEHub Summit Proceedings,_ Sydney, 15-18 February 2011.'
 - author: Hay
   title: " Real Learning in a Virtual World: A Case Study of the School of Information
     Studies’ Learning Centre in Second Life"
