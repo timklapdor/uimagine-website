@@ -64,6 +64,11 @@ publications:
     (pp. 10-27). Santa Barbara, CA: Libraries Unlimited & IASL. '
   author: Henri
 presentations:
+- author: Hay
+  title: 'Learning analytics for libraries: What you need to know'
+  date: 2018-07-01 00:00:00 +1000
+  reference: 'Hay, L. (2018, June). _Learning analytics for libraries: What you need
+    to know._ EduTECH International Congress & Expo, Sydney, NSW.'
 - author: Todd
   title: 'School libraries & Guided Inquiry: Taking stock & taking action'
   date: 2015-07-01 00:00:00 +1000
