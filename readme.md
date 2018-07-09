@@ -9,8 +9,7 @@
 ## Links
 
 - For internal links - images and links to other pages and posts - please prepend the link with ```{{ site.baseurl }}```. This will ensure that links and images load correctly.
-- File Names can't have spaces
-- 
+- File Names can't have spaces. So before uploading please check. 
 
 ## Includes
 - To include youtube videos use ```{% include youtube.html id="KWvd8rjqPlg" %}```.
