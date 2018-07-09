@@ -14,6 +14,13 @@ linkedin: ''
 blog: ''
 publications:
 - author: Hay
+  title: 'Learning and teaching in Second Life: Educator and student  perspectives'
+  date: 2013-07-01 00:00:00 +1000
+  reference: 'Gregory, S., Willems, J., Wood, D., Hay, L., Ellis, A., & Jacka, L.  (2013).
+    Learning and teaching in Second Life: Educator and student perspectives. In B.
+    Tynan, J. Willems & R. James (Eds.), _Outlooks and opportunities in blended and
+    distance learning_ (pp. 220-242). Hershey, PA: Information Science (IGI Global).'
+- author: Hay
   title: Do we have to use a wiki, Miss?” How Web 2.0 technologies can support students
     as inquiry learners in a secondary school
   date: 2017-07-01 00:00:00 +1000
