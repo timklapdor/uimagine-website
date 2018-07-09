@@ -64,6 +64,15 @@ publications:
     (pp. 10-27). Santa Barbara, CA: Libraries Unlimited & IASL. '
   author: Henri
 presentations:
+- author: Crease
+  title: Bridging the gap – engaging distance education students in a virtual world
+  date: 2011-07-01 00:00:00 +1000
+  url: http://www.leishman-associates.com.au/ascilite2011/downloads/papers/Gregory-full.pdf
+  reference: 'Crease, R., Pymm, B, & Hay, L. (2011). [Bridging the gap – engaging
+    distance education students in a virtual world.](http://www.leishman-associates.com.au/ascilite2011/downloads/papers/Gregory-full.pdf)
+    In G. Williams, N. Brown, M. Pittard, & B. Cleland (Eds), _Changing demands, changing
+    directions. Proceedings of the 28th ASCILITE Conference_. \[Refereed\] Hobart,
+    Australia: University of Tasmania, pp.307-313.'
 - author: Gregory
   title: How  are Australian higher education institutions contributing to change  through
     innovative teaching and learning in virtual worlds?
