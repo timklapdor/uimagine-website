@@ -64,6 +64,14 @@ publications:
     (pp. 10-27). Santa Barbara, CA: Libraries Unlimited & IASL. '
   author: Henri
 presentations:
+- author: Todd
+  title: The 4th E = EVIDENCE! Empowering  Evolution, Experience, and Education
+  date: 2015-07-01 00:00:00 +1000
+  url: ''
+  reference: Todd, R. & Hay, L. (2015). _The 4th E = EVIDENCE! Empowering  Evolution,
+    Experience, and Education._ \[Research presentation\]. American  Association of
+    School Libraries (AASL) 17th National Conference and  Exhibition, Columbus, Ohio,
+    USA, 5-8 November.
 - author: Gregory
   title: Australian higher education institutions transforming the future of teaching
     and learning through virtual worlds
