@@ -13,6 +13,12 @@ youtube: ''
 linkedin: ''
 blog: ''
 publications:
+- author: Hider
+  title: 'Moving from LIS to IS+L: Curriculum renewal at Charles Sturt University'
+  date: 2011-07-01 00:00:00 +1000
+  reference: 'Hider, P., Kennan, M.A., Hay, L., McCausland, S. & Qayyum, A.  (2011).
+    Moving from LIS to IS+L: Curriculum renewal at Charles Sturt University.  _Australian
+    Library Journal, 60_(3), 205-217.'
 - author: Hay
   title: 'Real learning in a virtual world: A  case study of the School of Information
     Studies’ Learning Centre in Second Life'
