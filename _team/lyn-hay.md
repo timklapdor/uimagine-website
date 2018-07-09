@@ -64,6 +64,22 @@ publications:
     (pp. 10-27). Santa Barbara, CA: Libraries Unlimited & IASL. '
   author: Henri
 presentations:
+- author: Gregory
+  title: Sustaining the future through virtual worlds
+  date: 2012-07-01 00:00:00 +1000
+  url: http://www.ascilite2012.org/images/custom/gregory,_sue_-_sustaining.pdf
+  reference: 'Gregory, S., Gregory, B., Hillier, M., Jacka, L., Schutt, S., Ellis,
+    D.,  Stokes-Thompson, F., Wood, D., Masters, Y., Farley, F., Orwin, L.,  Stupans,
+    I., Scutter, S., Warren, I., Steel, C., Neuendorf, P., Bower,  M., Miller, C.,
+    Mathews, S., Butler, D., Hearns, M., Garcia, J.,  Jegathesan, J.J., Brown, R.,
+    Meredith, G., Muir-Cochran, E., Flintoff,  K., Grant, S., Atkins, C., Gaukrodger,
+    B., Giovanangeli, A., Le  Rossignol, K., Larson, I., Cram, A., Linegar, D., Wang,
+    X., Muir, T.,  Cleland, B., Paillat, E., Grenfell, J., Hay, L., Gu, N., Anthony
+    Williams, A., Simoff, S., Bogdanovych, A. & McCarthy, A. (2012). [Sustaining the
+    future through virtual worlds.](http://www.ascilite2012.org/images/custom/gregory,_sue_-_sustaining.pdf)
+    In M. Brown, M. Hartnett & T. Stewart (Eds.), _Future Challenges – Sustainable
+    Futures. Proceedings ascilite Wellington 2012_ (pp. 361-368). Wellington, New
+    Zealand: Massey University and ascilite.'
 - author: Pymm
   title: Using Etherpads as platforms for collaborative learning in a distance education
     LIS course’
