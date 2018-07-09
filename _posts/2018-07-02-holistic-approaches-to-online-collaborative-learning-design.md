@@ -8,7 +8,7 @@ hero:
   full_screen: false
   gradient_side: ''
   image: "/uploads/web.png"
-date: 2018-07-02 00:00:00 +0000
+date: 2018-07-02 10:00:00 +1000
 excerpt: Digital learning environments using the affordances of Web 2.0 technologies
   support holistic learning design for connected and collaborative pedagogies.
 author: Julie Lindsay
