@@ -18,8 +18,8 @@ publications:
     Studies’ Learning Centre in Second Life'
   date: 2011-07-01 00:00:00 +1000
   reference: 'Hay, L., & Pymm, B. (2010/2011). Real learning in a virtual world: A  case
-    study of the School of Information Studies’ Learning Centre in Second Life. \[Refereed\]
-    _Education for Information, 28_(2-4), 187-202.'
+    study of the School of Information Studies’ Learning Centre in Second Life.  _Education
+    for Information, 28_(2-4), 187-202.'
 - author: Garrison
   title: Using international literature to support the development of global perspectives
     and intercultural  understandings in teachers and students
