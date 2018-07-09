@@ -63,7 +63,16 @@ publications:
     _Librarians and educators collaborating for success: The international perspective,_
     (pp. 10-27). Santa Barbara, CA: Libraries Unlimited & IASL. '
   author: Henri
-presentations: []
+presentations:
+- author: Pymm
+  title: Using Etherpads as platforms for collaborative learning in a distance education
+    LIS course’
+  date: 2013-07-01 00:00:00 +1000
+  reference: 'Pymm, B., & Hay, L. (2013). [‘Using Etherpads as platforms for collaborative
+    learning in a distance education LIS course’. ](https://studentslearn.files.wordpress.com/2011/02/pymm-hay_iconference2013_a4poster.pdf)\[Refereed
+    paper & poster presentation\] _Scholarship in Action: Data – Innovation – Wisdom.
+    iConference 2013._ 12-15 February, Fort Worth, Texas.'
+  url: https://studentslearn.files.wordpress.com/2011/02/pymm-hay_iconference2013_a4poster.pdf
 date: 2018-06-19 04:09:08 +0000
 flickr: ''
 ---
