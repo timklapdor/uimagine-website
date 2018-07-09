@@ -64,6 +64,24 @@ publications:
     (pp. 10-27). Santa Barbara, CA: Libraries Unlimited & IASL. '
   author: Henri
 presentations:
+- author: Gregory
+  title: How  are Australian higher education institutions contributing to change  through
+    innovative teaching and learning in virtual worlds?
+  date: 2011-07-01 00:00:00 +1000
+  url: http://www.leishman-associates.com.au/ascilite2011/downloads/papers/Gregory-full.pdf
+  reference: 'Gregory, B., Gregory, S., Wood, D., Masters, Y., Hillier, M., Stokes-Thompson,
+    F., Bogdanovych, A., Butler, D., Hay, L.,  Jegathesan, J. J., Flintoff, K., Schutt,
+    S., Linegar, D., Alderton, R.,  Cram, A., Stupans, I., McKeown-Orwin, L., Meredith,
+    G., McCormick, D.,  Collins, F., Grenfell, J., Zagami, J., Ellis, A., Jacka, L.,
+    Campbell,  J., Larson, I., Fluck, A., Thomas, A., Farley, H., Muldoon, N. I.,  Abbas,
+    A., Sinnappan, S., Neville, K., Burnett, I., Aitken, A., Simoff,  S., Scutter,
+    S., Wang, X., Souter, K., Ellis, A., Salomon, M., Wadley,  G., Jacobson, M. J.,
+    Newstead, A., Hayes, G., Grant, S., & Yusupova,  A. (2011). [How  are Australian
+    higher education institutions contributing to change  through innovative teaching
+    and learning in virtual worlds?](http://www.leishman-associates.com.au/ascilite2011/downloads/papers/Gregory-full.pdf)
+    In G. Williams, N. Brown, M. Pittard, & B. Cleland (Eds), _Changing demands, changing
+    directions. Proceedings of the 28th ASCILITE Conference_. \[Refereed\] Hobart,
+    Australia: University of Tasmania, pp.475-490.'
 - author: Crease
   title: 'A virtual presence: Creating connections through Second Life'
   date: 2012-07-01 00:00:00 +1000
