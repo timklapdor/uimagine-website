@@ -13,6 +13,13 @@ youtube: ''
 linkedin: ''
 blog: ''
 publications:
+- author: Garrison
+  title: Using international literature to support the development of global perspectives
+    and intercultural  understandings in teachers and students
+  date: 2015-07-01 00:00:00 +1000
+  reference: Garrison, K., & Hay, L. (2015). Using international literature to support
+    the development of global perspectives and intercultural  understandings in teachers
+    and students. _Learning Hub, 2_ (Autumn), 14-18.
 - author: Hay
   title: 'The evolution of the iCentre model: Leading inquiry, digital citizenship,
     and innovation in schools'
