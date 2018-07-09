@@ -14,6 +14,12 @@ linkedin: ''
 blog: ''
 publications:
 - author: Hay
+  title: 'The evolution of the iCentre model: Leading inquiry, digital citizenship,
+    and innovation in schools'
+  date: 2015-07-01 00:00:00 +1000
+  reference: 'Hay, L. (2015). The evolution of the iCentre model: Leading inquiry,
+    digital citizenship, and innovation in schools. _Teacher Librarian, 42_(4), 15-19.'
+- author: Hay
   title: 'Learning and teaching in Second Life: Educator and student  perspectives'
   date: 2013-07-01 00:00:00 +1000
   reference: 'Gregory, S., Willems, J., Wood, D., Hay, L., Ellis, A., & Jacka, L.  (2013).
