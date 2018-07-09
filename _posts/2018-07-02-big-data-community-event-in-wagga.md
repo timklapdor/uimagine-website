@@ -1,7 +1,6 @@
 ---
 title: Big Data community event in Wagga
 layout: post
-category: Innovation
 hero:
   gradient_corner: bottom
   gradient_color_1: '0,0,0,.8'
@@ -9,7 +8,7 @@ hero:
   full_screen: false
   gradient_side: ''
   image: "/uploads/pexels-photo-373543.jpeg"
-date: 2018-07-02 00:00:00 +0000
+date: 2018-04-20 10:00:00 +1000
 excerpt: Is Big Data the future, the solution or the problem?
 author: Lyn Hay
 tags:
@@ -20,6 +19,8 @@ tags:
 - logistics
 - information technology
 - health
+categories: Innovation
+category: Incubation
 ---
 ![]({{ site.baseurl }}/uploads/IsData-weimagine-CSU-logo.jpeg)
 
