@@ -23,7 +23,7 @@ category: Incubation
 ---
 Recently I attended the 43rd [Improving University Teaching Conference](http://www.iutconference.com/) held on the Charles Sturt University Port Macquarie campus. As an international conference it attracted representatives from Australia, Scotland, China, South Africa, USA, Canada, Fiji and more..... This was a small and very friendly event and over the three main days I did three presentations - each one with a slightly different format.
 
-This post focuses on the 'Paper presentation' which was a 45 minute session where I talked about my topic based on a slideshow, and then we had discussion and questions in the room. The outcome of this session is an academic paper (yet to be finalised!). Here are some essential artefacts to learn from in the meantime. Thanks to [Judy O'Connell](https://twitter.com/heyjudeonline) (Faculty of Arts and Education) for tweeting this out during the session!
+This post focuses on the 'Paper presentation' which was a 45 minute session where I talked about my topic of how Web 2.0 supports online learning, focusing on the subject I facilitate INF537 Digital Futures Colloquium and then we had discussion and questions in the room. The outcome of this session is an academic paper (yet to be finalised!). Here are some essential artefacts to learn from in the meantime. Thanks to [Judy O'Connell](https://twitter.com/heyjudeonline) (Faculty of Arts and Education) for tweeting this out during the session!
 
 ![]({{ site.baseurl }}/uploads/julie-presenting.png)
 
@@ -33,7 +33,7 @@ When designing online learning consideration should be given to how a community 
 
 ### Essential Discussion
 
-This session shared research-based holistic implementation of Web 2.0 tools (tools that allow for multimodal communication, interaction and collaboration as well as online publishing and media creation), or the ‘collaboration web’ (Harasim, 2017) as a design feature for online subjects in higher education. Emerging pedagogies based on participatory and collaborative online learning were examined with current examples of learning space design using Web 2.0 tools shared via the Case Study of INF537 - Digital Futures Colloquium. This is the capstone subject I co-wrote and teach at Charles Sturt University as part of the [Master of Education degree in Knowledge Networking and Digital Innovation](http://futurestudents.csu.edu.au/courses/teaching-education/master-education-knowledge-networks-digital-innovation).
+This session shared research-based holistic implementation of Web 2.0 tools (tools that allow for multimodal communication, interaction and collaboration as well as online publishing and media creation), or the ‘collaboration web’ (Harasim, 2017) as a design feature for online subjects in higher education. Emerging pedagogies based on participatory and collaborative online learning were examined with current examples of learning space design using Web 2.0 tools shared via the Case Study of INF537 Digital Futures Colloquium. This is the capstone subject I co-wrote and facilitate at Charles Sturt University as part of the [Master of Education degree in Knowledge Networking and Digital Innovation](http://futurestudents.csu.edu.au/courses/teaching-education/master-education-knowledge-networks-digital-innovation).
 
 These three essential understandings frame the presentation content:
 
@@ -47,7 +47,9 @@ Veletsianos (2016) believes that sociocultural factors make technologies and pra
 
 {% include slideshare.html code="lmXkwDFKgijalD" %}
 
-As part of the INF537 Case Study discussion, one of the tools shared is FlipGrid. This is a vital communication and collaboration tool that has recently been bought out by Microsoft. Kudos to [FlipGrid creators](https://flipgrid.com/) for their inspiration and we will wait to see what MS does with the tool - so far it has been made FREE to educators but with the implementation of a mandatory password on each Grid. My thoughts about that as an educational imposition will be shared in a subsequent blog post.....
+### Case Study
+
+The INF537 Case Study discussion shares a number of Web 2.0 tools used for interaction and collaboration. One of the tools shared is FlipGrid. This is a vital communication and collaboration tool that has recently been bought out by Microsoft. Kudos to [FlipGrid creators](https://flipgrid.com/) for their inspiration and we will wait to see what MS does with the tool - so far it has been made FREE to educators but with the implementation of a mandatory password on each Grid. My thoughts about that as an educational imposition will be shared in a subsequent blog post.....
 
 Meanwhile you can access the [INF537 FlipGrid](https://flipgrid.com/055e20) where students discuss preliminary ideas for their Research Assignment.  Password is INF537-17
 
