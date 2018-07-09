@@ -65,6 +65,13 @@ publications:
   author: Henri
 presentations:
 - author: Todd
+  title: 'School libraries & Guided Inquiry: Taking stock & taking action'
+  date: 2015-07-01 00:00:00 +1000
+  reference: "Todd, R. & Hay, L. (2015). School Libraries & Guided Inquiry:  \n Taking
+    Stock & Taking Action. \\[One Day Workshop\\]. _IFLA 2015 Satellite Program: School
+    Libraries & Guided Inquiry_, NLSA Centre for the Book, Cape Town, South Africa,
+    13-14 August."
+- author: Todd
   title: The 4th E = EVIDENCE! Empowering  Evolution, Experience, and Education
   date: 2015-07-01 00:00:00 +1000
   url: ''
