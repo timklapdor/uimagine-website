@@ -64,6 +64,16 @@ publications:
     (pp. 10-27). Santa Barbara, CA: Libraries Unlimited & IASL. '
   author: Henri
 presentations:
+- author: Hay
+  title: " Real Learning in a Virtual World: A Case Study of the School of Information
+    Studies’ Learning Centre in Second Life"
+  date: 2011-07-01 00:00:00 +1000
+  url: http://fim.uitm.edu.my/a-liep2011/index.php?option=com_content&view=article&id=55&Itemid=66
+  reference: 'Hay, L., & Pymm, B. (2011). [Real Learning in a Virtual World: A Case
+    Study of the School of Information Studies’ Learning Centre in Second Life.](http://fim.uitm.edu.my/a-liep2011/index.php?option=com_content&view=article&id=55&Itemid=66)
+    \[Refereed\] Paper presented at the _Asia-Pacific Conference on Library & Information
+    Education and Practice (A-LIEP): Issues, Challenges and Opportunities_, 22-24
+    June 2011, Putrajaya, Malaysia.'
 - author: Crease
   title: Bridging the gap – engaging distance education students in a virtual world
   date: 2011-07-01 00:00:00 +1000
