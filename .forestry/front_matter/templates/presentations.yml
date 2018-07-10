@@ -25,7 +25,7 @@ fields:
     label: Date
     description: Add date of presentation
     config:
-      date_format: MM/YYYY
+      date_format: YYYY
   - type: file
     name: file
     label: File
