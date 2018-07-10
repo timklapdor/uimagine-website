@@ -1,4 +1,5 @@
 ---
+label: Publications
 hide_body: false
 is_partial: false
 fields:
@@ -23,7 +24,7 @@ fields:
     label: Date Published
     name: date_published
     config:
-      date_format: MM/YYYY
+      date_format: YYYY
   - type: textarea
     name: reference
     label: Reference
