@@ -13,6 +13,9 @@ layout: null
       <link>{{ site.url }}</link>
     </image>
     <atom:link href="http://{{ site.url }}{{ site.baseurl }}/news-feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in site.posts %}
       {% unless post.draft %}
         <item>

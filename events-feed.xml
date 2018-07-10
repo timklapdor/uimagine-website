@@ -1,17 +1,22 @@
 ---
 layout: null
-sitemap: false
 ---
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <title>{{ site.title }} - Events</title>
+    <description>{{ site.description }}</description>
+    <link>{{ site.url }}</link>
+    <image>
+      <url>{{ site.url }}{{ site.baseurl }}/assets/fav/android-chrome-512x512.png</url>
+      <title>{{ site.title }} - Events</title>
+      <link>{{ site.url }}</link>
+    </image>
+    <atom:link href="http://{{ site.url }}{{ site.baseurl }}/news-feed.xml" rel="self" type="application/rss+xml" />
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
+
     {% assign event_list = site.events | sort: 'date' | reverse %}
     {% for event in event_list limit:20 %}
       <item>
@@ -19,11 +24,11 @@ sitemap: false
         <description>Coming up on the {{ event.date-start | date: "%m/%d/%Y" }}. {{ event.promotional-text | xml_escape }}</description>
         <pubDate>{{ event.date | date_to_rfc822 }}</pubDate>
         <link>{{ event.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        <guid isPermaLink="true">{{ event.url | prepend: site.baseurl | prepend: site.url }}</guid>
         {% for tag in event.tags %}
         <category>{{ tag | xml_escape }}</category>
         {% endfor %}
-        {% for item in post.hero.image %}
+        {% for item in event.hero.image %}
         <media:content medium="image" url="{{ item | absolute_url }}" />
         {% endfor %}
       </item>
