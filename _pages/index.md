@@ -12,7 +12,7 @@ hero:
   promo-head: Yes
   promo-text: Spark something new!
   button_class: btn-ui-fuchia
-  button-text: Find out more about us
+  button-text: Find out more
   button_link: about.html
 
 blurb:

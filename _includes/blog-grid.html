@@ -8,7 +8,7 @@
     <div class="thumb {{ item.item_class }}" style="background-image: url({{ site.baseurl }}/{{ item.hero.image}}){% for item in section.background %}, linear-gradient({{ item }}, {{item}}){% endfor %}"></div>
     <h3>{{ item.title }}</h3>
     <p>{{ item.excerpt }}</p>
-    <a href="{{ site.baseurl }}/{{ item.url }}" class="btn-blk-ui-orange call-to-action">
+    <a href="{{ site.baseurl }}{{ item.url }}" class="btn-blk-ui-orange call-to-action">
       Read Post
     </a>
   </article>
