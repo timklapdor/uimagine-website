@@ -8,7 +8,7 @@ hero:
   full_screen: false
   gradient_side: ''
   image: "/uploads/web.png"
-date: 2018-07-02 10:00:00 +1000
+date: 2018-07-02 00:00:00 +0000
 excerpt: 'The use of Web 2.0 technologies support digital learning environments '
 author: Julie Lindsay
 tags:
@@ -17,8 +17,7 @@ tags:
 - case study
 - flipgrid
 - web 2.0
-categories: Innovation
-category: Incubation
+categories: Incubation
 ---
 Recently I attended the 43rd [Improving University Teaching Conference](http://www.iutconference.com/) held on the Charles Sturt University Port Macquarie campus. As an international conference it attracted representatives from Australia, Scotland, China, South Africa, USA, Canada, Fiji and more..... This was a small and very friendly event and over the three main days I did three presentations - each one with a slightly different format.
 
