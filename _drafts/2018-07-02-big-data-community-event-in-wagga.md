@@ -8,7 +8,7 @@ hero:
   full_screen: false
   gradient_side: ''
   image: "/uploads/pexels-photo-373543.jpeg"
-date: 2018-04-20 10:00:00 +1000
+date: 2018-04-20 00:00:00 +0000
 excerpt: Is Big Data the future, the solution or the problem?
 author: Lyn Hay
 tags:
@@ -19,8 +19,7 @@ tags:
 - logistics
 - information technology
 - health
-categories: Innovation
-category: Incubation
+categories: Incubation
 ---
 ![]({{ site.baseurl }}/uploads/IsData-weimagine-CSU-logo.jpeg)
 
