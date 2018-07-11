@@ -10,7 +10,7 @@ phone_number: '0262726332'
 twitter: lyn_hay
 facebook: ''
 youtube: ''
-linkedin: https://www.linkedin.com/in/lynhay
+linkedin: lynhay
 blog: https://studentslearn.wordpress.com/about/
 publications:
 - author: Hider
