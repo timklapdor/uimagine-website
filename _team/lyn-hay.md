@@ -15,7 +15,7 @@ blog: https://studentslearn.wordpress.com/about/
 publications:
 - author: Hider
   title: 'Moving from LIS to IS+L: Curriculum renewal at Charles Sturt University'
-  date: 2011-06-30 14:00:00 +0000
+  date: 2011-07-01 00:00:00 +1000
   reference: 'Hider, P., Kennan, M.A., Hay, L., McCausland, S. & Qayyum, A.  (2011).
     Moving from LIS to IS+L: Curriculum renewal at Charles Sturt University.  _Australian
     Library Journal, 60_(3), 205-217.'
