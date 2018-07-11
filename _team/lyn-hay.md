@@ -64,6 +64,13 @@ publications:
     (pp. 10-27). Santa Barbara, CA: Libraries Unlimited & IASL. '
   author: Henri
 presentations:
+- author: Hyde
+  title: Developing a diagnostic tool to prepare students for online study
+  date: 2018-07-01 00:00:00 +1000
+  reference: Hyde, S., Hay, L., Guisard, Y., Colvin, C., Dalgarno, B. & Croft-Piggin,
+    L. (2018, June). Developing a diagnostic tool to prepare students for online study.
+    \[Roundtable\] _43rd International Conference on Improving University Teaching
+    - New Spaces for Learning_, Charles Sturt University, Port Macquarie, NSW.
 - author: Hay
   title: 'Learning analytics for libraries: What you need to know'
   date: 2018-06-30 14:00:00 +0000
