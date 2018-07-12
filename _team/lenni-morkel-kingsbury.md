@@ -14,6 +14,8 @@ youtube:
 linkedin:
 blog:
 publications: []
+presentations: []
+
 ---
 Lenni has over 16 years’ experience designing learning, in online and blended learning modes, in education and other industries. She has worked on educational design and quality review of online learning for Australian Universities and Online Education Providers. In this work, she has collaborated with: subject matter experts; educational technologists; information specialists; media production specialists; digital learning product developers; project managers; digital publishers; researchers and executive staff, to develop, implement and evaluate online, student learning experiences.
 

@@ -14,6 +14,8 @@ youtube:
 linkedin: barney-dalgarno-8201315
 blog: https://barneydalgarno.wordpress.com/
 publications: []
+presentations: []
+
 ---
 Barney has been at CSU since 1998 lecturing in the Faculties of IT and Education. Professor Dalgarno’s research contributions have been in three broad areas: the relationship between learning technology and learning theory; learning in polysynchronous learning environments, including 3D virtual environments; and university teacher and student attitudes towards and use of learning technologies.
 
