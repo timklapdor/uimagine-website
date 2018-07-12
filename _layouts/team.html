@@ -58,12 +58,11 @@ layout: default
 <!-- Presentation -->
 
 {% if page.presentations != empty %}
-{% assign presentations = page.presentations | sort: 'date' | reverse %}
 
   <h3>Presentations</h3>
   <div class="apa">
     <ul class="outputs">
-      {% for item in presentations%}
+      {% for item in page.presentations%}
       <li>
         {% if item.file %}<a href="{{site.baseurl}}/{{ item.file }}" class="reference" target="_blank">{{ item.reference | markdownify | remove: '<p>' | remove: '</p>'  }}</a>{% endif %}
         {% if item.url %}<a href="{{ item.url }}" class="reference" target="_blank">{{ item.reference | markdownify | remove: '<p>' | remove: '</p>' }}</a>
