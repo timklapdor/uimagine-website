@@ -23,8 +23,8 @@ layout: null
         <title>{{ event.title | xml_escape }}</title>
         <description>Coming up on the {{ event.date-start | date: "%m/%d/%Y" }}. {{ event.promotional-text | xml_escape }}</description>
         <pubDate>{{ event.date | date_to_rfc822 }}</pubDate>
-        <link>{{ event.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ event.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        <link>{{ event.url | prepend: site.baseurl | prepend: site.url }}.html</link>
+        <guid isPermaLink="true">{{ event.url | prepend: site.baseurl | prepend: site.url }}.html</guid>
         {% for tag in event.tags %}
         <category>{{ tag | xml_escape }}</category>
         {% endfor %}
