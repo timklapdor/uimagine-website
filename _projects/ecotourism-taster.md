@@ -22,8 +22,12 @@ team:
 focus:
 - experience
 - pedagogy
-outputs: []
+outputs:
+- file: ''
+  link: https://www.openlearning.com/csu/courses/introduction-to-ecotourism
+  description: Course on Open Learning
 categories: open
+category: []
 ---
 ## Description
 
