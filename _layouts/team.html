@@ -29,16 +29,21 @@ layout: default
       <nav>
         <a href="{{ site.baseurl }}/about.html#team" class="btn-nav back">Back to Team</a>
     </nav>
+    <div></div>
 </aside>
 
 <article class="profile ">
   {{ page.content | markdownify }}
 
-{% if page.presentations.title %}
-  <h3>Presentations</h3>
+<!-- Publications -->
+
+{% if page.publications != empty %}
+{% assign publications = page.publications | sort: 'date' | reverse %}
+
+  <h3>Publications</h3>
   <div class="apa">
-    <ul>
-      {% for item in page.presentations%}
+    <ul class="outputs">
+      {% for item in publications%}
       <li>
         {% if item.file %}<a href="{{site.baseurl}}/{{ item.file }}" class="reference" target="_blank">{{ item.reference | markdownify | remove: '<p>' | remove: '</p>'  }}</a>{% endif %}
         {% if item.url %}<a href="{{ item.url }}" class="reference" target="_blank">{{ item.reference | markdownify | remove: '<p>' | remove: '</p>' }}</a>
@@ -50,12 +55,15 @@ layout: default
   </div>
 {% endif %}
 
+<!-- Presentation -->
 
-{% if page.publications.title %}
-  <h3>Publications</h3>
+{% if page.presentations != empty %}
+{% assign presentations = page.presentations | sort: 'date' | reverse %}
+
+  <h3>Presentations</h3>
   <div class="apa">
-    <ul>
-      {% for item in page.publications%}
+    <ul class="outputs">
+      {% for item in presentations%}
       <li>
         {% if item.file %}<a href="{{site.baseurl}}/{{ item.file }}" class="reference" target="_blank">{{ item.reference | markdownify | remove: '<p>' | remove: '</p>'  }}</a>{% endif %}
         {% if item.url %}<a href="{{ item.url }}" class="reference" target="_blank">{{ item.reference | markdownify | remove: '<p>' | remove: '</p>' }}</a>
@@ -68,8 +76,4 @@ layout: default
 {% endif %}
 
 </article>
-
-
-
-
 </section>
