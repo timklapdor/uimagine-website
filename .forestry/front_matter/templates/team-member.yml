@@ -125,6 +125,7 @@ fields:
   config:
     labelField: title
 pages:
+- _team/richard-brimson.md
 - _team/val-peachey.md
 - _team/julie-lindsay.md
 - _team/lyn-hay.md
