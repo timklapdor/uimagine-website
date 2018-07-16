@@ -67,6 +67,16 @@ fields:
   hidden: false
   default: ''
   description: Relate to specific topics covered - 5 max - All lowercase
+- type: list
+  name: hashtags
+  label: hashtags
+  description: Use 3 Hashtags for social sharing
+  config:
+    use_select: true
+    source:
+      type: datafiles
+      file: _data-hashtags-yml
+  default: []
 - name: hero
   label: Hero
   type: field_group
