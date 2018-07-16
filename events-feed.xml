@@ -25,6 +25,7 @@ layout: null
         <pubDate>{{ event.date | date_to_rfc822 }}</pubDate>
         <link>{{ event.url | prepend: site.baseurl | prepend: site.url }}.html</link>
         <guid isPermaLink="true">{{ event.url | prepend: site.baseurl | prepend: site.url }}.html</guid>
+        {% if event.hashtags != empty %}<hashtag>{% for hash in event.hashtags %}#{{ hash }} {% endfor %}</hashtag>{% endif %}
         {% for tag in event.tags %}
         <category>{{ tag | xml_escape }}</category>
         {% endfor %}

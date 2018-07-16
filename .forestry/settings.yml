@@ -22,6 +22,9 @@ collections:
 - path: ''
   label: Pages
   create: all
+- path: _data
+  label: Data
+  create: all
 - path: _team
   label: Team
   create: all
