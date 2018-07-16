@@ -75,7 +75,7 @@ fields:
     use_select: true
     source:
       type: datafiles
-      file: _data-past-team-yml
+      file: _data-hashtags-yml
   default: []
 - name: hero
   label: Hero
