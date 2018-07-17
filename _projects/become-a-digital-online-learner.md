@@ -12,7 +12,7 @@ hero:
 date: 2018-06-17 21:13:06 +0000
 category:
 - open
-progress: 31
+progress: 76
 date-start: 2018-04-30 14:00:00 +0000
 date-finish: ''
 summary: The "Get ready, get set, become a digital online learner" course was developed
