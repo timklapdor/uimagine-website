@@ -39,5 +39,3 @@ The course is purposefully generic - in other words it is not focused on a parti
 ## Approach
 
 The course is run using the Open Learning platform to allow students without any CSU credentials to access the course.
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/P_1-KrbB6pg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
