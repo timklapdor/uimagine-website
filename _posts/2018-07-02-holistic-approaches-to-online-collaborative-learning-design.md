@@ -19,6 +19,7 @@ tags:
 - web 2.0
 categories: Incubation
 category: Incubation
+hashtags: []
 
 ---
 Recently I attended the 43rd [Improving University Teaching Conference](http://www.iutconference.com/) held on the Charles Sturt University Port Macquarie campus. As an international conference it attracted representatives from Australia, Scotland, China, South Africa, USA, Canada, Fiji and more..... This was a small and very friendly event and over the three main days I presented on learning design and processes including the [Online Learning Model](http://uimagine.edu.au/csulx/) implementation.
