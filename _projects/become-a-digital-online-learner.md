@@ -7,13 +7,13 @@ hero:
   gradient_color_1: '203,0,68'
   gradient_color_2: '0,175,216'
   gradient_side: ''
-  icon: 'uploads/project-online-learner.svg'
+  icon: uploads/project-online-learner.svg
   image: ''
-date: 2018-06-18 07:13:06 +1000
+date: 2018-06-17 21:13:06 +0000
 category:
 - open
 progress: 31
-date-start: 2018-05-01 00:00:00 +1000
+date-start: 2018-04-30 14:00:00 +0000
 date-finish: ''
 summary: The "Get ready, get set, become a digital online learner" course was developed
   as part of the Open Pathways initiative which seeks to open up opportunities for
@@ -25,6 +25,7 @@ team:
 focus:
 - course
 outputs: []
+
 ---
 ## Description
 
@@ -37,3 +38,5 @@ The course is purposefully generic - in other words it is not focused on a parti
 ## Approach
 
 The course is run using the Open Learning platform to allow students without any CSU credentials to access the course.
+
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/P_1-KrbB6pg](https://www.youtube.com/embed/P_1-KrbB6pg "https://www.youtube.com/embed/P_1-KrbB6pg")" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
