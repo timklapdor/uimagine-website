@@ -124,11 +124,3 @@ fields:
         format: markdown
   config:
     labelField: title
-pages:
-- _team/richard-brimson.md
-- _team/val-peachey.md
-- _team/julie-lindsay.md
-- _team/lyn-hay.md
-- _team/wendy-rowlands.md
-- _team/leanne-white.md
-- _team/tim-klapdor.md
