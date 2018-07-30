@@ -3,28 +3,34 @@ new_page_extension: md
 auto_deploy: true
 admin_path: "/admin/"
 webhook_url: 
-collections:
-- path: _posts
+sections:
+- type: jekyll-posts
   label: Blog
   create: all
   templates:
   - blog
-- path: _events
+- type: directory
+  path: _events
   label: Events
   create: all
+  match: "**/*"
   templates:
   - event
-- path: _projects
+- type: directory
+  path: _projects
   label: Projects
   create: all
+  match: "**/*"
   templates:
   - project
-- path: ''
+- type: jekyll-pages
   label: Pages
   create: all
-- path: _team
+- type: directory
+  path: _team
   label: Team
   create: all
+  match: "**/*"
   templates:
   - team-member
 upload_dir: uploads
