@@ -43,7 +43,7 @@ The course is designed for you to start anytime and it allows you to work at you
 
 ## How do you participate?
 
-The course is run using the Open Learning platform to allow interested participants from anywhere in the world to join in. It will launch in mid-August, 2018.
+The course is run using the [Open Learning](https://www.openlearning.com/csu/) platform to allow interested participants from anywhere in the world to join in. It will launch in mid-August, 2018.
 
 Register your interest in joining this course by completing this [ONLINE FORM](https://tinyurl.com/CSU-DOL).
 
