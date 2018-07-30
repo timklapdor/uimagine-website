@@ -27,16 +27,25 @@ focus:
 outputs: []
 
 ---
-## Description
+## What does this course you?
 
-This online course is designed to help learners anywhere at anytime to explore what it means to learn online, and develop the skills you need to make online learning a success. It will support the development of positive skills, habits and attitudes with online learning in order to confidently embrace taking an online subject - even an entire online degree!
+This free, online course is designed to help you, the learner, anywhere at anytime to explore what it means to learn online. It will help you develop the skills, habits and attitudes you need to make online learning a success in order to confidently embrace taking an online subject - even an entire online degree! The course is purposefully generic - in other words it is not focused on a particular learning platform or one way of doing something online. Watch the promotional video below to learn more.
 
 {% include youtube.html id="P_1-KrbB6pg" %}
 
-## Aims
+## What will you do?
 
-The course is purposefully generic - in other words it is not focused on a particular learning platform or one way of doing something online. It will introduce learners to a variety of tools for a multitude of academic purposes. In doing so a range of mobile and digital technologies will be explored. Once basic material and understandings are covered the modules take learners deeper into different online learning experiences. They will use and choose a variety of tools to support learning objectives and understand through hands on activities the potential of online learning as a bridge to successful study. Participants are encouraged to be creative and share, online of course, ideas and creations.
+In this course you explore online learning, investigate digital literacy, technologies and tools, to boost your success as an online learner. You will review and develop your digital, online learning skills with hands on activities. You also have an opportunity to build your online identity, engage with other learners and demonstrate your learning in a fun scrapbook challenge! Participants are encouraged to be creative and share, online of course, ideas and creations.
 
-## Approach
+This course is designed to start anytime and allows you to work at your own pace. After successfully completing all four modules, (roughly about 40 hours) you will receive your certificate of completion.  
 
-The course is run using the Open Learning platform to allow students without any CSU credentials to access the course.
+## How do you participate?
+
+The course is run using the Open Learning platform to allow students from anywhere in the world to access it. It will launch in mid-August, 2018.
+
+Register your interest in joining this course by completing this [ONLINE FORM](https://tinyurl.com/CSU-DOL).
+
+For more information please contact:
+
+[Julie Lindsay]()  
+Open Pathways Design Leader
