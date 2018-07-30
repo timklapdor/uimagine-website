@@ -358,18 +358,18 @@ fields:
     name: link_url
     label: Link URL
 pages:
-- _events/learning-analytics-steering-clear-of-failure.md
-- _events/lunch-and-learn-learning-analytics.md
 - _events/conversations-about-online-learning.md
 - _events/partnerships-and-the-business-of-distance-education.md
 - _events/simulation-role-play-symposium.md
+- _events/learning-analytics-steering-clear-of-failure.md
 - _events/alternative-staffing-approaches.md
+- _events/using-learning-analytics-at-scale.md
+- _events/lunch-and-learn-learning-analytics.md
+- _events/learning-on-the-open-web.md
 - _events/campus-the-cloud.md
 - _events/learning-analytics-symposium.md
 - _events/data-the-future-solution-or-problem.md
-- _events/using-learning-analytics-at-scale.md
 - _events/data-learning-preparing-for-the-future.md
 - _events/incubation-strategy-launch.md
 - _events/2017-unconference-season.md
-- _events/learning-on-the-open-web.md
 - _events/icde-presidents-summit.md

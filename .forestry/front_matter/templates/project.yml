@@ -163,14 +163,14 @@ fields:
     name: image
     label: Image
 pages:
-- _projects/edugrowth.md
 - _projects/become-a-digital-online-learner.md
-- _projects/biomedical-learning-resources.md
 - _projects/incubation-strategy.md
 - _projects/destination-2020.md
-- _projects/zeetings-trial.md
-- _projects/online-learning-exchange.md
 - _projects/eexam-trials.md
+- _projects/biomedical-learning-resources.md
+- _projects/zeetings-trial.md
+- _projects/edugrowth.md
+- _projects/online-learning-exchange.md
 - _projects/quality-learning-teaching-initiative.md
 - _projects/online-learning-model-pilots.md
 - _projects/online-learning-model-scale-up.md
