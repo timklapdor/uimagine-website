@@ -23,7 +23,7 @@ layout: null
           <description>{{ post.excerpt | xml_escape }}</description>
           <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
           <link>{{ post.url | prepend: site.url }}</link>
-          <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
+          <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
           <media:content medium="image" url="{{ site.url }}{{ site.baseurl }}{{ post.hero.image }}" />
           {% if post.hashtags != empty %}<hashtag>{% for hash in post.hashtags %}#{{ hash }} {% endfor %}</hashtag>{% endif %}
           {% for tag in post.tags %}
