@@ -29,19 +29,19 @@ outputs: []
 ---
 ## What are the course aims?
 
-This free, online course is designed to help you, the learner, anywhere at anytime to explore what it means to learn online. It will help you develop the skills, habits and attitudes you need to make online learning a success in order to confidently embrace taking an online subject - even an entire online degree! The course is purposefully generic - in other words it is not focused on a particular learning platform or one way of doing something online. Watch the promotional video below to learn more.
+This free, online course is designed to support you, the learner, anywhere at anytime to explore what it means to learn online. You will develop the skills, habits and attitudes you need to make online learning a success in order to confidently embrace taking an online subject - even an entire online degree! The course is purposefully generic - in other words it is not focused on a particular learning platform or one way of doing something online. Watch the promotional video below to learn more.
 
 {% include youtube.html id="P_1-KrbB6pg" %}
 
 ## What will you do?
 
-In this course you explore online learning, investigate digital literacy, technologies and tools, to boost your success as an online learner. You will review and develop your digital, online learning skills with hands on activities. You also have an opportunity to build your online identity, engage with other learners and demonstrate your learning in a fun scrapbook challenge! Participants are encouraged to be creative and share, online of course, ideas and creations.
+In this course you explore online learning, investigate digital literacy, technologies and tools, to boost your success as an online learner. You will review and develop your digital, online learning skills with hands on activities. You also have an opportunity to build your online identity, engage with other learners and demonstrate your learning in a fun scrapbook challenge! Come and be creative and share, online of course, ideas and creations for online learning.
 
-This course is designed to start anytime and allows you to work at your own pace. After successfully completing all four modules, (roughly about 40 hours) you will receive your certificate of completion.  
+The course is designed for you to start anytime and it allows you to work at your own pace. After successfully completing all four modules (roughly about 40 hours) you will receive your certificate of completion.  
 
 ## How do you participate?
 
-The course is run using the Open Learning platform to allow students from anywhere in the world to access it. It will launch in mid-August, 2018.
+The course is run using the Open Learning platform to allow interested participants from anywhere in the world to join in. It will launch in mid-August, 2018.
 
 Register your interest in joining this course by completing this [ONLINE FORM](https://tinyurl.com/CSU-DOL).
 
