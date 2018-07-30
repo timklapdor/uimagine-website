@@ -27,7 +27,7 @@ focus:
 outputs: []
 
 ---
-## What does this course you?
+## What are the course aims?
 
 This free, online course is designed to help you, the learner, anywhere at anytime to explore what it means to learn online. It will help you develop the skills, habits and attitudes you need to make online learning a success in order to confidently embrace taking an online subject - even an entire online degree! The course is purposefully generic - in other words it is not focused on a particular learning platform or one way of doing something online. Watch the promotional video below to learn more.
 
