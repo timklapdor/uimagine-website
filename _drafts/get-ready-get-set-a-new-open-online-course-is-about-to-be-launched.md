@@ -2,8 +2,7 @@
 title: Get ready, get set - A new open online course is about to be launched!
 layout: post
 category: Open Education
-hashtags:
-- Hashtags
+hashtags: []
 hero:
   gradient_corner: bottom
   gradient_color_1: '0,0,0,.8'
