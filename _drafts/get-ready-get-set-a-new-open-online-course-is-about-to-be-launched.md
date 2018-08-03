@@ -36,3 +36,5 @@ This course is designed for learners who may have some doubts about their abilit
 * Pathways to success when learning online
 
 You are invited to [read more on the uImagine website]() and register your interest to find out more about how to join this course.
+
+Read more about [Open Education at CSU](https://uimagine.edu.au/uimagine-website/open-education.html).
