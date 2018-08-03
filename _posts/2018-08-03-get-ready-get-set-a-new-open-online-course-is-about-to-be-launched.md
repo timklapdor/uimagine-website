@@ -9,7 +9,7 @@ hero:
   gradient_color_2: '0,0,0,.4'
   full_screen: false
   gradient_side: ''
-  image: "/uploads/Screenshot 2018-07-31 11.41.27.png"
+  image: "/uploads/get-ready-sml.png"
 date: 2018-08-03 00:00:00 +1000
 excerpt: Become a digital online learner - Open Pathways to launch a new online course
 author: Julie Lindsay
@@ -25,7 +25,7 @@ This August CSU Open Pathways will launch a NEW open and free online course on t
 
 This course is designed for learners who may have some doubts about their ability to succeed through online courses. It takes a hands on approach to developing skills and confidence with online platforms and tools with a focus on digital literacy and digital citizenship.
 
-![](/uploads/Screenshot 2018-07-31 11.15.30.png)
+![](/uploads/get-ready.png)
 
 **Become a digital online learner** covers the following broad topics:
 
