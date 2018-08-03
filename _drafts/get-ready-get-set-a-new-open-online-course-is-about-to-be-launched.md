@@ -11,7 +11,7 @@ hero:
   full_screen: false
   gradient_side: ''
   image: "/uploads/Screenshot 2018-07-31 11.41.27.png"
-date: 2018-07-31 00:00:00 +0000
+date: 2018-08-03 00:00:00 +1000
 excerpt: Become a digital online learner - Open Pathways to launch a new online course
 author: Julie Lindsay
 tags:
