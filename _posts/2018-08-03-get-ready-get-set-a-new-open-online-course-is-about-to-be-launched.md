@@ -25,7 +25,7 @@ This August CSU Open Pathways will launch a NEW open and free online course on t
 
 This course is designed for learners who may have some doubts about their ability to succeed through online courses. It takes a hands on approach to developing skills and confidence with online platforms and tools with a focus on digital literacy and digital citizenship.
 
-![clouds](/uploads/get-ready-large.png "Get ready")
+![clouds]({{ site.baseurl }}/uploads/get-ready-large.png "Get ready")
 
 **Become a digital online learner** covers the following broad topics:
 
