@@ -22,9 +22,9 @@ tags:
 ---
 ## Become a digital online learner
 
-In August CSU Open Pathways will launch a NEW open and free online course on the [Open Learning platform](http://openlearning.com/csu) called '[Get ready, get set, become a digital online learner](https://uimagine.edu.au/uimagine-website/projects/become-a-digital-online-learner.html)'.
+This August CSU Open Pathways will launch a NEW open and free online course on the [Open Learning platform](http://openlearning.com/csu) called '[Get ready, get set, become a digital online learner](https://uimagine.edu.au/uimagine-website/projects/become-a-digital-online-learner.html)'.
 
-This course is designed for learners who may have some doubts about their ability to succeed through online courses. It takes a hands on approach to developing skills and confidence with online platforms and tools with a focus on digital literacy and digital citizenship. 
+This course is designed for learners who may have some doubts about their ability to succeed through online courses. It takes a hands on approach to developing skills and confidence with online platforms and tools with a focus on digital literacy and digital citizenship.
 
 ![](/uploads/Screenshot 2018-07-31 11.15.30.png)
 
