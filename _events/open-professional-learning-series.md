@@ -40,10 +40,11 @@ sessions:
     including: processes (what is open? why is learning now open?); practices (who
     is open? what is the local and global outreach?); and platforms (how are open
     courses designed and where can you find them?). Presented by Julie Lindsay, Val
-    Peachey and Leanne White from the u!magine Open Pathways team.  \n  \n**Pre-reading**
+    Peachey and Leanne White from the u!magine Open Pathways team.\n\n**Pre-reading**
     \ \nStagg, A., Nguyen, L., Bossu, C., Partridge, H., Funk, J., & Judith, K. (2018). [Open
-    Educational Practices in Australia: A First-phase National Audit of Higher Education.](https://tinyurl.com/stagg2018) _The
-    International Review Of Research In Open And Distributed Learning, 19(_3). doi:[http://dx.doi.org/10.19173/irrodl.v19i3.3441](http://dx.doi.org/10.19173/irrodl.v19i3.3441
+    Educational Practices in Australia: A First-phase National Audit of Higher Education](https://tinyurl.com/stagg2018
+    \"reading\"). _The International Review Of Research In Open And Distributed Learning,
+    19_(3). doi:[http://dx.doi.org/10.19173/irrodl.v19i3.3441](http://dx.doi.org/10.19173/irrodl.v19i3.3441
     \"http://dx.doi.org/10.19173/irrodl.v19i3.3441\")"
   links:
   - description: What is Open
