@@ -42,6 +42,7 @@ fields:
     - forum
     - lecture
     - panel
+    - professional learning
   label: Event Type
   default: conference
 - type: list
