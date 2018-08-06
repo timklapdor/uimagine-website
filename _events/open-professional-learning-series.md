@@ -50,6 +50,10 @@ sessions:
   - description: What is Open
     button_text: Add to Calendar
     link: https://cdn.csu.edu.au/__data/assets/file/0004/3073459/Open-PL-Series-Session-1-What-is-Open-.ics
+  presenters:
+  - name: Julie Lindsay
+  - name: " Val Peachey"
+  - name: Leanne White
 - title: Becoming Open
   start: 2018-09-27 12:00:00 +1000
   end: 2018-09-27 13:00:00 +1000
