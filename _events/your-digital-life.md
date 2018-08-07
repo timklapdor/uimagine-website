@@ -25,8 +25,8 @@ promotional-text: Join us to explore the next wave of technologies - **Drones**,
   & **Virtual Reality**. 
 post-mortem-text: ''
 program: ''
-date-start: 2018-09-12 16:30:00 +1000
-date-finish: 2018-09-12 19:30:00 +1000
+date-start: 2018-09-12 06:30:00 +0000
+date-finish: 2018-09-12 09:30:00 +0000
 no-bios: false
 speakers:
 - position: Strategic Futurist, Condor 9
@@ -166,7 +166,9 @@ speakers:
 sessions: []
 outputs: []
 flickr-album: ''
-external_link: []
+external_link:
+- button_text: Tickets from Eventbrite
+  link_url: https://www.eventbrite.com.au/e/your-digital-life-tickets-48827100171
 
 ---
 A panel of local & national experts will demonstrate the potential of these new technologies & how it will effect our lives. You’ll be able to get hands on with the technology as well as a chance to talk with experts.
