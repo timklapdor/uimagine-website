@@ -26,7 +26,7 @@ promotional-text: Join us to explore the next wave of technologies - **Drones**,
 post-mortem-text: ''
 program: ''
 date-start: 2018-09-12 06:30:00 +0000
-date-finish: 2018-09-12 09:30:00 +0000
+date-finish: 2018-09-12 20:00:00 +1000
 no-bios: false
 speakers:
 - position: Strategic Futurist, Condor 9
