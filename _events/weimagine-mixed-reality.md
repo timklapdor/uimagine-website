@@ -18,7 +18,9 @@ hero:
   image: "/uploads/mixed-reality-icon.jpg"
   icon: "/uploads/mixed-reality.svg"
 date: 2018-08-07 16:18:16 +1000
-categories: []
+categories:
+- weimagine
+- innovation
 promotional-text: ''
 post-mortem-text: ''
 program: innovation
@@ -45,7 +47,19 @@ sessions:
     button_text: More about Cogniss
     link: 'http://www.cogniss.com/ '
   end: 2018-08-30 13:00:00 +1000
-- title: Drop in and chat session with Tim Klapdor about VR/AR/MR
+- title: Drop in and chat session with Lyn Hay
+  start: 2018-09-04 10:30:00 +1000
+  end: 2018-09-04 11:00:00 +1000
+  location_details: 'https://zoom.us/j/946435989 '
+  description: In addition to the range of online sessions on offer, the uImagine
+    team is inviting academic and professional learning staff to grab a coffee and
+    drop in to this informal chat session to explore the potential applications of
+    virtual reality (VR), augmented reality (AR) and/or mixed reality (MR) in higher
+    education.
+  presenters:
+  - name: Lyn Hay
+    position: Online Learning Innovation Leader
+- title: Drop in and chat session with Tim Klapdor
   start: 2018-09-04 10:30:00 +1000
   end: 2018-09-04 11:00:00 +1000
   location_details: 'https://zoom.us/j/946435989 '
