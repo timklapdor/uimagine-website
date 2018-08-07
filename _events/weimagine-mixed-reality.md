@@ -29,7 +29,18 @@ date-finish: 2018-09-13 03:00:00 +0000
 no-bios: false
 speakers: []
 sessions:
-- {}
+- title: Drop in and chat session with Tim Klapdor
+  start: 2018-09-04 00:30:00 +0000
+  end: 2018-09-04 01:00:00 +0000
+  location_details: 'https://zoom.us/j/807458173'
+  description: In addition to the range of online sessions on offer, the uImagine
+    team is inviting academic and professional learning staff to grab a coffee and
+    drop in to this informal chat session to explore the potential applications of
+    virtual reality (VR), augmented reality (AR) and/or mixed reality (MR) in higher
+    education.
+  presenters:
+  - name: Tim Klapdor
+    position: Online Learning Technology Leader
 - title: Extending Reality in the Web Browser
   start: 2018-08-23 12:00:00 +1000
   end: 2018-08-23 13:00:00 +1000
@@ -68,7 +79,7 @@ sessions:
 - title: Drop in and chat session with Lyn Hay
   start: 2018-09-04 00:30:00 +0000
   end: 2018-09-04 01:00:00 +0000
-  location_details: 'https://zoom.us/j/946435989 '
+  location_details: 'https://zoom.us/j/796377667'
   description: In addition to the range of online sessions on offer, the uImagine
     team is inviting academic and professional learning staff to grab a coffee and
     drop in to this informal chat session to explore the potential applications of
@@ -80,7 +91,7 @@ sessions:
 - title: Drop in and chat session with Tim Klapdor
   start: 2018-09-04 00:30:00 +0000
   end: 2018-09-04 01:00:00 +0000
-  location_details: 'https://zoom.us/j/946435989 '
+  location_details: 'https://zoom.us/j/946435989'
   description: In addition to the range of online sessions on offer, the uImagine
     team is inviting academic and professional learning staff to grab a coffee and
     drop in to this informal chat session to explore the potential applications of
