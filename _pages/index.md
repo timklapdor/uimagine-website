@@ -6,15 +6,14 @@ hero:
   full_screen: true
   gradient_corner: top
   gradient_side:
-  gradient_color_1: '215,31,133,.5'
-  gradient_color_2: '255,88,0,.5'
-  image: uploads/uimagine-spark.jpg
+  gradient_color_1: '215,31,133,.6'
+  gradient_color_2: '0,0,0,.2'
+  image: uploads/open-professional.png
   promo-head: Yes
-  promo-text: Spark something new!
+  promo-text: "Find out more about Open Learning! <br>Starts August 9th"
   button_class: btn-ui-fuchia
-  button-text: Find out more
-  button_link: about.html
-
+  button-text: Join our Professional Learning Series
+  button_link: events/open-professional-learning-series.html
 blurb:
 - full_screen: false
   gradient_corner: bottom
