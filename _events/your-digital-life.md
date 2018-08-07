@@ -167,7 +167,7 @@ sessions: []
 outputs: []
 flickr-album: ''
 external_link:
-- button_text: Tickets from Eventbrite
+- button_text: Get your tickets now!
   link_url: https://www.eventbrite.com.au/e/your-digital-life-tickets-48827100171
 
 ---
@@ -182,5 +182,7 @@ Come and experience your Digital Life with us.
 Our panel includes: [Essential Energy](https://www.essentialenergy.com.au/), [JAR Aerospace](https://www.jar-aerospace.com.au/), [AWE media](https://awe.media/) and experts from Charles Sturt University.
 
 Tickets available from [**Eventbrite**](https://www.eventbrite.com.au/e/your-digital-life-tickets-48827100171).
+
+[REGISTER NOW!](https://www.eventbrite.com.au/e/your-digital-life-tickets-48827100171){: .action-btn }
 
 Any enquiries please contact Wendy Rowlands - [(02) 6933 2567](tel:(02) 6933 2567)
