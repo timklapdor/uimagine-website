@@ -43,6 +43,7 @@ fields:
     - lecture
     - panel
     - professional learning
+    - season
   label: Event Type
   default: conference
 - type: list
