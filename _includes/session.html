@@ -13,7 +13,7 @@
  </div>
 
   <div class="">
-    <p>{{ item.description }}</p>
+    <p>{{ item.description | markdownify }}</p>
 
     {% if item.youtube %}
     {% capture video_link %}{{ item.youtube }}{% endcapture %}

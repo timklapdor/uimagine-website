@@ -2,7 +2,7 @@
 title: Open Professional Learning Series
 layout: event
 status: upcoming
-event-type: conference
+event-type: professional learning
 location:
   info: Online using Zoom
   details: See each session for details
@@ -11,11 +11,11 @@ location:
   zoom: ''
 hero:
   gradient_corner: top
-  gradient_color_1: '255,88,0,.8'
-  gradient_color_2: '255,88,0,.4'
+  gradient_color_1: '0,0,0,.2'
+  gradient_color_2: '0,0,0,.2'
   full_screen: false
   gradient_side: ''
-  image: ''
+  image: '/uploads/open-professional.png'
   icon: "/uploads/open.svg"
 date: 2018-08-06 15:06:12 +1000
 categories:
@@ -27,14 +27,14 @@ post-mortem-text: ''
 program: open
 date-start: 2018-08-09 12:00:00 +1000
 date-finish: 2018-10-25 13:00:00 +1100
-no-bios: false
+no-bios: true
 speakers: []
 sessions:
 - title: What is Open?
   start: 2018-08-09 12:00:00 +1000
   end: 2018-08-09 13:00:00 +1000
   location_details: https://zoom.us/j/567835477
-  description: "**Abstract**  \nThe concept and practice of open education is still
+  description: "The concept and practice of open education is still
     relatively new and CSU is now an active player in this space. This introductory
     session will discuss the multifaceted open learning and open educational arena
     including: processes (what is open? why is learning now open?); practices (who
@@ -44,7 +44,7 @@ sessions:
     \ \nStagg, A., Nguyen, L., Bossu, C., Partridge, H., Funk, J., & Judith, K. (2018). [Open
     Educational Practices in Australia: A First-phase National Audit of Higher Education](https://tinyurl.com/stagg2018
     \"reading\"). _The International Review Of Research In Open And Distributed Learning,
-    19_(3). doi:[http://dx.doi.org/10.19173/irrodl.v19i3.3441](http://dx.doi.org/10.19173/irrodl.v19i3.3441
+    19_ (3). doi:[http://dx.doi.org/10.19173/irrodl.v19i3.3441](http://dx.doi.org/10.19173/irrodl.v19i3.3441
     \"http://dx.doi.org/10.19173/irrodl.v19i3.3441\")"
   links:
   - description: What is Open
@@ -58,7 +58,7 @@ sessions:
   start: 2018-09-27 12:00:00 +1000
   end: 2018-09-27 13:00:00 +1000
   location_details: https://zoom.us/j/737911569
-  description: "**Abstract**  \nThis session continues the ‘What is open?’ discussion
+  description: "This session continues the ‘What is open?’ discussion
     to take an academic perspective - Who is talking about ‘open’? What are they telling
     us? It shares what is happening in Australia with open resources and textbook
     practices. It also explores the benefits and opportunities and challenges of being
@@ -75,7 +75,7 @@ sessions:
 - title: 'Panel Session: Open Challenges and Opportunities'
   start: 2018-10-25 12:30:00 +1100
   location_details: https://zoom.us/j/260223878
-  description: "**Abstract**  \nIn this session on open education, a select panel
+  description: "In this session on open education, a select panel
     will discuss challenges and opportunities from different vantage points including
     design, marketing, and academic. This session will also launch the weimagine:Open
     season, with u!magine hosting a number of professional learning and community
@@ -93,7 +93,7 @@ sessions:
 outputs: []
 flickr-album: ''
 external_link: []
-published: false
+published: true
 
 ---
 This series is the lead up to the weImagine:Open season which will be held October-November 2018.
