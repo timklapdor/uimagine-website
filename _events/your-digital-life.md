@@ -26,7 +26,7 @@ promotional-text: Join us to explore the next wave of technologies - **Drones**,
 post-mortem-text: ''
 program: ''
 date-start: 2018-09-12 16:30:00 +1000
-date-finish: 2018-09-12 07:30:00 +1000
+date-finish: 2018-09-12 19:30:00 +1000
 no-bios: false
 speakers:
 - position: Strategic Futurist, Condor 9
@@ -169,4 +169,14 @@ flickr-album: ''
 external_link: []
 
 ---
-A panel of local & national experts will demonstrate the potential of these new technologies & how it will effect our lives. You’ll be able to get hands on with the technology & a chance to talk with experts.
+A panel of local & national experts will demonstrate the potential of these new technologies & how it will effect our lives. You’ll be able to get hands on with the technology as well as a chance to talk with experts.
+
+Drones, Augmented Reality and Virtual Reality are becoming more and more embedded in our everyday digital life. Join u!magine, Charles Sturt University’s Innovation Lab,  on September 12 to let your imagination soar in our community conversation about these technologies. You’ll hear from experts, and be able to ask those curious questions and find out more! The possibilities are exciting and endless.  
+
+Come and meet industry innovators, agriculture and aerospace adventurers and educational explorers. They are all using everyday technologies in ways that that we may never have imagined.
+
+Come and experience your Digital Life with us.
+
+Our panel includes: [Essential Energy](https://www.essentialenergy.com.au/), [JAR Aerospace](https://www.jar-aerospace.com.au/), [AWE media](https://awe.media/) and experts from Charles Sturt University.
+
+Tickets available from **[Eventbrite](https://www.eventbrite.com.au/e/your-digital-life-tickets-48827100171)**.
