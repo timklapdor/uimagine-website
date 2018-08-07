@@ -173,7 +173,7 @@ external_link:
 ---
 A panel of local & national experts will demonstrate the potential of these new technologies & how it will effect our lives. You’ll be able to get hands on with the technology as well as a chance to talk with experts.
 
-Drones, Augmented Reality and Virtual Reality are becoming more and more embedded in our everyday digital life. Join u!magine, Charles Sturt University’s Innovation Lab,  on September 12 to let your imagination soar in our community conversation about these technologies. You’ll hear from experts, and be able to ask those curious questions and find out more! The possibilities are exciting and endless.  
+Drones, Augmented Reality and Virtual Reality are becoming more and more embedded in our everyday digital life. Join u!magine, Charles Sturt University’s Innovation Lab,  on September 12 to let your imagination soar in our community conversation about these technologies. You’ll hear from experts, and be able to ask those curious questions and find out more! The possibilities are exciting and endless.
 
 Come and meet industry innovators, agriculture and aerospace adventurers and educational explorers. They are all using everyday technologies in ways that that we may never have imagined.
 
@@ -181,4 +181,6 @@ Come and experience your Digital Life with us.
 
 Our panel includes: [Essential Energy](https://www.essentialenergy.com.au/), [JAR Aerospace](https://www.jar-aerospace.com.au/), [AWE media](https://awe.media/) and experts from Charles Sturt University.
 
-Tickets available from **[Eventbrite](https://www.eventbrite.com.au/e/your-digital-life-tickets-48827100171)**.
+Tickets available from [**Eventbrite**](https://www.eventbrite.com.au/e/your-digital-life-tickets-48827100171).
+
+Any enquiries please contact Wendy Rowlands - [(02) 6933 2567](tel:(02) 6933 2567)
