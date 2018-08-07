@@ -181,7 +181,7 @@ Come and experience your Digital Life with us.
 
 Our panel includes: [Essential Energy](https://www.essentialenergy.com.au/), [JAR Aerospace](https://www.jar-aerospace.com.au/), [AWE media](https://awe.media/) and experts from Charles Sturt University.
 
-Tickets available from [**Eventbrite**](https://www.eventbrite.com.au/e/your-digital-life-tickets-48827100171).
+Tickets are **FREE** and available from [Eventbrite](https://www.eventbrite.com.au/e/your-digital-life-tickets-48827100171).
 
 [REGISTER NOW!](https://www.eventbrite.com.au/e/your-digital-life-tickets-48827100171){: .action-btn }
 
