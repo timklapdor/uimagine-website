@@ -20,6 +20,11 @@ tags:
 - information technology
 - health
 categories: Incubation
+category: Incubation
+hashtags:
+- WeImagine
+- DataAnalytics
+
 ---
 ![]({{ site.baseurl }}/uploads/IsData-weimagine-CSU-logo.jpeg)
 
