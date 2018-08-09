@@ -17,8 +17,8 @@ layout: default
     {% if page.status == 'past' %}
     <p>Held on the {{ page.date-start | date_to_long_string }}</p>
         {% else %}
-    <p><strong>Start</strong><br> {{ page.date-start | date: "%m/%d/%Y, %H:%M" }}</p>
-    <p><strong>Finish</strong><br> {{ page.date-finish | date: "%m/%d/%Y, %H:%M" }}</p>
+    <p><strong>Start</strong><br> {{ page.date-start | date: "%d/%m/%Y, %H:%M" }}</p>
+    <p><strong>Finish</strong><br> {{ page.date-finish | date: "%d/%m/%Y, %H:%M" }}</p>
     {% endif %}
 
     {% if page.location %}
