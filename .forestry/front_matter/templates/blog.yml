@@ -76,6 +76,7 @@ fields:
     source:
       type: datafiles
       file: _data-hashtags-yml
+      path: Hashtags
   default: []
 - name: hero
   label: Hero
