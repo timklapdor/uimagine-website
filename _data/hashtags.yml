@@ -1,25 +1,26 @@
 ---
-- title: Ascilite
-- title: edchat
-- title: elearning
-- title: elearn
-- title: EdTech
-- title: dataanalytics
-- title: digped
-- title: innovation
-- title: HigherEd
-- title: highereducation
-- title: IOLchat
-- title: learninganalytics
-- title: learningdesign
-- title: mlearn
-- title: mlearning
-- title: OER
-- title: OEP
-- title: onlinelearning
-- title: opened
-- title: openpathways
-- title: ozedchat
-- title: research
-- title: uimagine
-- title: weimagine
+- "Ascilite"
+- "EdChat"
+- "eLearning"
+- "eLearn"
+- "EdTech"
+- "DataAnalytics"
+- "digped"
+- "innovation"
+- "HigherEd"
+- "HigherEducation"
+- "IOLchat"
+- "LearningAnalytics"
+- "LearningLesign"
+- "mLearn"
+- "mLearning"
+- "OER"
+- "OEP"
+- "OnlineLearning"
+- "OpenEd"
+- "OpenPathways"
+- "OzEdChat"
+- "research"
+- "uImagine"
+- "WeImagine"
+- "LXDesign"

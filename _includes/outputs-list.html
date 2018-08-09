@@ -1,6 +1,6 @@
 
-{% assign publications = site.data.publications | sort: 'date' | reverse  %}
-{% assign presentations = site.data.presentations | sort: 'date' | reverse %}
+{% assign publications = site.data.publications.publication | sort: 'date' | reverse  %}
+{% assign presentations = site.data.presentations.presentation | sort: 'date' | reverse %}
 
 <!--  {{ open.size }}-->
 
