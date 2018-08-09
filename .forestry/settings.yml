@@ -23,9 +23,6 @@ sections:
   match: "**/*"
   templates:
   - project
-- type: jekyll-pages
-  label: Pages
-  create: all
 - type: directory
   path: _team
   label: Team
