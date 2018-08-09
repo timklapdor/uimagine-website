@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: true
 admin_path: "/admin/"
-webhook_url:
+webhook_url: 
 sections:
 - type: jekyll-posts
   label: Blog
@@ -37,7 +37,7 @@ sections:
   path: _pages
   label: Pages
   create: all
-  match: "**/*"  
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
