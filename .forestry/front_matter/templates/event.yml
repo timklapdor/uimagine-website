@@ -345,11 +345,6 @@ fields:
     description: Or supply URL
   config:
     labelField: description
-- name: flickr-album
-  label: Flickr album
-  type: text
-  hidden: false
-  description: Add link to Flickr Albumn
 - type: field_group_list
   name: external_link
   label: External Link
@@ -360,6 +355,11 @@ fields:
   - type: text
     name: link_url
     label: Link URL
+- name: flickr-album
+  label: Flickr album
+  type: text
+  hidden: false
+  description: Add link to Flickr Albumn
 pages:
 - _events/conversations-about-online-learning.md
 - _events/partnerships-and-the-business-of-distance-education.md
