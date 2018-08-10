@@ -132,6 +132,9 @@ sessions:
   - name: Anna Goldfeder
     position: Product Manager
   links:
+  - description: Calendar
+    button_text: Add to Calendar
+    link: https://cdn.csu.edu.au/__data/assets/file/0010/3083941/The-Rise-of-No-Code-Platforms-and-the-Democratisation-of-App-Creation-for-Learning.ics
   - description: Find out more about cogniss
     button_text: More about Cogniss
     link: 'http://www.cogniss.com/ '
