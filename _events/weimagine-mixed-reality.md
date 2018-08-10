@@ -97,6 +97,10 @@ sessions:
     position: Lecturer
   - name: 'Clare Chapman '
     position: Associate Lecturer
+  links:
+  - description: Calendar Invite
+    button_text: Add to Calendar
+    link: https://cdn.csu.edu.au/__data/assets/file/0005/3083189/Virtual-Reality-and-the-Teaching-of-Anatomy-and-Physiology-weimagine-MR.ics
 - title: Drop in and chat session with Tim Klapdor
   start: 2018-09-04 00:30:00 +0000
   end: 2018-09-04 01:00:00 +0000
