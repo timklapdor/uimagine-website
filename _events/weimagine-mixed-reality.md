@@ -102,7 +102,7 @@ sessions:
     button_text: Add to Calendar
     link: https://cdn.csu.edu.au/__data/assets/file/0005/3083189/Virtual-Reality-and-the-Teaching-of-Anatomy-and-Physiology-weimagine-MR.ics
 - title: Drop in and chat session with Tim Klapdor
-  start: 2018-09-04 00:30:00 +0000
+  start: 2018-09-04 10:30:00 +1000
   end: 2018-09-04 01:00:00 +0000
   location_details: https://zoom.us/j/807458173
   description: In addition to the range of online sessions on offer, the uImagine
@@ -113,6 +113,10 @@ sessions:
   presenters:
   - name: Tim Klapdor
     position: Online Learning Technology Leader
+  links:
+  - description: Calendar Invite
+    button_text: Add to Calendar
+    link: https://cdn.csu.edu.au/__data/assets/file/0005/3083918/Drop-In-and-Chat-session-about-VR_-AR_-MR-weimagine-MR.ics
 - title: Extending Reality in the Web Browser
   start: 2018-08-23 02:00:00 +0000
   end: 2018-08-23 03:00:00 +0000
