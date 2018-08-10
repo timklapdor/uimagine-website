@@ -21,11 +21,8 @@ date: 2018-08-07 06:18:16 +0000
 categories:
 - weimagine
 - innovation
-promotional-text: "This professional learning season is being held over a 5 week period
-  in the months of August and September.\L\L Each week, we will be hosting two 1 hour
-  online sessions, exploring concepts, issues, technologies, programs, and the affordances
-  of virtual reality (VR), augmented reality (AR) and mixed reality (MR) in higher
-  education.\L\L"
+promotional-text: Come and explore the future through Augmented, Virtual and Mixed
+  Realities!
 post-mortem-text: ''
 program: innovation
 date-start: 2018-08-14 02:00:00 +0000
@@ -182,6 +179,10 @@ external_link: []
 published: false
 
 ---
+This professional learning season is being held over a 5 week period in the months of August and September.
+
+Each week, we will be hosting two 1 hour online sessions, exploring concepts, issues, technologies, programs, and the affordances of virtual reality (VR), augmented reality (AR) and mixed reality (MR) in higher education.
+
 Featured speakers include researchers, educators and industry leaders engaging in VR, AR and/or MR. Each online session consists of a 30 min presentation followed by a Q&A session, then open discussion on the ways these technologies could be used to support teaching and learning at CSU.
 
-Calendar invites for each session and details on how to connect are listed below. 
+Calendar invites for each session and details on how to connect are listed below. More information will come and we'll be posting slides and recordings as soon as they're available!
