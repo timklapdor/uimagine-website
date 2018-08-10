@@ -98,25 +98,9 @@ sessions:
   - description: Calendar Invite
     button_text: Add to Calendar
     link: https://cdn.csu.edu.au/__data/assets/file/0005/3083189/Virtual-Reality-and-the-Teaching-of-Anatomy-and-Physiology-weimagine-MR.ics
-- title: Drop in and chat session with Tim Klapdor
-  start: 2018-08-28 10:30:00 +1000
-  end: 2018-08-28 11:00:00 +1000
-  location_details: https://zoom.us/j/807458173
-  description: In addition to the range of online sessions on offer, the uImagine
-    team is inviting academic and professional learning staff to grab a coffee and
-    drop in to this informal chat session to explore the potential applications of
-    virtual reality (VR), augmented reality (AR) and/or mixed reality (MR) in higher
-    education.
-  presenters:
-  - name: Tim Klapdor
-    position: Online Learning Technology Leader
-  links:
-  - description: Calendar Invite
-    button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0010/3083914/Drop-In-and-Chat-session-about-VR-AR-MR_weimagine-MR.ics
 - title: Extending Reality in the Web Browser
-  start: 2018-08-23 02:00:00 +0000
-  end: 2018-08-23 03:00:00 +0000
+  start: 2018-08-23 12:00:00 +1000
+  end: 2018-08-23 13:00:00 +1000
   location_details: https://zoom.us/j/685909822
   description: |-
     Imagine not having to download and install an app to experience or create Augmented and Virtual experiences, just open a URL and it just works...
