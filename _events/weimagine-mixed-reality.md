@@ -56,6 +56,10 @@ sessions:
   presenters:
   - name: Tim Klapdor
     position: Online Learning Technology Leader
+  links:
+  - description: Calendar Invitation
+    button_text: Add to Calendar
+    link: https://cdn.csu.edu.au/__data/assets/file/0011/3083168/Welcome-to-the-world-of-Mixed-Reality-weimagine-MR.ics
 - title: Virtual Reality and the Teaching of Anatomy and Physiology
   start: 2018-08-16 02:00:00 +0000
   end: 2018-08-16 03:00:00 +0000
