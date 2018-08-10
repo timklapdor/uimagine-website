@@ -17,8 +17,8 @@ layout: default
     {% if page.status == 'past' %}
     <p>Held on the {{ page.date-start | date_to_long_string }}</p>
         {% else %}
-    <p><strong>Start</strong><br> {{ page.date-start | date: "%a %-d %B %Y at %-I:%M%P" }}</p>
-    <p><strong>Finish</strong><br> {{ page.date-finish | date: "%a %-d %B %Y at %-I:%M%P" }}</p>
+    <p><strong>Start</strong><br> {{ page.date-start | date: "%A %-d %B %Y at %-I:%M%P" }}</p>
+    <p><strong>Finish</strong><br> {{ page.date-finish | date: "%A %-d %B %Y at %-I:%M%P" }}</p>
     {% endif %}
 
     {% if page.location %}
@@ -93,7 +93,7 @@ layout: default
 {% endif %}
 </article>
 
-{% if page.sessions != empty %}
+{% if page.sessions != nil %}
   <article class="bustout">
     <h2>Sessions</h2>
       {% for item in page.sessions %}
@@ -101,7 +101,6 @@ layout: default
       {% endfor %}
   </article>
 {% endif %}
-
 
 {% if page.no-bios == false %}
   {% if page.speakers != empty %}

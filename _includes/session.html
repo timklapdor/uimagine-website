@@ -2,6 +2,8 @@
 
   <div class="bio">
     <h3>{{ item.title }}</h3>
+    {% if item.start %}
+    <p><em>{{ item.start | date: "%A %-d %B %Y at %-I:%M%P" }}</em></p> {% endif %}
     {% for person  in item.presenters %}
     <p><strong>{{ person.name }}</strong>
       {% for item in person.position %} - <em>{{ item }}</em>{% endfor %}</p>
