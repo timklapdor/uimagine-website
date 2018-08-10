@@ -6,8 +6,8 @@ hero:
   full_screen: true
   gradient_corner: top
   gradient_side: 
-  gradient_color_1: '0,0,0,.2'
-  gradient_color_2: '0,0,0,.2'
+  gradient_color_1: '0,0,0,.4'
+  gradient_color_2: '0,0,0,.4'
   image: "/uploads/mixed-reality-icon.jpg"
   promo-head: true
   promo-text: we!magine Mixed Reality season <br> starts August 14th
