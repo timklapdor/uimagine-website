@@ -21,7 +21,11 @@ date: 2018-08-07 06:18:16 +0000
 categories:
 - weimagine
 - innovation
-promotional-text: ''
+promotional-text: "This professional learning season is being held over a 5 week period
+  in the months of August and September.\L\L Each week, we will be hosting two 1 hour
+  online sessions, exploring concepts, issues, technologies, programs, and the affordances
+  of virtual reality (VR), augmented reality (AR) and mixed reality (MR) in higher
+  education.\L\L"
 post-mortem-text: ''
 program: innovation
 date-start: 2018-08-14 02:00:00 +0000
@@ -30,8 +34,8 @@ no-bios: false
 speakers: []
 sessions:
 - title: Welcome to the world of Mixed Reality
-  start: 2018-08-14 12:00:00 +1000
-  end: 2018-08-14 13:00:00 +1000
+  start: 2018-08-14 02:00:00 +0000
+  end: 2018-08-14 03:00:00 +0000
   location_details: 'https://zoom.us/j/505418375 '
   description: "Over the last decade we have seen massive technological changes that
     have facilitated the crossover between the physical and digital. Mobile technology
@@ -53,8 +57,8 @@ sessions:
   - name: Tim Klapdor
     position: Online Learning Technology Leader
 - title: Virtual Reality and the Teaching of Anatomy and Physiology
-  start: 2018-08-16 12:00:00 +1000
-  end: 2018-08-16 13:00:00 +1000
+  start: 2018-08-16 02:00:00 +0000
+  end: 2018-08-16 03:00:00 +0000
   location_details: 'https://zoom.us/j/265952679 '
   description: "Students and educators alike live and work in a technology rich society,
     transforming what teaching and learning looks like in the 21st century. As educators
@@ -163,6 +167,8 @@ sessions:
 outputs: []
 flickr-album: ''
 external_link: []
-published: false
 
 ---
+Featured speakers include researchers, educators and industry leaders engaging in VR, AR and/or MR. Each online session consists of a 30 min presentation followed by a Q&A session, then open discussion on the ways these technologies could be used to support teaching and learning at CSU.
+
+Calendar invites for each session and details on how to connect are listed below. 
