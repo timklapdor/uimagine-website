@@ -167,6 +167,7 @@ sessions:
 outputs: []
 flickr-album: ''
 external_link: []
+published: false
 
 ---
 Featured speakers include researchers, educators and industry leaders engaging in VR, AR and/or MR. Each online session consists of a 30 min presentation followed by a Q&A session, then open discussion on the ways these technologies could be used to support teaching and learning at CSU.
