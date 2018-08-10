@@ -58,6 +58,18 @@ fields:
     - innovation
     - open
     - weimagine
+- type: select
+  name: program
+  config:
+    source:
+      type: simple
+    options:
+    - open
+    - incubation
+    - innovation
+  label: Program
+  description: Link to which area of work this should fit in
+  default: 
 - name: promotional-text
   label: Promotional text
   type: textarea
@@ -80,17 +92,6 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-- type: select
-  name: program
-  config:
-    source:
-      type: simple
-    options:
-    - open
-    - incubation
-    - innovation
-  label: Program
-  description: Link to which area of work this should fit in
 - name: date-start
   label: Date start
   type: datetime
@@ -149,6 +150,48 @@ fields:
       min: '4'
   hidden: false
   default: ''
+- name: hero
+  label: Page Hero
+  type: field_group
+  fields:
+  - name: full_screen
+    label: Full screen
+    type: boolean
+    hidden: false
+    default: ''
+  - name: gradient_corner
+    label: Gradient corner
+    type: text
+    hidden: false
+    default: top
+  - name: gradient_side
+    label: Gradient side
+    type: text
+    hidden: false
+    default: ''
+  - name: gradient_color_1
+    label: Gradient color 1
+    type: text
+    hidden: false
+    default: '0,175,216,.8'
+  - name: gradient_color_2
+    label: Gradient color 2
+    type: text
+    hidden: false
+    default: '0,175,216,.4'
+  - name: image
+    label: Image
+    type: file
+    hidden: false
+    default: ''
+  - name: icon
+    label: Icon
+    type: file
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+  description: Set the details for the banner
 - type: boolean
   name: no-bios
   label: No Bios
@@ -307,48 +350,6 @@ fields:
   type: text
   hidden: false
   description: Add link to Flickr Albumn
-- name: hero
-  label: Page Hero
-  type: field_group
-  fields:
-  - name: full_screen
-    label: Full screen
-    type: boolean
-    hidden: false
-    default: ''
-  - name: gradient_corner
-    label: Gradient corner
-    type: text
-    hidden: false
-    default: top
-  - name: gradient_side
-    label: Gradient side
-    type: text
-    hidden: false
-    default: ''
-  - name: gradient_color_1
-    label: Gradient color 1
-    type: text
-    hidden: false
-    default: '0,175,216,.8'
-  - name: gradient_color_2
-    label: Gradient color 2
-    type: text
-    hidden: false
-    default: '0,175,216,.4'
-  - name: image
-    label: Image
-    type: file
-    hidden: false
-    default: ''
-  - name: icon
-    label: Icon
-    type: file
-    hidden: false
-    default: ''
-  hidden: false
-  default: ''
-  description: Set the details for the banner
 - type: field_group_list
   name: external_link
   label: External Link
