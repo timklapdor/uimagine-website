@@ -6,7 +6,7 @@ hero:
   full_screen: true
   gradient_corner: top
   gradient_side: 
-  gradient_color_1: '215,31,133,.6'
+  gradient_color_1: '0,0,0,.2'
   gradient_color_2: '0,0,0,.2'
   image: "/uploads/mixed-reality-icon.jpg"
   promo-head: true
