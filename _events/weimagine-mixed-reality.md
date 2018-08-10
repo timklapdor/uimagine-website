@@ -99,8 +99,8 @@ sessions:
     button_text: Add to Calendar
     link: https://cdn.csu.edu.au/__data/assets/file/0005/3083189/Virtual-Reality-and-the-Teaching-of-Anatomy-and-Physiology-weimagine-MR.ics
 - title: Drop in and chat session with Tim Klapdor
-  start: 2018-09-04 10:30:00 +1000
-  end: 2018-09-04 01:00:00 +0000
+  start: 2018-08-28 10:30:00 +1000
+  end: 2018-08-28 11:00:00 +1000
   location_details: https://zoom.us/j/807458173
   description: In addition to the range of online sessions on offer, the uImagine
     team is inviting academic and professional learning staff to grab a coffee and
@@ -113,7 +113,7 @@ sessions:
   links:
   - description: Calendar Invite
     button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0005/3083918/Drop-In-and-Chat-session-about-VR_-AR_-MR-weimagine-MR.ics
+    link: https://cdn.csu.edu.au/__data/assets/file/0010/3083914/Drop-In-and-Chat-session-about-VR-AR-MR_weimagine-MR.ics
 - title: Extending Reality in the Web Browser
   start: 2018-08-23 02:00:00 +0000
   end: 2018-08-23 03:00:00 +0000
@@ -149,34 +149,9 @@ sessions:
     button_text: More about Cogniss
     link: 'http://www.cogniss.com/ '
   end: 2018-08-30 03:00:00 +0000
-- title: Drop in and chat session with Lyn Hay
-  start: 2018-09-04 00:30:00 +0000
-  end: 2018-09-04 01:00:00 +0000
-  location_details: https://zoom.us/j/796377667
-  description: In addition to the range of online sessions on offer, the uImagine
-    team is inviting academic and professional learning staff to grab a coffee and
-    drop in to this informal chat session to explore the potential applications of
-    virtual reality (VR), augmented reality (AR) and/or mixed reality (MR) in higher
-    education.
-  presenters:
-  - name: Lyn Hay
-    position: Online Learning Innovation Leader
-- title: Drop in and chat session with Tim Klapdor
-  start: 2018-09-04 00:30:00 +0000
-  end: 2018-09-04 01:00:00 +0000
-  location_details: https://zoom.us/j/946435989
-  description: In addition to the range of online sessions on offer, the uImagine
-    team is inviting academic and professional learning staff to grab a coffee and
-    drop in to this informal chat session to explore the potential applications of
-    virtual reality (VR), augmented reality (AR) and/or mixed reality (MR) in higher
-    education.
-  presenters:
-  - name: Tim Klapdor
-    position: Online Learning Technology Leader
 outputs: []
 flickr-album: ''
 external_link: []
-published: false
 
 ---
 This professional learning season is being held over a 5 week period in the months of August and September.
