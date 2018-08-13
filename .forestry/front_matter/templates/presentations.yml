@@ -45,7 +45,5 @@ fields:
     description: Add in APA reference and style accordingly
   config:
     labelField: title
-pages:
-- _posts/stuff.md
 data_files:
 - _data/presentations.yml
