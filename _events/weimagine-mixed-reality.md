@@ -114,7 +114,7 @@ sessions:
   links:
   - description: Calendar
     button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0004/3083935/Extending-Reality-in-the-Web-Browser.ics
+    link: https://cdn.csu.edu.au/__data/assets/file/0004/3083935/Extending-Reality-in-the-Web-Browser-weimagine-MR.ics
   - description: Awe.media Link
     button_text: awe.media
     link: http://awe.media/
