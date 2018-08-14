@@ -139,6 +139,16 @@ sessions:
     button_text: More about Cogniss
     link: 'http://www.cogniss.com/ '
   end: 2018-08-30 03:00:00 +0000
+- title: Drop in & Chat
+  start: 2018-09-04 10:30:00 +1000
+  end: 2018-09-04 13:00:00 +1000
+  location_details: https://zoom.us/j/946435989
+  description: Drop in for a chat, ask questions or discuss ideas related to AR, VR
+    and Mixed Realities
+  links:
+  - description: Calendar
+    button_text: Add to Calendar
+    link: https://cdn.csu.edu.au/__data/assets/file/0005/3083918/Drop-In-and-Chat-session-about-VR_-AR_-MR-weimagine-MR.ics
 - title: 'Integrating Mixed Reality Pedagogy into Higher Education '
   start: 2018-09-05 12:00:00 +1000
   end: 2018-09-05 13:00:00 +1000
