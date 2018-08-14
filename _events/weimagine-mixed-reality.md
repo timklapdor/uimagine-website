@@ -30,6 +30,14 @@ date-finish: 2018-09-13 03:00:00 +0000
 no-bios: false
 speakers: []
 sessions:
+- title: 'Drop in & Chat '
+  start: 2018-08-21 10:30:00 +1000
+  end: 2018-08-21 11:00:00 +1000
+  location_details: https://zoom.us/j/807458173
+  links:
+  - description: Calendar
+    button_text: Add to Calendar
+    link: https://cdn.csu.edu.au/__data/assets/file/0008/3088259/Drop-In-and-Chat-session-about-VR_AR_MR-weimagine-MR-2.ics
 - title: Welcome to the world of Mixed Reality
   start: 2018-08-14 02:00:00 +0000
   end: 2018-08-14 03:00:00 +0000
@@ -118,6 +126,35 @@ sessions:
   - description: Awe.media Link
     button_text: awe.media
     link: http://awe.media/
+- title: Drop in & Chat
+  start: 2018-08-28 10:30:00 +1000
+  end: 2018-08-28 11:00:00 +1000
+  location_details: https://zoom.us/j/796377667
+  description: Drop in for a chat, ask questions or discuss ideas related to AR, VR
+    and Mixed Realities.
+  presenters:
+  - name: Lyn Hay
+  links:
+  - description: Calendar
+    button_text: Add to Calendar
+    link: https://cdn.csu.edu.au/__data/assets/file/0010/3083914/Drop-In-and-Chat-session-about-VR-AR-MR_weimagine-MR.ics
+- title: The Tipping Point for AR/VR/MR
+  start: 2018-08-29 12:00:00 +1000
+  end: 2018-08-29 13:00:00 +1000
+  location_details: https://zoom.us/j/120918870
+  description: |-
+     
+
+    The global augmented reality market is projected to reach more than $150 billion by 2020, with opportunities emerging in a number of fields including defence, education, manufacturing, logistics, retail and e-commerce.
+
+    Rupert Deans, entrepreneur and founder of Australian-based pioneer, [Plattar](https://www.plattar.com), will explore how augmented reality will transform the workplace, product development, the customer experience and the way we interact with the world. We will discuss how businesses are using augmented reality today and the future applications to watch.
+  links:
+  - description: Calendar
+    button_text: Add to Calendar
+    link: https://cdn.csu.edu.au/__data/assets/file/0006/3088086/The-Tipping-Point-for-AR-VR-MR-weimagine-MR.ics
+  - description: Plattar
+    button_text: Plattar
+    link: https://www.plattar.com
 - title: The Rise of No-Code Platforms and the Democratisation of App Creation for
     Learning
   start: 2018-08-30 02:00:00 +0000
