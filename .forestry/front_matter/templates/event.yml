@@ -361,6 +361,7 @@ fields:
   hidden: false
   description: Add link to Flickr Albumn
 pages:
+- _events/weimagine-mixed-reality.md
 - _events/conversations-about-online-learning.md
 - _events/partnerships-and-the-business-of-distance-education.md
 - _events/simulation-role-play-symposium.md
@@ -371,7 +372,6 @@ pages:
 - _events/learning-on-the-open-web.md
 - _events/open-professional-learning-series.md
 - _events/campus-the-cloud.md
-- _events/weimagine-mixed-reality.md
 - _events/your-digital-life.md
 - _events/learning-analytics-symposium.md
 - _events/data-the-future-solution-or-problem.md
