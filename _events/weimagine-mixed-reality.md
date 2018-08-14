@@ -108,6 +108,8 @@ sessions:
     link: https://cdn.csu.edu.au/__data/assets/file/0008/3088259/Drop-In-and-Chat-session-about-VR_AR_MR-weimagine-MR-2.ics
   description: Drop in for a chat, ask questions or discuss ideas related to AR, VR
     and Mixed Realities.
+  presenters:
+  - name: Tim Klapdor
 - title: Extending Reality in the Web Browser
   start: 2018-08-23 12:00:00 +1000
   end: 2018-08-23 13:00:00 +1000
@@ -188,6 +190,8 @@ sessions:
   - description: Calendar
     button_text: Add to Calendar
     link: https://cdn.csu.edu.au/__data/assets/file/0005/3083918/Drop-In-and-Chat-session-about-VR_-AR_-MR-weimagine-MR.ics
+  presenters:
+  - name: Tim Klapdor
 - title: 'Integrating Mixed Reality Pedagogy into Higher Education '
   start: 2018-09-05 12:00:00 +1000
   end: 2018-09-05 13:00:00 +1000
