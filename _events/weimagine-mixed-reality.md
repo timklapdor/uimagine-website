@@ -241,5 +241,3 @@ Each week, we will be hosting two 1 hour online sessions, exploring concepts, is
 Featured speakers include researchers, educators and industry leaders engaging in VR, AR and/or MR. Each online session consists of a 30 min presentation followed by a Q&A session, then open discussion on the ways these technologies could be used to support teaching and learning at CSU.
 
 Calendar invites for each session and details on how to connect are listed below. More information will come and we'll be posting slides and recordings as soon as they're available!
-
-**More events are coming after the 27th of August... so stay tuned!**
