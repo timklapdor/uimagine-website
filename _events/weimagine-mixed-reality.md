@@ -159,6 +159,9 @@ sessions:
   - description: Plattar
     button_text: Plattar
     link: https://www.plattar.com
+  presenters:
+  - position: Founder, Plattar
+    name: Rupert Dean
 - title: The Rise of No-Code Platforms and the Democratisation of App Creation for
     Learning
   start: 2018-08-30 02:00:00 +0000
