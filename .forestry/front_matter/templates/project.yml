@@ -164,6 +164,7 @@ fields:
     label: Image
 pages:
 - _projects/become-a-digital-online-learner.md
+- _projects/online-learning-model-scale-up.md
 - _projects/incubation-strategy.md
 - _projects/destination-2020.md
 - _projects/eexam-trials.md
@@ -173,7 +174,6 @@ pages:
 - _projects/online-learning-exchange.md
 - _projects/quality-learning-teaching-initiative.md
 - _projects/online-learning-model-pilots.md
-- _projects/online-learning-model-scale-up.md
 - _projects/blackboard-improve.md
 - _projects/de-transition-support.md
 - _projects/engagement-in-online-lectures.md

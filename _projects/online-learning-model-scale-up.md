@@ -17,14 +17,28 @@ date-finish: 2017-06-29 14:00:00 +0000
 summary: 'Following on from the pilots, the Scale Up worked on implementing the revised
   OLM model (Version 2) across seven large courses at CSU. '
 team:
-- Julie Lindsay
+- Alissa Brabin
+- Gerard Bourke
+- Lindy Croft-Piggin
+- Barney Dalgarno
+- Miriam Edwards
 - Carole Hunter
+- Sarah Hyde
+- Julie Lindsay
+- Sandra Maatheus –Smith
+- Stewart Mckinney
+- Nathan Miles
 - Judy O'Connell
+- Theresa Winchester-Seeto
 focus:
 - practice
 - pedagogy
 outputs: []
+category: []
+
 ---
+Following the [piloting of the first version of the Online Learning Model]({{ 'projects/online-learning-model-pilots.html' | relative_url }}), Julie Lindsay, Carole Hunter and Judy O’Connell, the Quality Learning and Teaching Online (QLTO) leads, worked with each of CSU’s three faculties to scale up the implementation of the revised OLM model (Version 2). Seven large courses including the Bachelor of Accounting, Bachelor of Social Science (Psychology), Bachelor of Business (HR Management), Bachelor of Social Science (Social Welfare), Master/Bachelor Of Social Work, Bachelor of Nursing, Bachelor of Medical Science, comprising about 190 subjects were targeted for attention. Subject revision was carried out over three sessions with revised subjects phased in over a 12 month period. Lindy Croft-Piggin, the Manager of Online Learning and Teaching Quality, worked across the Faculties and the DSL support teams to coordinate the work within the project. 
+
 ## Support
 
 The QLTO had a team of element specialists working with them to focus closely on the strategy development within subjects and to liaise with Educational Designers (EDs), Education Support Coordinators (ESCs) and Media Technologists (MTs). Academic staff were given 30 hours of time relief per subject and EDs were given 16 hours per subject. Approximately 12-20 hours per subject of learning resource development time was provided, and 50 hours per course of course-based ED time was also provided to ensure course-wide planning and design work was also supported.
