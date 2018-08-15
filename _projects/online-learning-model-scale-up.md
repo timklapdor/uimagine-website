@@ -35,12 +35,12 @@ focus:
 - practice
 - pedagogy
 outputs:
+- description: Report - Executive Summary
+  file: ''
+  link: http://uimagine.edu.au/docs/ScaleUp-Exec-Summary.pdf
 - file: ''
   link: http://uimagine.edu.au/docs/ScaleUp-Final-Report.pdf
   description: Report - Full
-- description: Report - Exectutive Summary
-  file: ''
-  link: http://uimagine.edu.au/docs/ScaleUp-Exec-Summary.pdf
 category:
 - innovation
 
