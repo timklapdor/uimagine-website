@@ -31,10 +31,18 @@ team:
 - Judy O'Connell
 - Theresa Winchester-Seeto
 focus:
+- research
 - practice
 - pedagogy
-outputs: []
-category: []
+outputs:
+- file: ''
+  link: http://uimagine.edu.au/docs/ScaleUp-Final-Report.pdf
+  description: Report - Full
+- description: Report - Exectutive Summary
+  file: ''
+  link: http://uimagine.edu.au/docs/ScaleUp-Exec-Summary.pdf
+category:
+- innovation
 
 ---
 Following the [piloting of the first version of the Online Learning Model]({{ 'projects/online-learning-model-pilots.html' | relative_url }}), Julie Lindsay, Carole Hunter and Judy O’Connell, the Quality Learning and Teaching Online (QLTO) leads, worked with each of CSU’s three faculties to scale up the implementation of the revised OLM model (Version 2). Seven large courses including the Bachelor of Accounting, Bachelor of Social Science (Psychology), Bachelor of Business (HR Management), Bachelor of Social Science (Social Welfare), Master/Bachelor Of Social Work, Bachelor of Nursing, Bachelor of Medical Science, comprising about 190 subjects were targeted for attention. Subject revision was carried out over three sessions with revised subjects phased in over a 12 month period. Lindy Croft-Piggin, the Manager of Online Learning and Teaching Quality, worked across the Faculties and the DSL support teams to coordinate the work within the project. 
