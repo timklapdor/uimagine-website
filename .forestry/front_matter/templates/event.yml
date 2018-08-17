@@ -44,6 +44,8 @@ fields:
     - panel
     - professional learning
     - season
+    - expo
+    - webinar
   label: Event Type
   default: conference
 - type: list
