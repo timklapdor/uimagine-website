@@ -16,7 +16,7 @@ hero:
   full_screen: false
   gradient_side: ''
   image: ''
-  icon: ''
+  icon: "/uploads/Event-TechExpo.svg"
 date: 2018-08-17 11:26:06 +1000
 categories:
 - weimagine
