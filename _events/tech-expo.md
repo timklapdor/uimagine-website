@@ -11,11 +11,11 @@ location:
   zoom: 17
 hero:
   gradient_corner: top
-  gradient_color_1: '0,175,216,.8'
-  gradient_color_2: '0,175,216,.4'
+  gradient_color_1: '0,0,0,.2'
+  gradient_color_2: '0,0,0,.2'
   full_screen: false
   gradient_side: ''
-  image: ''
+  image: "/uploads/expo-image.jpg"
   icon: "/uploads/Event-TechExpo.svg"
 date: 2018-08-17 11:26:06 +1000
 categories:
