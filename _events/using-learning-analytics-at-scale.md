@@ -48,6 +48,7 @@ speakers:
   photo: "/uploads/rientes-photo.jpg"
   presentation: ''
   case-study: ''
+sessions: []
 outputs:
 - button_text: download slides
   link: http://uimagine.edu.au/docs/WeImagine-Rienties.pdf

@@ -60,6 +60,7 @@ speakers:
   photo: ''
   presentation: ''
   case-study: ''
+sessions: []
 outputs: []
 flickr-album: ''
 program: ''

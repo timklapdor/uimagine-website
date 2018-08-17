@@ -42,6 +42,7 @@ speakers:
   presentation: ''
   case-study: ''
   position: Co-Founder Reclaim Hosting
+sessions: []
 outputs:
 - description: Strategy Document
   button_text: Download

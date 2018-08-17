@@ -40,6 +40,7 @@ speakers:
   case-study: ''
   external_link_url: http://uimagine.edu.au/docs/WeImagine-Ferguson-Visions.pdf
   external_link_label: Presentation Slides
+sessions: []
 outputs: []
 flickr-album: ''
 categories: innovation

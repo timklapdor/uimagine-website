@@ -80,6 +80,7 @@ speakers:
   photo: ''
   presentation: ''
   case-study: ''
+sessions: []
 outputs: []
 flickr-album: https://www.flickr.com/photos/uimagine/albums/72157670443515830
 program: ''

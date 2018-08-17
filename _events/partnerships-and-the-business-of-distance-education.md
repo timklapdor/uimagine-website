@@ -142,6 +142,7 @@ speakers:
   photo: "/uploads/Jason-Howarth.jpg"
   presentation: ''
   case-study: ''
+sessions: []
 outputs:
 - description: Online Education Business Framework
   button_text: Download

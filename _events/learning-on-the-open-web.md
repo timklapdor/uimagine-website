@@ -44,6 +44,7 @@ speakers:
   case-study: ''
   external_link_label: Presentation
   external_link_url: https://speakerdeck.com/cogdog/affordances-of-the-open-web-1
+sessions: []
 outputs: []
 flickr-album: ''
 program: ''

@@ -93,6 +93,7 @@ outputs:
 - description: LiveStream Recording
   button_text: Watch Video
   link: https://livestream.com/uimagine/data-community
+sessions: []
 flickr-album: ''
 categories: innovation
 ---
@@ -105,6 +106,6 @@ Our panel session was run by Pennie Scott (editor of the Wagga Weekly) and inclu
 * James Howell – Information Technology
 * Dr Tim Caton – Health.
 
-The event was co-sponsored by the Wagga Weekly and Wagga Wagga City Council. 
+The event was co-sponsored by the Wagga Weekly and Wagga Wagga City Council.
 
 {% include figure.html filename="data-future-solution-problem-speakers.jpg" caption="From left to right: David Bardos, James Howell, Tim Caton, Lyn Hay, Pennie Scott and Deb Blackwell." %}

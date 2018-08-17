@@ -258,6 +258,7 @@ speakers:
   external_link_url: https://uimagine.edu.au/docs/unconf1-Lindsay-Voicethread.pdf
   external_link_label: Voice Thread
   name: Julie Lindsay
+sessions: []
 outputs: []
 flickr-album: ''
 program: ''

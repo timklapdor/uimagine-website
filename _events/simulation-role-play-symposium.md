@@ -81,6 +81,7 @@ speakers:
   photo: ''
   presentation: ''
   case-study: ''
+sessions: []
 outputs: []
 flickr-album: https://www.flickr.com/photos/uimagine/albums/72157671424693526
 categories: innovation

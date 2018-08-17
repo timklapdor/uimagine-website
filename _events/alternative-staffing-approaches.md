@@ -88,6 +88,7 @@ speakers:
     Australian national co-operative multimedia companies initially established under
     federal government funding.
   case-study: uploads/alt-staff-michael-crock-case.pdf
+sessions: []
 outputs: []
 flickr-album: https://www.flickr.com/photos/uimagine/albums/72157658313869110
 ---

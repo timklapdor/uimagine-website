@@ -42,6 +42,7 @@ outputs:
   file: "/uploads/icde-Program.pdf"
   button_text: Download
 flickr-album: https://www.flickr.com/photos/uimagine/albums/72157673239569623
+sessions: []
 program: ''
 categories: open
 ---

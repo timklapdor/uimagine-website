@@ -1,14 +1,14 @@
 ---
-title: Tech Expo
+title: Technology Expo
 layout: event
 status: upcoming
-event-type: workshop
+event-type: expo
 location:
   info: CSU Wagga Campus
   details: The Crow Bar
-  lat: -35.064483
-  lng: 147.3526072
-  zoom: 17
+  lat: -35.064480
+  lng: 147.354860
+  zoom: 16
 hero:
   gradient_corner: top
   gradient_color_1: '0,0,0,.2'
@@ -22,10 +22,10 @@ categories:
 - weimagine
 - innovation
 program: innovation
-promotional-text: ''
-post-mortem-text: 'Join us for a hands on experience with virtual reality using 3D
+promotional-text: 'Join us for a hands on experience with virtual reality using 3D
   headsets and apps, 3D games and augmented reality via your own device, and demonstrations
-  of drone technology. '
+  of drone technology.'
+post-mortem-text: ''
 date-start: 2018-09-13 10:00:00 +1000
 date-finish: 2018-09-13 13:00:00 +1000
 no-bios: false
@@ -34,8 +34,7 @@ sessions: []
 outputs: []
 external_link: []
 flickr-album: ''
-published: false
-
+published: true
 ---
 **Students** will have an opportunity to see the technologies, discuss career opportunities and tell us your ideas about how they could be used to support your learning.
 
