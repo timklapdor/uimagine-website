@@ -125,10 +125,10 @@ fields:
   config:
     labelField: title
 pages:
+- _team/richard-brimson.md
 - _team/lyn-hay.md
 - _team/julie-lindsay.md
 - _team/val-peachey.md
 - _team/wendy-rowlands.md
-- _team/richard-brimson.md
 - _team/tim-klapdor.md
 - _team/leanne-white.md
