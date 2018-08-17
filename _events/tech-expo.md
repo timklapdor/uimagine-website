@@ -37,9 +37,9 @@ flickr-album: ''
 published: false
 
 ---
-Students will have an opportunity to see the technologies, discuss career opportunities and tell us your ideas about how they could be used to support your learning.
+**Students** will have an opportunity to see the technologies, discuss career opportunities and tell us your ideas about how they could be used to support your learning.
 
-This expo will give CSU staff an opportunity to see the technologies in action, explore how it can be used in teaching and learning in your discipline or profession.
+This expo will give **CSU Staff** an opportunity to see the technologies in action, explore how it can be used in teaching and learning in your discipline or profession.
 
 ## Exhibitors
 
