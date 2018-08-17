@@ -363,8 +363,8 @@ fields:
   hidden: false
   description: Add link to Flickr Albumn
 pages:
-- _events/using-learning-analytics-at-scale.md
 - _events/tech-expo.md
+- _events/using-learning-analytics-at-scale.md
 - _events/alternative-staffing-approaches.md
 - _events/simulation-role-play-symposium.md
 - _events/conversations-about-online-learning.md
