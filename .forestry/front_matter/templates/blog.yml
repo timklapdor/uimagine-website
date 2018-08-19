@@ -115,6 +115,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/welcome-to-the-world-of-mixed-reality.md
 - _posts/2018-08-03-get-ready-get-set-a-new-open-online-course-is-about-to-be-launched.md
 - _posts/2018-07-02-here-comes-dr-jekyll.md
 - _posts/2018-07-02-holistic-approaches-to-online-collaborative-learning-design.md
