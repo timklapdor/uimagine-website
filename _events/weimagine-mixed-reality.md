@@ -30,6 +30,137 @@ date-finish: 2018-09-13 03:00:00 +0000
 no-bios: false
 speakers: []
 sessions:
+- title: 'Drop in & Chat '
+  start: 2018-08-21 00:30:00 +0000
+  end: 2018-08-21 01:00:00 +0000
+  location_details: https://zoom.us/j/807458173
+  links:
+  - description: Calendar
+    button_text: Add to Calendar
+    link: https://cdn.csu.edu.au/__data/assets/file/0008/3088259/Drop-In-and-Chat-session-about-VR_AR_MR-weimagine-MR-2.ics
+  description: Drop in for a chat, ask questions or discuss ideas related to AR, VR
+    and Mixed Realities.
+  presenters:
+  - name: Tim Klapdor
+- title: Extending Reality in the Web Browser
+  start: 2018-08-23 02:00:00 +0000
+  end: 2018-08-23 03:00:00 +0000
+  location_details: https://zoom.us/j/685909822
+  description: |-
+    Imagine not having to download and install an app to experience or create Augmented and Virtual experiences, just open a URL and it just works...
+
+    This session will look at how utilising the web to deliver AR and VR educational content removes the initial on-boarding obstacles for the end user, and speeds up and decreases the cost to deliver as it works across various devices, without the need to re-develop for multiple platforms.
+
+    We'll look at what is possible on the web right now and where this is headed over the next 12-18 months as it continues to evolve at a blistering pace.
+  presenters:
+  - name: Alexandra Young
+    position: 'Head of Experience and Education, awe.media '
+  links:
+  - description: Calendar
+    button_text: Add to Calendar
+    link: https://cdn.csu.edu.au/__data/assets/file/0004/3083935/Extending-Reality-in-the-Web-Browser-weimagine-MR.ics
+  - description: Awe.media Link
+    button_text: awe.media
+    link: http://awe.media/
+- title: Drop in & Chat
+  start: 2018-08-28 00:30:00 +0000
+  end: 2018-08-28 01:00:00 +0000
+  location_details: https://zoom.us/j/796377667
+  description: Drop in for a chat, ask questions or discuss ideas related to AR, VR
+    and Mixed Realities.
+  presenters:
+  - name: Lyn Hay
+  links:
+  - description: Calendar
+    button_text: Add to Calendar
+    link: https://cdn.csu.edu.au/__data/assets/file/0010/3083914/Drop-In-and-Chat-session-about-VR-AR-MR_weimagine-MR.ics
+- title: The Tipping Point for AR/VR/MR
+  start: 2018-08-29 02:00:00 +0000
+  end: 2018-08-29 03:00:00 +0000
+  location_details: https://zoom.us/j/120918870
+  description: |-
+     
+
+    The global augmented reality market is projected to reach more than $150 billion by 2020, with opportunities emerging in a number of fields including defence, education, manufacturing, logistics, retail and e-commerce.
+
+    Rupert Deans, entrepreneur and founder of Australian-based pioneer, [Plattar](https://www.plattar.com), will explore how augmented reality will transform the workplace, product development, the customer experience and the way we interact with the world. We will discuss how businesses are using augmented reality today and the future applications to watch.
+  links:
+  - description: Calendar
+    button_text: Add to Calendar
+    link: https://cdn.csu.edu.au/__data/assets/file/0006/3088086/The-Tipping-Point-for-AR-VR-MR-weimagine-MR.ics
+  - description: Plattar
+    button_text: Plattar
+    link: https://www.plattar.com
+  presenters:
+  - position: Founder, Plattar
+    name: Rupert Dean
+- title: The Rise of No-Code Platforms and the Democratisation of App Creation for
+    Learning
+  start: 2018-08-30 02:00:00 +0000
+  location_details: https://zoom.us/j/376808676
+  description: |-
+    Cogniss is a low/no-code platform disrupting how we use mobile app technology to solve pressing challenges. It combines a simple visual app building interface with powerful gamification, big data and AR/VR capabilities, allowing anyone without coding knowledge to create sophisticated apps for learning and behaviour change.
+
+     Democratising app creation in this way not only amplifies the generation of user data, but when paired with deep learning technology, turns the platform into an intelligent, predictive system with the potential to diagnose learning issues earlier.
+  presenters:
+  - name: Leon Young
+    position: Founding CEO
+  - name: Anna Goldfeder
+    position: Product Manager
+  links:
+  - description: Calendar
+    button_text: Add to Calendar
+    link: https://cdn.csu.edu.au/__data/assets/file/0010/3083941/The-Rise-of-No-Code-Platforms-and-the-Democratisation-of-App-Creation-for-Learning.ics
+  - description: Find out more about cogniss
+    button_text: More about Cogniss
+    link: 'http://www.cogniss.com/ '
+  end: 2018-08-30 03:00:00 +0000
+- title: Drop in & Chat
+  start: 2018-09-04 00:30:00 +0000
+  end: 2018-09-04 03:00:00 +0000
+  location_details: https://zoom.us/j/946435989
+  description: Drop in for a chat, ask questions or discuss ideas related to AR, VR
+    and Mixed Realities
+  links:
+  - description: Calendar
+    button_text: Add to Calendar
+    link: https://cdn.csu.edu.au/__data/assets/file/0005/3083918/Drop-In-and-Chat-session-about-VR_-AR_-MR-weimagine-MR.ics
+  presenters:
+  - name: Tim Klapdor
+- title: 'Integrating Mixed Reality Pedagogy into Higher Education '
+  start: 2018-09-05 02:00:00 +0000
+  end: 2018-09-05 03:00:00 +0000
+  location_details: https://zoom.us/j/597347333
+  description: "Are you interested in integrating technology into your learning and
+    teaching experience, but don’t know where to start? Do you see a future involving
+    Augmented Reality, Mixed Reality and Virtual Reality and want to make sure you’re
+    not left behind? This presentation will talk about how Mixed Reality can be integrated
+    into your pedagogy, and give some case study examples of what we’ve done in our
+    lab, The [Mixed Reality Research Lab](http://www.mixedrealityresearch.com) over
+    the last five years. Come help us in forging a future where technologies such
+    as mixed reality can be used to inform innovative classroom practice. \n\nPre-reading:
+    \  \nCowling, M., & Birt, J. (2018). Pedagogy before Technology: A Design-Based
+    Research Approach to Enhancing Skills Development in Paramedic Science Using Mixed
+    Reality. Information, 9(2), 29. Retrieved from [http://www.mdpi.com/2078-2489/9/2/29/pdf](http://www.mdpi.com/2078-2489/9/2/29/pdf
+    \"http://www.mdpi.com/2078-2489/9/2/29/pdf\") and summary of Mixed Reality Research
+    Lab overview at [https://tinyurl.com/birt-mmrl2018](https://tinyurl.com/birt-mmrl2018
+    \"https://tinyurl.com/birt-mmrl2018\") \n\nFurther reading: Birt, J., Moore, E.,
+    & Cowling, M. (2017). Improving paramedic distance education through mobile mixed
+    reality simulation. Australasian Journal of Educational Technology, 33(6). Retrieved
+    from [https://ajet.org.au/index.php/AJET/article/view/3596/1493](https://ajet.org.au/index.php/AJET/article/view/3596/1493
+    \"https://ajet.org.au/index.php/AJET/article/view/3596/1493\") For work/outputs
+    from the Mixed Reality Research Lab for the areas of paramedics, anatomy education,
+    spatial communication, and/or network & ICT modelling, go to [http://www.mixedrealityresearch.com/#projects](http://www.mixedrealityresearch.com/#projects
+    \"http://www.mixedrealityresearch.com/#projects\") for details.     "
+  presenters:
+  - name: Dr James Birt
+    position: Associate Professor, Bond University
+  - name: Dr Michael Cowling
+    position: 'Senior Lecturer in Educational Technology, CQUniversity '
+  links:
+  - description: Calendar
+    button_text: Add to Calendar
+    link: https://cdn.csu.edu.au/__data/assets/file/0010/3088099/Integrating-Mixed-Reality-Pedagogy-into-Higher-Education-weimagine-MR.ics
 - title: Welcome to the world of Mixed Reality
   start: 2018-08-14 02:00:00 +0000
   end: 2018-08-14 03:00:00 +0000
@@ -98,137 +229,6 @@ sessions:
   - description: Calendar Invite
     button_text: Add to Calendar
     link: https://cdn.csu.edu.au/__data/assets/file/0005/3083189/Virtual-Reality-and-the-Teaching-of-Anatomy-and-Physiology-weimagine-MR.ics
-- title: 'Drop in & Chat '
-  start: 2018-08-21 10:30:00 +1000
-  end: 2018-08-21 11:00:00 +1000
-  location_details: https://zoom.us/j/807458173
-  links:
-  - description: Calendar
-    button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0008/3088259/Drop-In-and-Chat-session-about-VR_AR_MR-weimagine-MR-2.ics
-  description: Drop in for a chat, ask questions or discuss ideas related to AR, VR
-    and Mixed Realities.
-  presenters:
-  - name: Tim Klapdor
-- title: Extending Reality in the Web Browser
-  start: 2018-08-23 12:00:00 +1000
-  end: 2018-08-23 13:00:00 +1000
-  location_details: https://zoom.us/j/685909822
-  description: |-
-    Imagine not having to download and install an app to experience or create Augmented and Virtual experiences, just open a URL and it just works...
-
-    This session will look at how utilising the web to deliver AR and VR educational content removes the initial on-boarding obstacles for the end user, and speeds up and decreases the cost to deliver as it works across various devices, without the need to re-develop for multiple platforms.
-
-    We'll look at what is possible on the web right now and where this is headed over the next 12-18 months as it continues to evolve at a blistering pace.
-  presenters:
-  - name: Alexandra Young
-    position: 'Head of Experience and Education, awe.media '
-  links:
-  - description: Calendar
-    button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0004/3083935/Extending-Reality-in-the-Web-Browser-weimagine-MR.ics
-  - description: Awe.media Link
-    button_text: awe.media
-    link: http://awe.media/
-- title: Drop in & Chat
-  start: 2018-08-28 10:30:00 +1000
-  end: 2018-08-28 11:00:00 +1000
-  location_details: https://zoom.us/j/796377667
-  description: Drop in for a chat, ask questions or discuss ideas related to AR, VR
-    and Mixed Realities.
-  presenters:
-  - name: Lyn Hay
-  links:
-  - description: Calendar
-    button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0010/3083914/Drop-In-and-Chat-session-about-VR-AR-MR_weimagine-MR.ics
-- title: The Tipping Point for AR/VR/MR
-  start: 2018-08-29 12:00:00 +1000
-  end: 2018-08-29 13:00:00 +1000
-  location_details: https://zoom.us/j/120918870
-  description: |-
-     
-
-    The global augmented reality market is projected to reach more than $150 billion by 2020, with opportunities emerging in a number of fields including defence, education, manufacturing, logistics, retail and e-commerce.
-
-    Rupert Deans, entrepreneur and founder of Australian-based pioneer, [Plattar](https://www.plattar.com), will explore how augmented reality will transform the workplace, product development, the customer experience and the way we interact with the world. We will discuss how businesses are using augmented reality today and the future applications to watch.
-  links:
-  - description: Calendar
-    button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0006/3088086/The-Tipping-Point-for-AR-VR-MR-weimagine-MR.ics
-  - description: Plattar
-    button_text: Plattar
-    link: https://www.plattar.com
-  presenters:
-  - position: Founder, Plattar
-    name: Rupert Dean
-- title: The Rise of No-Code Platforms and the Democratisation of App Creation for
-    Learning
-  start: 2018-08-30 02:00:00 +0000
-  location_details: https://zoom.us/j/376808676
-  description: |-
-    Cogniss is a low/no-code platform disrupting how we use mobile app technology to solve pressing challenges. It combines a simple visual app building interface with powerful gamification, big data and AR/VR capabilities, allowing anyone without coding knowledge to create sophisticated apps for learning and behaviour change.
-
-     Democratising app creation in this way not only amplifies the generation of user data, but when paired with deep learning technology, turns the platform into an intelligent, predictive system with the potential to diagnose learning issues earlier.
-  presenters:
-  - name: Leon Young
-    position: Founding CEO
-  - name: Anna Goldfeder
-    position: Product Manager
-  links:
-  - description: Calendar
-    button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0010/3083941/The-Rise-of-No-Code-Platforms-and-the-Democratisation-of-App-Creation-for-Learning.ics
-  - description: Find out more about cogniss
-    button_text: More about Cogniss
-    link: 'http://www.cogniss.com/ '
-  end: 2018-08-30 03:00:00 +0000
-- title: Drop in & Chat
-  start: 2018-09-04 10:30:00 +1000
-  end: 2018-09-04 13:00:00 +1000
-  location_details: https://zoom.us/j/946435989
-  description: Drop in for a chat, ask questions or discuss ideas related to AR, VR
-    and Mixed Realities
-  links:
-  - description: Calendar
-    button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0005/3083918/Drop-In-and-Chat-session-about-VR_-AR_-MR-weimagine-MR.ics
-  presenters:
-  - name: Tim Klapdor
-- title: 'Integrating Mixed Reality Pedagogy into Higher Education '
-  start: 2018-09-05 12:00:00 +1000
-  end: 2018-09-05 13:00:00 +1000
-  location_details: https://zoom.us/j/597347333
-  description: "Are you interested in integrating technology into your learning and
-    teaching experience, but don’t know where to start? Do you see a future involving
-    Augmented Reality, Mixed Reality and Virtual Reality and want to make sure you’re
-    not left behind? This presentation will talk about how Mixed Reality can be integrated
-    into your pedagogy, and give some case study examples of what we’ve done in our
-    lab, The [Mixed Reality Research Lab](http://www.mixedrealityresearch.com) over
-    the last five years. Come help us in forging a future where technologies such
-    as mixed reality can be used to inform innovative classroom practice. \n\nPre-reading:
-    \  \nCowling, M., & Birt, J. (2018). Pedagogy before Technology: A Design-Based
-    Research Approach to Enhancing Skills Development in Paramedic Science Using Mixed
-    Reality. Information, 9(2), 29. Retrieved from [http://www.mdpi.com/2078-2489/9/2/29/pdf](http://www.mdpi.com/2078-2489/9/2/29/pdf
-    \"http://www.mdpi.com/2078-2489/9/2/29/pdf\") and summary of Mixed Reality Research
-    Lab overview at [https://tinyurl.com/birt-mmrl2018](https://tinyurl.com/birt-mmrl2018
-    \"https://tinyurl.com/birt-mmrl2018\") \n\nFurther reading: Birt, J., Moore, E.,
-    & Cowling, M. (2017). Improving paramedic distance education through mobile mixed
-    reality simulation. Australasian Journal of Educational Technology, 33(6). Retrieved
-    from [https://ajet.org.au/index.php/AJET/article/view/3596/1493](https://ajet.org.au/index.php/AJET/article/view/3596/1493
-    \"https://ajet.org.au/index.php/AJET/article/view/3596/1493\") For work/outputs
-    from the Mixed Reality Research Lab for the areas of paramedics, anatomy education,
-    spatial communication, and/or network & ICT modelling, go to [http://www.mixedrealityresearch.com/#projects](http://www.mixedrealityresearch.com/#projects
-    \"http://www.mixedrealityresearch.com/#projects\") for details.     "
-  presenters:
-  - name: Dr James Birt
-    position: Associate Professor, Bond University
-  - name: Dr Michael Cowling
-    position: 'Senior Lecturer in Educational Technology, CQUniversity '
-  links:
-  - description: Calendar
-    button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0010/3088099/Integrating-Mixed-Reality-Pedagogy-into-Higher-Education-weimagine-MR.ics
 outputs: []
 flickr-album: ''
 external_link: []
