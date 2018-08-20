@@ -188,6 +188,9 @@ sessions:
   - description: Audio
     button_text: Discussion Audio
     link: http://uimagine.edu.au/audio/weImagine-MR-Klapdor.mp3
+  - description: Slides
+    button_text: Presentation Slides
+    link: https://www.slideshare.net/uImagine_csu/welcome-to-the-world-of-mixed-reality
   youtube: MdYOZihRBDk
 - title: Virtual Reality and the Teaching of Anatomy and Physiology
   start: 2018-08-16 02:00:00 +0000
