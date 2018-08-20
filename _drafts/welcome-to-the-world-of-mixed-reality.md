@@ -12,7 +12,7 @@ hero:
   gradient_color_2: '0,0,0,.4'
   full_screen: false
   gradient_side: ''
-  image: ''
+  image: "/uploads/mixed-reality-icon.jpg"
 date: 2018-08-20 00:00:00 +0000
 excerpt: As we kick start our season here's some foundational concepts to understand
   these new technologies.
@@ -20,13 +20,15 @@ author: Tim Klapdor
 tags: []
 
 ---
+_This is a companion blog post to the presentation I gave, "Welcome to the World of Mixed Reality". There's a link to a video of that presentation and the slides at the end of the post._  
+
 There has always been a gap between the Virtual and the Physical, between what we imagine and what exists. Story telling is how we bought what was virtual to life. We used our imagination to realise what we can dream and express and turn it into our experience.  And we've  used technology to seek higher fidelity representation of the what is virtual - painting, text, photography, film, audio and special effects.  
 
 Constructing these virtual realities is something we have always tried to do because it provides a way to contextualise our experiences, to expand our thinking, to go beyond the mundane.  
 
 Computing has been part of our future imagining. Since the 50s computing has been melded into our science fiction, shaping the way we think and what the future could (and should) be.  Science fiction has often gone way ahead of contemporary technology to imagine the possible futures that computing opens up. It took a long time before digital environments were capable of doing anything beyond text.  But that didn’t stop us imagining. And then it happened, the technology got to a point were we could create the virtual via a wholly digital means.   
 
-Computer generated 3D graphics have allowed us to create purely digital objects that could be merged with the real world. At first we could just add what wasn’t possible via digital means because the time and expense was too great. And as processing power increased animation added and eventually whole worlds could be created and explored. At first low fidelity - polygon based worlds \[Star Fox\], but increasingly higher fidelity. Today 3D worlds are ubiquitous in gaming in film, and the technology has reached as point where not only is it realistic, but it is stunningly beautiful. 
+Computer generated 3D graphics have allowed us to create purely digital objects that could be merged with the real world. At first we could just add what wasn’t possible via digital means because the time and expense was too great. And as processing power increased animation added and eventually whole worlds could be created and explored. At first low fidelity - polygon based worlds, but increasingly higher fidelity. Today 3D worlds are ubiquitous in gaming in film, and the technology has reached as point where not only is it realistic, but it is stunningly beautiful. 
 
 How did all this happen? The underlying technology is 3D. The ability to map and create objects in space and across the XYZ - the 3 dimensions.  Once we got to this point in computing we had the ability to create space by mimicking the our physical reality. We could place objects in space, give them volume and dimensions.  
 
@@ -54,10 +56,24 @@ In AR the mobile screen act as windows - we peer virtual through it and can see 
 2. Overlaying Information 
 3. Extending the Physical 
 
-The most famous and widely known use of Augmented Reality is using it display 3D objects on top of a physical plane, like a floor or table top. This allows objects to be displayed to scale, or purposely made out of scale in order for them to be viewed from multiple angles and directions.  
+The most famous and widely known use of Augmented Reality is using it display 3D objects on top of a physical plane, like a floor or table top. This allows objects to be displayed to scale, or purposely made out of scale in order for them to be viewed from multiple angles and directions. You can use this to [display objects in your home](https://tinyurl.com/MRreadings "IKEA Place"), [play 3D games in a real environment]() and even [hijack as space](https://www.youtube.com/watch?time_continue=6&v=b9T2LVM7ynM "MoMA Hijack"). 
 
-Perhaps the more interesting use of AR is not necessarily bring in virtual objects but displaying information within the physical space.  
+Perhaps the more interesting use of AR is not necessarily bring in virtual objects but displaying information within the physical space. You can overlay physical objects with additional and contextual information - like [points of interest](https://twitter.com/AndrewProjDent/status/966740568708714498 "POI"),  [business cards](https://twitter.com/OsFalmer/status/1008736572185903105 "Business Cards"), [device instructions](https://twitter.com/mortenjust/status/1027183855692931072 "Remote Instructions") or [items in a shop](https://twitter.com/yumaSoerianto/status/1010789932745388032 "Nintendo Demo"). But perhaps more interesting is the ability for AR to extend a physical object. In this way we can turn static, 'dumb' objects into dynamic, plastic ones that can reshape and reform themselves for different purposes. [Printed object can come alive](https://twitter.com/robomex/status/1007006956622630913), [newspapers can deliver multimedia content](https://twitter.com/nathangitter/status/1010599486303981570) and devices can [extend beyond their physical constraints](https://twitter.com/jblefevre60/status/1026400738455388160 "Apple Watch"). 
 
-Mixed Reality is just that - a blend of both virtual and augmented technologies. Combing the the physical mapping capabilities of a mobile device with visual apparatus of googles Mixed Reality allows virtual objects to be anchored within the physical world. Instead of looking at the screen of a mobile, you look through screen and see both the physical and virtual world in front of.  
+Mixed Reality is just that - a blend of both virtual and augmented technologies. Combing the the physical mapping capabilities of a mobile device with visual apparatus of a set of googles, Mixed Reality allows virtual objects to be anchored within the physical world. Instead of looking at the screen of a mobile, you look through screen and see both the physical and virtual world overlaid on top of it.[ Microsoft's HoloLens demonstrates](https://www.youtube.com/watch?v=A784OdX8xzI) how this could look like and work. This technology is still embryonic but it has great potential, and as display technologies progress we may see this technology become more discrete and built in. 
 
-This technology is still embryonic but it has great potential.  
+We want to explore how these technologies could be used in an educational setting for a number of reasons. They have the ability to be immersive, allowing people to go beyond the physical constraints and possibilities. They have the potential to provide practical experiences in a safe environment, one where students can make mistake without consequence. Much like the flight simulators that have been an embedded part of pilot training for the last couple of decades. 
+
+There's also the ability to provide greater context for students, and to do this in their learning, not as feedback, but live and in-situ. Providing spaces that are virtual allows students to think beyond the constraints of place and time, to expand their thinking, doing and being. Finally, the technology can provide a way to excite learners, to get them more involved in their learning. What can we do when students want to engage?
+
+The rest of the [WeImagine Mixed Reality Season]({{ 'events/weimagine-mixed-reality.html' | relative_url }}) aims to explore this space. A range of events, discussions and presentation will provide an insight into the possible and provide our learning community with a way of engaging with the technology, to test drive it and play. Come and join us!
+
+Further [readings are available](https://tinyurl.com/MRreadings) and will be added to throughout the season. 
+
+The slides from this presentation: 
+
+{% include slideshare.html code="qUyjNAQ0ttJYns" %}
+
+The video from this presentation:
+
+{% include youtube.html id="MdYOZihRBDk" %}
