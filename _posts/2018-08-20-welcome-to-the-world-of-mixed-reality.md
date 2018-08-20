@@ -17,7 +17,10 @@ date: 2018-08-20 00:00:00 +0000
 excerpt: As we kick start our season here's some foundational concepts to understand
   these new technologies.
 author: Tim Klapdor
-tags: []
+tags:
+- augmented reality
+- virtual reality
+- mixed reality
 
 ---
 _This is a companion blog post to the presentation I gave, "Welcome to the World of Mixed Reality". There's a link to a video of that presentation and the slides at the end of the post._  
