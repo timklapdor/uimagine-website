@@ -192,43 +192,24 @@ sessions:
   start: 2018-08-16 02:00:00 +0000
   end: 2018-08-16 03:00:00 +0000
   location_details: 'https://zoom.us/j/265952679 '
-  description: "Students and educators alike live and work in a technology rich society,
-    transforming what teaching and learning looks like in the 21st century. As educators
-    in the 21st century, we need not ask, “Should technology be used in education?”
-    but instead be asking, “How should technology be used to help students achieve
-    and learn?” \n\n The 21st century is technologically rich and is comprised of
-    a new breed of students who have been exposed to technology since birth (Rothman,
-    2016). As educators therefore, we need to question how we teach, reach and engage
-    these students that can multitask and use technology to play, learn, communicate
-    and socialise. \n\nStudents working towards a degree in the Health Sciences are
-    required to undertake two first-year subjects in anatomy and physiology and this
-    is the context of this work. We know that our students are likely to vary significantly
-    in their education prior to university (Anderton, Evans, & Chivers, 2016) and
-    are likely to be kinaesthetic learners (Farkas, Mazurek, & Marone, 2016). Unfortunately,
-    it has been reported that many of these students either drop out or decide to
-    repeat these subjects before progressing in their chosen field (Entezari & Javdan,
-    2016; Schutte, 2016). Furthermore, students have reported that they underestimate
-    the amount of content and comprehensiveness of a first year anatomy and physiology
-    subject and that the teaching methods used can influence their ability to learn
-    the content (Eagleton, 2015).\n\nWith the aforementioned predisposition of attrition
-    that is inherent in our current student population, the need to promote 21st century
-    skills virtual reality (VR) has affordances that enhance the constructivist type
-    of science learning (Southgate, Smith, & Cheers, 2016) which can engage students,
-    improve scientific outcomes and assist in developing workforce skills (Gonski,
-    Arcus, Boston, Gould, Johnson, O’Brien, Perry, & Roberts, 2018). We present here,
-    how VR was integrated in the anatomy and physiology laboratory and its effect
-    on improving student’s motivation and engagement (Hicks, MacDonald, & Martin,
-    2017), as well as promoting real world connections (Vygotsky, 1977), collaboration,
-    deeper learning (Levy & Murnanes, 2006) and 21st century skill development."
+  description: |-
+    Students and educators alike live and work in a technology rich society, transforming what teaching and learning looks like in the 21st century. As educators in the 21st century, we need not ask, “Should technology be used in education?” but instead be asking, “How should technology be used to help students achieve and learn?”
+
+    The 21st century is technologically rich and is comprised of a new breed of students who have been exposed to technology since birth (Rothman, 2016). As educators therefore, we need to question how we teach, reach and engage these students that can multitask and use technology to play, learn, communicate and socialise.
+
+    Students working towards a degree in the Health Sciences are required to undertake two first-year subjects in anatomy and physiology and this is the context of this work. We know that our students are likely to vary significantly in their education prior to university (Anderton, Evans, & Chivers, 2016) and are likely to be kinaesthetic learners (Farkas, Mazurek, & Marone, 2016). Unfortunately, it has been reported that many of these students either drop out or decide to repeat these subjects before progressing in their chosen field (Entezari & Javdan, 2016; Schutte, 2016). Furthermore, students have reported that they underestimate the amount of content and comprehensiveness of a first year anatomy and physiology subject and that the teaching methods used can influence their ability to learn the content (Eagleton, 2015).
+
+    With the aforementioned predisposition of attrition that is inherent in our current student population, the need to promote 21st century skills virtual reality (VR) has affordances that enhance the constructivist type of science learning (Southgate, Smith, & Cheers, 2016) which can engage students, improve scientific outcomes and assist in developing workforce skills (Gonski, Arcus, Boston, Gould, Johnson, O’Brien, Perry, & Roberts, 2018). We present here, how VR was integrated in the anatomy and physiology laboratory and its effect on improving student’s motivation and engagement (Hicks, MacDonald, & Martin, 2017), as well as promoting real world connections (Vygotsky, 1977), collaboration, deeper learning (Levy & Murnanes, 2006) and 21st century skill development.
   presenters:
   - name: 'Natalia Bilton '
     position: Lecturer
   - name: 'Clare Chapman '
     position: Associate Lecturer
   links:
-  - description: Calendar Invite
-    button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0005/3083189/Virtual-Reality-and-the-Teaching-of-Anatomy-and-Physiology-weimagine-MR.ics
+  - description: Audio
+    button_text: Discussion Audio
+    link: http://uimagine.edu.au/audio/weImagine-MR-Chapman.mp3
+  youtube: https://youtu.be/ynJiLsah6JQ
 outputs: []
 flickr-album: ''
 external_link: []
