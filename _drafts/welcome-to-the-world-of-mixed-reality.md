@@ -38,7 +38,7 @@ Once we had the computing power we could connect digital objects, place them tog
 
 The main convention however is that we have been stuck with viewing these visuals on a screen - looking at a plane at the imagined reality. 
 
-![](/uploads/MixedReality-Slides_Page_21.jpg)
+![]({{ site.baseurl }}/uploads/MixedReality-Slides_Page_21.jpg)
 
 The virtual has only ever lived on the screen - behind the glass. They maybe beautiful but they are unattainable, something that we see through another media. But technology is catching up. 
 
