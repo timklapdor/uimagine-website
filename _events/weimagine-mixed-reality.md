@@ -188,6 +188,7 @@ sessions:
   - description: Audio
     button_text: Discussion Audio
     link: http://uimagine.edu.au/audio/weImagine-MR-Klapdor.mp3
+  youtube: MdYOZihRBDk
 - title: Virtual Reality and the Teaching of Anatomy and Physiology
   start: 2018-08-16 02:00:00 +0000
   end: 2018-08-16 03:00:00 +0000
