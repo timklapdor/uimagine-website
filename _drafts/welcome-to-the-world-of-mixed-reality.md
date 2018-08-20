@@ -53,4 +53,11 @@ In AR the mobile screen act as windows - we peer virtual through it and can see 
 1. Displaying the Virtual  
 2. Overlaying Information 
 3. Extending the Physical 
-4. 
+
+The most famous and widely known use of Augmented Reality is using it display 3D objects on top of a physical plane, like a floor or table top. This allows objects to be displayed to scale, or purposely made out of scale in order for them to be viewed from multiple angles and directions.  
+
+Perhaps the more interesting use of AR is not necessarily bring in virtual objects but displaying information within the physical space.  
+
+Mixed Reality is just that - a blend of both virtual and augmented technologies. Combing the the physical mapping capabilities of a mobile device with visual apparatus of googles Mixed Reality allows virtual objects to be anchored within the physical world. Instead of looking at the screen of a mobile, you look through screen and see both the physical and virtual world in front of.  
+
+This technology is still embryonic but it has great potential.  
