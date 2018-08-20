@@ -209,7 +209,7 @@ sessions:
   - description: Audio
     button_text: Discussion Audio
     link: http://uimagine.edu.au/audio/weImagine-MR-Chapman.mp3
-  youtube: https://youtu.be/ynJiLsah6JQ
+  youtube: ynJiLsah6JQ
 outputs: []
 flickr-album: ''
 external_link: []
