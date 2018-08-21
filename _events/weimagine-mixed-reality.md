@@ -210,6 +210,9 @@ sessions:
   - name: 'Clare Chapman '
     position: Associate Lecturer
   links:
+  - description: Slides
+    button_text: Presentation Slides
+    link: https://www.slideshare.net/uImagine_csu/virtual-reality-the-teaching-of-anatomy-physiology
   - description: Audio
     button_text: Discussion Audio
     link: http://uimagine.edu.au/audio/weImagine-MR-Chapman.mp3
