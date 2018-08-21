@@ -33,7 +33,7 @@ sessions:
 - title: 'Drop in & Chat '
   start: 2018-08-21 00:30:00 +0000
   end: 2018-08-21 01:00:00 +0000
-  location_details: https://zoom.us/j/807458173
+  location_details: https://zoom.us/j/409816743
   links:
   - description: Calendar
     button_text: Add to Calendar
