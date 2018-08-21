@@ -192,7 +192,7 @@ sessions:
     button_text: Presentation Slides
     link: https://www.slideshare.net/uImagine_csu/welcome-to-the-world-of-mixed-reality
   youtube: MdYOZihRBDk
-- title: Virtual Reality and the Teaching of Anatomy and Physiology
+- title: Virtual Reality & the Teaching of Anatomy & Physiology
   start: 2018-08-16 02:00:00 +0000
   end: 2018-08-16 03:00:00 +0000
   location_details: 'https://zoom.us/j/265952679 '
