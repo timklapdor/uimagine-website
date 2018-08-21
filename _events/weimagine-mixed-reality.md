@@ -30,18 +30,6 @@ date-finish: 2018-09-13 03:00:00 +0000
 no-bios: false
 speakers: []
 sessions:
-- title: 'Drop in & Chat '
-  start: 2018-08-21 00:30:00 +0000
-  end: 2018-08-21 01:00:00 +0000
-  location_details: https://zoom.us/j/409816743
-  links:
-  - description: Calendar
-    button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0008/3088259/Drop-In-and-Chat-session-about-VR_AR_MR-weimagine-MR-2.ics
-  description: Drop in for a chat, ask questions or discuss ideas related to AR, VR
-    and Mixed Realities.
-  presenters:
-  - name: Tim Klapdor
 - title: Extending Reality in the Web Browser
   start: 2018-08-23 02:00:00 +0000
   end: 2018-08-23 03:00:00 +0000
