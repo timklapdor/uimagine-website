@@ -202,7 +202,7 @@ sessions:
   - description: Awe.media Link
     button_text: awe.media
     link: http://awe.media/
-  youtube: Fq5eEG_frk4
+  youtube: ''
 outputs: []
 flickr-album: ''
 external_link: []
