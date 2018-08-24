@@ -30,26 +30,6 @@ date-finish: 2018-09-13 03:00:00 +0000
 no-bios: false
 speakers: []
 sessions:
-- title: Extending Reality in the Web Browser
-  start: 2018-08-23 02:00:00 +0000
-  end: 2018-08-23 03:00:00 +0000
-  location_details: https://zoom.us/j/685909822
-  description: |-
-    Imagine not having to download and install an app to experience or create Augmented and Virtual experiences, just open a URL and it just works...
-
-    This session will look at how utilising the web to deliver AR and VR educational content removes the initial on-boarding obstacles for the end user, and speeds up and decreases the cost to deliver as it works across various devices, without the need to re-develop for multiple platforms.
-
-    We'll look at what is possible on the web right now and where this is headed over the next 12-18 months as it continues to evolve at a blistering pace.
-  presenters:
-  - name: Alexandra Young
-    position: 'Head of Experience and Education, awe.media '
-  links:
-  - description: Calendar
-    button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0004/3083935/Extending-Reality-in-the-Web-Browser-weimagine-MR.ics
-  - description: Awe.media Link
-    button_text: awe.media
-    link: http://awe.media/
 - title: Drop in & Chat
   start: 2018-08-28 00:30:00 +0000
   end: 2018-08-28 01:00:00 +0000
@@ -205,6 +185,24 @@ sessions:
     button_text: Discussion Audio
     link: http://uimagine.edu.au/audio/weImagine-MR-Chapman.mp3
   youtube: ynJiLsah6JQ
+- title: Extending Reality in the Web Browser
+  start: 2018-08-23 02:00:00 +0000
+  end: 2018-08-23 03:00:00 +0000
+  location_details: https://zoom.us/j/685909822
+  description: |-
+    Imagine not having to download and install an app to experience or create Augmented and Virtual experiences, just open a URL and it just works...
+
+    This session will look at how utilising the web to deliver AR and VR educational content removes the initial on-boarding obstacles for the end user, and speeds up and decreases the cost to deliver as it works across various devices, without the need to re-develop for multiple platforms.
+
+    We'll look at what is possible on the web right now and where this is headed over the next 12-18 months as it continues to evolve at a blistering pace.
+  presenters:
+  - name: Alexandra Young
+    position: 'Head of Experience and Education, awe.media '
+  links:
+  - description: Awe.media Link
+    button_text: awe.media
+    link: http://awe.media/
+  youtube: Fq5eEG_frk4
 outputs: []
 flickr-album: ''
 external_link: []
