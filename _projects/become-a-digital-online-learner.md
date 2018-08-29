@@ -49,4 +49,4 @@ Join this course by registering through the [Become a digital online learner lan
 
 For more information please contact:
 
-\[Julie Lindsay\](mailto:jlindsay@csu.edu.au?subject=Web Inquiry - More Information on Become a Digital Online Learner) - _Open Pathways Design Leader_
+[Julie Lindsay](mailto:jlindsay@csu.edu.au?subject=Web Inquiry - More Information on Become a Digital Online Learner) - _Open Pathways Design Leader_
