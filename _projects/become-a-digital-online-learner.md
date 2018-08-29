@@ -39,16 +39,14 @@ This online course is designed to support you, the learner, anywhere at anytime 
 
 In this course you explore online learning, investigate digital literacy, technologies and tools, to boost your success as an online learner. You will review and develop your digital, online learning skills with hands on activities. You also have an opportunity to build your online identity, engage with other learners and demonstrate your learning in a fun scrapbook challenge!
 
-The course is designed for you to start anytime and it allows you to work at your own pace. After successfully completing all four modules (roughly about 40 hours) you will receive your certificate of completion.  
+The course is designed for you to start anytime and it allows you to work at your own pace. After successfully completing all four modules (roughly about 40 hours) you will receive your certificate of completion.
 
 ## How do you participate?
 
-The course is run using the [Open Learning](https://www.openlearning.com/csu/) platform to allow interested participants from anywhere in the world to join in. It will launch in mid-August, 2018.
+The course is run using the [Open Learning](https://www.openlearning.com/csu/) platform to allow interested participants from anywhere in the world to join in. It launched in mid-August, 2018 and is ongoing.
 
-Register your interest in joining this course by completing this online form.
-
-[REGISTER NOW!](https://tinyurl.com/CSU-DOL){: .action-btn }
+Join this course by registering through the [Become a digital online learner landing page](https://www.openlearning.com/csu/courses/become-a-digital-online-learner?showLanding=true).
 
 For more information please contact:
 
-[Julie Lindsay](mailto:jlindsay@csu.edu.au?subject=Web Inquiry - More Informatoion on Become a Digital Online Learner) - *Open Pathways Design Leader*
+\[Julie Lindsay\](mailto:jlindsay@csu.edu.au?subject=Web Inquiry - More Informatoion on Become a Digital Online Learner) - _Open Pathways Design Leader_
