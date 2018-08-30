@@ -1,5 +1,5 @@
 ---
-title: The Digital Online Learner Skill Framework
+title: The Digital Online Learner Skills Framework
 layout: post
 category: Open Education
 hashtags:
@@ -21,7 +21,7 @@ tags: []
 ---
 Have you heard about the **'Get ready, get set, become a digital online learner'** free, open online course yet? This course, designed by uImagine Open Pathways team and available via the [openlearning.com/csu](https://www.openlearning.com/csu/) portal, provides skills for people of all ages to learn more about how to be successful when learning online. Is this something you want to do?
 
-One of the topics in the course introduces the **'Digital online learner skill framework'**. This was developed to explore, consider and adopt essential skills for digital online learning.
+One of the topics in the course introduces the **'Digital online learner skills framework'**. This was developed to explore, consider and adopt essential skills for digital online learning.
 
 Do you know what essential skills are needed for digital online learning? to be a digital online learner you are able to:
 
