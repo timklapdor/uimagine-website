@@ -19,7 +19,7 @@ author: Julie Lindsay
 tags: []
 
 ---
-Have you heard about the 'Get ready, get set, become a digital online learner' free, open online course yet? This course, designed by uImagine Open Pathways team and available via the [openlearning.com/csu](https://www.openlearning.com/csu/) portal, provides skills for people of all ages to learn more about how to be successful when learning online. Is this something you want to do?
+Have you heard about the **'Get ready, get set, become a digital online learner'** free, open online course yet? This course, designed by uImagine Open Pathways team and available via the [openlearning.com/csu](https://www.openlearning.com/csu/) portal, provides skills for people of all ages to learn more about how to be successful when learning online. Is this something you want to do?
 
 One of the topics in the course introduces the **'Digital online learners skill framework'**. This was developed to explore, consider and adopt essential skills for digital online learning.
 
