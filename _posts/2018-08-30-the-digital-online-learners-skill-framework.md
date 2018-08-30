@@ -23,7 +23,7 @@ Have you heard about the **'Get ready, get set, become a digital online learner'
 
 One of the topics in the course introduces the **'Digital online learner skills framework'**. This was developed to explore, consider and adopt essential skills for digital online learning.
 
-Do you know what essential skills are needed for digital online learning? to be a digital online learner you are able to:
+Do you know what essential skills are needed for digital online learning? As a digital online learner you are able to:
 
 * **Connect** - with information and learners in your PLN and PLCs
 * **Communicate** - using different strategies and tools
