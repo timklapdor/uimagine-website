@@ -14,13 +14,27 @@ hero:
   gradient_side: ''
   image: ''
 date: 2018-08-30 00:00:00 +0000
-excerpt: erer
+excerpt: Essential skills needed to be a digital online learner are shared via this
+  skills framework
 author: Julie Lindsay
 tags: []
 
 ---
-Have you joined and explored the 'Get ready, get set, become a digital online learner' free, open online course yet? This course, designed by uImagine Open Pathways team, provides skills for people of all ages to learn more about how to be successful when learning online. Is this you? Come on in!
+Have you heard about the 'Get ready, get set, become a digital online learner' free, open online course yet? This course, designed by uImagine Open Pathways team, provides skills for people of all ages to learn more about how to be successful when learning online. Is this for you? Come on in!
 
-One of the topics in the course introduces the 'Digital online learners skill framework'. We developed this for you to explore, consider and develop essential skills for digital online learning.
+One of the topics in the course introduces the **'Digital online learners skill framework'**. This was developed to explore, consider and adopt essential skills for digital online learning.
+
+Do you know what essential skills are needed for digital online learning? to be a digital online learner you are able to:
+
+* **Connect** - with information and learners in your PLN and PLCs
+* **Communicate** - using different strategies and tools
+* Develop **Citizenship** - demonstrating appropriate behaviour
+* **Collaborate** - applying norms of behaviour for success with virtual teams
+* **Create** - a professional online identity and digital multimedia products
+* Apply **Choice** - for informed selection and correct use of online tools
+
+Access the interactive tool below to learn more about each skill.
 
 <iframe src="https://h5p.csu.edu.au/openlearningtasters/wp-admin/admin-ajax.php?action=h5p_embed&id=7" width="686" height="711" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.csu.edu.au/openlearningtasters/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+Want to learn more? Join the [digital learner online course]() now.
