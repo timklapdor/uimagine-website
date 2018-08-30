@@ -20,7 +20,7 @@ author: Julie Lindsay
 tags: []
 
 ---
-Have you heard about the 'Get ready, get set, become a digital online learner' free, open online course yet? This course, designed by uImagine Open Pathways team, provides skills for people of all ages to learn more about how to be successful when learning online. Is this for you? Come on in!
+Have you heard about the 'Get ready, get set, become a digital online learner' free, open online course yet? This course, designed by uImagine Open Pathways team and available via the [openlearning.com/csu](https://www.openlearning.com/csu/) portal, provides skills for people of all ages to learn more about how to be successful when learning online. Is this something you want to do?
 
 One of the topics in the course introduces the **'Digital online learners skill framework'**. This was developed to explore, consider and adopt essential skills for digital online learning.
 
@@ -33,8 +33,10 @@ Do you know what essential skills are needed for digital online learning? to be 
 * **Create** - a professional online identity and digital multimedia products
 * Apply **Choice** - for informed selection and correct use of online tools
 
-Access the interactive tool below to learn more about each skill.
+Access the interactive tool below to learn more about each skill. Click on each of the '+' signs and further information explaining each element/skill will pop out.
 
 <iframe src="https://h5p.csu.edu.au/openlearningtasters/wp-admin/admin-ajax.php?action=h5p_embed&id=7" width="686" height="711" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.csu.edu.au/openlearningtasters/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 Want to learn more? Join the [digital learner online course]() now.
+
+Read more about [Open Education]() at CSU.
