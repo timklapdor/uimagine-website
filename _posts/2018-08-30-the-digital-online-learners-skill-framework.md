@@ -14,8 +14,7 @@ hero:
   gradient_side: ''
   image: "/uploads/digital_skills.png"
 date: 2018-08-30 00:00:00 +0000
-excerpt: Essential skills needed to be a digital online learner are shared via this
-  skills framework
+excerpt: 'What are the essential skills needed to be a digital online learner? '
 author: Julie Lindsay
 tags: []
 
