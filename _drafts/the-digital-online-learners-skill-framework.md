@@ -12,7 +12,7 @@ hero:
   gradient_color_2: '0,0,0,.4'
   full_screen: false
   gradient_side: ''
-  image: ''
+  image: "/uploads/digital_skills.png"
 date: 2018-08-30 00:00:00 +0000
 excerpt: Essential skills needed to be a digital online learner are shared via this
   skills framework
