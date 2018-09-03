@@ -31,60 +31,6 @@ no-bios: false
 speakers: []
 sessions:
 - title: Drop in & Chat
-  start: 2018-08-28 00:30:00 +0000
-  end: 2018-08-28 01:00:00 +0000
-  location_details: https://zoom.us/j/796377667
-  description: Drop in for a chat, ask questions or discuss ideas related to AR, VR
-    and Mixed Realities.
-  presenters:
-  - name: Lyn Hay
-  links:
-  - description: Calendar
-    button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0010/3083914/Drop-In-and-Chat-session-about-VR-AR-MR_weimagine-MR.ics
-- title: The Tipping Point for AR/VR/MR
-  start: 2018-08-29 02:00:00 +0000
-  end: 2018-08-29 03:00:00 +0000
-  location_details: https://zoom.us/j/120918870
-  description: |-
-     
-
-    The global augmented reality market is projected to reach more than $150 billion by 2020, with opportunities emerging in a number of fields including defence, education, manufacturing, logistics, retail and e-commerce.
-
-    Rupert Deans, entrepreneur and founder of Australian-based pioneer, [Plattar](https://www.plattar.com), will explore how augmented reality will transform the workplace, product development, the customer experience and the way we interact with the world. We will discuss how businesses are using augmented reality today and the future applications to watch.
-  links:
-  - description: Calendar
-    button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0006/3088086/The-Tipping-Point-for-AR-VR-MR-weimagine-MR.ics
-  - description: Plattar
-    button_text: Plattar
-    link: https://www.plattar.com
-  presenters:
-  - position: Founder, Plattar
-    name: Rupert Dean
-- title: The Rise of No-Code Platforms and the Democratisation of App Creation for
-    Learning
-  start: 2018-08-30 02:00:00 +0000
-  location_details: https://zoom.us/j/376808676
-  description: |-
-    Cogniss is a low/no-code platform disrupting how we use mobile app technology to solve pressing challenges. It combines a simple visual app building interface with powerful gamification, big data and AR/VR capabilities, allowing anyone without coding knowledge to create sophisticated apps for learning and behaviour change.
-
-     Democratising app creation in this way not only amplifies the generation of user data, but when paired with deep learning technology, turns the platform into an intelligent, predictive system with the potential to diagnose learning issues earlier.
-  presenters:
-  - name: Leon Young
-    position: Founding CEO
-  - name: Anna Goldfeder
-    position: Product Manager
-  links:
-  - description: Calendar
-    button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0010/3083941/The-Rise-of-No-Code-Platforms-and-the-Democratisation-of-App-Creation-for-Learning.ics
-  - description: Find out more about cogniss
-    button_text: More about Cogniss
-    link: 'http://www.cogniss.com/ '
-  end: 2018-08-30 03:00:00 +0000
-  youtube: https://youtu.be/k-5Pii71bO4
-- title: Drop in & Chat
   start: 2018-09-04 00:30:00 +0000
   end: 2018-09-04 03:00:00 +0000
   location_details: https://zoom.us/j/946435989
@@ -96,6 +42,25 @@ sessions:
     link: https://cdn.csu.edu.au/__data/assets/file/0005/3083918/Drop-In-and-Chat-session-about-VR_-AR_-MR-weimagine-MR.ics
   presenters:
   - name: Tim Klapdor
+- title: We do it! 360° video, VR, AR, and other surprises at CSU
+  start: 2018-09-04 12:00:00 +1000
+  end: 2018-09-04 13:00:00 +1000
+  location_details: 'https://zoom.us/j/571962301 '
+  description: Are we going to be producers or consumers? Does anyone make 360° video,
+    3D-stereoscopic vision, interactive media, virtual and augmented reality content
+    at CSU? The answer is yes, but you already knew that from reading the title. Andrew
+    has over a decade’s experience teaching these topics, and embedded the essentials
+    into CSU’s Animation & Visual Effects core curriculum when establishing the degree
+    in 2007. Subjects like VFX220 Interactive Animation show students how to create
+    their own real-time immersive content with cutting-edge 360° cameras and the latest
+    3D game-engines. Ask Andrew anything about the cost, artistry, craftsmanship,
+    production processes, or if an enterprise is even worth doing? Come see what has
+    already been made at CSU and get a sneak peak of what’s coming next! The conference
+    consists of a 30 min presentation followed by a friendly Q&A session, then an
+    informed debate about where all of this technology is headed.
+  presenters:
+  - name: Andrew Hagan
+    position: Lecturer, Animation and Visual Effects
 - title: 'Integrating Mixed Reality Pedagogy into Higher Education '
   start: 2018-09-05 02:00:00 +0000
   end: 2018-09-05 03:00:00 +0000
@@ -204,6 +169,48 @@ sessions:
     button_text: awe.media
     link: http://awe.media/
   youtube: LeYtCo-TOOY
+- title: The Rise of No-Code Platforms and the Democratisation of App Creation for
+    Learning
+  start: 2018-08-30 02:00:00 +0000
+  location_details: https://zoom.us/j/376808676
+  description: |-
+    Cogniss is a low/no-code platform disrupting how we use mobile app technology to solve pressing challenges. It combines a simple visual app building interface with powerful gamification, big data and AR/VR capabilities, allowing anyone without coding knowledge to create sophisticated apps for learning and behaviour change.
+
+     Democratising app creation in this way not only amplifies the generation of user data, but when paired with deep learning technology, turns the platform into an intelligent, predictive system with the potential to diagnose learning issues earlier.
+  presenters:
+  - name: Leon Young
+    position: Founding CEO
+  - name: Anna Goldfeder
+    position: Product Manager
+  links:
+  - description: Calendar
+    button_text: Add to Calendar
+    link: https://cdn.csu.edu.au/__data/assets/file/0010/3083941/The-Rise-of-No-Code-Platforms-and-the-Democratisation-of-App-Creation-for-Learning.ics
+  - description: Find out more about cogniss
+    button_text: More about Cogniss
+    link: 'http://www.cogniss.com/ '
+  end: 2018-08-30 03:00:00 +0000
+  youtube: https://youtu.be/k-5Pii71bO4
+- title: The Tipping Point for AR/VR/MR
+  start: 2018-08-29 02:00:00 +0000
+  end: 2018-08-29 03:00:00 +0000
+  location_details: https://zoom.us/j/120918870
+  description: |-
+     
+
+    The global augmented reality market is projected to reach more than $150 billion by 2020, with opportunities emerging in a number of fields including defence, education, manufacturing, logistics, retail and e-commerce.
+
+    Rupert Deans, entrepreneur and founder of Australian-based pioneer, [Plattar](https://www.plattar.com), will explore how augmented reality will transform the workplace, product development, the customer experience and the way we interact with the world. We will discuss how businesses are using augmented reality today and the future applications to watch.
+  links:
+  - description: Calendar
+    button_text: Add to Calendar
+    link: https://cdn.csu.edu.au/__data/assets/file/0006/3088086/The-Tipping-Point-for-AR-VR-MR-weimagine-MR.ics
+  - description: Plattar
+    button_text: Plattar
+    link: https://www.plattar.com
+  presenters:
+  - position: Founder, Plattar
+    name: Rupert Dean
 outputs: []
 flickr-album: ''
 external_link: []
