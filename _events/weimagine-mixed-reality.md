@@ -212,7 +212,7 @@ sessions:
     button_text: More about Cogniss
     link: 'http://www.cogniss.com/ '
   end: 2018-08-30 03:00:00 +0000
-  youtube: https://youtu.be/k-5Pii71bO4
+  youtube: k-5Pii71bO4
 - title: The Tipping Point for AR/VR/MR
   start: 2018-08-29 02:00:00 +0000
   end: 2018-08-29 03:00:00 +0000
