@@ -214,7 +214,7 @@ sessions:
     position: Product Manager
   links:
   - description: Find out more about cogniss
-    button_text: More about Cogniss
+    button_text: Cogniss
     link: 'http://www.cogniss.com/ '
   - description: Discussion
     button_text: Discussion Audio
