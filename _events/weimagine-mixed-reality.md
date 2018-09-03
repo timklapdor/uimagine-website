@@ -61,6 +61,10 @@ sessions:
   presenters:
   - name: Andrew Hagan
     position: Lecturer, Animation and Visual Effects
+  links:
+  - description: Calendar
+    button_text: Add to Calendar
+    link: https://cdn.csu.edu.au/__data/assets/file/0003/3100872/We-do-it!-360-video-VR-AR-and-other-surprises-at-CSU-weimagine-MR.ics
 - title: 'Integrating Mixed Reality Pedagogy into Higher Education '
   start: 2018-09-05 02:00:00 +0000
   end: 2018-09-05 03:00:00 +0000
@@ -117,6 +121,10 @@ sessions:
   - name: 'Dr Patrea Anderson '
     position: Associate Professor for Nursing & Academic Director for Simulation and
       Visualisation
+  links:
+  - description: Calendar
+    button_text: Add to Calendar
+    link: https://cdn.csu.edu.au/__data/assets/file/0018/3100941/How-and-why-immersive-learning-works-at-USC-weimagine-MR.ics
 - title: Welcome to the world of Mixed Reality
   start: 2018-08-14 02:00:00 +0000
   end: 2018-08-14 03:00:00 +0000
@@ -205,9 +213,6 @@ sessions:
   - name: Anna Goldfeder
     position: Product Manager
   links:
-  - description: Calendar
-    button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0010/3083941/The-Rise-of-No-Code-Platforms-and-the-Democratisation-of-App-Creation-for-Learning.ics
   - description: Find out more about cogniss
     button_text: More about Cogniss
     link: 'http://www.cogniss.com/ '
@@ -224,9 +229,6 @@ sessions:
 
     Rupert Deans, entrepreneur and founder of Australian-based pioneer, [Plattar](https://www.plattar.com), will explore how augmented reality will transform the workplace, product development, the customer experience and the way we interact with the world. We will discuss how businesses are using augmented reality today and the future applications to watch.
   links:
-  - description: Calendar
-    button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0006/3088086/The-Tipping-Point-for-AR-VR-MR-weimagine-MR.ics
   - description: Plattar
     button_text: Plattar
     link: https://www.plattar.com
