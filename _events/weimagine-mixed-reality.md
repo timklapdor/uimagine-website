@@ -95,6 +95,28 @@ sessions:
   - description: Calendar
     button_text: Add to Calendar
     link: https://cdn.csu.edu.au/__data/assets/file/0010/3088099/Integrating-Mixed-Reality-Pedagogy-into-Higher-Education-weimagine-MR.ics
+- title: How and why immersive learning works at USC
+  start: 2018-09-10 12:00:00 +1000
+  end: 2018-09-10 13:00:00 +1000
+  location_details: https://zoom.us/j/957131969
+  description: "**Dr Patrea Anderson** has extensive academic experience in Nursing
+    Education. As Academic Director for Simulation and Visualisation for the University
+    of the Sunshine Coast (USC), Patrea’s primary focus is on utilisation of advanced
+    technologies in simulation and curricula integration. Her research interests include
+    clinical education, simulation (including visualisation and game-based simulation,
+    AR and VR applications), patient safety, professional competence and issues impacting
+    on the preparation and development of health professionals. Patrea was the recipient
+    of an OLT citation for leadership in simulation in 2015 and is a Higher Education
+    Academy (HEA) Senior Fellow. Patrea is a founding member of the academic group
+    that developed the Tag Team and Tag Team Patient Safety simulation modality. She
+    holds a number of governance roles. She is Portfolio Leader for Simulation and
+    Practice Learning for Undergraduate Programmes for the School of Nursing, Midwifery
+    and Paramedicine at USC, Chair of national simulation education collective InSPIRE
+    and The Australian chair for SimGHOST Australia."
+  presenters:
+  - name: 'Dr Patrea Anderson '
+    position: Associate Professor for Nursing & Academic Director for Simulation and
+      Visualisation
 - title: Welcome to the world of Mixed Reality
   start: 2018-08-14 02:00:00 +0000
   end: 2018-08-14 03:00:00 +0000
