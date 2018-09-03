@@ -149,12 +149,12 @@ sessions:
   - name: Tim Klapdor
     position: Online Learning Technology Leader
   links:
-  - description: Audio
-    button_text: Discussion Audio
-    link: http://uimagine.edu.au/audio/weImagine-MR-Klapdor.mp3
   - description: Slides
     button_text: Presentation Slides
     link: https://www.slideshare.net/uImagine_csu/welcome-to-the-world-of-mixed-reality
+  - description: Audio
+    button_text: Discussion Audio
+    link: http://uimagine.edu.au/audio/weImagine-MR-Klapdor.mp3
   youtube: MdYOZihRBDk
 - title: Virtual Reality & the Teaching of Anatomy & Physiology
   start: 2018-08-16 02:00:00 +0000
@@ -216,6 +216,9 @@ sessions:
   - description: Find out more about cogniss
     button_text: More about Cogniss
     link: 'http://www.cogniss.com/ '
+  - description: Discussion
+    button_text: Discussion Audio
+    link: http://uimagine.edu.au/audio/weImagine-MR-Cogniss.mp3
   end: 2018-08-30 03:00:00 +0000
   youtube: k-5Pii71bO4
 - title: The Tipping Point for AR/VR/MR
