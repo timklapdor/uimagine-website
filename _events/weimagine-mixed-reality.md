@@ -30,41 +30,6 @@ date-finish: 2018-09-13 03:00:00 +0000
 no-bios: false
 speakers: []
 sessions:
-- title: Drop in & Chat
-  start: 2018-09-04 00:30:00 +0000
-  end: 2018-09-04 03:00:00 +0000
-  location_details: https://zoom.us/j/946435989
-  description: Drop in for a chat, ask questions or discuss ideas related to AR, VR
-    and Mixed Realities
-  links:
-  - description: Calendar
-    button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0005/3083918/Drop-In-and-Chat-session-about-VR_-AR_-MR-weimagine-MR.ics
-  presenters:
-  - name: Tim Klapdor
-- title: We do it! 360° video, VR, AR, and other surprises at CSU
-  start: 2018-09-04 12:00:00 +1000
-  end: 2018-09-04 13:00:00 +1000
-  location_details: 'https://zoom.us/j/571962301 '
-  description: Are we going to be producers or consumers? Does anyone make 360° video,
-    3D-stereoscopic vision, interactive media, virtual and augmented reality content
-    at CSU? The answer is yes, but you already knew that from reading the title. Andrew
-    has over a decade’s experience teaching these topics, and embedded the essentials
-    into CSU’s Animation & Visual Effects core curriculum when establishing the degree
-    in 2007. Subjects like VFX220 Interactive Animation show students how to create
-    their own real-time immersive content with cutting-edge 360° cameras and the latest
-    3D game-engines. Ask Andrew anything about the cost, artistry, craftsmanship,
-    production processes, or if an enterprise is even worth doing? Come see what has
-    already been made at CSU and get a sneak peak of what’s coming next! The conference
-    consists of a 30 min presentation followed by a friendly Q&A session, then an
-    informed debate about where all of this technology is headed.
-  presenters:
-  - name: Andrew Hagan
-    position: Lecturer, Animation and Visual Effects
-  links:
-  - description: Calendar
-    button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0003/3100872/We-do-it!-360-video-VR-AR-and-other-surprises-at-CSU-weimagine-MR.ics
 - title: 'Integrating Mixed Reality Pedagogy into Higher Education '
   start: 2018-09-05 02:00:00 +0000
   end: 2018-09-05 03:00:00 +0000
@@ -238,6 +203,27 @@ sessions:
   presenters:
   - position: Founder, Plattar
     name: Rupert Dean
+- title: We do it! 360° video, VR, AR, and other surprises at CSU
+  start: 2018-09-04 12:00:00 +1000
+  end: 2018-09-04 13:00:00 +1000
+  location_details: 'https://zoom.us/j/571962301 '
+  description: Are we going to be producers or consumers? Does anyone make 360° video,
+    3D-stereoscopic vision, interactive media, virtual and augmented reality content
+    at CSU? The answer is yes, but you already knew that from reading the title. Andrew
+    has over a decade’s experience teaching these topics, and embedded the essentials
+    into CSU’s Animation & Visual Effects core curriculum when establishing the degree
+    in 2007. Subjects like VFX220 Interactive Animation show students how to create
+    their own real-time immersive content with cutting-edge 360° cameras and the latest
+    3D game-engines. Ask Andrew anything about the cost, artistry, craftsmanship,
+    production processes, or if an enterprise is even worth doing? Come see what has
+    already been made at CSU and get a sneak peak of what’s coming next! The conference
+    consists of a 30 min presentation followed by a friendly Q&A session, then an
+    informed debate about where all of this technology is headed.
+  presenters:
+  - name: Andrew Hagan
+    position: Lecturer, Animation and Visual Effects
+  links: []
+  youtube: MTMREIwR5Os
 outputs: []
 flickr-album: ''
 external_link: []
