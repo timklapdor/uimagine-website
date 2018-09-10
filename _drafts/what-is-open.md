@@ -29,3 +29,5 @@ Add slideshare?
 * To include slide share slides use {% include slideshare.html code="PASTE EMBED CODE HERE" %} To get the Embed Code copy the embed code snippet from Slide Share and grab the last part of the address in the iframe e.g In this case <iframe src="//www.slideshare.net/slideshow/embed_code/key/xIXB1w2y8ncGat" the code is xIXB1w2y8ncGat
 
 {% include youtube.html id="[AXHAQFfch3c](https://youtu.be/AXHAQFfch3c)" %}
+
+Stagg, A., Nguyen, L., Bossu, C., Partridge, H., Funk, J., & Judith, K. (2018). Open Educational Practices in Australia: A First-phase National Audit of Higher Education. 'The International Review Of Research In Open And Distributed Learning', 19(3). doi:http://dx.doi.org/10.19173/irrodl.v19i3.3441  - download copy at https://tinyurl.com/stagg2018 
