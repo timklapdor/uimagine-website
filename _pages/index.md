@@ -8,12 +8,12 @@ hero:
   gradient_side: 
   gradient_color_1: '0,0,0,.4'
   gradient_color_2: '0,0,0,.4'
-  image: "/uploads/mixed-reality-icon.jpg"
+  image: "/uploads/event-your-digital-life.jpg"
   promo-head: true
-  promo-text: we!magine Mixed Reality season <br> starts August 14th
+  promo-text: Your Digital Life Community Event <br> September 12
   button_class: btn-ui-fuchia
-  button-text: Find Out More
-  button_link: events/weimagine-mixed-reality.html
+  button-text: Join Us
+  button_link: events/your-digital-life.html
 blurb:
 - full_screen: false
   gradient_corner: bottom
