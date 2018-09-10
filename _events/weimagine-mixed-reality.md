@@ -30,66 +30,6 @@ date-finish: 2018-09-13 03:00:00 +0000
 no-bios: false
 speakers: []
 sessions:
-- title: 'Integrating Mixed Reality Pedagogy into Higher Education '
-  start: 2018-09-05 02:00:00 +0000
-  end: 2018-09-05 03:00:00 +0000
-  location_details: https://zoom.us/j/597347333
-  description: "Are you interested in integrating technology into your learning and
-    teaching experience, but don’t know where to start? Do you see a future involving
-    Augmented Reality, Mixed Reality and Virtual Reality and want to make sure you’re
-    not left behind? This presentation will talk about how Mixed Reality can be integrated
-    into your pedagogy, and give some case study examples of what we’ve done in our
-    lab, The [Mixed Reality Research Lab](http://www.mixedrealityresearch.com) over
-    the last five years. Come help us in forging a future where technologies such
-    as mixed reality can be used to inform innovative classroom practice. \n\nPre-reading:
-    \  \nCowling, M., & Birt, J. (2018). Pedagogy before Technology: A Design-Based
-    Research Approach to Enhancing Skills Development in Paramedic Science Using Mixed
-    Reality. Information, 9(2), 29. Retrieved from [http://www.mdpi.com/2078-2489/9/2/29/pdf](http://www.mdpi.com/2078-2489/9/2/29/pdf
-    \"http://www.mdpi.com/2078-2489/9/2/29/pdf\") and summary of Mixed Reality Research
-    Lab overview at [https://tinyurl.com/birt-mmrl2018](https://tinyurl.com/birt-mmrl2018
-    \"https://tinyurl.com/birt-mmrl2018\") \n\nFurther reading: Birt, J., Moore, E.,
-    & Cowling, M. (2017). Improving paramedic distance education through mobile mixed
-    reality simulation. Australasian Journal of Educational Technology, 33(6). Retrieved
-    from [https://ajet.org.au/index.php/AJET/article/view/3596/1493](https://ajet.org.au/index.php/AJET/article/view/3596/1493
-    \"https://ajet.org.au/index.php/AJET/article/view/3596/1493\") For work/outputs
-    from the Mixed Reality Research Lab for the areas of paramedics, anatomy education,
-    spatial communication, and/or network & ICT modelling, go to [http://www.mixedrealityresearch.com/#projects](http://www.mixedrealityresearch.com/#projects
-    \"http://www.mixedrealityresearch.com/#projects\") for details.     "
-  presenters:
-  - name: Dr James Birt
-    position: Associate Professor, Bond University
-  - name: Dr Michael Cowling
-    position: 'Senior Lecturer in Educational Technology, CQUniversity '
-  links:
-  - description: Calendar
-    button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0010/3088099/Integrating-Mixed-Reality-Pedagogy-into-Higher-Education-weimagine-MR.ics
-- title: How and why immersive learning works at USC
-  start: 2018-09-10 12:00:00 +1000
-  end: 2018-09-10 13:00:00 +1000
-  location_details: https://zoom.us/j/957131969
-  description: "**Dr Patrea Anderson** has extensive academic experience in Nursing
-    Education. As Academic Director for Simulation and Visualisation for the University
-    of the Sunshine Coast (USC), Patrea’s primary focus is on utilisation of advanced
-    technologies in simulation and curricula integration. Her research interests include
-    clinical education, simulation (including visualisation and game-based simulation,
-    AR and VR applications), patient safety, professional competence and issues impacting
-    on the preparation and development of health professionals. Patrea was the recipient
-    of an OLT citation for leadership in simulation in 2015 and is a Higher Education
-    Academy (HEA) Senior Fellow. Patrea is a founding member of the academic group
-    that developed the Tag Team and Tag Team Patient Safety simulation modality. She
-    holds a number of governance roles. She is Portfolio Leader for Simulation and
-    Practice Learning for Undergraduate Programmes for the School of Nursing, Midwifery
-    and Paramedicine at USC, Chair of national simulation education collective InSPIRE
-    and The Australian chair for SimGHOST Australia."
-  presenters:
-  - name: 'Dr Patrea Anderson '
-    position: Associate Professor for Nursing & Academic Director for Simulation and
-      Visualisation
-  links:
-  - description: Calendar
-    button_text: Add to Calendar
-    link: https://cdn.csu.edu.au/__data/assets/file/0018/3100941/How-and-why-immersive-learning-works-at-USC-weimagine-MR.ics
 - title: Welcome to the world of Mixed Reality
   start: 2018-08-14 02:00:00 +0000
   end: 2018-08-14 03:00:00 +0000
@@ -224,6 +164,62 @@ sessions:
     position: Lecturer, Animation and Visual Effects
   links: []
   youtube: MTMREIwR5Os
+- title: 'Integrating Mixed Reality Pedagogy into Higher Education '
+  start: 2018-09-05 02:00:00 +0000
+  end: 2018-09-05 03:00:00 +0000
+  location_details: https://zoom.us/j/597347333
+  description: "Are you interested in integrating technology into your learning and
+    teaching experience, but don’t know where to start? Do you see a future involving
+    Augmented Reality, Mixed Reality and Virtual Reality and want to make sure you’re
+    not left behind? This presentation will talk about how Mixed Reality can be integrated
+    into your pedagogy, and give some case study examples of what we’ve done in our
+    lab, The [Mixed Reality Research Lab](http://www.mixedrealityresearch.com) over
+    the last five years. Come help us in forging a future where technologies such
+    as mixed reality can be used to inform innovative classroom practice. \n\nPre-reading:
+    \  \nCowling, M., & Birt, J. (2018). Pedagogy before Technology: A Design-Based
+    Research Approach to Enhancing Skills Development in Paramedic Science Using Mixed
+    Reality. Information, 9(2), 29. Retrieved from [http://www.mdpi.com/2078-2489/9/2/29/pdf](http://www.mdpi.com/2078-2489/9/2/29/pdf
+    \"http://www.mdpi.com/2078-2489/9/2/29/pdf\") and summary of Mixed Reality Research
+    Lab overview at [https://tinyurl.com/birt-mmrl2018](https://tinyurl.com/birt-mmrl2018
+    \"https://tinyurl.com/birt-mmrl2018\") \n\nFurther reading: Birt, J., Moore, E.,
+    & Cowling, M. (2017). Improving paramedic distance education through mobile mixed
+    reality simulation. Australasian Journal of Educational Technology, 33(6). Retrieved
+    from [https://ajet.org.au/index.php/AJET/article/view/3596/1493](https://ajet.org.au/index.php/AJET/article/view/3596/1493
+    \"https://ajet.org.au/index.php/AJET/article/view/3596/1493\") For work/outputs
+    from the Mixed Reality Research Lab for the areas of paramedics, anatomy education,
+    spatial communication, and/or network & ICT modelling, go to [http://www.mixedrealityresearch.com/#projects](http://www.mixedrealityresearch.com/#projects
+    \"http://www.mixedrealityresearch.com/#projects\") for details.     "
+  presenters:
+  - name: Dr James Birt
+    position: Associate Professor, Bond University
+  - name: Dr Michael Cowling
+    position: 'Senior Lecturer in Educational Technology, CQUniversity '
+  links: []
+  youtube: ZiS4-LBxXf8
+- title: How and why immersive learning works at USC
+  start: 2018-09-10 12:00:00 +1000
+  end: 2018-09-10 13:00:00 +1000
+  location_details: https://zoom.us/j/957131969
+  description: "**Dr Patrea Anderson** has extensive academic experience in Nursing
+    Education. As Academic Director for Simulation and Visualisation for the University
+    of the Sunshine Coast (USC), Patrea’s primary focus is on utilisation of advanced
+    technologies in simulation and curricula integration. Her research interests include
+    clinical education, simulation (including visualisation and game-based simulation,
+    AR and VR applications), patient safety, professional competence and issues impacting
+    on the preparation and development of health professionals. Patrea was the recipient
+    of an OLT citation for leadership in simulation in 2015 and is a Higher Education
+    Academy (HEA) Senior Fellow. Patrea is a founding member of the academic group
+    that developed the Tag Team and Tag Team Patient Safety simulation modality. She
+    holds a number of governance roles. She is Portfolio Leader for Simulation and
+    Practice Learning for Undergraduate Programmes for the School of Nursing, Midwifery
+    and Paramedicine at USC, Chair of national simulation education collective InSPIRE
+    and The Australian chair for SimGHOST Australia."
+  presenters:
+  - name: 'Dr Patrea Anderson '
+    position: Associate Professor for Nursing & Academic Director for Simulation and
+      Visualisation
+  links: []
+  youtube: RBsQSHJBvgI
 outputs: []
 flickr-album: ''
 external_link: []
