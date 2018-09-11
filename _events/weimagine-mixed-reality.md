@@ -131,8 +131,6 @@ sessions:
   end: 2018-08-29 03:00:00 +0000
   location_details: https://zoom.us/j/120918870
   description: |-
-     
-
     The global augmented reality market is projected to reach more than $150 billion by 2020, with opportunities emerging in a number of fields including defence, education, manufacturing, logistics, retail and e-commerce.
 
     Rupert Deans, entrepreneur and founder of Australian-based pioneer, [Plattar](https://www.plattar.com), will explore how augmented reality will transform the workplace, product development, the customer experience and the way we interact with the world. We will discuss how businesses are using augmented reality today and the future applications to watch.
@@ -143,6 +141,7 @@ sessions:
   presenters:
   - position: Founder, Plattar
     name: Rupert Dean
+  youtube: _akrtU2E0gs
 - title: We do it! 360° video, VR, AR, and other surprises at CSU
   start: 2018-09-04 12:00:00 +1000
   end: 2018-09-04 13:00:00 +1000
