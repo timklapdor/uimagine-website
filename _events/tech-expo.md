@@ -43,7 +43,6 @@ This expo will give **CSU Staff** an opportunity to see the technologies in acti
 ## Exhibitors
 
 * School of Communication and Creative Industries (Virtual Reality)
-* School of Biomedical Sciences (VR)
 * awe.media (Augmented Reality)
 * JAR Aerospace (Drones)
 * Essential Energy (Drones)

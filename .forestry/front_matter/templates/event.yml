@@ -363,9 +363,9 @@ fields:
   hidden: false
   description: Add link to Flickr Albumn
 pages:
+- _events/tech-expo.md
 - _events/weimagine-mixed-reality.md
 - _pages/testing-audio.md
-- _events/tech-expo.md
 - _events/using-learning-analytics-at-scale.md
 - _events/alternative-staffing-approaches.md
 - _events/simulation-role-play-symposium.md
