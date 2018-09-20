@@ -363,6 +363,7 @@ fields:
   hidden: false
   description: Add link to Flickr Albumn
 pages:
+- _events/open-professional-learning-series.md
 - _events/tech-expo.md
 - _events/weimagine-mixed-reality.md
 - _pages/testing-audio.md
@@ -371,7 +372,6 @@ pages:
 - _events/simulation-role-play-symposium.md
 - _events/conversations-about-online-learning.md
 - _events/your-digital-life.md
-- _events/open-professional-learning-series.md
 - _events/learning-on-the-open-web.md
 - _events/lunch-and-learn-learning-analytics.md
 - _events/learning-analytics-steering-clear-of-failure.md

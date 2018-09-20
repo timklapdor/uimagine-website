@@ -52,7 +52,7 @@ sessions:
   - name: " Val Peachey"
   - name: Leanne White
   youtube: AXHAQFfch3c
-- title: Becoming Open
+- title: Becoming Open - You are more than your knowledge
   start: 2018-09-27 02:00:00 +0000
   end: 2018-09-27 03:00:00 +0000
   location_details: https://zoom.us/j/737911569
@@ -70,6 +70,11 @@ sessions:
   - link: https://cdn.csu.edu.au/__data/assets/file/0006/3073461/Open-PL-Series-Session-2-Becoming-Open.ics
     description: Becoming open
     button_text: Add to Calendar
+  presenters:
+  - name: Julie Lindsay
+    position: Open Pathways Design Leader
+    email: jlindsay@csu.edu.au
+    twitter: http://twitter.com/julielindsay
 - title: 'Panel Session: Open Challenges and Opportunities'
   start: 2018-10-25 01:30:00 +0000
   location_details: https://zoom.us/j/260223878
