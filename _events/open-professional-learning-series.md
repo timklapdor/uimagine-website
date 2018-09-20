@@ -63,6 +63,10 @@ sessions:
   presenters:
   - name: Julie Lindsay
   - name: Lenni Morkel-Kingsbury
+  links:
+  - description: Becoming open
+    button_text: Add to calendar
+    link: https://cdn.csu.edu.au/__data/assets/file/0006/3073461/Open-PL-Series-Session-2-Becoming-Open.ics
 - title: 'Panel Session: Open Challenges and Opportunities'
   start: 2018-10-25 01:30:00 +0000
   location_details: https://zoom.us/j/260223878
