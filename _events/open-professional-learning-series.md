@@ -85,6 +85,7 @@ sessions:
 outputs: []
 flickr-album: ''
 external_link: []
+published: false
 
 ---
 This series is the lead up to the weImagine:Open season which will be held October-November 2018.
