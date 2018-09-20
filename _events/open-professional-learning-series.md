@@ -57,7 +57,7 @@ sessions:
   end: 2018-09-27 13:00:00 +1000
   location_details: https://zoom.us/j/737911569
   description: |-
-    This session shifts the ‘What is open?’ discussion to becoming open. We explore the continuum of increasing openness and the dimensions of open education practice in terms of networking, teaching practice, values and designing for learning. We also explore the framing of open pedagogy through the balancing of privacy and openness, developing digital literacies, valuing social learning, and challenging traditional teaching roles. We draw on examples of our experiences with CSU Open Pathways courses, and highlight issues that may challenge academics in becoming open.
+    This session shifts the ‘What is open?’ discussion to 'Becoming open'. We explore the continuum of increasing openness and the dimensions of open education practice in terms of networking, teaching practice, values and designing for learning. We also explore the framing of open pedagogy through the balancing of privacy and openness, developing digital literacies, valuing social learning, and challenging traditional teaching roles. We draw on examples of our experiences with CSU Open Pathways courses, and highlight issues that may challenge academics in becoming open.
 
     Cronin, C. (2017). [Openness and praxis: Exploring the use of open educational practices in higher education](http://tinyurl.com/cronin2017). _The International Review of Research in Open and Distributed Learning_, 18(5). doi:[http://dx.doi.org/10.19173/irrodl.v18i5.3096 ](http://dx.doi.org/10.19173/irrodl.v18i5.3096 )
   presenters:
