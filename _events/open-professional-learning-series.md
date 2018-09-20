@@ -75,6 +75,10 @@ sessions:
     position: Open Pathways Design Leader
     email: jlindsay@csu.edu.au
     twitter: http://twitter.com/julielindsay
+  - name: Lenni Morkel-Kingsbury
+    position: Online Learning Designer
+    email: lmorkel-kingsbury@csu.edu.au
+    twitter: http://twitter.com/lennimk
 - title: 'Panel Session: Open Challenges and Opportunities'
   start: 2018-10-25 01:30:00 +0000
   location_details: https://zoom.us/j/260223878
