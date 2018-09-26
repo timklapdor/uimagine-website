@@ -62,7 +62,13 @@ sessions:
     Cronin, C. (2017). [Openness and praxis: Exploring the use of open educational practices in higher education](http://tinyurl.com/cronin2017). _The International Review of Research in Open and Distributed Learning_, 18(5). doi:[http://dx.doi.org/10.19173/irrodl.v18i5.3096 ](http://dx.doi.org/10.19173/irrodl.v18i5.3096 )
   presenters:
   - name: Julie Lindsay
+    position: Open Pathways Design Leader
+    email: jlindsay@csu.edu.au
+    twitter: "@julielindsay"
   - name: Lenni Morkel-Kingsbury
+    position: Online Learning Designer
+    email: lmorkel-kingsbury@csu.edu.au
+    twitter: "@lennimk"
   links:
   - description: Becoming open
     button_text: Add to calendar
