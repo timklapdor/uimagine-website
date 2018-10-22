@@ -8,12 +8,12 @@ hero:
   gradient_side: 
   gradient_color_1: '0,0,0,.4'
   gradient_color_2: '0,0,0,.4'
-  image: "/uploads/event-your-digital-life.jpg"
+  image: "/uploads/open-professional.png"
   promo-head: true
-  promo-text: Your Digital Life Community Event <br> September 12
+  promo-text: 'Join our upcoming panel session: <br> Open Challenges And Opportunities'
   button_class: btn-ui-fuchia
   button-text: Join Us
-  button_link: events/your-digital-life.html
+  button_link: events/open-professional-learning-series.html
 blurb:
 - full_screen: false
   gradient_corner: bottom
