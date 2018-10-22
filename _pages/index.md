@@ -12,7 +12,7 @@ hero:
   promo-head: true
   promo-text: 'Join our upcoming panel session: <br> Open Challenges And Opportunities'
   button_class: btn-ui-fuchia
-  button-text: Join Us
+  button-text: Find Out More
   button_link: events/open-professional-learning-series.html
 blurb:
 - full_screen: false
