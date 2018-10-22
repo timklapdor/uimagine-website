@@ -363,21 +363,21 @@ fields:
   hidden: false
   description: Add link to Flickr Albumn
 pages:
-- _events/open-professional-learning-series.md
-- _events/tech-expo.md
-- _events/weimagine-mixed-reality.md
-- _pages/testing-audio.md
-- _events/using-learning-analytics-at-scale.md
-- _events/alternative-staffing-approaches.md
-- _events/simulation-role-play-symposium.md
 - _events/conversations-about-online-learning.md
 - _events/your-digital-life.md
+- _events/weimagine-mixed-reality.md
+- _events/data-learning-preparing-for-the-future.md
+- _events/open-professional-learning-series.md
+- _events/using-learning-analytics-at-scale.md
+- _events/tech-expo.md
+- _events/alternative-staffing-approaches.md
+- _pages/testing-audio.md
+- _events/simulation-role-play-symposium.md
 - _events/learning-on-the-open-web.md
 - _events/lunch-and-learn-learning-analytics.md
 - _events/learning-analytics-steering-clear-of-failure.md
 - _events/partnerships-and-the-business-of-distance-education.md
 - _events/icde-presidents-summit.md
-- _events/data-learning-preparing-for-the-future.md
 - _events/data-the-future-solution-or-problem.md
 - _events/learning-analytics-symposium.md
 - _events/campus-the-cloud.md

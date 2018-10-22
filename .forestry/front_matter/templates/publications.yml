@@ -44,5 +44,5 @@ fields:
     description: Or add link if there's no file
   config:
     labelField: title
-data_files:
+pages:
 - _data/publications.yml
