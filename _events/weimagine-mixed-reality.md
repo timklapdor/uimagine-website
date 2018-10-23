@@ -1,7 +1,7 @@
 ---
 title: 'WeImagine: Mixed Reality'
 layout: event
-status: upcoming
+status: past
 event-type: conference
 location:
   info: Sessions Run Online
@@ -23,7 +23,8 @@ categories:
 - innovation
 promotional-text: Come and explore the future through Augmented, Virtual and Mixed
   Realities!
-post-mortem-text: ''
+post-mortem-text: This season set out to explore the future through Augmented, Virtual and Mixed
+  Realities!
 program: innovation
 date-start: 2018-08-14 02:00:00 +0000
 date-finish: 2018-09-13 03:00:00 +0000
@@ -224,10 +225,10 @@ flickr-album: ''
 external_link: []
 
 ---
-This professional learning season is being held over a 5 week period in the months of August and September.
+This professional learning season was held over a 5 week period in the months of August and September.
 
-Each week, we will be hosting two 1 hour online sessions, exploring concepts, issues, technologies, programs, and the affordances of virtual reality (VR), augmented reality (AR) and mixed reality (MR) in higher education.
+Each week, we hosted two 1 hour online sessions, exploring concepts, issues, technologies, programs, and the affordances of virtual reality (VR), augmented reality (AR) and mixed reality (MR) in higher education.
 
-Featured speakers include researchers, educators and industry leaders engaging in VR, AR and/or MR. Each online session consists of a 30 min presentation followed by a Q&A session, then open discussion on the ways these technologies could be used to support teaching and learning at CSU.
+Featured speakers included researchers, educators and industry leaders engaging in VR, AR and/or MR. Each online session consisted of a 30 min presentation followed by a Q&A session, then open discussion on the ways these technologies could be used to support teaching and learning at CSU.
 
-Calendar invites for each session and details on how to connect are listed below. More information will come and we'll be posting slides and recordings as soon as they're available!
+You can view the sessions in the videos below.

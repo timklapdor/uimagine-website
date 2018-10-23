@@ -1,7 +1,7 @@
 ---
 title: Your Digital Life
 layout: event
-status: upcoming
+status: past
 event-type: forum
 location:
   info: Wagga Wagga Council Chambers
@@ -23,7 +23,8 @@ categories:
 - innovation
 promotional-text: Join us to explore the next wave of technologies - **Drones**, **Augmented**
   & **Virtual Reality**. 
-post-mortem-text: ''
+post-mortem-text: This event provided a forum to explore the next wave of technologies - **Drones**, **Augmented**
+  & **Virtual Reality**.
 program: ''
 date-start: 2018-09-12 06:30:00 +0000
 date-finish: 2018-09-12 20:00:00 +1000
@@ -171,18 +172,6 @@ external_link:
   link_url: https://www.eventbrite.com.au/e/your-digital-life-tickets-48827100171
 
 ---
-A panel of local & national experts will demonstrate the potential of these new technologies & how it will effect our lives. You’ll be able to get hands on with the technology as well as a chance to talk with experts.
+A panel of local & national experts helped demonstrate the potential of these new technologies & how they will effect our lives. The speakers also provided an opportunity for those in attendance to get hands on with the technology and speak with the experts.
 
-Drones, Augmented Reality and Virtual Reality are becoming more and more embedded in our everyday digital life. Join u!magine, Charles Sturt University’s Innovation Lab,  on September 12 to let your imagination soar in our community conversation about these technologies. You’ll hear from experts, and be able to ask those curious questions and find out more! The possibilities are exciting and endless.
-
-Come and meet industry innovators, agriculture and aerospace adventurers and educational explorers. They are all using everyday technologies in ways that that we may never have imagined.
-
-Come and experience your Digital Life with us.
-
-Our panel includes: [Essential Energy](https://www.essentialenergy.com.au/), [JAR Aerospace](https://www.jar-aerospace.com.au/), [AWE media](https://awe.media/) and experts from Charles Sturt University.
-
-Tickets are **FREE** and available from [Eventbrite](https://www.eventbrite.com.au/e/your-digital-life-tickets-48827100171).
-
-[REGISTER NOW!](https://www.eventbrite.com.au/e/your-digital-life-tickets-48827100171){: .action-btn }
-
-Any enquiries please contact Wendy Rowlands - [(02) 6933 2567](tel:(02) 6933 2567)
+Drones, Augmented Reality and Virtual Reality are becoming more and more embedded in our everyday digital life. The panel presented on industry innovations in agriculture, aerospace, education and creative practices.
