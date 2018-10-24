@@ -53,8 +53,8 @@ sessions:
   - name: Leanne White
   youtube: AXHAQFfch3c
 - title: Becoming open
-  start: 2018-09-27 12:00:00 +1000
-  end: 2018-09-27 13:00:00 +1000
+  start: 2018-09-27 02:00:00 +0000
+  end: 2018-09-27 03:00:00 +0000
   location_details: https://zoom.us/j/737911569
   description: |-
     This session shifts the ‘What is open?’ discussion to 'Becoming open'. We explore the continuum of increasing openness and the dimensions of open education practice in terms of networking, teaching practice, values and designing for learning. We also explore the framing of open pedagogy through the balancing of privacy and openness, developing digital literacies, valuing social learning, and challenging traditional teaching roles. We draw on examples of our experiences with CSU Open Pathways courses, and highlight issues that may challenge academics in becoming open.
@@ -74,7 +74,7 @@ sessions:
     button_text: Add to calendar
     link: https://cdn.csu.edu.au/__data/assets/file/0006/3073461/Open-PL-Series-Session-2-Becoming-Open.ics
 - title: 'Panel Session: Open Challenges and Opportunities'
-  start: 2018-10-25 01:30:00 +0000
+  start: 2018-10-31 12:00:00 +1100
   location_details: https://zoom.us/j/260223878
   description: "In this session on open education, a select panel will discuss challenges
     and opportunities from different vantage points including design, marketing, and
@@ -90,7 +90,7 @@ sessions:
   - description: Open Challenges and Opportunities
     button_text: Add to Calendar
     link: https://cdn.csu.edu.au/__data/assets/file/0008/3073463/Open-PL-Series-Session-3-Panel-on-Open-Challenges-and-Opportunities.ics
-  end: 2018-10-25 02:30:00 +0000
+  end: 2018-10-31 12:00:00 +1100
 outputs: []
 flickr-album: ''
 external_link: []
