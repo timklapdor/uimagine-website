@@ -23,11 +23,11 @@ categories:
 - innovation
 promotional-text: Join us to explore the next wave of technologies - **Drones**, **Augmented**
   & **Virtual Reality**. 
-post-mortem-text: This event provided a forum to explore the next wave of technologies - **Drones**, **Augmented**
-  & **Virtual Reality**.
+post-mortem-text: This event provided a forum to explore the next wave of technologies
+  - **Drones**, **Augmented** & **Virtual Reality**.
 program: ''
 date-start: 2018-09-12 06:30:00 +0000
-date-finish: 2018-09-12 20:00:00 +1000
+date-finish: 2018-09-12 10:00:00 +0000
 no-bios: false
 speakers:
 - position: Strategic Futurist, Condor 9
@@ -166,7 +166,7 @@ speakers:
   case-study: ''
 sessions: []
 outputs: []
-flickr-album: ''
+flickr-album: https://www.flickr.com/photos/uimagine/albums/72157701996729062
 external_link:
 - button_text: Get your tickets now!
   link_url: https://www.eventbrite.com.au/e/your-digital-life-tickets-48827100171
