@@ -35,7 +35,7 @@ speakers: []
 sessions: []
 outputs: []
 external_link: []
-flickr-album: ''
+flickr-album: https://www.flickr.com/photos/uimagine/sets/72157703826114601
 
 ---
 **Students** from the Wagga campus and visiting High School students had the opportunity to see the technologies, discuss career opportunities and discuss ideas about how these new technologies could be used to learn.
