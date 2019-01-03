@@ -8,12 +8,12 @@ hero:
   gradient_side: 
   gradient_color_1: '0,0,0,.4'
   gradient_color_2: '0,0,0,.4'
-  image: "/uploads/open-professional.png"
+  image: "/uploads/fireworks-jingda-chen.jpg"
   promo-head: true
-  promo-text: 'Join our upcoming panel session: <br> Open Challenges And Opportunities'
-  button_class: btn-ui-fuchia
-  button-text: Find Out More
-  button_link: events/open-professional-learning-series.html
+  promo-text: Welcome to 2019!
+  button_class: ''
+  button-text: ''
+  button_link: ''
 blurb:
 - full_screen: false
   gradient_corner: bottom
