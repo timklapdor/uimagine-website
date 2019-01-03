@@ -115,10 +115,10 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/2018-08-20-welcome-to-the-world-of-mixed-reality.md
-- _posts/2018-08-30-the-digital-online-learners-skill-framework.md
-- _posts/what-is-open.md
-- _posts/2018-07-02-big-data-community-event-in-wagga.md
-- _posts/2018-07-02-holistic-approaches-to-online-collaborative-learning-design.md
-- _posts/2018-08-03-get-ready-get-set-a-new-open-online-course-is-about-to-be-launched.md
 - _posts/2018-07-02-here-comes-dr-jekyll.md
+- _posts/2018-08-03-get-ready-get-set-a-new-open-online-course-is-about-to-be-launched.md
+- _posts/2018-07-02-holistic-approaches-to-online-collaborative-learning-design.md
+- _posts/2018-07-02-big-data-community-event-in-wagga.md
+- _posts/what-is-open.md
+- _posts/2018-08-30-the-digital-online-learners-skill-framework.md
+- _posts/2018-08-20-welcome-to-the-world-of-mixed-reality.md

@@ -1,7 +1,7 @@
 ---
 title: Technology Expo
 layout: event
-status: upcoming
+status: past
 event-type: expo
 location:
   info: CSU Wagga Campus
@@ -25,7 +25,9 @@ program: innovation
 promotional-text: Join us for a hands on experience with virtual reality using 3D
   headsets and apps, 3D games and augmented reality via your own device, and demonstrations
   of drone technology.
-post-mortem-text: ''
+post-mortem-text: This event was a  hands on experience with virtual reality using
+  3D headsets and apps, 3D games and augmented reality, and demonstrations of drone
+  technology.
 date-start: 2018-09-13 00:00:00 +0000
 date-finish: 2018-09-13 03:00:00 +0000
 no-bios: false
@@ -36,9 +38,9 @@ external_link: []
 flickr-album: ''
 
 ---
-**Students** will have an opportunity to see the technologies, discuss career opportunities and tell us your ideas about how they could be used to support your learning.
+**Students** from the Wagga campus and visiting High School students had the opportunity to see the technologies, discuss career opportunities and discuss ideas about how these new technologies could be used to learn.
 
-This expo will give **CSU Staff** an opportunity to see the technologies in action, explore how it can be used in teaching and learning in your discipline or profession.
+This expo also gave **CSU Staff** an opportunity to see the technologies in action, have a hands on experience and explore how it can be used in teaching and learning.
 
 ## Exhibitors
 
@@ -48,5 +50,3 @@ This expo will give **CSU Staff** an opportunity to see the technologies in acti
 * Essential Energy (Drones)
 * Anomaly Software (3D Games)
 * AgriTech Incubator (Innovation & Development)
-
-Let us know if you're interested on our [Facebook page](https://www.facebook.com/events/442543872820887/).
