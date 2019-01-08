@@ -29,6 +29,46 @@ date-finish: 2018-11-22 13:00:00 +1100
 no-bios: false
 speakers: []
 sessions:
+- title: 'Open Educational Resources (OER) University: Making Education Accessible
+    for All'
+  start: 2018-11-21 12:00:00 +1100
+  end: 2018-11-21 13:00:00 +1100
+  location_details: Zoom Meeting
+  description: "The OERu makes education accessible to everyone. Coordinated by the
+    OER Foundation, we are an independent, not-for-profit network that offers free
+    online courses for students worldwide. We also provide affordable ways for learners
+    to gain academic credit towards qualifications from recognised institutions.\n\nWayne
+    Mackintosh is the founding director of the[ OER Foundation](http://wikieducator.org/OERF:Home)
+    headquartered at Otago Polytechnic, New Zealand. He is coordinating the establishment
+    of the[ OERu](http://oeru.org/), an international innovation partnership which
+    aims to widen access to more affordable education for all. Wayne holds the UNESCO
+    / ICDE Chair in OER at Otago Polytechnic and serves as a member of the Board of
+    Directors of the[ OER Foundation](http://www.oerfoundation.org/). He is a strategy
+    innovator with a passion for open sourcing education. \n\nThe OERu makes education
+    accessible to everyone. Coordinated by the OER Foundation, we are an independent,
+    not-for-profit network that offers free online courses for students worldwide.
+    We also provide affordable ways for learners to gain academic credit towards qualifications
+    from recognised institutions."
+  youtube: Y3d0cnkOtzQ
+  presenters:
+  - name: Wayne Mackintosh
+    position: UNESCO/ICDE Chair in OER, Director of the OER Foundation
+- title: 'Open Publishing and Open Textbooks: The Value of Access'
+  start: 2018-11-13 12:00:00 +1100
+  end: 2018-11-13 13:00:00 +1100
+  location_details: Zoom Meeting
+  description: |-
+    Access to education is essential for humans to progress and develop to their full potential. The fundamental requirement of access to education is highlighted in the United Nation’s Sustainable Development Goal (SDG) number four, to ‘ensure inclusive and equitable quality education and promote lifelong learning opportunities for all’.
+
+    This research considers how open education resources, specifically the creation and adaption of open textbooks, can be better used to support human progress and development through broader access to education. Specifically, it investigates how open publishing models work in the context of open textbooks in higher education. Drawing on the dominant open textbook publishing models in higher education and through qualitative research interviews with stakeholders, this research analyses the circumstances in which open publishing models are effective and efficient; and how they compare to each other.
+
+    The overall goal of this research is twofold. First this research seeks to provide a template to guide Australian stakeholders in higher education on choosing between models of open publishing; making it easier to support, fund, create and adopt open textbooks in the Australian publishing ecosystem. Second, the outcomes of this research assist stakeholders in understanding the potential value associated with providing barrier free access to education resources, such as the potential to address SDGs and support human development.
+
+    **Bio:** Jessica Stevens is a PhD Candidate in the Intellectual Property and Innovation Law Research Program at the Queensland University of Technology. Her research focuses on open access to knowledge, open publishing models, open education resources, sustainable development and human flourishing. She is also the Creative Commons Global Network Council Representative for the Australian Creative Commons Chapter.
+  presenters:
+  - name: Jessica Stevens
+    position: QUT & Australian Creative Commons Chapter
+  youtube: 49Loio9XHMM
 - title: Becoming Open at the Institutional Level - Lessons from Kwantlen Polytechnic
   start: 2018-11-22 12:00:00 +1100
   end: 2018-11-22 13:00:00 +1100
@@ -55,22 +95,6 @@ sessions:
   - name: 'Rajiv Jhiangi '
     position: Special Advisor to the Provost on Open Education
     twitter: thatpsychprof
-- title: 'Open Publishing and Open Textbooks: The Value of Access'
-  start: 2018-11-13 12:00:00 +1100
-  end: 2018-11-13 13:00:00 +1100
-  location_details: Zoom Meeting
-  description: |-
-    Access to education is essential for humans to progress and develop to their full potential. The fundamental requirement of access to education is highlighted in the United Nation’s Sustainable Development Goal (SDG) number four, to ‘ensure inclusive and equitable quality education and promote lifelong learning opportunities for all’.
-
-    This research considers how open education resources, specifically the creation and adaption of open textbooks, can be better used to support human progress and development through broader access to education. Specifically, it investigates how open publishing models work in the context of open textbooks in higher education. Drawing on the dominant open textbook publishing models in higher education and through qualitative research interviews with stakeholders, this research analyses the circumstances in which open publishing models are effective and efficient; and how they compare to each other.
-
-    The overall goal of this research is twofold. First this research seeks to provide a template to guide Australian stakeholders in higher education on choosing between models of open publishing; making it easier to support, fund, create and adopt open textbooks in the Australian publishing ecosystem. Second, the outcomes of this research assist stakeholders in understanding the potential value associated with providing barrier free access to education resources, such as the potential to address SDGs and support human development.
-
-    **Bio:** Jessica Stevens is a PhD Candidate in the Intellectual Property and Innovation Law Research Program at the Queensland University of Technology. Her research focuses on open access to knowledge, open publishing models, open education resources, sustainable development and human flourishing. She is also the Creative Commons Global Network Council Representative for the Australian Creative Commons Chapter.
-  presenters:
-  - name: Jessica Stevens
-    position: QUT & Australian Creative Commons Chapter
-  youtube: 49Loio9XHMM
 - title: Learning in the Open
   start: 2018-11-15 12:00:00 +1100
   location_details: Zoom Meeting
