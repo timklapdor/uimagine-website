@@ -29,6 +29,32 @@ date-finish: 2018-11-22 13:00:00 +1100
 no-bios: false
 speakers: []
 sessions:
+- title: Becoming Open at the Institutional Level - Lessons from Kwantlen Polytechnic
+  start: 2018-11-22 12:00:00 +1100
+  end: 2018-11-22 13:00:00 +1100
+  location_details: Zoom Meeting
+  description: "Kwantlen Polytechnic University (KPU) in British Columbia, Canada
+    is a public post-secondary institution that has thoroughly embraced open educational
+    practices. KPU leads Canada in the creation, adaptation, and adoption of open
+    textbooks, launched the country’s first Zed Cred (zero textbook cost) programs,
+    is developing open online courses as part of the OERu network, and supports experimentation
+    with open pedagogy by its faculty. Join this presentation to learn about how this
+    transformation came about, what lessons were learned along the way, and what the
+    future holds for universities that wish to embrace the concept of openness in
+    education.\n\n**Bio:** Dr. Rajiv Jhangiani is the Special Advisor to the Provost
+    on Open Education and a Psychology Instructor at Kwantlen Polytechnic University,
+    where he conducts research in open education and the scholarship of teaching and
+    learning. A passionate advocate for open educational practices who has spoken
+    at events and institutions around the world, Dr. Jhangiani is a co-founder of
+    the [Open Pedagogy Notebook](http://openpedagogy.org/), an Associate Editor of
+    Psychology Learning and Teaching and an Ambassador for the [Center for Open Science](https://cos.io/).
+    His most recent book is [Open: The Philosophy and Practices that are Revolutionizing
+    Education and Science](https://www.ubiquitypress.com/site/books/10.5334/bbc/)
+    (2017). You can find him online at @thatpsychprof or [thatpsychprof.com](http://thatpsychprof.com/). "
+  presenters:
+  - name: 'Rajiv Jhiangi '
+    position: Special Advisor to the Provost on Open Education
+    twitter: thatpsychprof
 - title: 'Open Publishing and Open Textbooks: The Value of Access'
   start: 2018-11-13 12:00:00 +1100
   end: 2018-11-13 13:00:00 +1100
