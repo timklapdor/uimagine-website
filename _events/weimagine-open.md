@@ -15,7 +15,7 @@ hero:
   full_screen: false
   gradient_side: ''
   image: "/uploads/open-professional.png"
-  icon: ''
+  icon: "/uploads/open.svg"
 title: 'WeImagine: Open'
 categories:
 - innovation
