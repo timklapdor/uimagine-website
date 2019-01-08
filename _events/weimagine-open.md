@@ -114,7 +114,6 @@ outputs: []
 external_link: []
 flickr-album: ''
 date: 2019-01-09 09:17:56 +1100
-published: false
 
 ---
 This season was held over a 2 week period in the November 2018.
