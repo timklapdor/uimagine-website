@@ -175,3 +175,5 @@ external_link:
 A panel of local & national experts helped demonstrate the potential of these new technologies & how they will effect our lives. The speakers also provided an opportunity for those in attendance to get hands on with the technology and speak with the experts.
 
 Drones, Augmented Reality and Virtual Reality are becoming more and more embedded in our everyday digital life. The panel presented on industry innovations in agriculture, aerospace, education and creative practices.
+
+<iframe id="ls_embed_1547504320" src="https://livestream.com/accounts/13561897/events/8359631/videos/180159686/player?width=640&height=360&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen> </iframe>
