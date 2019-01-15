@@ -176,6 +176,6 @@ A panel of local & national experts helped demonstrate the potential of these ne
 
 Drones, Augmented Reality and Virtual Reality are becoming more and more embedded in our everyday digital life. The panel presented on industry innovations in agriculture, aerospace, education and creative practices.
 
-**Recording of the Event Livestream**
+**Recording of the event Livestream**
 
 <iframe id="ls_embed_1547504320" src="https://livestream.com/accounts/13561897/events/8359631/videos/180159686/player?width=640&height=360&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen> </iframe>
