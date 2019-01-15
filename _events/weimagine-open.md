@@ -122,4 +122,4 @@ Each session included a 1 hour online sessions, exploring concepts, issues, tech
 
 Featured speakers included researchers, educators and industry leaders engaging in Open Practices. Each online session consisted of a 30 min presentation followed by a Q&A session, then open discussion on the ways these technologies could be used to support teaching and learning at CSU.
 
-The recorded sessions are available as videos below.
+The recorded sessions are available in the videos below.
