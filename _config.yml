@@ -5,7 +5,7 @@ email: uimagine@csu.edu.au
 description: "uImagine is the Learning Innovations Lab at Charles Sturt University"
 baseurl: /uimagine-website
 logo: assets/images/uimagine-rev.svg
-url: https://uimagine.edu.au
+#url: https://uimagine.edu.au
 
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 encoding: utf-8
