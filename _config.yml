@@ -51,9 +51,9 @@ timezone: Australia/Sydney
 #   style: compressed
 
 # Build settings
-markdown: kramdown
-kramdown:
-  auto_ids: true
+# markdown: kramdown
+# kramdown:
+#   auto_ids: true
 
 #Colors
 brand: FF5800
